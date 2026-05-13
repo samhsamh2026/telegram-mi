@@ -1,3 +1,5 @@
+bg_ae
+maznet
 Configir98
 vipV2rayNGnp
 ldasaturnm
