@@ -16287,6 +16287,25 @@
     ],
     "bg_ae": [
       {
+        "id": 136686,
+        "text": "دیروز اپل به صورت رسمی اولین نمایندگی خودشو در افغانستان افتتاح کرد\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-14T09:32:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136686_0_3029121b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136686_1_b6879cc5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136686"
+      },
+      {
         "id": 136685,
         "text": "- خبرنگار:\nمذاکرات چطور پیش رفت؟\n+ ترامپ:\nعالی، چین زیباست\n- خبرنگار: درباره تایوان صحبت کردی؟\n+ (ترامپ جوابی نداد)\nخبرنگار دوباره تکرار می‌کنه: درباره تایوان صحبت کردی؟\n+ (ترامپ بازم جوابی نداد)\n💢\n@Baga_News\n| Король",
         "date": "2026-05-14T08:59:37+00:00",
@@ -17742,23 +17761,23 @@
       }
     ]
   },
-  "last_update": "2026-05-14T09:19:33.671073+00:00",
+  "last_update": "2026-05-14T09:40:49.647653+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 1002,
-    "total_media": 1287,
-    "total_files": 1287,
+    "total_posts": 1003,
+    "total_media": 1289,
+    "total_files": 1289,
     "total_links": 280,
     "files_by_type": {
-      "image": 1209,
+      "image": 1211,
       "file": 5,
       "video": 71,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1287,
-    "existing_media_files": 1286,
-    "total_size_mb": 304.34,
-    "last_calculation": "2026-05-14T09:19:33.686496+00:00"
+    "referenced_files": 1289,
+    "existing_media_files": 1288,
+    "total_size_mb": 304.42,
+    "last_calculation": "2026-05-14T09:40:49.663296+00:00"
   }
 }
