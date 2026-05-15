@@ -16287,6 +16287,55 @@
     ],
     "bg_ae": [
       {
+        "id": 136783,
+        "text": "⭕️\nامروز 25 اردیبهشت، روز بزرگداشت فردوسیه.\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-15T10:36:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136783_0_cea8a670.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136783_1_2489cfd3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136783"
+      },
+      {
+        "id": 136782,
+        "text": "🇮🇷\n👀\n|\nروزنامه اعتماد:\nاحتمالا اواسط خرداد اینترنت وصل بشه\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-15T10:32:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136782_0_cea8a670.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136782"
+      },
+      {
+        "id": 136781,
+        "text": "🇺🇸\n👀\n|\nترامپ :\nایران را درهم کوبیدیم و این روند ادامه خواهد داشت\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-15T10:03:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136781_0_cea8a670.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136781"
+      },
+      {
         "id": 136780,
         "text": "🇮🇷\n👀\n|\nرائفی پور:\nآمریکایی‌ها متحد نیستن و بزودی تجزیه میشن\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-05-15T09:31:34+00:00",
@@ -17970,67 +18019,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/136657"
-      },
-      {
-        "id": 136656,
-        "text": "⏺\nگویا \"نصرالله معین\" قراره واسه تیم ملی فوتبال به مناسبت حضور تو جام جهانی 2026، آهنگ بخونه!\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-13T23:34:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136656_0_2775f039.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_136656_1_0200c5ac.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_136656_2_af6a33f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136656"
-      },
-      {
-        "id": 136655,
-        "text": "⏺\nگویا \"نصرالله معین\" قراره واسه تیم ملی فوتبال به مناسبت حضور تو جام جهانی 2026، آهنگ بخونه!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-13T23:12:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136655_0_2775f039.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_136655_1_c595947c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136655"
-      },
-      {
-        "id": 136654,
-        "text": "واکنش صادقانه من وقتی اینروزا میرم خرید :\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-05-13T22:50:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136654_0_2775f039.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_136654_1_8cf2eab4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136654"
       }
     ],
     "maznet": [
@@ -18484,23 +18472,23 @@
       }
     ]
   },
-  "last_update": "2026-05-15T10:02:08.975290+00:00",
+  "last_update": "2026-05-15T10:42:23.121223+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1046,
-    "total_media": 1350,
-    "total_files": 1350,
+    "total_media": 1347,
+    "total_files": 1347,
     "total_links": 281,
     "files_by_type": {
-      "image": 1262,
+      "image": 1260,
       "file": 5,
-      "video": 80,
+      "video": 79,
       "audio": 1,
       "document": 2
     },
-    "referenced_files": 1350,
-    "existing_media_files": 1349,
-    "total_size_mb": 377.99,
-    "last_calculation": "2026-05-15T10:02:08.988331+00:00"
+    "referenced_files": 1347,
+    "existing_media_files": 1346,
+    "total_size_mb": 376.39,
+    "last_calculation": "2026-05-15T10:42:23.137174+00:00"
   }
 }
