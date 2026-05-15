@@ -16287,6 +16287,36 @@
     ],
     "bg_ae": [
       {
+        "id": 136806,
+        "text": "🇺🇸\n👀\n| روبیو:\nاگر ایران فکر می‌کنه ما برای رسیدن به توافق امتیازاتی می‌دیم، سخت در اشتباهه.\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-15T17:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136806_0_cea8a670.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136806"
+      },
+      {
+        "id": 136805,
+        "text": "🇮🇷\n👀\n|\nزاکانی شهردار تهران:\nما قصد داشتیم قبل از جنگ بیت رهبری رو با معماری جدید بازسازی کنیم، اما آمریکا عملیات تخریب رو که بسیار هزینه‌بر هم بود برای ما رایگان انجام داد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-15T16:30:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136805_0_cea8a670.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136805"
+      },
+      {
         "id": 136804,
         "text": "⚪️\n👀\n|\nچین:\nباید در اسرع وقت راهی برای خروج از جنگ علیه ایران پیدا کنیم\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-05-15T16:04:28+00:00",
@@ -17965,40 +17995,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/136680"
-      },
-      {
-        "id": 136679,
-        "text": "⏺\nشهبازی،مجری صداوسیما : بهترین کاری که جمهوری اسلامی تو 47 سال گذشته انجام داد ملی کردن اینترنت بود.\n😔\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-14T07:34:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136679_0_3029121b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136679"
-      },
-      {
-        "id": 136678,
-        "text": "⏺\nبه زودی...\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-14T07:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136678_0_3029121b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_136678_1_4d6fc49e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136678"
       }
     ],
     "maznet": [
@@ -18452,23 +18448,23 @@
       }
     ]
   },
-  "last_update": "2026-05-15T16:17:42.782951+00:00",
+  "last_update": "2026-05-15T17:17:19.919059+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1046,
-    "total_media": 1342,
-    "total_files": 1342,
+    "total_media": 1341,
+    "total_files": 1341,
     "total_links": 281,
     "files_by_type": {
-      "image": 1260,
+      "image": 1259,
       "file": 5,
       "video": 74,
       "audio": 1,
       "document": 2
     },
-    "referenced_files": 1342,
-    "existing_media_files": 1341,
-    "total_size_mb": 339.31,
-    "last_calculation": "2026-05-15T16:17:42.798700+00:00"
+    "referenced_files": 1341,
+    "existing_media_files": 1340,
+    "total_size_mb": 339.21,
+    "last_calculation": "2026-05-15T17:17:19.935515+00:00"
   }
 }
