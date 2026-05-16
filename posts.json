@@ -16287,6 +16287,56 @@
     ],
     "bg_ae": [
       {
+        "id": 136841,
+        "text": "💢\nقیمت پراید از یک میلیارد تومان گذشت\n💢\n👀\n@Baga_News\n| Noll",
+        "date": "2026-05-16T08:26:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136841_0_5a9efaed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136841_1_4e1d2031.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136841"
+      },
+      {
+        "id": 136837,
+        "text": "⏺\n✈️\nبرخواست جنگنده های F-35B نیرودریایی آمریکا از ناو USS Tripoli (LHA 7)\nنسخه F-35B دارای قابلیت‌های برخاست کوتاه و فرود عمودی است که به جنگنده پنهانکار امکان می‌دهد\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-16T08:03:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136837_0_5a9efaed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136837_1_e8454e04.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136837_2_ba3355c5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136837_3_ff9e4e52.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136837_4_21f416b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136837"
+      },
+      {
         "id": 136836,
         "text": "⏺\nنیویورک تایمز به نقل از مقامات نظامی آمریکا: اگر جزیره خارگ تصرف شود، نیروهای زمینی برای حفظ آن لازم خواهند بود.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-16T07:31:59+00:00",
@@ -17945,36 +17995,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/136728"
-      },
-      {
-        "id": 136727,
-        "text": "💢\nسنتکام:\nامارات، بحرین، عربستان، کویت، اردن و اسرائیل در عملیات آمریکا شرکت کردند\n💢\n@Baga_News\n| Noll",
-        "date": "2026-05-14T15:35:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136727_0_3029121b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136727"
-      },
-      {
-        "id": 136726,
-        "text": "امارات: بمولا سفر مخفیانه نتانیاهو وسط جنگ به کشور ما کذبه\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-14T15:35:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136726_0_3029121b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136726"
       }
     ],
     "maznet": [
@@ -18458,23 +18478,23 @@
       }
     ]
   },
-  "last_update": "2026-05-16T07:34:27.151161+00:00",
+  "last_update": "2026-05-16T08:29:02.250418+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1048,
-    "total_media": 1338,
-    "total_files": 1338,
+    "total_media": 1343,
+    "total_files": 1343,
     "total_links": 281,
     "files_by_type": {
-      "image": 1262,
+      "image": 1267,
       "file": 5,
       "video": 68,
       "audio": 1,
       "document": 2
     },
-    "referenced_files": 1338,
-    "existing_media_files": 1337,
-    "total_size_mb": 303.85,
-    "last_calculation": "2026-05-16T07:34:27.167176+00:00"
+    "referenced_files": 1343,
+    "existing_media_files": 1342,
+    "total_size_mb": 304.22,
+    "last_calculation": "2026-05-16T08:29:02.266575+00:00"
   }
 }
