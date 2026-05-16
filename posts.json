@@ -16287,6 +16287,40 @@
     ],
     "bg_ae": [
       {
+        "id": 136900,
+        "text": "یکم سواحل شمال‌غربی زیبای دریاچه ارومیه ببینیم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-16T20:33:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136900_0_5a9efaed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136900"
+      },
+      {
+        "id": 136899,
+        "text": "⏺\nپست جدید ترامپ تو تروث سوشال\n:\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-16T20:15:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136899_0_5a9efaed.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_136899_1_7e4241c8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136899"
+      },
+      {
         "id": 136898,
         "text": "🔴\nخبرنگار فاکس نیوز: ترامپ درحال آماده‌شدن برای دور جدیدی از حملات نظامی به ایران است\n❗️\n❗️\n💢\n@Baga_News\n| Noll",
         "date": "2026-05-16T19:50:32+00:00",
@@ -17937,36 +17971,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/136778"
-      },
-      {
-        "id": 136777,
-        "text": "💢\nانفجار در اربیل\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-05-15T08:33:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136777_0_cea8a670.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136777"
-      },
-      {
-        "id": 136776,
-        "text": "🔴\nخبرگزاری فاکس‌نیوز:\nترامپ و تیم همراهش از ترسشون که مبادا چینیا لپتاپ و گوشی‌هاشونو هک کنن یا نرم‌افزار جاسوسی روشون نصب کنن، همگی از گوشی و لپتاپ‌های جایگزین برای سفر به چین استفاده کردن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-15T08:31:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136776_0_cea8a670.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136776"
       }
     ],
     "maznet": [
@@ -18525,23 +18529,23 @@
       }
     ]
   },
-  "last_update": "2026-05-16T19:52:02.458266+00:00",
+  "last_update": "2026-05-16T20:34:01.761579+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1053,
-    "total_media": 1341,
-    "total_files": 1341,
+    "total_media": 1342,
+    "total_files": 1342,
     "total_links": 281,
     "files_by_type": {
       "image": 1268,
       "file": 5,
-      "video": 65,
+      "video": 66,
       "audio": 1,
       "document": 2
     },
-    "referenced_files": 1341,
-    "existing_media_files": 1340,
-    "total_size_mb": 292.98,
-    "last_calculation": "2026-05-16T19:52:02.474570+00:00"
+    "referenced_files": 1342,
+    "existing_media_files": 1341,
+    "total_size_mb": 293.48,
+    "last_calculation": "2026-05-16T20:34:01.777984+00:00"
   }
 }
