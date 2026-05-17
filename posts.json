@@ -16287,6 +16287,55 @@
     ],
     "bg_ae": [
       {
+        "id": 136917,
+        "text": "🔴\nکانال ۱۳ اسرائیل به نقل از یک افسر اسرائیلی:\n🇮🇱\n◀️\nآماده‌سازی‌های اسرائیل برای از سرگیری جنگ علیه ایران به اوج خود رسیده است.\nایرانی‌ها موفق به استخراج موشک‌های پنهان شده یا دفن شده به دلیل بمباران شده‌اند.\nآمادگی‌ها برای احتمال بروز جنگ علیه ایران برای روزها یا هفته‌ها ادامه دارد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-17T08:33:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136917_0_75e6e5a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136917"
+      },
+      {
+        "id": 136916,
+        "text": "💢\nمعاون شرکت مخابرات ایران: دسترسی به اینترنت باید برای همه مردم فراهم باشد\n👀\n💢\n@Baga_News\n| Noll",
+        "date": "2026-05-17T08:05:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136916_0_75e6e5a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136916"
+      },
+      {
+        "id": 136915,
+        "text": "سپاه فراخوان داده بود که افراد بالای ۱۲ سال به عنوان رزمنده بیایند و دوره فعالیت دفاعی ببینن؛ یه دانش آموز ۱۶ ساله به اسم محمدامین صابرکار میره دوره  شرکت کنه که در حین آموزش بر اثر شلیک خودی کشته میشه\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-17T08:02:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136915_0_75e6e5a0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_136915_1_465f1bd2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136915"
+      },
+      {
         "id": 136913,
         "text": "⏺\nکاخ سفید پیامی تهدیدآمیز از ترامپ با عنوان «شوخی نداریم» همراه با تصویری از حضور او در اتاق جنگ منتشر کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-17T07:32:54+00:00",
@@ -17934,55 +17983,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/136793"
-      },
-      {
-        "id": 136792,
-        "text": "عباس کراشعلی بعد از نشست بریکس ی لحظه رفت با زنه دست بده ک یهو یادش اومد نباید دست بده و سریع دستشو کشید :))))\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-15T13:01:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136792_0_cea8a670.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_136792_1_fcce3bc6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136792"
-      },
-      {
-        "id": 136791,
-        "text": "وارد روز ۷۷ ام قطعی اینترنت شدیم\n‼️\n🙂\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-15T12:33:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136791_0_cea8a670.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136791"
-      },
-      {
-        "id": 136790,
-        "text": "🇮🇷\n👀\n|\nعراقچی:\nزمانش رسیده که رفتار سلطه‌گرانه آمریکا رو به زباله‌دان تاریخ بسپاریم.\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-15T12:02:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136790_0_cea8a670.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136790"
       }
     ],
     "maznet": [
@@ -18556,7 +18556,7 @@
       }
     ]
   },
-  "last_update": "2026-05-17T08:00:32.227049+00:00",
+  "last_update": "2026-05-17T08:35:57.159280+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1054,
@@ -18564,15 +18564,15 @@
     "total_files": 1346,
     "total_links": 281,
     "files_by_type": {
-      "image": 1267,
+      "image": 1268,
       "file": 5,
-      "video": 71,
+      "video": 70,
       "audio": 1,
       "document": 2
     },
     "referenced_files": 1346,
     "existing_media_files": 1345,
-    "total_size_mb": 306.61,
-    "last_calculation": "2026-05-17T08:00:32.242650+00:00"
+    "total_size_mb": 305.48,
+    "last_calculation": "2026-05-17T08:35:57.172118+00:00"
   }
 }
