@@ -16287,6 +16287,36 @@
     ],
     "bg_ae": [
       {
+        "id": 136973,
+        "text": "💢\nمحسن رضایی: ابوظبی به عربستان تعلق داره، امارات باید ابوظبی رو به عربستان تحویل بده.\n💢\n@Baga_News\n| Noll",
+        "date": "2026-05-17T20:23:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136973_0_75e6e5a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136973"
+      },
+      {
+        "id": 136972,
+        "text": "⏺\nکیهان: تو جنگ بعدی اسرائیل و آمریکا هیچ شانسی در مقابل ایران ندارن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-17T20:20:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_136972_0_75e6e5a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/136972"
+      },
+      {
         "id": 136971,
         "text": "وقتی بعد از پلی کردن ۷۳ مچ تو کالاف، پا میشی میری رمی جمرات:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-17T19:06:39+00:00",
@@ -17993,36 +18023,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/136852"
-      },
-      {
-        "id": 136851,
-        "text": "💢\nترامپ: ایرانیا همیشه سرمنو کلاه میزارن، ۵ بار با ایران نزدیک توافق شدم، ولی روز بعدش زدن زیرش\n💢\n@Baga_News\n| Noll",
-        "date": "2026-05-16T09:32:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136851_0_5a9efaed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136851"
-      },
-      {
-        "id": 136850,
-        "text": "💢\nحدادی، عضو کمیسیون صنایع: گران شدن خودرو توجیه فنی ندارد/قیمت‌ها باید به قبل از جنگ بازگردد\n💢\n@Baga_News\n| Noll",
-        "date": "2026-05-16T09:31:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136850_0_5a9efaed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136850"
       }
     ],
     "maznet": [
@@ -18668,7 +18668,7 @@
       }
     ]
   },
-  "last_update": "2026-05-17T19:57:51.334597+00:00",
+  "last_update": "2026-05-17T20:36:24.830406+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1058,
@@ -18685,6 +18685,6 @@
     "referenced_files": 1360,
     "existing_media_files": 1359,
     "total_size_mb": 309.22,
-    "last_calculation": "2026-05-17T19:57:51.350559+00:00"
+    "last_calculation": "2026-05-17T20:36:24.847096+00:00"
   }
 }
