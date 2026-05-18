@@ -16287,6 +16287,55 @@
     ],
     "bg_ae": [
       {
+        "id": 137080,
+        "text": "حالا دوباره هفته دیگه ترامپ میگه من به درخواست گینه بیسائو، کنگو و دزدان دریایی سومالی بمباران ایران رو لغو کردم اونا به شدت مشتاق توافقن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-18T22:34:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137080_0_0860c3b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137080"
+      },
+      {
+        "id": 137079,
+        "text": "⏺\nمجری صداوسیما با تانک اومد\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-18T22:10:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137079_0_0860c3b1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_137079_1_394beb78.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137079"
+      },
+      {
+        "id": 137078,
+        "text": "⏺\nترامپ: من حمله به ایرانو فقط ۲ـ۳ روز اونم بخاطر امارات، قطر و عربستان عقب انداختم، بعدش اگه مذاکره نتیجه نده شدیداً بهشون حمله میکنم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-18T21:58:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137078_0_0860c3b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137078"
+      },
+      {
         "id": 137077,
         "text": "⏺\nترامپ درباره ایران:\nبه نظر می‌رسد احتمال بسیار خوبی وجود دارد که آن‌ها بتوانند به توافقی برسند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-18T21:52:20+00:00",
@@ -18030,55 +18079,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/136942"
-      },
-      {
-        "id": 136941,
-        "text": "⏺\nصداوسیما: با اعلام مدیر کل آموزش و پرورش تهران؛ دانش آموزان پایه های هفتم تا دهم دیگه امتحان خرداد ندارن و با توجه به عملکرد علمی یکساله سنجیده میشن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-17T12:45:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136941_0_75e6e5a0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_136941_1_26a71b1b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136941"
-      },
-      {
-        "id": 136940,
-        "text": "💢\nفارس: محمدباقر قالیباف، نمایندۀ ویژۀ ایران در امور چین شد\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-05-17T12:31:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136940_0_75e6e5a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136940"
-      },
-      {
-        "id": 136939,
-        "text": "🔴\nسازمان رادیو و تلویزیون اسرائیل:\nنتانیاهو عصر امروز نشست امنیتی با توجه به احتمال از سرگیری جنگ با ایران برگزار میکنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-17T12:15:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_136939_0_75e6e5a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/136939"
       }
     ],
     "maznet": [
@@ -18829,7 +18829,7 @@
       }
     ]
   },
-  "last_update": "2026-05-18T21:56:22.024964+00:00",
+  "last_update": "2026-05-18T22:43:22.492229+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1065,
@@ -18837,15 +18837,15 @@
     "total_files": 1378,
     "total_links": 285,
     "files_by_type": {
-      "image": 1300,
+      "image": 1301,
       "file": 5,
-      "video": 70,
+      "video": 69,
       "audio": 1,
       "document": 2
     },
     "referenced_files": 1378,
     "existing_media_files": 1377,
-    "total_size_mb": 304.58,
-    "last_calculation": "2026-05-18T21:56:22.041334+00:00"
+    "total_size_mb": 303.03,
+    "last_calculation": "2026-05-18T22:43:22.508462+00:00"
   }
 }
