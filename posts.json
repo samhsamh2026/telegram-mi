@@ -16287,6 +16287,48 @@
     ],
     "bg_ae": [
       {
+        "id": 137281,
+        "text": "⏺\n👑\n|\nپرچم شیر و خورشید ایران در شهر اشدود اسرائیل\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-21T12:15:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137281_0_d2eee172.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_137281_1_1dfb2396.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137281"
+      },
+      {
+        "id": 137279,
+        "text": "هوش مصنوعی بله:\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-21T12:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137279_0_d2eee172.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_137279_1_806954cd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_137279_2_13137f5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137279"
+      },
+      {
         "id": 137278,
         "text": "⏺\nفاکس‌نیوز :\nمجتبی خامنه‌ای حدود سه ماهه رفته تو مخفیگاه.\nبه گفته تحلیلگرها، این وضعیت خیلی یادآور روزهای آخر مخفی‌شدن بن‌لادن تو پاکستانه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-21T11:45:11+00:00",
@@ -17963,40 +18005,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/137124"
-      },
-      {
-        "id": 137123,
-        "text": "🚨\n🇮🇱\n👀\n| ارتش اسرائیل دستور تخلیه ۱۲ روستا در جنوب لبنان را صادر کرد\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-19T12:19:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137123_0_dd89a88e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_137123_1_78ee0f38.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137123"
-      },
-      {
-        "id": 137122,
-        "text": "🇮🇱\n👀\n|\nادعای یک منبعِ اسرائیلی :\n⭕️\nیه هواپیمای مرتبط با موساد به ابوظبی، \"امارات\" رفته\n‼️\n⭕️\nدرباره‌ هماهنگی برای اقدام مشترک در صورت حمله احتمالی به ایران صحبت کنن\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-19T12:08:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137122_0_dd89a88e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137122"
       }
     ],
     "maznet": [
@@ -18940,23 +18948,23 @@
       }
     ]
   },
-  "last_update": "2026-05-21T11:57:49.620936+00:00",
+  "last_update": "2026-05-21T12:29:59.285687+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1076,
-    "total_media": 1377,
-    "total_files": 1377,
+    "total_media": 1379,
+    "total_files": 1379,
     "total_links": 284,
     "files_by_type": {
-      "image": 1292,
+      "image": 1293,
       "file": 5,
-      "video": 73,
+      "video": 74,
       "audio": 1,
       "document": 6
     },
-    "referenced_files": 1377,
-    "existing_media_files": 1376,
-    "total_size_mb": 465.85,
-    "last_calculation": "2026-05-21T11:57:49.637119+00:00"
+    "referenced_files": 1379,
+    "existing_media_files": 1378,
+    "total_size_mb": 467.36,
+    "last_calculation": "2026-05-21T12:29:59.302554+00:00"
   }
 }
