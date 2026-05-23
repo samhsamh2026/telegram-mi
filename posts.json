@@ -16287,6 +16287,36 @@
     ],
     "bg_ae": [
       {
+        "id": 137526,
+        "text": "شماهم مثل من فکر میکنید بخوابید میزنن؟\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-23T20:34:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137526_0_fb90d61d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137526"
+      },
+      {
+        "id": 137525,
+        "text": "ثابتی نماینده مجلس:\nجنگ قطعیه حتی اگر آمریکا تسلیم بشه\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-23T20:00:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137525_0_fb90d61d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137525"
+      },
+      {
         "id": 137524,
         "text": "💢\nمعاون رئیس‌جمهور جی‌دی ونس، وزیر جنگ هگست، رئیس ستاد مشترک کین و کل شورای امنیت ملی توسط رئیس‌جمهور ترامپ به اتاق وضعیت کاخ سفید برای گفتگو درباره ایران احضار شده‌اند.\n💢\n@Baga_News\n| Noll",
         "date": "2026-05-23T19:56:47+00:00",
@@ -17943,40 +17973,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/137384"
-      },
-      {
-        "id": 137383,
-        "text": "⚪️\nتست شوکر برقی شهردار پرو روی مشاورش\n😕\nکارلوس بروس، شهردار یکی از مناطق پرو، ظاهراً تصمیم گرفته است شوکرهای جدید پلیس را شخصاً آزمایش کند و در جریان این نمایش، به‌طور اتفاقی مشاور خود را دچار برق‌گرفتگی کرده است.\nشهردار مدعی شده است که این آزمایش «کاملاً داوطلبانه» بوده است.\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-22T14:25:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137383_0_8772cdf2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_137383_1_3c123feb.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137383"
-      },
-      {
-        "id": 137382,
-        "text": "۲۰ روز مونده تا شروع جام جهانی\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-22T14:14:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137382_0_8772cdf2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137382"
       }
     ],
     "maznet": [
@@ -19056,23 +19052,23 @@
       }
     ]
   },
-  "last_update": "2026-05-23T19:58:43.711343+00:00",
+  "last_update": "2026-05-23T20:35:43.169025+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1084,
-    "total_media": 1384,
-    "total_files": 1384,
+    "total_media": 1383,
+    "total_files": 1383,
     "total_links": 284,
     "files_by_type": {
       "image": 1311,
       "file": 5,
-      "video": 61,
+      "video": 60,
       "audio": 1,
       "document": 6
     },
-    "referenced_files": 1384,
-    "existing_media_files": 1383,
-    "total_size_mb": 404.42,
-    "last_calculation": "2026-05-23T19:58:43.724911+00:00"
+    "referenced_files": 1383,
+    "existing_media_files": 1382,
+    "total_size_mb": 402.91,
+    "last_calculation": "2026-05-23T20:35:43.185076+00:00"
   }
 }
