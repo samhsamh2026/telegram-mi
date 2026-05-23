@@ -16287,6 +16287,29 @@
     ],
     "bg_ae": [
       {
+        "id": 137448,
+        "text": "قیمت یه سس مهرام طی ۱ ماه صد هزار تومن افزایش داشته! سیصد  تومن یه سس!!!\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-23T09:02:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137448_0_fb90d61d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_137448_1_2a2ca120.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_137448_2_1492e9b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137448"
+      },
+      {
         "id": 137447,
         "text": "⏺\nآکسیوس : ترامپ تو چند روز اخیر حسابی از روند مذاکرات با ایران کلافه شده و حتی بحث یه «عملیات نظامی بزرگِ آخر» رو مطرح کرده؛\nعملیاتی که بعدش بتونه اعلام پیروزی کنه و بگه جنگ تموم شده.\nبه گفته یه مقام آمریکایی؛ مذاکرات واقعاً «اعصاب‌خردکن» شده، پیش‌نویس توافق‌ها هر روز بین تهران و واشنگتن رد و بدل میشه ولی عملاً پیشرفت خاصی به دست نیومده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-23T08:31:00+00:00",
@@ -18002,33 +18025,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/137314"
-      },
-      {
-        "id": 137311,
-        "text": "🔴\nتصاویری از هرمزگان جنوب ایران\nگزارش رسانه‌های داخلی از استقرار تیپ فاتحین در این شهر\n‼️\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-21T17:19:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137311_0_d2eee172.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_137311_1_102081d2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_137311_2_792739e5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_137311_3_d5779cdb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137311"
       }
     ],
     "maznet": [
@@ -19051,23 +19047,23 @@
       }
     ]
   },
-  "last_update": "2026-05-23T08:33:17.061957+00:00",
+  "last_update": "2026-05-23T09:16:13.568652+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1081,
-    "total_media": 1391,
-    "total_files": 1391,
+    "total_media": 1390,
+    "total_files": 1390,
     "total_links": 284,
     "files_by_type": {
-      "image": 1315,
+      "image": 1314,
       "file": 5,
       "video": 64,
       "audio": 1,
       "document": 6
     },
-    "referenced_files": 1391,
-    "existing_media_files": 1390,
-    "total_size_mb": 402.39,
-    "last_calculation": "2026-05-23T08:33:17.078216+00:00"
+    "referenced_files": 1390,
+    "existing_media_files": 1389,
+    "total_size_mb": 402.27,
+    "last_calculation": "2026-05-23T09:16:13.585105+00:00"
   }
 }
