@@ -16287,6 +16287,40 @@
     ],
     "bg_ae": [
       {
+        "id": 137447,
+        "text": "⏺\nآکسیوس : ترامپ تو چند روز اخیر حسابی از روند مذاکرات با ایران کلافه شده و حتی بحث یه «عملیات نظامی بزرگِ آخر» رو مطرح کرده؛\nعملیاتی که بعدش بتونه اعلام پیروزی کنه و بگه جنگ تموم شده.\nبه گفته یه مقام آمریکایی؛ مذاکرات واقعاً «اعصاب‌خردکن» شده، پیش‌نویس توافق‌ها هر روز بین تهران و واشنگتن رد و بدل میشه ولی عملاً پیشرفت خاصی به دست نیومده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-23T08:31:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137447_0_fb90d61d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_137447_1_06a96a23.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137447"
+      },
+      {
+        "id": 137446,
+        "text": "🇮🇷\n👀\n|\nتسنیم :\nنیروهای مسلح در صورت «حماقت دشمن» سناریوی تازه ای برای آمریکا و متحدانش آماده کردند\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-23T08:03:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137446_0_fb90d61d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137446"
+      },
+      {
         "id": 137443,
         "text": "⏺\nآیا میدانستید سید علی خامنه‌ای آرسنال‌فن بوده؟\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-23T07:32:45+00:00",
@@ -17995,44 +18029,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/137311"
-      },
-      {
-        "id": 137310,
-        "text": "⏺\nشرکت صنایع فضایی و چندین شرکت اسرائیلی دیگر سیستم‌های جدیدی را به وزارت دفاع اسرائیل با هدف مقابله با پهپادهای حزب‌الله معرفی کرده‌اند که از طریق هدایت فیبر نوری عمل می‌کنند.\nاین سیستم برای رهگیری پهپادها با استفاده از انرژی الکترومغناطیسی طراحی شده است.\n+ روزنامه معاریو\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-21T17:19:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137310_0_d2eee172.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_137310_1_4560f9dc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137310"
-      },
-      {
-        "id": 137309,
-        "text": "⏺\nتوئیت پوریا زراعتی، مجری ایران اینترنشنال\n:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-21T17:19:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137309_0_d2eee172.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_137309_1_5b90c656.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137309"
       }
     ],
     "maznet": [
@@ -19055,23 +19051,23 @@
       }
     ]
   },
-  "last_update": "2026-05-23T07:42:52.072590+00:00",
+  "last_update": "2026-05-23T08:33:17.061957+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1081,
-    "total_media": 1392,
-    "total_files": 1392,
+    "total_media": 1391,
+    "total_files": 1391,
     "total_links": 284,
     "files_by_type": {
-      "image": 1316,
+      "image": 1315,
       "file": 5,
       "video": 64,
       "audio": 1,
       "document": 6
     },
-    "referenced_files": 1392,
-    "existing_media_files": 1391,
-    "total_size_mb": 402.38,
-    "last_calculation": "2026-05-23T07:42:52.085695+00:00"
+    "referenced_files": 1391,
+    "existing_media_files": 1390,
+    "total_size_mb": 402.39,
+    "last_calculation": "2026-05-23T08:33:17.078216+00:00"
   }
 }
