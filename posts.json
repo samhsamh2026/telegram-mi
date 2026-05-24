@@ -16287,6 +16287,21 @@
     ],
     "bg_ae": [
       {
+        "id": 137637,
+        "text": "🔵\nاینترنت به وضعیت عادی برمیگردد\n‼️\n🇮🇷\n👀\n| ضیایی‌پرور:\nاینترنت بین‌الملل احتمالاً هفته آینده به وضعیت عادی بازمی‌گردد. یک استاد علوم ارتباطات، با اشاره به تحولات اخیر سیاسی و احتمال کاهش تنش‌ها، پیش‌بینی کرد که اینترنت بین‌الملل طی هفته آینده به شرایط عادی بازگردد و تأکید کرد ادامه محدودیت‌ها پس از آتش‌بس، توجیه عقلایی نداشته است.\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-24T16:02:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137637_0_eab04991.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137637"
+      },
+      {
         "id": 137636,
         "text": "🇮🇷\n👀\n|\nهادی چوپان:\nتو خارج وقتی مردمشون بدنمو میدیدن میگفتن اوه مای گاد\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-05-24T15:32:46+00:00",
@@ -17958,25 +17973,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/137475"
-      },
-      {
-        "id": 137474,
-        "text": "⏺\nتوئیت جدید مهاجری، عضو شورای اطلاع‌رسانی دولت، خطاب به حمید رسایی: تصمیم‌ جنگ یا صلح ربطی به نمایندگان کم سواد نداره.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-23T15:25:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137474_0_fb90d61d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_137474_1_5bdc5ace.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137474"
       }
     ],
     "maznet": [
@@ -19071,23 +19067,23 @@
       }
     ]
   },
-  "last_update": "2026-05-24T15:49:22.358479+00:00",
+  "last_update": "2026-05-24T16:15:37.257754+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1085,
-    "total_media": 1385,
-    "total_files": 1385,
+    "total_media": 1384,
+    "total_files": 1384,
     "total_links": 284,
     "files_by_type": {
-      "image": 1304,
+      "image": 1303,
       "file": 5,
       "video": 69,
       "audio": 1,
       "document": 6
     },
-    "referenced_files": 1385,
-    "existing_media_files": 1384,
-    "total_size_mb": 429.09,
-    "last_calculation": "2026-05-24T15:49:22.374532+00:00"
+    "referenced_files": 1384,
+    "existing_media_files": 1383,
+    "total_size_mb": 429.06,
+    "last_calculation": "2026-05-24T16:15:37.274366+00:00"
   }
 }
