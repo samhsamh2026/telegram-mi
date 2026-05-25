@@ -16287,6 +16287,36 @@
     ],
     "bg_ae": [
       {
+        "id": 137714,
+        "text": "🔴\nالعربیه:\nنخست‌وزیر پاکستان شهباز‌شریف، با رهبران چین درباره پرونده ایران و توافق با آمریکا صحبت کرد.\nاسلام‌آباد اصرار داره که پکن نقش ضامن رو تو هر جور توافقی بین آمریکا و ایران بازی کنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-25T13:33:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137714_0_e71100b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137714"
+      },
+      {
+        "id": 137713,
+        "text": "⏺\nابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس :\nذخایر اورانیوم، دارایی استراتژیک محسوب می‌شود و نظام نباید چیزی را که برای آن هزینه های سنگینی پرداخته؛ دو دستی تقدیم دشمن کند!\nدر ادامه هم گفته اینم بدیم بازم میزنن..\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-25T13:00:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137713_0_e71100b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137713"
+      },
+      {
         "id": 137712,
         "text": "⏺\nممباقر\nقالیباف برای هفتمین بار رئیس مجلس شورای جمهوری اسلامی شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-05-25T12:32:31+00:00",
@@ -17941,47 +17971,24 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/137593"
-      },
-      {
-        "id": 137591,
-        "text": "⏺\nحداقل ۱۰ نفر کشته و ده‌ها نفر زخمی شدند پس از انفجاری که صبح یکشنبه در مسیر راه‌آهن در کویته، پاکستان رخ داد و باعث خروج قطار از ریل شد. طبق گزارش رسانه‌های محلی، احتمال افزایش تعداد تلفات وجود دارد.\n❗️\nتا کنون هیچ گروهی مسئولیت این حمله را بر عهده نگرفته است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-24T07:45:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137591_0_eab04991.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_137591_1_b1beb5c3.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_137591_2_a0a4deba.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137591"
-      },
-      {
-        "id": 137590,
-        "text": "ایران تنگه هرمز را بدون دریافت هزینه باز خواهد کرد",
-        "date": "2026-05-24T07:33:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137590_0_eab04991.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137590"
       }
     ],
     "maznet": [
+      {
+        "id": 9222,
+        "text": "{\n\"remarks\": \"@Maznet-Psiphon12\",\n\"log\": {\n\"access\": \"\",\n\"error\": \"\",\n\"loglevel\": \"info\",\n\"dnsLog\": false\n},\n\"inbounds\": [\n{\n\"tag\": \"in_proxy\",\n\"port\": 1080,\n\"protocol\": \"socks\",\n\"listen\": \"0.0.0.0\",\n\"settings\": {\n\"auth\": \"noauth\",\n\"udp\": true,\n\"userLevel\": 8\n},\n\"sniffing\": {\n\"enabled\": false\n}\n},\n{\n\"tag\": \"http-in\",\n\"port\": 10808,\n\"listen\": \"::\",\n\"protocol\": \"http\"\n}\n],\n\"outbounds\": [\n{\n\"tag\": \"proxy\",\n\"protocol\": \"trojan\",\n\"settings\": {\n\"servers\": [\n{\n\"address\": \"188.114.96.4\",\n\"method\": \"chacha20-poly1305\",\n\"ota\": false,\n\"password\": \"humanity\",\n\"port\": 443,\n\"level\": 8,\n\"flow\": \"\"\n}\n]\n},\n\"streamSettings\": {\n\"network\": \"ws\",\n\"security\": \"tls\",\n\"wsSettings\": {\n\"path\": \"/assignment\",\n\"headers\": {\n\"Host\": \"www.calmloud.com\"\n}\n},\n\"tlsSettings\": {\n\"allowInsecure\": true,\n\"serverName\": \"www.calmloud.com\",\n\"alpn\": [\n\"http/1.1\"\n],\n\"fingerprint\": \"ios\",\n\"show\": false\n},\n\"sockopt\": {\n\"dialerProxy\": \"fragment\",\n\"tcpKeepAliveIdle\": 100,\n\"tcpNoDelay\": true\n}\n},\n\"mux\": {\n\"enabled\": false,\n\"concurrency\": 8\n}\n},\n{\n\"tag\": \"fragment\",\n\"protocol\": \"freedom\",\n\"settings\": {\n\"domainStrategy\": \"AsIs\",\n\"fragment\": {\n\"packets\": \"tlshello\",\n\"length\": \"100-200\",\n\"interval\": \"10-20\"\n}\n},\n\"streamSettings\": {\n\"sockopt\": {\n\"tcpKeepAliveIdle\": 100,\n\"tcpNoDelay\": true\n}\n}\n},\n{\n\"tag\": \"direct\",\n\"protocol\": \"freedom\",\n\"settings\": {\n\"domainStrategy\": \"UseIp\"\n}\n},\n{\n\"tag\": \"blackhole\",\n\"protocol\": \"blackhole\",\n\"settings\": {}\n}\n],\n\"dns\": {\n\"servers\": [\n\"8.8.8.8\"\n]\n},\n\"routing\": {\n\"domainStrategy\": \"UseIp\",\n\"rules\": [],\n\"balancers\": []\n}\n}\n📍\n📍\nکانفیگ برای ترکیب با سایفون\nراهنما\n@Maznet",
+        "date": "2026-05-25T13:48:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "maznet_9222_0_dbe662cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/maznet/9222"
+      },
       {
         "id": 9221,
         "text": "SNI-Spoofing_by_patterniha_v1.rar",
@@ -19122,23 +19129,23 @@
       }
     ]
   },
-  "last_update": "2026-05-25T12:51:36.168375+00:00",
+  "last_update": "2026-05-25T13:51:57.067969+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 1088,
-    "total_media": 1388,
-    "total_files": 1388,
+    "total_posts": 1089,
+    "total_media": 1387,
+    "total_files": 1387,
     "total_links": 285,
     "files_by_type": {
-      "image": 1305,
+      "image": 1306,
       "file": 5,
-      "video": 70,
+      "video": 68,
       "audio": 1,
       "document": 7
     },
-    "referenced_files": 1388,
-    "existing_media_files": 1387,
-    "total_size_mb": 450.42,
-    "last_calculation": "2026-05-25T12:51:36.184752+00:00"
+    "referenced_files": 1387,
+    "existing_media_files": 1386,
+    "total_size_mb": 447.39,
+    "last_calculation": "2026-05-25T13:51:57.085539+00:00"
   }
 }
