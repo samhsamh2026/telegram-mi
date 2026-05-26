@@ -16287,6 +16287,57 @@
     ],
     "bg_ae": [
       {
+        "id": 137962,
+        "text": "🇮🇱\n👀\n|\nکانال ۱۲ عبری:\nآمریکا به اسرائیل نسبت به حمله به بیروت به هر شکلی هشدار داد\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-26T19:33:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137962_0_03e537c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137962"
+      },
+      {
+        "id": 137961,
+        "text": "⏺\nنیویورک تایمز: ایران با چندین پهپاد انتحاری به چند ناو آمریکایی که از سمت دریای عمان، قصد ورود به تتگه هرمز رو داشتن حمله کرده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-26T19:32:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137961_0_03e537c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/137961"
+      },
+      {
+        "id": 137960,
+        "text": "🚨\nمتصل\n:\ntg://proxy?server=45.77.140.203&port=443&secret=746a6e2428ebe53299786324c187977a\nhttps://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-26T19:31:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_137960_0_03e537c6.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=0..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/bg_ae/137960"
+      },
+      {
         "id": 137959,
         "text": "🇮🇷\n👀\n| عارف، معاون اول رئیس جمهور: بخاطر یک راننده نباید اتوبان را بست.\n💢\n@Baga_News\n| Король",
         "date": "2026-05-26T19:28:39+00:00",
@@ -17904,51 +17955,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/137670"
-      },
-      {
-        "id": 137669,
-        "text": "🔴\nمحسن رضایی:\nدر صورت تعرض به تنگه هرمز و ورود به خلیج‌ فارس، محاصره دریایی رو خواهیم شکست و پاسخی سخت، دردناک و کم‌نظیر به آمریکا خواهیم داد؛ ممکنه از ان‌پی‌تی هم خارج بشیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-24T20:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137669_0_eab04991.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137669"
-      },
-      {
-        "id": 137668,
-        "text": "⏺\nآکسیوس:\nترامپ از چندین رهبر مسلمان و عرب خواست تا در صورت پایان یافتن جنگ ایران با یک توافق، به توافقنامه‌های ابراهیم با اسرائیل بپیوندند.\nاین تلاش عمدتاً به منظور تضمین توافق عادی‌سازی بین عربستان سعودی و اسرائیل است، اگرچه موانع سیاسی عمده‌ای همچنان باقی است.\nگزارش شده است که رهبران حاضر در تماس با تعجب و سکوت واکنش نشان دادند، به ویژه عربستان سعودی، قطر و پاکستان که اسرائیل را به رسمیت نمی‌شناسند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-24T20:03:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137668_0_eab04991.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137668"
-      },
-      {
-        "id": 137667,
-        "text": "⏺\nحملات هوایی اسرائیل به جنوب لبنان\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-05-24T19:57:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_137667_0_eab04991.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/137667"
       }
     ],
     "maznet": [
@@ -19261,13 +19267,13 @@
       }
     ]
   },
-  "last_update": "2026-05-26T19:30:30.702913+00:00",
+  "last_update": "2026-05-26T19:35:06.386440+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1099,
     "total_media": 1394,
     "total_files": 1394,
-    "total_links": 284,
+    "total_links": 285,
     "files_by_type": {
       "image": 1312,
       "file": 5,
@@ -19278,6 +19284,6 @@
     "referenced_files": 1394,
     "existing_media_files": 1393,
     "total_size_mb": 469.52,
-    "last_calculation": "2026-05-26T19:30:30.720408+00:00"
+    "last_calculation": "2026-05-26T19:35:06.402648+00:00"
   }
 }
