@@ -16287,6 +16287,25 @@
     ],
     "bg_ae": [
       {
+        "id": 138271,
+        "text": "⏺\nویدئویی از لحظهٔ عبور موشک تاماهاوک از آسمان عراق برای حمله به هدفی تو ایران که مربوط به روز اول جنگه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-05-29T12:31:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_138271_0_2a15c05c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_138271_1_d7f61fe5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/138271"
+      },
+      {
         "id": 138270,
         "text": "ولی خدایی وقتی نت قطع بود مجازی و اینستای فارسی خیلی تمیزتر بود //:\n💢\n@Baga_News\n|\nArT",
         "date": "2026-05-29T12:10:21+00:00",
@@ -18060,21 +18079,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/138127"
-      },
-      {
-        "id": 138126,
-        "text": "تو زمان جنگ نمایشگاهشونو منتقل کردن به دهات:\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-28T05:01:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138126_0_f0e25861.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138126"
       }
     ],
     "maznet": [
@@ -19658,23 +19662,23 @@
       }
     ]
   },
-  "last_update": "2026-05-29T12:30:27.238833+00:00",
+  "last_update": "2026-05-29T12:37:45.960654+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 1444,
-    "total_files": 1444,
+    "total_media": 1445,
+    "total_files": 1445,
     "total_links": 282,
     "files_by_type": {
       "image": 1352,
       "file": 5,
-      "video": 79,
+      "video": 80,
       "audio": 1,
       "document": 7
     },
-    "referenced_files": 1444,
-    "existing_media_files": 1443,
-    "total_size_mb": 475.66,
-    "last_calculation": "2026-05-29T12:30:27.255349+00:00"
+    "referenced_files": 1445,
+    "existing_media_files": 1444,
+    "total_size_mb": 477.04,
+    "last_calculation": "2026-05-29T12:37:45.977156+00:00"
   }
 }
