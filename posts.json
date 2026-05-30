@@ -15349,6 +15349,25 @@
     ],
     "bg_ae": [
       {
+        "id": 138419,
+        "text": "🇮🇷\n🇮🇷\n👀\n|\nرونمایی از قایق‌های تندروی سپاه تو تجمعات شبانه حامیان حکومت:\n📍\nتهران\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-30T22:19:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_138419_0_a208b45f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_138419_1_c1a2ed29.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/138419"
+      },
+      {
         "id": 138418,
         "text": "💢\nحزب‌الله به یک کاروان تانک‌های اسرائیل که قصد پیشروی به سمت دبینه را داشتند حمله کرد\n💢\n@Baga_News\n| Noll",
         "date": "2026-05-30T21:38:34+00:00",
@@ -17108,21 +17127,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/138265"
-      },
-      {
-        "id": 138264,
-        "text": "🚀\nنت پرسرعت واقعی بدون دردسر\n🔥\nمناسب اینستاگرام، یوتیوب، کالاف و ترید\n✔\nبدون قطعی و افت سرعت\n⚡️\nهر گیگ ۱۲ هزار تومن\n▫️\n10GB — 120T\n▫️\n20GB — 220T\n▫️\n40GB — 420T\n▫️\n50GB — 520T\n📩\nخرید:\n@zR009gdj",
-        "date": "2026-05-29T11:32:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138264_0_2a15c05c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138264"
       }
     ],
     "maznet": [
@@ -18700,23 +18704,23 @@
       }
     ]
   },
-  "last_update": "2026-05-30T21:38:46.327492+00:00",
+  "last_update": "2026-05-30T23:46:53.059925+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 1253,
-    "total_files": 1253,
+    "total_media": 1254,
+    "total_files": 1254,
     "total_links": 280,
     "files_by_type": {
       "image": 1169,
-      "video": 73,
+      "video": 74,
       "file": 3,
       "audio": 1,
       "document": 7
     },
-    "referenced_files": 1253,
-    "existing_media_files": 1252,
-    "total_size_mb": 483.97,
-    "last_calculation": "2026-05-30T21:38:46.342597+00:00"
+    "referenced_files": 1254,
+    "existing_media_files": 1253,
+    "total_size_mb": 487.55,
+    "last_calculation": "2026-05-30T23:46:53.071776+00:00"
   }
 }
