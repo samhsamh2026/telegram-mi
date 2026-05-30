@@ -15349,6 +15349,21 @@
     ],
     "bg_ae": [
       {
+        "id": 138364,
+        "text": "🇮🇷\n👀\n| رئیس سازمان سنجش:\nکنکور سراسری پنجشنبه و جمعه 29 و 30 مرداد برگزار میشه\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-05-30T09:10:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_138364_0_a208b45f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/138364"
+      },
+      {
         "id": 138363,
         "text": "کارشناس صدا وسیما:\nایرانی ها اصلا آریایی نیستن ما اصلا نژاد اریایی نداریم\nاین طرز فکرو غربیا اوردن تو کشورمون حالا یه عده ممکنه عصبانی بشن ازین حرفا\nمجری: اونا که اگه بشن مهم نیست\n...\nاصلا درست نیست بگیم آریایی هستیم انگار داریم میگیم بچه های یه مشت قاتل نسل کشیم\n💢\n@Baga_News\n| Король",
         "date": "2026-05-30T08:50:11+00:00",
@@ -17110,25 +17125,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/138190"
-      },
-      {
-        "id": 138178,
-        "text": "🚨\nگاومیشِ معروف به \"دونالد ترامپ\" که قرار بود تو روز عید قربان ذبح بشه، با دخالت دولت بنگلادش\n🇧🇩\nنجات یافت و به باغ‌وحش منتقل شد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-05-28T14:50:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138178_0_f0e25861.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_138178_1_87a82614.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138178"
       }
     ],
     "maznet": [
@@ -18712,23 +18708,23 @@
       }
     ]
   },
-  "last_update": "2026-05-30T09:04:25.379493+00:00",
+  "last_update": "2026-05-30T09:31:18.477209+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 1253,
-    "total_files": 1253,
+    "total_media": 1252,
+    "total_files": 1252,
     "total_links": 282,
     "files_by_type": {
-      "image": 1165,
+      "image": 1164,
       "video": 77,
       "file": 3,
       "audio": 1,
       "document": 7
     },
-    "referenced_files": 1253,
-    "existing_media_files": 1252,
-    "total_size_mb": 499.22,
-    "last_calculation": "2026-05-30T09:04:25.395200+00:00"
+    "referenced_files": 1252,
+    "existing_media_files": 1251,
+    "total_size_mb": 499.08,
+    "last_calculation": "2026-05-30T09:31:18.492602+00:00"
   }
 }
