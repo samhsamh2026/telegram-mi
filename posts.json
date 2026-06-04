@@ -13799,6 +13799,44 @@
     ],
     "bg_ae": [
       {
+        "id": 138977,
+        "text": "🇰🇼\n👀\n|\nتصاویر ماهواره‌ای با وضوح بالاتر از خسارات وارده به یکی از پناهگاه‌های پهپادهواگرد در پایگاه آمریکایی علی‌السالم کویت در پی حملات موشکی ایران\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-04T12:10:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_138977_0_115a1906.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_138977_1_39ffb1e5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/138977"
+      },
+      {
+        "id": 138976,
+        "text": "🇮🇷\n👀\n⚠️\n|\nموتور پهپاد شاهدی که به فرودگاه کویت برخورد کرد\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-04T11:50:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_138976_0_115a1906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_138976_1_32999f2c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/138976"
+      },
+      {
         "id": 138975,
         "text": "🚨\nانگار جدی جدی یه اتفاقاتی افتاده\n😳\n💢\n@Baga_News\n| Король",
         "date": "2026-06-04T11:30:45+00:00",
@@ -15463,40 +15501,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/138780"
-      },
-      {
-        "id": 138779,
-        "text": "⚡️\nلگ رو حذف کن، حرفه‌ای بازی کن\nبرای خرید سرویس، مهم‌ترین چیز فقط قیمت نیست؛\nپایداری، پینگ مناسب، تحویل سریع و پشتیبانی واقعی\nمهم‌تره.\n🛡\nمناسب برای گیم و وبگردی\n🛡\nپینگ پایدار و اتصال سریع\n🛡\nامنیت و حریم خصوصی\n🛡\nورود مستقیم به سایت بدون نیاز به VPN\n🛡\nسرویس حرفه‌ای، بدون واسطه و با پشتیبانی پاسخگو\n🎮\nوقتی وسط بازی هستی، قطع شدن و لگ یعنی باخت.\nپس از جایی بخر که روی پایداری و کیفیت سرویس تمرکز داره.\n🚨\nحتما بدون\nVPN\nوارد وبسایت ها شوید :\n📱\nوبسایت خرید\nوایرگارد\n:\nNetclubx.com\n🔐\nوبسایت خرید\nV2Ray\n:\nNetixa.org",
-        "date": "2026-06-02T19:47:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138779_0_4543c2bb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_138779_1_615de945.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138779"
-      },
-      {
-        "id": 138767,
-        "text": "🇮🇷\n👀\n|\nروزنامه کیهان:\n🚨\nحالا که روسیه منطقه کریمه رو‌ پس گرفته و چین هم دنبال اینه تایوانو بگیره، ماهم باید بریم بحرینو پس بگیریم\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-02T17:50:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138767_0_4543c2bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138767"
       }
     ],
     "maznet": [
@@ -17078,23 +17082,23 @@
       }
     ]
   },
-  "last_update": "2026-06-04T11:37:08.472806+00:00",
+  "last_update": "2026-06-04T12:34:07.654018+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 910,
-    "total_files": 910,
+    "total_media": 911,
+    "total_files": 911,
     "total_links": 280,
     "files_by_type": {
       "image": 863,
-      "video": 35,
+      "video": 36,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 910,
-    "existing_media_files": 909,
-    "total_size_mb": 418.24,
-    "last_calculation": "2026-06-04T11:37:08.479802+00:00"
+    "referenced_files": 911,
+    "existing_media_files": 910,
+    "total_size_mb": 421.66,
+    "last_calculation": "2026-06-04T12:34:07.665215+00:00"
   }
 }
