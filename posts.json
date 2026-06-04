@@ -13799,6 +13799,25 @@
     ],
     "bg_ae": [
       {
+        "id": 138975,
+        "text": "🚨\nانگار جدی جدی یه اتفاقاتی افتاده\n😳\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-04T11:30:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_138975_0_115a1906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_138975_1_144781a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/138975"
+      },
+      {
         "id": 138974,
         "text": "💢\n👀\n|\nتلخترین سانحه‌ای که دیروز دیدم\nروز گذشته/بدشانسی عروس و داماد  و تصادف شدید با یک پراید\n💢\n@Baga_News\n| | Noll",
         "date": "2026-06-04T11:10:13+00:00",
@@ -15478,21 +15497,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/138767"
-      },
-      {
-        "id": 138766,
-        "text": "🚨\n9⃣\nروز تا آغاز جام جهانی\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-02T17:30:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138766_0_4543c2bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138766"
       }
     ],
     "maznet": [
@@ -17074,23 +17078,23 @@
       }
     ]
   },
-  "last_update": "2026-06-04T11:28:26.960317+00:00",
+  "last_update": "2026-06-04T11:37:08.472806+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 909,
-    "total_files": 909,
+    "total_media": 910,
+    "total_files": 910,
     "total_links": 280,
     "files_by_type": {
-      "image": 862,
+      "image": 863,
       "video": 35,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 909,
-    "existing_media_files": 908,
-    "total_size_mb": 418.15,
-    "last_calculation": "2026-06-04T11:28:26.970808+00:00"
+    "referenced_files": 910,
+    "existing_media_files": 909,
+    "total_size_mb": 418.24,
+    "last_calculation": "2026-06-04T11:37:08.479802+00:00"
   }
 }
