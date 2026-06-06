@@ -13799,6 +13799,25 @@
     ],
     "bg_ae": [
       {
+        "id": 139128,
+        "text": "💢\nغرور یک ملت در قامت علی دایی\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-06T09:35:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_139128_0_9a3553d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_139128_1_5a3c1e8b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/139128"
+      },
+      {
         "id": 139127,
         "text": "🇮🇷\n👀\n|\nعراقچی خطاب به رئیس‌جمهور لبنان: لبنان را از دست دشمن واقعی خود نجات دهید\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-06T09:10:15+00:00",
@@ -15538,25 +15557,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/138969"
-      },
-      {
-        "id": 138968,
-        "text": "🚨\n۳۷ سال پیش در چنین روزی، خمینی مُرد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-04T09:50:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138968_0_115a1906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_138968_1_2c223e9c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138968"
       }
     ],
     "maznet": [
@@ -17138,7 +17138,7 @@
       }
     ]
   },
-  "last_update": "2026-06-06T09:14:17.108728+00:00",
+  "last_update": "2026-06-06T09:36:48.733651+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -17146,15 +17146,15 @@
     "total_files": 925,
     "total_links": 280,
     "files_by_type": {
-      "image": 881,
-      "video": 32,
+      "image": 880,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 925,
     "existing_media_files": 924,
-    "total_size_mb": 402.94,
-    "last_calculation": "2026-06-06T09:14:17.119878+00:00"
+    "total_size_mb": 405.66,
+    "last_calculation": "2026-06-06T09:36:48.744925+00:00"
   }
 }
