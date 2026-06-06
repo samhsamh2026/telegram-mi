@@ -13799,6 +13799,63 @@
     ],
     "bg_ae": [
       {
+        "id": 139127,
+        "text": "🇮🇷\n👀\n|\nعراقچی خطاب به رئیس‌جمهور لبنان: لبنان را از دست دشمن واقعی خود نجات دهید\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-06T09:10:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_139127_0_9a3553d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_139127_1_1fb2b9f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/139127"
+      },
+      {
+        "id": 139126,
+        "text": "🇵🇰\nاینترنت مردم پاکستان داره قطع میشه بدلیل اعتراضات مردمی!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-06T08:50:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_139126_0_9a3553d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_139126_1_1099adcb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/139126"
+      },
+      {
+        "id": 139125,
+        "text": "🚨\nدورهمی و میتینگ تینیجرهای تهرانی برای حمایت از تیم ملی در اکباتان !\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-06T08:31:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_139125_0_9a3553d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_139125_1_c738c525.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/139125"
+      },
+      {
         "id": 139124,
         "text": "نخست وزیر پاکستان: همواره کنار آمریکا بودیم و برای همیشه از ترامپ به عنوان مرد صلح یاد میکنیم.\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-06T08:03:22+00:00",
@@ -15500,63 +15557,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/138968"
-      },
-      {
-        "id": 138967,
-        "text": "🇵🇰\n🇮🇷\n🇺🇸\n| وزارت خارجه پاکستان:\nروند مذاکرات میان ایران و آمریکا ادامه دارد\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-04T09:31:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138967_0_115a1906.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138967"
-      },
-      {
-        "id": 138966,
-        "text": "روبیکا مامانشو پیدا کرد؟\n💢\n@Baga_News\n| Noll",
-        "date": "2026-06-04T09:20:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138966_0_115a1906.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138966"
-      },
-      {
-        "id": 138963,
-        "text": "👀\n‼️\n| وضعیت لبنان:\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-04T09:10:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_138963_0_115a1906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_138963_1_4bc6dbdc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_138963_2_5435c9e8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_138963_3_1a7b3d92.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/138963"
       }
     ],
     "maznet": [
@@ -17138,7 +17138,7 @@
       }
     ]
   },
-  "last_update": "2026-06-06T08:18:28.291830+00:00",
+  "last_update": "2026-06-06T09:14:17.108728+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -17146,15 +17146,15 @@
     "total_files": 925,
     "total_links": 280,
     "files_by_type": {
-      "image": 882,
-      "video": 31,
+      "image": 881,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 925,
     "existing_media_files": 924,
-    "total_size_mb": 397.96,
-    "last_calculation": "2026-06-06T08:18:28.303334+00:00"
+    "total_size_mb": 402.94,
+    "last_calculation": "2026-06-06T09:14:17.119878+00:00"
   }
 }
