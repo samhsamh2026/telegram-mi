@@ -13799,6 +13799,44 @@
     ],
     "bg_ae": [
       {
+        "id": 139216,
+        "text": "⚪️\nامروز 7 June, روز جهانی ناز کشیدنه\n🥹\n[این پیام فوراورد کن براش]\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-07T10:31:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_139216_0_05bd7db5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/139216"
+      },
+      {
+        "id": 139214,
+        "text": "⏺\nنیروهای ارتش اسرائیل ساختمانی که یک سرباز حماس در نابلس در آن سنگر گرفته رو محاصره کردند.\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-07T10:20:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_139214_0_05bd7db5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_139214_1_b3667ffd.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_139214_2_18f88387.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/139214"
+      },
+      {
         "id": 139213,
         "text": "🇮🇷\n👀\n| مجید واشقانی: مجریای اینترنشنال و منوتو رو یه تنه میخورم!\n😕\nاگه ما رسانه دارها و تریبون دارها باهم باشیم اصلأ اونها دیده نمیشن\nمن همکارام رو الان لازم دارم\nفردا دیگه دیره\n💢\n@Baga_News\n| Король",
         "date": "2026-06-07T10:10:15+00:00",
@@ -15507,36 +15545,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/139102"
-      },
-      {
-        "id": 139101,
-        "text": "💢\nترامپ: در حال بررسی امکان ارسال سلاح به تایوان هستیم.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-06-05T20:34:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_139101_0_3389245d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/139101"
-      },
-      {
-        "id": 139100,
-        "text": "🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n💻\nکانفیگ تراکتور موجودشد\n💻\n😎\nکیفیت این کانفیگ ها بسیار بالا هستند\n😎\n😽\nگیگی\n🔸\n10T\n😽\n⚡️\nداخل هر حجمی بخواهید موجوده\n⚡️\n🧙\nتعداد کاربر و تایم کانفیگ نامحدود\n🧙\nکانفیگ اقتصادی هم موجود است\n👍\n5 گیگ کاربر آزاد تایم نا محدود\n🔸\n50T\n10 گیگ کاربر آزاد تایم نا محدود\n🔸\n90T\n20 گیگ کاربر آزاد تایم نا محدود\n🔸\n180T\n50 گیگ کاربر آزاد تایم نا محدود\n🔸\n300T\nکانال ما\n@speedo_traktor\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🔸\n🛒\nبرای خرید به ایدی شخصی پیام بدید\n@Filtertrahktor",
-        "date": "2026-06-05T20:33:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_139100_0_3389245d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/139100"
       }
     ],
     "maznet": [
@@ -17118,23 +17126,23 @@
       }
     ]
   },
-  "last_update": "2026-06-07T10:15:27.205995+00:00",
+  "last_update": "2026-06-07T10:38:37.626489+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 920,
-    "total_files": 920,
+    "total_media": 922,
+    "total_files": 922,
     "total_links": 280,
     "files_by_type": {
       "image": 872,
-      "video": 36,
+      "video": 38,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 920,
-    "existing_media_files": 919,
-    "total_size_mb": 432.63,
-    "last_calculation": "2026-06-07T10:15:27.215246+00:00"
+    "referenced_files": 922,
+    "existing_media_files": 921,
+    "total_size_mb": 439.14,
+    "last_calculation": "2026-06-07T10:38:37.637412+00:00"
   }
 }
