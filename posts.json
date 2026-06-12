@@ -13799,6 +13799,40 @@
     ],
     "bg_ae": [
       {
+        "id": 140578,
+        "text": "🔻\n️️ آکسیوس: چهار فروند هواپیمای ترابری آمریکا به اروپا اعزام شدند تا تجهیزات لازم برای سفر معاون رئیس‌جمهور آمریکا، جی‌دی ونس، به مراسم امضای توافق در ژنو را منتقل کنند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-12T06:05:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140578_0_e7d37201.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140578"
+      },
+      {
+        "id": 140577,
+        "text": "🔴\nپشماتون بریزه، دیشب وسط اتوبان حکیم تهران، پیاده موبایل یه نفرو دزدیدن\n😐\n😐\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-12T05:34:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140577_0_e7d37201.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_140577_1_c047f1a8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140577"
+      },
+      {
         "id": 140576,
         "text": "🔴\nشاید جالب باشه بدونید اگه توی جام جهانی «ایران» و «آمریکا» هرکدوم توی گروه خودشون دوم بشن؛ توی مرحله بعد بهم برخورد میکنن.\n❗️\nفیفا اعلام کرد اگه این اتفاق بیفته؛ جذاب ترین دیدار جام و شاید یکی از جذاب ترین دیدارهای تاریخ اتفاق میفته.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-06-12T05:03:00+00:00",
@@ -15489,36 +15523,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140426"
-      },
-      {
-        "id": 140425,
-        "text": "فوری\n🔴\nترامپ در گفت‌و‌گو با فاکس نیوز:\nاحساس میکنم به اندازه کافی به رژیم ضربه نزدیم، ترجیح می‌دهم جزیره خارک را در کنترل داشته باشیم.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-11T12:56:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140425_0_32366ac3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140425"
-      },
-      {
-        "id": 140424,
-        "text": "🇰🇼\n👀\n| دولت کویت:\nما تأکید می‌کنیم که کویت حق خود را برای اتخاذ اقدامات لازم به منظور حفظ امنیت، دفاع از سرزمین‌ها و تأسیسات خود محفوظ می‌دارد\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-11T12:54:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140424_0_32366ac3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140424"
       }
     ],
     "maznet": [
@@ -17100,23 +17104,23 @@
       }
     ]
   },
-  "last_update": "2026-06-12T05:18:12.942206+00:00",
+  "last_update": "2026-06-12T06:23:20.840207+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 914,
-    "total_files": 914,
+    "total_media": 915,
+    "total_files": 915,
     "total_links": 281,
     "files_by_type": {
       "image": 871,
-      "video": 31,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 914,
-    "existing_media_files": 913,
-    "total_size_mb": 424.7,
-    "last_calculation": "2026-06-12T05:18:12.953032+00:00"
+    "referenced_files": 915,
+    "existing_media_files": 914,
+    "total_size_mb": 426.9,
+    "last_calculation": "2026-06-12T06:23:20.851118+00:00"
   }
 }
