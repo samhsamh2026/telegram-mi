@@ -13799,6 +13799,44 @@
     ],
     "bg_ae": [
       {
+        "id": 140771,
+        "text": "🔴\nحملات دیوانه وار توپخانه ای ارتش اسرائیل به شهر نبطیه در لبنان\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-12T23:20:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140771_0_73b5467d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_140771_1_7daa8d76.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_140771_2_6ab66014.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140771"
+      },
+      {
+        "id": 140770,
+        "text": "🔴\nفیلدمارشال محسن‌رضایی: آمریکا با آزادسازی ۲۴ میلیارد دلار از دارایی‌هامون موافقت کرده؛ اما ترامپ نمیخواد اونو علنی کنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-12T23:01:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140770_0_73b5467d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140770"
+      },
+      {
         "id": 140769,
         "text": "با این وضعیت روحی و روانی ترامپ و تیمش اگه ی روز این صحنه رو دیدید تعجب نکنید :\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-06-12T22:53:54+00:00",
@@ -15504,40 +15542,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140634"
-      },
-      {
-        "id": 140633,
-        "text": "💢\nصداوسیما:\nتفاهم احتمالی ایران و آمریکا در مرحله جمع‌بندی داخلی‌ست و هنوز تصمیم نهایی اتخاذ نشده است\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-06-12T13:40:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140633_0_e7d37201.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140633"
-      },
-      {
-        "id": 140632,
-        "text": "💢\nنورمن، خبرنگار وال‌استریت ژورنال:\nبنظرم برای اینکه توافقی شکل بگیره، مهمتر از تایید مجتبی خامنه‌ای،\nتاییدِ فرمانده‌های ارشد سپاهه.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-06-12T13:35:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140632_0_e7d37201.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140632_1_e5c37199.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140632"
       }
     ],
     "maznet": [
@@ -17119,23 +17123,23 @@
       }
     ]
   },
-  "last_update": "2026-06-12T23:00:21.990073+00:00",
+  "last_update": "2026-06-13T00:25:43.321140+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 916,
-    "total_files": 916,
+    "total_media": 917,
+    "total_files": 917,
     "total_links": 283,
     "files_by_type": {
-      "image": 875,
-      "video": 29,
+      "image": 874,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 916,
-    "existing_media_files": 915,
-    "total_size_mb": 386.79,
-    "last_calculation": "2026-06-12T23:00:22.001585+00:00"
+    "referenced_files": 917,
+    "existing_media_files": 916,
+    "total_size_mb": 387.24,
+    "last_calculation": "2026-06-13T00:25:43.331786+00:00"
   }
 }
