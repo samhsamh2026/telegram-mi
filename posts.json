@@ -13799,6 +13799,40 @@
     ],
     "bg_ae": [
       {
+        "id": 140781,
+        "text": "تنها کسی که ساعتش از خودش گرونتره قلعه‌نوییه\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-13T06:00:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140781_0_73b5467d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140781"
+      },
+      {
+        "id": 140780,
+        "text": "🔴\nتوی کرمانشاه یه بچه 2 ساله رو توی خونه تنها میذارن، اونم میره تریاکی که توی خونشون بوده رو میخوره و متاسفانه فوت میشه!!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-13T05:33:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140780_0_73b5467d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_140780_1_a5ac5a09.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140780"
+      },
+      {
         "id": 140779,
         "text": "🇮🇷\n👀\n| میثاقی:\n🟠\nآدمی که ضد تیم ملی خودش فعالیت کنه از\n..... ، ..... تره\n💢\n@Baga_News\n| Король",
         "date": "2026-06-13T05:03:56+00:00",
@@ -15508,56 +15542,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140644"
-      },
-      {
-        "id": 140640,
-        "text": "+ یه جوری این عکسای مارو بگیر، این ساعته حتما بیفته.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-12T15:00:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140640_0_e7d37201.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140640_1_0f8a10fd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140640_2_0091b77b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140640_3_ad00e90b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140640_4_5ce9be61.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140640"
-      },
-      {
-        "id": 140639,
-        "text": "🆕\nنورمن، خبرنگار وال‌استریت ژورنال:\nبنظرم برای اینکه توافقی شکل بگیره، مهمتر از تایید مجتبی خامنه‌ای،\nتاییدِ فرمانده‌های ارشد سپاهه.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-12T14:50:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140639_0_e7d37201.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140639_1_9a76326e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140639"
       }
     ],
     "maznet": [
@@ -17139,23 +17123,23 @@
       }
     ]
   },
-  "last_update": "2026-06-13T05:07:56.456397+00:00",
+  "last_update": "2026-06-13T06:06:25.519197+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 921,
-    "total_files": 921,
+    "total_media": 917,
+    "total_files": 917,
     "total_links": 283,
     "files_by_type": {
-      "image": 875,
+      "image": 871,
       "video": 34,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 921,
-    "existing_media_files": 920,
-    "total_size_mb": 394.11,
-    "last_calculation": "2026-06-13T05:07:56.467476+00:00"
+    "referenced_files": 917,
+    "existing_media_files": 916,
+    "total_size_mb": 393.98,
+    "last_calculation": "2026-06-13T06:06:25.530032+00:00"
   }
 }
