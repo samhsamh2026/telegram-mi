@@ -13799,6 +13799,55 @@
     ],
     "bg_ae": [
       {
+        "id": 140823,
+        "text": "🇮🇷\n👀\n|\nوزیر علوم:\nخیلی از نخبه هایی که از کشور مهاجرت کردن بعد از جنگ درخواست بازگشت به کشورو دادن\n‼️\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-13T13:50:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140823_0_73b5467d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140823"
+      },
+      {
+        "id": 140822,
+        "text": "🇮🇷\n👀\n|\nرئیس کمیسیون امنیت ملی مجلس:\nطرح مدیریت تنگه هرمز یک اقدام ماندگار مثل ملی شدن صنعت نفت است\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-13T13:31:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140822_0_73b5467d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140822"
+      },
+      {
+        "id": 140821,
+        "text": "تمسخر لهجه مشهدی و حمله به قالیباف توسط مالک شریعتی نماینده پایداری مجلس\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-13T13:09:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140821_0_73b5467d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_140821_1_d9d73a5f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140821"
+      },
+      {
         "id": 140820,
         "text": "💢\nهمین الان بهمون خبر رسیده که امیر تتلو به خاطر انتشار آهنگ «رفتم که رفتم» از داخل زندان ممنوع تماس شده\n💔\n💢\n@Baga_News\n| Noll",
         "date": "2026-06-13T12:57:09+00:00",
@@ -15457,55 +15506,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140690"
-      },
-      {
-        "id": 140688,
-        "text": "شروع شد\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-12T19:06:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140688_0_e7d37201.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140688"
-      },
-      {
-        "id": 140687,
-        "text": "عراقچی یکم دیگه میاد شبکه خبر\n💢\n@Baga_News | Король",
-        "date": "2026-06-12T19:01:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140687_0_e7d37201.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140687"
-      },
-      {
-        "id": 140686,
-        "text": "محض اطلاع: این رولکس امیر قلعه‌نویی، ۱۱ میلیارد تومان پولشه.\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-12T18:50:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140686_0_e7d37201.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140686_1_17588a03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140686"
       }
     ],
     "maznet": [
@@ -17087,7 +17087,7 @@
       }
     ]
   },
-  "last_update": "2026-06-13T13:08:25.250036+00:00",
+  "last_update": "2026-06-13T14:05:14.479896+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -17103,7 +17103,7 @@
     },
     "referenced_files": 908,
     "existing_media_files": 907,
-    "total_size_mb": 373.97,
-    "last_calculation": "2026-06-13T13:08:25.260703+00:00"
+    "total_size_mb": 374.03,
+    "last_calculation": "2026-06-13T14:05:14.486719+00:00"
   }
 }
