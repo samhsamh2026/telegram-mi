@@ -13799,6 +13799,25 @@
     ],
     "bg_ae": [
       {
+        "id": 140773,
+        "text": "پارسال همین موقع بود که جنگ ۱۲ روزه شروع شد\n💢\n@Baga_News\n| Noll",
+        "date": "2026-06-13T03:52:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140773_0_73b5467d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_140773_1_e133f6e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140773"
+      },
+      {
         "id": 140771,
         "text": "🔴\nحملات دیوانه وار توپخانه ای ارتش اسرائیل به شهر نبطیه در لبنان\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-06-12T23:20:37+00:00",
@@ -15527,21 +15546,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140635"
-      },
-      {
-        "id": 140634,
-        "text": "💢\nترامپ:\nشرایطی که ایران به رسانه‌ها درز داده، هیچ ارتباطی با شرایطی که به‌صورت کتبی بر سر آن‌ها توافق شده بود، ندارد\n💢\nترامپ:\nما به ایرانیان، از جمله بیانیه ضعیف و رقت‌انگیز آن‌ها در مورد دستیابی به توافقی که هیچ ارتباطی با حقیقت ندارد، پاسخ دادیم\n💢\nترامپ:\nایرانی‌ها در مذاکرات فاقد صداقت هستند و چیزی به نام حسن نیت در تعاملات آن‌ها وجود ندارد\n💢\nترامپ:\nایرانی‌ها بهتر است خودشان را جمع و جور کنند و سریعاً اقدام کنند\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-06-12T13:58:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140634_0_e7d37201.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140634"
       }
     ],
     "maznet": [
@@ -17123,23 +17127,23 @@
       }
     ]
   },
-  "last_update": "2026-06-13T00:25:43.321140+00:00",
+  "last_update": "2026-06-13T03:58:54.231600+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 917,
-    "total_files": 917,
+    "total_media": 918,
+    "total_files": 918,
     "total_links": 283,
     "files_by_type": {
-      "image": 874,
+      "image": 875,
       "video": 31,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 917,
-    "existing_media_files": 916,
-    "total_size_mb": 387.24,
-    "last_calculation": "2026-06-13T00:25:43.331786+00:00"
+    "referenced_files": 918,
+    "existing_media_files": 917,
+    "total_size_mb": 387.33,
+    "last_calculation": "2026-06-13T03:58:54.242500+00:00"
   }
 }
