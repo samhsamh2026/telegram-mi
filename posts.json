@@ -13799,6 +13799,51 @@
     ],
     "bg_ae": [
       {
+        "id": 141024,
+        "text": "🇮🇱\n👀\n| مجری شبکه ۱۴ اسرائیل:\nما هم تولد ترامپ را امروز در بیروت جشن گرفتیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-14T14:50:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141024_0_6994a4b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141024"
+      },
+      {
+        "id": 141023,
+        "text": "🆕\n👀\n|\nمحبی، عضو مجلس: حتی اگه رهبری موافقتنامه رو قبول کنه بازم نمیپذیریم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-14T14:34:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141023_0_6994a4b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141023"
+      },
+      {
+        "id": 141022,
+        "text": "نماینده آمریکا در سازمان ملل به ای‌بی‌سی:\n🔴\nترامپ و ونس کاملا مصمم هستن که امروز توافق با جمهوری اسلامی رو امضا کنن.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-14T14:10:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141022_0_6994a4b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141022"
+      },
+      {
         "id": 141021,
         "text": "🔻\nباراک راوید : ایران همونطور که گفته بود، حمله به بیروت رو پاسخ میده\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-14T13:50:22+00:00",
@@ -15444,59 +15489,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140871"
-      },
-      {
-        "id": 140870,
-        "text": "💬\nبگا توییت تقدیم میکند\n💙\n💭\nاگر دنبال سرگرمی برای اوقات خود هستین بگاتوییت رو بهتون پیشنهاد میکنم\n☄️\nتنوع در پست گذاری بالا\nجوین بدید چون خیلی باهاتون کار داریم\n🙂\n💢\nاینجا مال خودمون هستش جوین بدید قراره وقت زیادی رو باهم بگذرونیم\n📢\n@Baga_Tweet\n📢\n@Baga_Tweet\n📢\n@Baga_Tweet",
-        "date": "2026-06-13T18:45:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140870_0_73b5467d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140870_1_7f33dad2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140870"
-      },
-      {
-        "id": 140869,
-        "text": "🔴\nعلی حسین قاضی‌زاده :\nبی‌صبرانه منتظرم تا دست دادن و عکس یادگاری گرفتن‌تان با قاتلان خامنه‌ای و دختران میناب را به چشم ببینم.\nنشان‌مان بده غیرتت را عرزشی.\n‌\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-13T18:40:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140869_0_73b5467d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140869_1_32693158.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140869"
-      },
-      {
-        "id": 140868,
-        "text": "🇮🇷\n👀\n|\nحمزه صفوی:\nاگر تهران را با بمب اتم بزنند؛ ایران به مدت ۱۰ سال تنگه هرمز و خلیج فارس را ناامن خواهد کرد\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-13T18:35:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140868_0_73b5467d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140868"
       }
     ],
     "maznet": [
@@ -17078,23 +17070,23 @@
       }
     ]
   },
-  "last_update": "2026-06-14T14:07:51.480069+00:00",
+  "last_update": "2026-06-14T14:57:21.132107+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 910,
-    "total_files": 910,
+    "total_media": 908,
+    "total_files": 908,
     "total_links": 280,
     "files_by_type": {
-      "image": 869,
+      "image": 867,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 910,
-    "existing_media_files": 909,
-    "total_size_mb": 387.48,
-    "last_calculation": "2026-06-14T14:07:51.491721+00:00"
+    "referenced_files": 908,
+    "existing_media_files": 907,
+    "total_size_mb": 387.36,
+    "last_calculation": "2026-06-14T14:57:21.140854+00:00"
   }
 }
