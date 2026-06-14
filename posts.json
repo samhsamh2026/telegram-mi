@@ -13799,6 +13799,25 @@
     ],
     "bg_ae": [
       {
+        "id": 140945,
+        "text": "پست جدید ترامپ:\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-13T23:36:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140945_0_6994a4b0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_140945_1_7c369306.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140945"
+      },
+      {
         "id": 140944,
         "text": "حسین طاهری مداح در میدان انقلاب:\nتندروهایی که امروز شلوغ‌کاری کردن هم ردیف طرفدارای پهلوی هستن که شلوغ کردن، باید مطیع رهبر بود\n💢\n@Baga_News\n| Король",
         "date": "2026-06-13T23:00:02+00:00",
@@ -15510,21 +15529,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140800"
-      },
-      {
-        "id": 140799,
-        "text": "⚪️\n👀\n| بلومبرگ:\nجمهوری اسلامی به‌احتمال زیاد در جریان آتش‌بس، سلاح‌های پیشرفته روسی رو به ذخایر تسلیحاتی خودش اضافه کرده\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-13T10:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140799_0_73b5467d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140799"
       }
     ],
     "maznet": [
@@ -17106,23 +17110,23 @@
       }
     ]
   },
-  "last_update": "2026-06-13T23:14:57.296291+00:00",
+  "last_update": "2026-06-14T01:57:33.945572+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 917,
-    "total_files": 917,
+    "total_media": 918,
+    "total_files": 918,
     "total_links": 280,
     "files_by_type": {
-      "image": 874,
+      "image": 875,
       "video": 31,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 917,
-    "existing_media_files": 916,
-    "total_size_mb": 402.24,
-    "last_calculation": "2026-06-13T23:14:57.307287+00:00"
+    "referenced_files": 918,
+    "existing_media_files": 917,
+    "total_size_mb": 402.32,
+    "last_calculation": "2026-06-14T01:57:33.956430+00:00"
   }
 }
