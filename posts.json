@@ -13799,6 +13799,55 @@
     ],
     "bg_ae": [
       {
+        "id": 140967,
+        "text": "آدرینا پگاه از شهدای مدرسه میناب\n🖤\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-14T10:29:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140967_0_6994a4b0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_140967_1_e90ecb34.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140967"
+      },
+      {
+        "id": 140966,
+        "text": "🇮🇷\n👀\n|\nکانال خبری رجا نیوز:\nهک شدن بانکا بخاطر باز شدن اینترنت بود\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-14T10:10:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140966_0_6994a4b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140966"
+      },
+      {
+        "id": 140965,
+        "text": "پارسال چند بود الان چند ؟\n- گلکسی A56 پارسال 29 الان 85\n- ردمی نوت 14 پارسال 15 الان 44\n- آیفون 16 پارسال 80 الان 200\n- مک بوک ایر ام 4 پارسال 80 الان 175\n- اما حقوق نیروی ساده کار در ایران پارسال 12 میلیون تومن امسال 16\n- حقوق ها با 60 درصد افزایش شده 90 دلار !!!!\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-14T09:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_140965_0_6994a4b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/140965"
+      },
+      {
         "id": 140964,
         "text": "⚽️\nتیم منتخب \"گروه G\" جام جهانی با حضور افتخار آفرین\nصفر\nنفر از ایران\n🔥\n:\n💢\n@Baga_News\n| Король",
         "date": "2026-06-14T09:32:10+00:00",
@@ -15464,55 +15513,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/140825"
-      },
-      {
-        "id": 140824,
-        "text": "‏یه استارتی بزن حداقل باتریش نخوابه\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-13T14:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140824_0_73b5467d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_140824_1_b1e18ba2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140824"
-      },
-      {
-        "id": 140823,
-        "text": "🇮🇷\n👀\n|\nوزیر علوم:\nخیلی از نخبه هایی که از کشور مهاجرت کردن بعد از جنگ درخواست بازگشت به کشورو دادن\n‼️\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-13T13:50:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140823_0_73b5467d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140823"
-      },
-      {
-        "id": 140822,
-        "text": "🇮🇷\n👀\n|\nرئیس کمیسیون امنیت ملی مجلس:\nطرح مدیریت تنگه هرمز یک اقدام ماندگار مثل ملی شدن صنعت نفت است\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-13T13:31:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_140822_0_73b5467d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/140822"
       }
     ],
     "maznet": [
@@ -17094,7 +17094,7 @@
       }
     ]
   },
-  "last_update": "2026-06-14T09:38:06.093729+00:00",
+  "last_update": "2026-06-14T10:30:11.208396+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -17110,7 +17110,7 @@
     },
     "referenced_files": 914,
     "existing_media_files": 913,
-    "total_size_mb": 411.36,
-    "last_calculation": "2026-06-14T09:38:06.105144+00:00"
+    "total_size_mb": 411.43,
+    "last_calculation": "2026-06-14T10:30:11.216831+00:00"
   }
 }
