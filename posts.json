@@ -13799,6 +13799,40 @@
     ],
     "bg_ae": [
       {
+        "id": 141187,
+        "text": "دخترا حواستون باشه امروز روز پسره\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-15T20:30:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141187_0_6b363a39.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141187"
+      },
+      {
+        "id": 141186,
+        "text": "🇮🇱\n👀\n| نتانیاهو : رابطه ما با امریکا مهمه\nمیتونیم هردو طرف طناب بکشیم ولی باید مراقب باشیم این طناب پاره نشه\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-15T20:05:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141186_0_6b363a39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141186_1_d1ea0b64.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141186"
+      },
+      {
         "id": 141184,
         "text": "دوستان بیاید در کامنت این پست پیشبینی کنید و بگید بازی ایران و نیوزلند که ساعت 4:30 بامداد برگزار میشه چند به چند میشن.\nبه 10 نفر اولی که دقیق گفته باشن تدی\n🧸\nیا گیفت دیگه میدیم\n‼️\nقوانین:\n1️⃣\nنتیجه رو دقیق باید بگید مثلا : ( 1-2 به نفع نیوزلند )\n2️⃣\nپیامتون نباید ادیت بخوره. اگه ویرایش بزنید حساب نمیشه پیش‌بینیتون\n3️⃣\nفقط یبار میتونید پیشبینی ارسال کنید وگرنه حذف میشید\n4️⃣\nهر اکانت فقط و فقط 1 پیشبینی\n5️⃣\nفقط تا ساعت 4.30 بامداد میتونید ارسال کنید\nاز این لحظه ارسال کنید پیشبینی‌هاتون\n⚡️\nبه رفیقاتونم بفرستید تا شانسشون امتحان کنن\n👀\n💢\n@Baga_News\n|\nArT",
         "date": "2026-06-15T19:30:09+00:00",
@@ -15511,44 +15545,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141049"
-      },
-      {
-        "id": 141048,
-        "text": "🔴\nتوییت جدید شاه باقر اول: بساط جنگ افروزی اسرائیل رو برهم خواهیم زد، بچرخ تا بچرخیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-14T19:15:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141048_0_6994a4b0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141048_1_99f8173d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141048"
-      },
-      {
-        "id": 141047,
-        "text": "🇮🇷\n👀\n|\nپزشکیان:\nرسول خدا و اصحابش، تو جنگ رفتن لت و پار شدن و شهید شدن و برگشتن\n😐\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-14T19:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141047_0_6994a4b0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141047_1_0c52abf8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141047"
       }
     ],
     "maznet": [
@@ -17130,23 +17126,23 @@
       }
     ]
   },
-  "last_update": "2026-06-15T19:30:43.268016+00:00",
+  "last_update": "2026-06-15T20:58:08.117923+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 923,
-    "total_files": 923,
+    "total_media": 922,
+    "total_files": 922,
     "total_links": 280,
     "files_by_type": {
       "image": 877,
-      "video": 34,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 923,
-    "existing_media_files": 922,
-    "total_size_mb": 406.77,
-    "last_calculation": "2026-06-15T19:30:43.279227+00:00"
+    "referenced_files": 922,
+    "existing_media_files": 921,
+    "total_size_mb": 406.3,
+    "last_calculation": "2026-06-15T20:58:08.129067+00:00"
   }
 }
