@@ -13799,6 +13799,25 @@
     ],
     "bg_ae": [
       {
+        "id": 141312,
+        "text": "دوستان بیاید در کامنت این پست پیشبینی کنید و بگید بازی ایران و نیوزلند که ساعت 4:30 بامداد برگزار میشه چند به چند میشن.  به 10 نفر اولی که دقیق گفته باشن تدی\n🧸\nیا گیفت دیگه میدیم\n‼️\nقوانین:\n1️⃣\nنتیجه رو دقیق باید بگید مثلا : ( 1-2 به نفع نیوزلند )\n2️⃣\nپیامتون…",
+        "date": "2026-06-16T06:54:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141312_0_e78395ad.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141312_1_83b296d2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141312"
+      },
+      {
         "id": 141311,
         "text": "از خواب پاشدم دیدم ۱۲۰ پیام تو چنله فک کردم جنگ شده جا موندم /:\nنگو فوتبالو گزارش کردن\n💢\n@Baga_News\n|\nArT",
         "date": "2026-06-16T05:27:39+00:00",
@@ -15560,25 +15579,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141109"
-      },
-      {
-        "id": 141108,
-        "text": "وضعیت نتانیاهو،رسایی،ثابتی،جلیلی:\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-15T04:29:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141108_0_6b363a39.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141108_1_7f219aca.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141108"
       }
     ],
     "maznet": [
@@ -17160,7 +17160,7 @@
       }
     ]
   },
-  "last_update": "2026-06-16T06:11:45.795651+00:00",
+  "last_update": "2026-06-16T07:12:24.004180+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -17168,15 +17168,15 @@
     "total_files": 929,
     "total_links": 281,
     "files_by_type": {
-      "image": 875,
-      "video": 42,
+      "image": 876,
+      "video": 41,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 929,
     "existing_media_files": 928,
-    "total_size_mb": 449.46,
-    "last_calculation": "2026-06-16T06:11:45.807008+00:00"
+    "total_size_mb": 448.81,
+    "last_calculation": "2026-06-16T07:12:24.012897+00:00"
   }
 }
