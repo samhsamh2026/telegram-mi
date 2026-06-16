@@ -13799,6 +13799,36 @@
     ],
     "bg_ae": [
       {
+        "id": 141311,
+        "text": "از خواب پاشدم دیدم ۱۲۰ پیام تو چنله فک کردم جنگ شده جا موندم /:\nنگو فوتبالو گزارش کردن\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-06-16T05:27:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141311_0_e78395ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141311"
+      },
+      {
+        "id": 141310,
+        "text": "امروز June 16، روز جهانی بوس دادنه.\n@Baga_Tweet",
+        "date": "2026-06-16T05:16:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141310_0_e78395ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141310"
+      },
+      {
         "id": 141309,
         "text": "+ داداش علی چیشد از نیوزیلند ۲ تا گل خوردی.؟\n_ بابا هی توپ میفرستن میگن بگیر. صد بار گفتم فقط حواله، سکه، دلار، زمین‌.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-06-16T04:11:16+00:00",
@@ -15549,40 +15579,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141108"
-      },
-      {
-        "id": 141107,
-        "text": "🔴\nگزارش از فعالیت جنگنده‌های اسرائیلی در آسمان جنوب لبنان.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-14T22:40:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141107_0_6994a4b0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141107"
-      },
-      {
-        "id": 141106,
-        "text": "🚨\nفوری\n🔴\nطبق گزارش معاریو؛ نخست‌وزیر اسرائیل، بنیامین نتانیاهو، به رئیس‌جمهور ترامپ گفت که نیروهای اسرائیلی از لبنان عقب‌نشینی نخواهند کرد و اسرائیل خود را ملزم به بند لبنان در تفاهم‌نامه آمریکا و ایران نمی‌داند.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-14T22:40:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141106_0_6994a4b0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141106_1_a5c1e21e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141106"
       }
     ],
     "maznet": [
@@ -17164,23 +17160,23 @@
       }
     ]
   },
-  "last_update": "2026-06-16T04:24:02.109387+00:00",
+  "last_update": "2026-06-16T06:11:45.795651+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 930,
-    "total_files": 930,
+    "total_media": 929,
+    "total_files": 929,
     "total_links": 281,
     "files_by_type": {
-      "image": 876,
+      "image": 875,
       "video": 42,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 930,
-    "existing_media_files": 929,
-    "total_size_mb": 449.51,
-    "last_calculation": "2026-06-16T04:24:02.117960+00:00"
+    "referenced_files": 929,
+    "existing_media_files": 928,
+    "total_size_mb": 449.46,
+    "last_calculation": "2026-06-16T06:11:45.807008+00:00"
   }
 }
