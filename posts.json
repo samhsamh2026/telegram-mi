@@ -13799,6 +13799,40 @@
     ],
     "bg_ae": [
       {
+        "id": 141331,
+        "text": "🇮🇷\n👀\n| عارف معاون رئیس جمهور:\nیه فردی که دو واحد کامپیوتر هم پاس نکرده در صداسیما با اینترنت مخالفت میکند. صداسیما چرا این افراد رو میاره نظرشونو میپرسه؟\nچرا با متخصصان این حوزه مصاحبه نمیکنه؟ واقعا یک سری احمق درصدا و سیما دارن فعالیت میکنن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-16T11:50:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141331_0_e78395ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141331"
+      },
+      {
+        "id": 141330,
+        "text": "استوری دنیا جهانبخت که این روزا حسابی حامی جمهوری اسلامی شده :\nهمیشه سمت درست ایستادن درد داره\n😉\n♥️\n🇮🇷\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-16T11:32:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141330_0_e78395ad.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141330_1_9d44cc9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141330"
+      },
+      {
         "id": 141329,
         "text": "🇮🇱\n👀\n|\nنتانیاهو:\n🟠\nمعتقدم تو انتخابات آینده اسرائیل پیروز میشم و دوباره نسخت وزیر میشم\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-06-16T11:10:13+00:00",
@@ -15529,40 +15563,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141134"
-      },
-      {
-        "id": 141133,
-        "text": "میگن عراقچی قراره امروز عصر وسط جلسه آنلاین پاشه واسه تولد ترامپ رقص چاقو بره\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-15T09:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141133_0_6b363a39.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141133"
-      },
-      {
-        "id": 141132,
-        "text": "💢\nبرگشت مردمِ به لُبنان بعد آتش‌بس\n+ شما فقط ماشینارو ببین\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-06-15T08:54:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141132_0_6b363a39.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141132_1_9a5d8708.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141132"
       }
     ],
     "maznet": [
@@ -17144,7 +17144,7 @@
       }
     ]
   },
-  "last_update": "2026-06-16T11:15:27.975055+00:00",
+  "last_update": "2026-06-16T11:54:58.632090+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -17152,15 +17152,15 @@
     "total_files": 925,
     "total_links": 281,
     "files_by_type": {
-      "image": 869,
-      "video": 44,
+      "image": 870,
+      "video": 43,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 925,
     "existing_media_files": 924,
-    "total_size_mb": 454.28,
-    "last_calculation": "2026-06-16T11:15:27.986230+00:00"
+    "total_size_mb": 447.84,
+    "last_calculation": "2026-06-16T11:54:58.643210+00:00"
   }
 }
