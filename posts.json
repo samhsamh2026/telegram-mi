@@ -13799,6 +13799,25 @@
     ],
     "bg_ae": [
       {
+        "id": 141351,
+        "text": "دوستان نگران نباشید این دوتا مجوز عبور داشتن\n@Baga_Tweet",
+        "date": "2026-06-16T17:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141351_0_e78395ad.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141351_1_cb3852a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141351"
+      },
+      {
         "id": 141350,
         "text": "🇱🇧\n👀\n|\nحزب‌الله:\nایران الان یکی از ابرقدرت های دنیاست\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-06-16T16:50:18+00:00",
@@ -15548,25 +15567,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141155"
-      },
-      {
-        "id": 141154,
-        "text": "💢\n| محسنی اژه ای : خداروشکر در جنگ سوم هم مثل دو جنگ قبلی پیروز شدیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-15T14:33:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141154_0_6b363a39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141154_1_d4bcfb0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141154"
       }
     ],
     "maznet": [
@@ -17148,7 +17148,7 @@
       }
     ]
   },
-  "last_update": "2026-06-16T16:59:26.245789+00:00",
+  "last_update": "2026-06-16T17:12:18.237412+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -17164,7 +17164,7 @@
     },
     "referenced_files": 926,
     "existing_media_files": 925,
-    "total_size_mb": 423.39,
-    "last_calculation": "2026-06-16T16:59:26.256924+00:00"
+    "total_size_mb": 423.4,
+    "last_calculation": "2026-06-16T17:12:18.248587+00:00"
   }
 }
