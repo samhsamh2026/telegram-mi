@@ -13799,6 +13799,25 @@
     ],
     "bg_ae": [
       {
+        "id": 141456,
+        "text": "عملکرد عالی بزرگان فوتبال در اولین بازی جام جهانیشون\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-18T04:02:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141456_0_851cf2db.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141456_1_a1795bbf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141456"
+      },
+      {
         "id": 141455,
         "text": "👑\n👀\n|\nرضا پهلوی:\nصرف‌نظر از نتیجه این به اصطلاح مذاکرات، این توافق پایدار نخواهد بود\n.\n?\n@Baga_News\n| Король",
         "date": "2026-06-17T22:49:04+00:00",
@@ -15600,21 +15619,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141342"
-      },
-      {
-        "id": 141341,
-        "text": "💢\nصداوسیما : عملیات رفع محاصرۀ دریایی آمریکا اجرایی شده اما شناورها برای عبور از تنگ هرمز همچنان باید با سپاه هماهنگ باشن\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-16T14:32:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141341_0_e78395ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141341"
       }
     ],
     "maznet": [
@@ -17196,23 +17200,23 @@
       }
     ]
   },
-  "last_update": "2026-06-17T23:59:38.498899+00:00",
+  "last_update": "2026-06-18T04:11:22.923378+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 938,
-    "total_files": 938,
+    "total_media": 939,
+    "total_files": 939,
     "total_links": 281,
     "files_by_type": {
-      "image": 890,
+      "image": 891,
       "video": 36,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 938,
-    "existing_media_files": 937,
-    "total_size_mb": 429.11,
-    "last_calculation": "2026-06-17T23:59:38.507528+00:00"
+    "referenced_files": 939,
+    "existing_media_files": 938,
+    "total_size_mb": 429.16,
+    "last_calculation": "2026-06-18T04:11:22.934703+00:00"
   }
 }
