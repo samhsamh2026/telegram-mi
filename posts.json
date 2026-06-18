@@ -13799,6 +13799,55 @@
     ],
     "bg_ae": [
       {
+        "id": 141466,
+        "text": "🚨\nقالیباف:\nبدبینی و بی‌اعتمادی من به ایالات متحده از هر کس دیگری بیشتر است.\nحتی اگر توافق نهایی حاصل شود و توسط قطعنامه شورای امنیت سازمان ملل متحد تأیید شود، باز هم قابل اعتماد نیست. تضمین ما قدرت ایران است.\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-18T06:32:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141466_0_851cf2db.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141466_1_0b5a670b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141466"
+      },
+      {
+        "id": 141465,
+        "text": "سخنگوی حماس: غزه زخمی است و جهان نظاره‌گر\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-18T06:01:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141465_0_851cf2db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141465"
+      },
+      {
+        "id": 141464,
+        "text": "💢\nشهباز شریف، نخست وزیر پاکستان: توافق تاریخی اسلام‌آباد میان ایران و آمریکا با امضای روسای جمهور لازم‌الاجرا شد\n💢\n@Baga_News\n| Noll",
+        "date": "2026-06-18T05:25:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141464_0_851cf2db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141464"
+      },
+      {
         "id": 141461,
         "text": "💢\nلحظه امضای توافق نامه توسط ترامپ قمارباز و عمو مسعود. عروس داماد طاقت نداشتن ۲ روز زودتر توافقو امضا کردن.\n💢\n@Baga_News\n| Noll",
         "date": "2026-06-18T04:37:49+00:00",
@@ -15578,59 +15627,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141350"
-      },
-      {
-        "id": 141349,
-        "text": "اینقدر غریب آبادی خودکار دزدید که قرار گذاشتن تفاهم‌نامه رو الکترونیکی امضا کنن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-16T16:33:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141349_0_e78395ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141349"
-      },
-      {
-        "id": 141348,
-        "text": "🇮🇷\n👀\n|\nپزشکیان: ‏\n🔵\nآنچه تفاهم شده، گامی مهم برای توقف جنگ و شروع مذاکره است\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-16T16:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141348_0_e78395ad.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141348_1_6cc58638.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141348"
-      },
-      {
-        "id": 141347,
-        "text": "🔴\nترامپ:\nاگه لیندسی گراهام بیاد و به این توافق با ایران شک کنه و حرفی بزنه، واقعاً براش دردسر درست می‌شه و حسابی به مشکل می‌خوره.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-16T15:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141347_0_e78395ad.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141347_1_6e37c8d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141347"
       }
     ],
     "maznet": [
@@ -17212,23 +17208,23 @@
       }
     ]
   },
-  "last_update": "2026-06-18T04:56:52.280688+00:00",
+  "last_update": "2026-06-18T06:42:09.122737+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 942,
-    "total_files": 942,
+    "total_media": 941,
+    "total_files": 941,
     "total_links": 281,
     "files_by_type": {
-      "image": 891,
-      "video": 39,
+      "image": 889,
+      "video": 40,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 942,
-    "existing_media_files": 941,
-    "total_size_mb": 452.45,
-    "last_calculation": "2026-06-18T04:56:52.291573+00:00"
+    "referenced_files": 941,
+    "existing_media_files": 940,
+    "total_size_mb": 462.29,
+    "last_calculation": "2026-06-18T06:42:09.133752+00:00"
   }
 }
