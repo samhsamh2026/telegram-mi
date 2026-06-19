@@ -13799,6 +13799,40 @@
     ],
     "bg_ae": [
       {
+        "id": 141551,
+        "text": "شات وایرال شده از طارمی:\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-19T06:33:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141551_0_d8609013.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141551_1_8c3c66b8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141551"
+      },
+      {
+        "id": 141550,
+        "text": "وزیر امنیت داخلی اسرائیل خطاب به معاون ترامپ: هر کس به ما پشت کند زیان خواهد دید\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-19T05:59:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141550_0_d8609013.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141550"
+      },
+      {
         "id": 141549,
         "text": "بعد از انتشار کلیپ خواهران منصوریان لحن ترامپ کلا عوض شد.\n💢\n@Baga_News\n| Король",
         "date": "2026-06-19T05:32:08+00:00",
@@ -15565,44 +15599,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141439"
-      },
-      {
-        "id": 141438,
-        "text": "‼️\n‼️\nفوری/\nتفاهم‌نامه توسط ترامپ و پزشکیان امضا شد\nسخنگوی وزارت خارجه:\n🔸\nالان که با شما صحبت می‌کنم احتمالاً متن تفاهم نامه اسلام آباد به امضای روسای جمهور ایران و آمریکا رسیده باشد.\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-06-17T21:29:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141438_0_24de2597.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141438"
-      },
-      {
-        "id": 141436,
-        "text": "🔴\nپسر قالیباف در قطر\n.\n⭕️\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-17T21:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141436_0_24de2597.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141436_1_14145aa7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141436_2_478df3ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141436"
       }
     ],
     "maznet": [
@@ -17184,23 +17180,23 @@
       }
     ]
   },
-  "last_update": "2026-06-19T05:36:23.059605+00:00",
+  "last_update": "2026-06-19T06:54:31.023632+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 935,
-    "total_files": 935,
+    "total_media": 934,
+    "total_files": 934,
     "total_links": 281,
     "files_by_type": {
-      "image": 888,
+      "image": 887,
       "video": 35,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 935,
-    "existing_media_files": 934,
-    "total_size_mb": 448.72,
-    "last_calculation": "2026-06-19T05:36:23.070811+00:00"
+    "referenced_files": 934,
+    "existing_media_files": 933,
+    "total_size_mb": 448.7,
+    "last_calculation": "2026-06-19T06:54:31.034799+00:00"
   }
 }
