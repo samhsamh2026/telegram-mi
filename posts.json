@@ -13799,6 +13799,59 @@
     ],
     "bg_ae": [
       {
+        "id": 141549,
+        "text": "بعد از انتشار کلیپ خواهران منصوریان لحن ترامپ کلا عوض شد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-19T05:32:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141549_0_d8609013.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141549"
+      },
+      {
+        "id": 141548,
+        "text": "ایران خودرو قیمت خودروهای خودش را که به تازگی منتشر کرده بود را کمی کاهش داد\nدر اصل افزایش قیمت را کاهش داد، یعنی در نتیجه باز افزایش یافته است\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-19T05:01:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141548_0_d8609013.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141548_1_713d9c85.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141548"
+      },
+      {
+        "id": 141547,
+        "text": "پوستر سایت ایت الله سید علی خامنه‌ای به مناسبت محرم:\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-19T04:34:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141547_0_d8609013.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141547_1_d446e22d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141547"
+      },
+      {
         "id": 141546,
         "text": "خارجیا بعد رامین رضاییان حالا رو میلاد محمدی کراش زدن و میگن چقد خوشگله یکی از پست ها درمورد میلاد محمدی ۳۰۰ کا ویو گرفته\n💢\n@Baga_News\n| Король",
         "date": "2026-06-19T04:01:17+00:00",
@@ -15550,71 +15603,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141436"
-      },
-      {
-        "id": 141434,
-        "text": "😂\n😂\n😂\n😂\n😂\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-17T20:14:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141434_0_24de2597.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141434_1_4b972aa0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141434_2_38d33917.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141434"
-      },
-      {
-        "id": 141433,
-        "text": "🇺🇸\n👀\n| ترامپ:\nایرانی‌ها به اوباما خندیدن و گفتن : اون یه حرامزاده احمقه\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-17T19:50:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141433_0_24de2597.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141433"
-      },
-      {
-        "id": 141431,
-        "text": "عکس وایرال شده از یه دختر که سر بازی جام جهانی، تیشرت سپهر بابا پوشیده.\n💢\n@Baga_News | Король",
-        "date": "2026-06-17T19:35:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141431_0_24de2597.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141431_1_4e629c6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141431_2_a8ec0a35.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141431_3_fed3ec56.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141431"
       }
     ],
     "maznet": [
@@ -17196,23 +17184,23 @@
       }
     ]
   },
-  "last_update": "2026-06-19T04:29:04.165073+00:00",
+  "last_update": "2026-06-19T05:36:23.059605+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 938,
-    "total_files": 938,
+    "total_media": 935,
+    "total_files": 935,
     "total_links": 281,
     "files_by_type": {
-      "image": 891,
+      "image": 888,
       "video": 35,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 938,
-    "existing_media_files": 937,
-    "total_size_mb": 448.7,
-    "last_calculation": "2026-06-19T04:29:04.175901+00:00"
+    "referenced_files": 935,
+    "existing_media_files": 934,
+    "total_size_mb": 448.72,
+    "last_calculation": "2026-06-19T05:36:23.070811+00:00"
   }
 }
