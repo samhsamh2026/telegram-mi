@@ -12946,6 +12946,67 @@
     ],
     "bg_ae": [
       {
+        "id": 141712,
+        "text": "😂\nهمزمان با ورود عباس به سوئیس این کشور طوفان شدیدی اومد\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-20T23:13:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141712_0_f2cb856d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141712_1_66e26d86.mp4"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141712_2_3c5b6066.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141712"
+      },
+      {
+        "id": 141710,
+        "text": "تصاویری از هیئت ایرانی در سوئیس\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-20T23:00:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141710_0_f2cb856d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141710_1_b088dbc8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141710_2_de9a01fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141710"
+      },
+      {
+        "id": 141709,
+        "text": "🔵\n👀\n|\nمراد ویسی:\nنباید به ترامپ دل میبستیم\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-20T22:15:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141709_0_f2cb856d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141709"
+      },
+      {
         "id": 141708,
         "text": "🇮🇷\n👀\n|\nعلی زینی‌وند ، سخنگوی وزارت کشور :\nبه همه کسایی که توی مراسم تشییع و تدفین علی خامنه‌ای شرکت کنن بیمه رایگان تعلق میگیره\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-06-20T21:10:21+00:00",
@@ -14699,75 +14760,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141603"
-      },
-      {
-        "id": 141602,
-        "text": "نتانیاهو در حال مطالعه تفاهم‌نامه موقت بین جمهوری اسلامی و آمریکا:\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-19T16:50:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141602_0_d8609013.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141602_1_9ee606e0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141602"
-      },
-      {
-        "id": 141598,
-        "text": "🇮🇱\n👀\n|\nرسانه‌های اسرائیلی گزارش دادند: ۴ نظامی اسرائیلی از جمله یک فرمانده گردان، بر اثر اصابت موشک‌های ضد زره که توسط حزب‌الله در طول شب شلیک شد، کشته شدند.\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-19T16:32:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141598_0_d8609013.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141598_1_70e8375d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141598_2_92d13702.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141598_3_caa6c14e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141598_4_90e04bd5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141598"
-      },
-      {
-        "id": 141597,
-        "text": "🇮🇷\n👀\n|\nویکی پدیا جنگ 2026 ایران را به عنوان یک پیروزی ایرانیان فهرست کرده است\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-19T16:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141597_0_d8609013.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141597_1_6dc47cc4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141597"
       }
     ],
     "maznet": [
@@ -16349,23 +16341,23 @@
       }
     ]
   },
-  "last_update": "2026-06-20T21:50:35.955010+00:00",
+  "last_update": "2026-06-20T23:18:22.380126+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 758,
-    "total_files": 758,
+    "total_media": 756,
+    "total_files": 756,
     "total_links": 284,
     "files_by_type": {
-      "image": 717,
+      "image": 715,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
-    "total_size_mb": 456.87,
-    "last_calculation": "2026-06-20T21:50:35.964172+00:00"
+    "referenced_files": 756,
+    "existing_media_files": 755,
+    "total_size_mb": 454.38,
+    "last_calculation": "2026-06-20T23:18:22.389020+00:00"
   }
 }
