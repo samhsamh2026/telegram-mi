@@ -13531,6 +13531,25 @@
     ],
     "bg_ae": [
       {
+        "id": 141629,
+        "text": "🔴\nدیشب ارتش اسرائیل تپه های علی الطاهر در جنوب لبنان را با بمب فسفری هدف قرار داد.\nهمچنین نبطیه الفوقا نیز بشدت با بمب فسفری هدف قرار گرفت.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-20T04:02:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141629_0_fe2dd342.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141629_1_06024d36.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141629"
+      },
+      {
         "id": 141628,
         "text": "🔴\nبمباران شهر نبطیه توسط جنگنده‌های اسرائیلی\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-06-19T22:42:01+00:00",
@@ -15324,21 +15343,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141515"
-      },
-      {
-        "id": 141514,
-        "text": "💢\nجی‌دی ونس: در مورد دارایی‌های مسدودشده، راستش را بخواهید، نمی‌دانم\nشنیده‌ام رقم‌هایی بالاتر از ۱۰۰ میلیارد دلار مطرح شده است. حتی رقم‌هایی بالاتر از ۲۰۰ میلیارد دلار هم شنیده‌ام.\nبیشتر آن در حساب‌های ایالات متحده نیست؛ بیشترش یا در کشورهای حوزه خلیج فارس است، یا در اروپا، یا در جاهای دیگر.\nاما مقدار دقیق پول را نمی‌دانم، خیلی زیاد است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-18T16:09:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141514_0_851cf2db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141514"
       }
     ],
     "maznet": [
@@ -16920,23 +16924,23 @@
       }
     ]
   },
-  "last_update": "2026-06-20T03:54:11.754417+00:00",
+  "last_update": "2026-06-20T04:22:04.465782+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 877,
-    "total_files": 877,
+    "total_media": 878,
+    "total_files": 878,
     "total_links": 281,
     "files_by_type": {
-      "image": 828,
+      "image": 829,
       "video": 37,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 877,
-    "existing_media_files": 876,
-    "total_size_mb": 491.05,
-    "last_calculation": "2026-06-20T03:54:11.762112+00:00"
+    "referenced_files": 878,
+    "existing_media_files": 877,
+    "total_size_mb": 491.07,
+    "last_calculation": "2026-06-20T04:22:04.476658+00:00"
   }
 }
