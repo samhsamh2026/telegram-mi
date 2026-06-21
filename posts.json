@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 141722,
+        "text": "احتمال شنیدن صدای انفجار در دزفول\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-21T07:03:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141722_0_f2cb856d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141722"
+      },
+      {
+        "id": 141721,
+        "text": "🇮🇷\n👀\n| مجری تلویزیون: باید فرودگاه مهرآباد رو ببندیم تا هی نرن مذاکره کنن\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-21T07:02:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141721_0_f2cb856d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141721_1_8bd0f776.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141721"
+      },
+      {
         "id": 141720,
         "text": "🔴\nمحمد مرندی: ایران آماده است تا برای لبنان از توافق چشم‌پوشی کند، زیرا از متحدان خود دست نمی‌کشد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-06-21T06:33:18+00:00",
@@ -14714,44 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141612"
-      },
-      {
-        "id": 141611,
-        "text": "🔴\n🇺🇸\nترامپ درباره مجتبی خامنه ای :\nمن علی خامنه‌ای رو کشتم و متأسفانه مجتبی مجروح کردم.\nاو را ندیدم. با او صحبت نکردم، اما مردم درباره او صحبت می‌کردند.\nبنظرم مجتبی ادم شجاعیه، با اینکه بشدت زخمی شده بود بازم ایستاده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-19T19:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141611_0_d8609013.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141611_1_a1726809.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141611"
-      },
-      {
-        "id": 141610,
-        "text": "🇱🇧\n👀\n| نعیم قاسم:\nتاکتیک ابهام و سکوت حزب الله باعث شده دشمن شکست بخوره\nپیروزی ما قطعیه و اسرائیل شکست خورده\nبزودی اسرائیل از خاک لبنان اخراج میشه\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-19T18:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141610_0_d8609013.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141610_1_3a8ee18b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141610"
       }
     ],
     "maznet": [
@@ -16333,23 +16329,23 @@
       }
     ]
   },
-  "last_update": "2026-06-21T06:41:22.510890+00:00",
+  "last_update": "2026-06-21T07:18:06.033584+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 753,
+    "total_files": 753,
     "total_links": 284,
     "files_by_type": {
       "image": 715,
-      "video": 27,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 455.68,
-    "last_calculation": "2026-06-21T06:41:22.520172+00:00"
+    "referenced_files": 753,
+    "existing_media_files": 752,
+    "total_size_mb": 433.08,
+    "last_calculation": "2026-06-21T07:18:06.042690+00:00"
   }
 }
