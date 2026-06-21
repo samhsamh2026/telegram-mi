@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 141714,
+        "text": "🇮🇶\n👀\n|\nدولت عراق به‌طور رسمی مجوز فعالیت استارلینک را صادر کرد\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-21T04:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141714_0_f2cb856d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141714"
+      },
+      {
         "id": 141712,
         "text": "😂\nهمزمان با ورود عباس به سوئیس این کشور طوفان شدیدی اومد\n💢\n@Baga_News\n| Король",
         "date": "2026-06-20T23:13:18+00:00",
@@ -14745,21 +14760,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141604"
-      },
-      {
-        "id": 141603,
-        "text": "🇺🇸\n👀\n| کاخ سفید: ایران تمام شد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-19T16:54:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141603_0_d8609013.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141603"
       }
     ],
     "maznet": [
@@ -16341,7 +16341,7 @@
       }
     ]
   },
-  "last_update": "2026-06-21T02:01:43.605813+00:00",
+  "last_update": "2026-06-21T04:24:35.002500+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16358,6 +16358,6 @@
     "referenced_files": 756,
     "existing_media_files": 755,
     "total_size_mb": 454.38,
-    "last_calculation": "2026-06-21T02:01:43.614921+00:00"
+    "last_calculation": "2026-06-21T04:24:35.011922+00:00"
   }
 }
