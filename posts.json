@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 141895,
+        "text": "🇮🇷\n👀\n|\nخوش چشم:\nهر پولی بیاد ما موشک میسازیم تا اسرائیل رو نابود کنیم و به آرزومون برسیم\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-22T21:01:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141895_0_51140fbc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141895"
+      },
+      {
         "id": 141894,
         "text": "🎙\n👀\n|\nخبرنگار:\nسالگرد عملیات جکش نیمه شب هست، اگه برگردید عقب، چیزی رو عوض می‌کنید؟\n🇺🇸\n👀\n| ترامپ :\nنه، هیچ چیز\nاین موفق‌ترین حمله‌ای بود که کسی تا حالا با بمب‌افکن دیده؛ کاملاً توان هسته‌ای‌شون رو از بین برد\nاگه اون کار رو نمی‌کردیم، الان اسرائیل وجود نداشت و بخش زیادی از خاورمیانه هم از بین رفته بود\nاونا فقط دو هفته با ساخت سلاح هسته‌ای فاصله داشتن\n💢\n@Baga_News\n| Король",
         "date": "2026-06-22T20:44:00+00:00",
@@ -14703,25 +14718,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141783"
-      },
-      {
-        "id": 141782,
-        "text": "🇮🇱\n👀\n|\nنتانیاهو:\nما تا زمانی که لازم باشد در منطقه امنیتی جنوب لبنان خواهیم ماند تا از ساکنان شمال و شهروندان کل کشور محافظت کنیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-21T18:33:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141782_0_f2cb856d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141782_1_99d630ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141782"
       }
     ],
     "maznet": [
@@ -16303,23 +16299,23 @@
       }
     ]
   },
-  "last_update": "2026-06-22T20:51:45.215948+00:00",
+  "last_update": "2026-06-22T22:10:44.807781+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 281,
     "files_by_type": {
-      "image": 713,
+      "image": 712,
       "video": 26,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 406.59,
-    "last_calculation": "2026-06-22T20:51:45.224984+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 406.54,
+    "last_calculation": "2026-06-22T22:10:44.816841+00:00"
   }
 }
