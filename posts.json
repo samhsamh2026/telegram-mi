@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 141814,
+        "text": "🔻\n💢\n|\nتشریح نتایج مذاکرات روز گذشته توسط وزیر امور خارجه\nعراقچی:میانجی‌گری خستگی ناپذیر پاکستان و قطر باعث پیشرفت های بزرگی برای پایان دادن به جنگ در لبنان شد.\nهمچنین تحریم صادرات نفت و پتروشیمی تعلیق شد، محاصرۀ دریایی برداشته شد، برخی از دارایی‌های مسدود شده آزاد شدند و طرح بزرگ بازسازی و توسعۀ اقتصادی ایران اجرایی شد.\nاولین آزمون واقعی: واحد رفع درگیری‌ها در لبنان\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-22T05:14:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141814_0_54d6bb6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141814_1_455f4c2f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141814"
+      },
+      {
+        "id": 141813,
+        "text": "🇮🇷\n👀\n| قالیباف:\nما اینگونه از سرزمینمان محافظت می‌کنیم\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-22T05:03:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141813_0_54d6bb6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141813_1_d28a2c14.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141813"
+      },
+      {
         "id": 141812,
         "text": "پشماتون بریزه\nکلیپای زیادی از بیرانوند داره پخش میشه و خارجیا میگن بیرانوند دیوار ایران جلوی بلژیک بوده\n💢\n@Baga_News\n| Король",
         "date": "2026-06-22T04:30:33+00:00",
@@ -14677,48 +14715,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141703"
-      },
-      {
-        "id": 141701,
-        "text": "🔴\nسلیمانی، سردبیر مشرق:\nنبویان، نماینده مجلس، بخاطر انتشار و افشای اسناد محرمانه و سری‌دولتی، باید به 2 تا 10 سال حبس محکوم بشه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-20T20:01:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141701_0_fe2dd342.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141701_1_bb0934b7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141701_2_fcaafffc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141701"
-      },
-      {
-        "id": 141700,
-        "text": "🇮🇷\n👀\n| انتقاد تند حمید رسایی به بسته بودن مجلس:\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-20T19:50:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141700_0_fe2dd342.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141700_1_aa860f8c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141700"
       }
     ],
     "maznet": [
@@ -16300,23 +16296,23 @@
       }
     ]
   },
-  "last_update": "2026-06-22T04:32:13.017791+00:00",
+  "last_update": "2026-06-22T05:15:19.612864+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 282,
     "files_by_type": {
-      "image": 713,
+      "image": 712,
       "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 418.44,
-    "last_calculation": "2026-06-22T04:32:13.026924+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 418.45,
+    "last_calculation": "2026-06-22T05:15:19.621723+00:00"
   }
 }
