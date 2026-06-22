@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 141812,
+        "text": "پشماتون بریزه\nکلیپای زیادی از بیرانوند داره پخش میشه و خارجیا میگن بیرانوند دیوار ایران جلوی بلژیک بوده\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-22T04:30:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141812_0_54d6bb6e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141812_1_d7c08808.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141812"
+      },
+      {
+        "id": 141810,
+        "text": "🚨\nامشب یه نفر ۳ میلیون دلار شرط بسته بود که بلژیک ، ایران رو می‌بره همه پولشو باخت.\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-22T04:00:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141810_0_54d6bb6e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141810_1_c6bb629b.mp4"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141810_2_529abcb0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141810"
+      },
+      {
         "id": 141809,
         "text": "🇮🇱\n👀\n|\nنتانیاهو:\nسال‌ها به ما می‌گفتن: «نمی‌تونید به خاک ایران حمله کنید.»\nدرست، عملیات موساد می‌شه انجام داد. ما کلیش رو انجام دادیم. خودم خیلی‌هاش رو تأیید کردم.\nمیگفتن نمی‌شه ارتش رو مستقیم به ایران فرستاد. ما این قانون رو شکستیم.\nخلبان‌های شجاع‌مون رو فرستادیم بالای آسمان ایران.\n💢\n@Baga_News\n| Король",
         "date": "2026-06-21T21:20:45+00:00",
@@ -14677,44 +14719,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141700"
-      },
-      {
-        "id": 141699,
-        "text": "🔴\n🇺🇸\n🇺🇸\n|\nپست جدید ترامپ:\nهیچ‌ گونه عوارضی در تنگه هرمز به مدت 60 روز در طول دوره آتش‌بس وجود نخواهد داشت، و پس از پایان این دوره 60 روزه هم هیچ‌ گونه عوارضی وضع نخواهد شد.\nمگر اینکه این عوارض توسط و برای ایالات متحده آمریکا وضع بشه؛ در صورتی که توافق نهایی حاصل نشه، آن هم بخاطر خدماتی که به عنوان «فرشته نگهبان» برای کشورهای خاورمیانه انجام شده، و با هدف جبران هزینه‌های گذشته، حال و آینده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-20T19:33:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141699_0_fe2dd342.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141699_1_8a79fab3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141699"
-      },
-      {
-        "id": 141698,
-        "text": "🚨\n👀\n|\n۲۷ سال پیش در چنین روزی، بازی Counter-Strike منتشر شد\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-20T19:32:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141698_0_fe2dd342.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141698_1_9006dcc9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141698"
       }
     ],
     "maznet": [
@@ -16296,23 +16300,23 @@
       }
     ]
   },
-  "last_update": "2026-06-21T23:53:44.900173+00:00",
+  "last_update": "2026-06-22T04:32:13.017791+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 282,
     "files_by_type": {
-      "image": 714,
-      "video": 22,
+      "image": 713,
+      "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 410.03,
-    "last_calculation": "2026-06-21T23:53:44.908934+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 418.44,
+    "last_calculation": "2026-06-22T04:32:13.026924+00:00"
   }
 }
