@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 141961,
+        "text": "🔴\n🇺🇸\nترامپ:\nهمسر بسیار شیک‌پوش من به من می‌گوید: «عزیزم، لطفاً، لطفاً نرقص. این کار شایسته ریاست‌جمهوری نیست.»\n◀️\nمن گفتم: «مردم عاشق رقص من هستند!»\n◀️\nاو گفت: «لطفاً، لطفاً ادای آن وزنه‌بردار را درنیار حداقل!»\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-23T22:31:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141961_0_8b6e193b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141961"
+      },
+      {
+        "id": 141960,
+        "text": "🔴\nترامپ قراره بجای پول، سیب‌زمینی و ذرت به سپاه بده که اون پولو، خرج ساخت بمب و موشک نکنن.\nعادی‌ترین استفاده سپاه از سیب زمینی و ذرت:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-23T21:33:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141960_0_8b6e193b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141960_1_f4439dc1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141960"
+      },
+      {
         "id": 141958,
         "text": "🇮🇱\n👀\n|\nارتش اسرائیل:\nتو جریان آزادسازی گروگان‌ها از دست حماس، \"صبای زاهر عبدالحمید\" که یکی از اعضای حماس بود، شهروند اسرائیلی رو مجبور کرد سرش رو ببوسه!\nما هفته پیش این تروریست نخبه حماس رو تو غزه کُشتیم.\n💢\n@Baga_News\n| Король",
         "date": "2026-06-23T20:10:21+00:00",
@@ -14710,40 +14744,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141856"
-      },
-      {
-        "id": 141855,
-        "text": "سرگردان و حیرانم مثل دست عراقچی\n@Baga_Tweet",
-        "date": "2026-06-22T12:44:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141855_0_54d6bb6e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141855_1_da50537d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141855"
-      },
-      {
-        "id": 141854,
-        "text": "سی‌ان‌ان: تنگه هرمز بازه و مشکلی برای تردد وجود نداره.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-22T12:40:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141854_0_54d6bb6e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141854"
       }
     ],
     "maznet": [
@@ -16325,7 +16325,7 @@
       }
     ]
   },
-  "last_update": "2026-06-23T21:18:29.893758+00:00",
+  "last_update": "2026-06-23T22:49:33.691836+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16333,15 +16333,15 @@
     "total_files": 758,
     "total_links": 280,
     "files_by_type": {
-      "image": 711,
-      "video": 35,
+      "image": 712,
+      "video": 34,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 758,
     "existing_media_files": 757,
-    "total_size_mb": 425.28,
-    "last_calculation": "2026-06-23T21:18:29.902790+00:00"
+    "total_size_mb": 423.79,
+    "last_calculation": "2026-06-23T22:49:33.701020+00:00"
   }
 }
