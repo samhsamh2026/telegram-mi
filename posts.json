@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 141897,
+        "text": "🇮🇷\n👀\n|\nقالیباف:\n🔵\nاگر به سوئیس نمی‌رفتیم، هر لحظه خون بیشتری از مسلمانان و شیعیان لبنان ریخته می‌شد\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-23T04:03:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141897_0_51140fbc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_141897_1_08684cf5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141897"
+      },
+      {
         "id": 141896,
         "text": "⭕️\n⚽️\n|\nرسمی : ورزشگاه بازی فرانسه و عراق به دلیل خطر جدی رعد و برق، باید تخلیه بشه!\nاین مسابقه حداقل 30 دقیقه به تعویق افتاده.\nملت از ترس رعدوبرق و طوفان، ورزشگاه خالی کردن:\n💢\n@Baga_News\n| Король",
         "date": "2026-06-22T22:20:12+00:00",
@@ -14703,21 +14722,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141785"
-      },
-      {
-        "id": 141784,
-        "text": "اخبار جنگ | خبر ایران\npinned a photo",
-        "date": "2026-06-21T19:00:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141784_0_f2cb856d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141784"
       }
     ],
     "maznet": [
@@ -16299,23 +16303,23 @@
       }
     ]
   },
-  "last_update": "2026-06-23T03:44:05.813555+00:00",
+  "last_update": "2026-06-23T04:11:27.594293+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 281,
     "files_by_type": {
-      "image": 712,
+      "image": 713,
       "video": 26,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 406.58,
-    "last_calculation": "2026-06-23T03:44:05.822373+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 406.62,
+    "last_calculation": "2026-06-23T04:11:27.601374+00:00"
   }
 }
