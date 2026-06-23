@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 141932,
+        "text": "نروژ این شاهکار رو ثبت کرد:\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-23T15:10:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141932_0_51140fbc.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141932_1_497f199d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141932"
+      },
+      {
         "id": 141931,
         "text": "شهباز شریف نخست‌وزیر پاکستان:\n«مذاکرات شامل برنامه موشکی ایران نیز هست و آمریکا و ایران ظرف ۶۰ روز آینده درباره برنامه موشک بالستیک و موضوع هسته‌ای گفتگو خواهند کرد»\n💢\n@Baga_News\n| Король",
         "date": "2026-06-23T14:50:20+00:00",
@@ -14685,25 +14704,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141827"
-      },
-      {
-        "id": 141826,
-        "text": "🇪🇬\n👀\n| سرمربی مصر: می‌خواهیم ایران را ببریم و به‌عنوان صدرنشین صعود کنیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-22T08:20:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141826_0_54d6bb6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141826_1_4aa2af50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141826"
       }
     ],
     "maznet": [
@@ -16285,7 +16285,7 @@
       }
     ]
   },
-  "last_update": "2026-06-23T14:54:03.423859+00:00",
+  "last_update": "2026-06-23T15:18:09.935172+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16293,15 +16293,15 @@
     "total_files": 748,
     "total_links": 280,
     "files_by_type": {
-      "image": 710,
-      "video": 26,
+      "image": 709,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 748,
     "existing_media_files": 747,
-    "total_size_mb": 396.32,
-    "last_calculation": "2026-06-23T14:54:03.433208+00:00"
+    "total_size_mb": 405.64,
+    "last_calculation": "2026-06-23T15:18:09.944256+00:00"
   }
 }
