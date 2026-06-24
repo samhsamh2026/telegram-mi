@@ -12946,6 +12946,37 @@
     ],
     "bg_ae": [
       {
+        "id": 141962,
+        "text": "🔴\nحملات شدید اسرائیل به اهداف حماس در نوار غزه\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-24T00:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141962_0_8b6e193b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141962_1_644fe3ee.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141962_2_ffc14f70.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141962_3_c6293f4b.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_141962_4_7b3b3fbd.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141962"
+      },
+      {
         "id": 141961,
         "text": "🔴\n🇺🇸\nترامپ:\nهمسر بسیار شیک‌پوش من به من می‌گوید: «عزیزم، لطفاً، لطفاً نرقص. این کار شایسته ریاست‌جمهوری نیست.»\n◀️\nمن گفتم: «مردم عاشق رقص من هستند!»\n◀️\nاو گفت: «لطفاً، لطفاً ادای آن وزنه‌بردار را درنیار حداقل!»\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-06-23T22:31:27+00:00",
@@ -14725,25 +14756,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141857"
-      },
-      {
-        "id": 141856,
-        "text": "⏺\nویدیویی از بازسازی پل B-1 کرج\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-22T12:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141856_0_54d6bb6e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141856_1_c0177401.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141856"
       }
     ],
     "maznet": [
@@ -16325,23 +16337,23 @@
       }
     ]
   },
-  "last_update": "2026-06-23T22:49:33.691836+00:00",
+  "last_update": "2026-06-24T00:05:18.431029+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 758,
-    "total_files": 758,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 280,
     "files_by_type": {
       "image": 712,
-      "video": 34,
+      "video": 37,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
-    "total_size_mb": 423.79,
-    "last_calculation": "2026-06-23T22:49:33.701020+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 429.48,
+    "last_calculation": "2026-06-24T00:05:18.439962+00:00"
   }
 }
