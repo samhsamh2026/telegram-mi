@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 141970,
+        "text": "💢\nقالیباف جهت شرکت در کنفرانس اتحادیه مجالس کشورهای عضو سازمان همکاری اسلامی وارد باکو شد.\n💢\n@Baga_News | areZo",
+        "date": "2026-06-24T05:33:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_141970_0_8b6e193b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/141970"
+      },
+      {
         "id": 141969,
         "text": "💢\nقالیباف جهت شرکت در کنفرانس اتحادیه مجالس کشورهای عضو سازمان همکاری اسلامی وارد باکو شد.\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-24T04:44:05+00:00",
@@ -14741,25 +14756,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141862"
-      },
-      {
-        "id": 141861,
-        "text": "🔴\nکوکسل بابا چهره ی معروف رسانه ی ترکیه بعد از اینکه تیم ملی ترکیه تو جام جهانی باخت و حذف شد الان با این عکس از تیم ایران حمایت کرد :\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-22T14:10:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141861_0_54d6bb6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141861_1_a2d9b212.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141861"
       }
     ],
     "maznet": [
@@ -16341,23 +16337,23 @@
       }
     ]
   },
-  "last_update": "2026-06-24T04:49:31.500812+00:00",
+  "last_update": "2026-06-24T05:57:16.634097+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 280,
     "files_by_type": {
-      "image": 711,
+      "image": 710,
       "video": 39,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 438.57,
-    "last_calculation": "2026-06-24T04:49:31.510539+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 438.52,
+    "last_calculation": "2026-06-24T05:57:16.642823+00:00"
   }
 }
