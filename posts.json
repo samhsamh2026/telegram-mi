@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 142051,
+        "text": "🆕\nرویترز به نقل از مقام آمریکایی: اسرائیل به نشانه حسن نیت از بخشی از منطقه امنیتی جنوب لبنان عقب‌نشینی کرد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-25T09:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142051_0_c3471c8a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142051"
+      },
+      {
+        "id": 142050,
+        "text": "💢\nترامپ : وای! سنا رأی خود در مورد ایران را از ۵۰ به ۴۸ مخالف به ۵۰ به ۴۷ موافق تغییر داد. رند پال و بیل کسیدی تغییر کردند. از رهبر جان تون، لیندسی گراهام، برنی مورنو و همه متشکرم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-25T09:34:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142050_0_c3471c8a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142050_1_cbe2abb2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142050"
+      },
+      {
         "id": 142049,
         "text": "⚫️\nسازمان پخش اسرائیل: ایالات متحده به درخواست اسرائیل، ۲۸ هواپیمای سوخت‌رسان خود را از فرودگاه بن گوریون خارج می‌کند.\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-25T09:16:11+00:00",
@@ -14779,44 +14813,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/141933"
-      },
-      {
-        "id": 141932,
-        "text": "نروژ این شاهکار رو ثبت کرد:\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-23T15:10:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141932_0_51140fbc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141932_1_497f199d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141932"
-      },
-      {
-        "id": 141931,
-        "text": "شهباز شریف نخست‌وزیر پاکستان:\n«مذاکرات شامل برنامه موشکی ایران نیز هست و آمریکا و ایران ظرف ۶۰ روز آینده درباره برنامه موشک بالستیک و موضوع هسته‌ای گفتگو خواهند کرد»\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-23T14:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141931_0_51140fbc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141931_1_3094e8e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141931"
       }
     ],
     "maznet": [
@@ -16398,23 +16394,23 @@
       }
     ]
   },
-  "last_update": "2026-06-25T09:27:07.388666+00:00",
+  "last_update": "2026-06-25T09:55:18.277822+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 772,
-    "total_files": 772,
+    "total_media": 771,
+    "total_files": 771,
     "total_links": 283,
     "files_by_type": {
       "image": 719,
-      "video": 41,
+      "video": 40,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 772,
-    "existing_media_files": 771,
-    "total_size_mb": 470.28,
-    "last_calculation": "2026-06-25T09:27:07.397675+00:00"
+    "referenced_files": 771,
+    "existing_media_files": 770,
+    "total_size_mb": 460.89,
+    "last_calculation": "2026-06-25T09:55:18.287055+00:00"
   }
 }
