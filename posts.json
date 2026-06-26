@@ -12946,6 +12946,71 @@
     ],
     "bg_ae": [
       {
+        "id": 142118,
+        "text": "شوخی کاربران با بیل زدن پزشکیان\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-26T05:34:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142118_0_f275781f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142118_1_870462a2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142118_2_8f775904.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142118_3_5eb89e14.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142118"
+      },
+      {
+        "id": 142117,
+        "text": "🔴\nاین سگ بخاطر اینکه حاضر نشد تو آزمونِ استخدامی سگ‌های خدماتی عروسک مورد علاقشو رها کنه، رد شد!\n🫰\nسگ‌های خدماتی باید روی کارشون متمرکز باشن و نباید چیزی حواسشون رو پرت کنه، اما این سگ بخاطر وفاداری به عروسک مورد علاقش، ولش نکرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-26T05:01:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142117_0_f275781f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142117_1_aaed842a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142117"
+      },
+      {
+        "id": 142116,
+        "text": "حداد عادل:\nآقای جدید گفت برید مذاکره کنید\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-26T04:32:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142116_0_f275781f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142116_1_f171bc86.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142116"
+      },
+      {
         "id": 142115,
         "text": "😐\n😐\n😐\n😐\n💢\n@Baga_News\n| Король",
         "date": "2026-06-26T04:01:20+00:00",
@@ -14722,59 +14787,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142000"
-      },
-      {
-        "id": 141999,
-        "text": "🇺🇸\nمارکو روبیو، وزیر امور خارجه، برای دومین مرحله از تور خاورمیانه خود به کویت رسیده است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-24T13:57:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141999_0_8b6e193b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_141999_1_e106a855.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141999"
-      },
-      {
-        "id": 141998,
-        "text": "سخنگوی کمیسیون امنیت ملی مجلس :\nتنگه هرمز رو با مذاکره فتح نکردیم که با مذاکره واگذار کنیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-24T13:50:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141998_0_8b6e193b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141998"
-      },
-      {
-        "id": 141997,
-        "text": "⚫️\nمراسم تاسوعای امسال تو حسینیه امام با عکس رهبر پیشین جمهوری اسلامی انجام شد :\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-24T13:30:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_141997_0_8b6e193b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_141997_1_ff036980.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/141997"
       }
     ],
     "maznet": [
@@ -16356,23 +16368,23 @@
       }
     ]
   },
-  "last_update": "2026-06-26T04:20:53.150875+00:00",
+  "last_update": "2026-06-26T05:59:21.231091+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 763,
-    "total_files": 763,
+    "total_media": 766,
+    "total_files": 766,
     "total_links": 282,
     "files_by_type": {
-      "image": 721,
-      "video": 30,
+      "image": 725,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 763,
-    "existing_media_files": 762,
-    "total_size_mb": 432.0,
-    "last_calculation": "2026-06-26T04:20:53.157933+00:00"
+    "referenced_files": 766,
+    "existing_media_files": 765,
+    "total_size_mb": 423.79,
+    "last_calculation": "2026-06-26T05:59:21.240130+00:00"
   }
 }
