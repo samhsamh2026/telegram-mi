@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 142299,
+        "text": "ستاد مبارزه با مواد مخدر از رصد ماهواره‌ای کشت غیرقانونی خشخاش از سال آینده ، خبر داد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-27T13:32:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142299_0_1c590d98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142299"
+      },
+      {
+        "id": 142298,
+        "text": "🇮🇷\n👀\n| معاون وزیر قطع ارتباطات:\nبیش از ۱۰ میلیون نفر بازی ایران و مصر را از طریق پلتفرم‌های آنلاین مشاهده کرده‌اند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-27T13:10:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142298_0_1c590d98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142298"
+      },
+      {
         "id": 142297,
         "text": "این میم جهانی شد\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-27T12:50:16+00:00",
@@ -14698,40 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142180"
-      },
-      {
-        "id": 142179,
-        "text": "🔹\nرومینا پورمختاری، وزیر ایرانی‌تبار محیط زیست سوئد، روز پنج‌شنبه با حضور در نشست وزیران محیط زیست اتحادیه اروپا در لوکزامبورگ، نوزاد سه‌ماهه‌اش «آدام» را نیز همراه خود برد؛ اقدامی که به گفته یکی از مقام‌های شورای اتحادیه اروپا، برای نخستین بار در تاریخ این نهاد رخ داده است\nاو در جمع خبرنگاران گفت از اینکه می‌تواند نشان دهد زنان نباید میان مسئولیت‌های سیاسی و مادری یکی را انتخاب کنند، خوشحال است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-26T17:50:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142179_0_f275781f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142179"
-      },
-      {
-        "id": 142178,
-        "text": "طبق تحقیقات جدید، عامل 90 درصدِ استرس آقایون، خانما هستن.\n⚪️\n@Baga_Tweet",
-        "date": "2026-06-26T17:34:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142178_0_f275781f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142178_1_f30ca845.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142178"
       }
     ],
     "maznet": [
@@ -16313,23 +16309,23 @@
       }
     ]
   },
-  "last_update": "2026-06-27T12:54:10.527409+00:00",
+  "last_update": "2026-06-27T13:47:30.851934+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 755,
-    "total_files": 755,
+    "total_media": 754,
+    "total_files": 754,
     "total_links": 280,
     "files_by_type": {
-      "image": 718,
+      "image": 717,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 755,
-    "existing_media_files": 754,
-    "total_size_mb": 364.2,
-    "last_calculation": "2026-06-27T12:54:10.534323+00:00"
+    "referenced_files": 754,
+    "existing_media_files": 753,
+    "total_size_mb": 364.14,
+    "last_calculation": "2026-06-27T13:47:30.860918+00:00"
   }
 }
