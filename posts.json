@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 142324,
+        "text": "هیئت‌ها دیگه وارد فاز عجیبی شدن...\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-27T19:30:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142324_0_1c590d98.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142324_1_31cf0206.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142324"
+      },
+      {
         "id": 142323,
         "text": "برد موشکامون به مصر میرسه؟\n💢\n@Baga_News\n| Король",
         "date": "2026-06-27T19:10:13+00:00",
@@ -14733,25 +14752,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142203"
-      },
-      {
-        "id": 142202,
-        "text": "🔴\n🏆\n|\nهفته سوم جام جهانی فوتبال 2026.\nبازی افتخار برای همجنسگرایان\n🤡\n🏳️‍🌈\n|\n🇮🇷\n🇮🇷\nایران\n🆚\nمصر\n🇪🇬\n🇪🇬\n|\n🏳️‍🌈\n۶ تیر ساعت 6:30 به وقت ایران\n.\n🏟\nاستادیوم سیاتل\n🚨\nبه نظرتون کدوم تیم بازی رو میبره؟\n◀️\nایران میبره\n👍\n◀️\nمصر میبره\n❤️\n◀️\nمساوی میشه\n🔥\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-06-26T20:47:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142202_0_1c590d98.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142202_1_32cd6798.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142202"
       }
     ],
     "maznet": [
@@ -16333,7 +16333,7 @@
       }
     ]
   },
-  "last_update": "2026-06-27T19:24:06.887449+00:00",
+  "last_update": "2026-06-27T19:40:30.659403+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16341,15 +16341,15 @@
     "total_files": 760,
     "total_links": 280,
     "files_by_type": {
-      "image": 722,
-      "video": 26,
+      "image": 721,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 387.65,
-    "last_calculation": "2026-06-27T19:24:06.896236+00:00"
+    "total_size_mb": 391.12,
+    "last_calculation": "2026-06-27T19:40:30.668395+00:00"
   }
 }
