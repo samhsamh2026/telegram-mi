@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 142350,
+        "text": "خدایا گفتیم یک امشبو ایرانی باش گفتی شرمنده تحریمید، گفتیم لااقل نیوزیلندی باش مساوی بگیرن گفتی نه بلژیکیم، میشه خواهش کنم ازت لااقل امشبو کنگویی نباشی؟ کنگوییا خودشونم کنگویی نیستنا\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-27T23:50:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142350_0_b6067ac4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142350"
+      },
+      {
+        "id": 142349,
+        "text": "🔴\n🇺🇸\n🇺🇸\n| ترامپ در تروث سوشال:\nهواپیماهای ایالات متحده همین حالا مراکز ذخیره‌سازی موشک‌ها و پهپادهای ایران و همچنین مواضع راداری ساحلی را به‌دلیل نقض توافق آتش‌بس، بار دیگر هدف حمله قرار دادند! کاملاً ممکن است که آن‌ها هرگز یاد نگیرند! شاید زمانی فرا برسد که دیگر نتوانیم معقولانه رفتار کنیم و مجبور شویم از نظر نظامی کاری را که بسیار موفقانه آغاز کرده‌ایم، به‌طور کامل به پایان برسانیم. اگر چنین شود، جمهوری اسلامی ایران دیگر وجود نخواهد داشت!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-27T23:21:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142349_0_b6067ac4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142349_1_4bb67441.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142349"
+      },
+      {
         "id": 142348,
         "text": "هم‌اکنون\n🔴\nگزارش صدای انفجار دیگر در قشم\n‼️\n‼️\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
         "date": "2026-06-27T22:09:01+00:00",
@@ -14684,44 +14718,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142235"
-      },
-      {
-        "id": 142234,
-        "text": "همجنس‌بازا\n🏳️‍🌈\nدرحال ورود به ورزشگاه\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-27T02:59:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142234_0_1c590d98.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_142234_1_b7fcbf16.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142234"
-      },
-      {
-        "id": 142233,
-        "text": "فرعون هم تو ورزشگاه حضور داره و بازیو از نزدیک تماشا میکنه:\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-27T02:58:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142233_0_1c590d98.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142233_1_77c4895c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142233"
       }
     ],
     "maznet": [
@@ -16303,23 +16299,23 @@
       }
     ]
   },
-  "last_update": "2026-06-27T22:39:23.869866+00:00",
+  "last_update": "2026-06-28T00:11:05.844698+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 281,
     "files_by_type": {
       "image": 716,
-      "video": 23,
+      "video": 22,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 387.09,
-    "last_calculation": "2026-06-27T22:39:23.878949+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 383.34,
+    "last_calculation": "2026-06-28T00:11:05.853523+00:00"
   }
 }
