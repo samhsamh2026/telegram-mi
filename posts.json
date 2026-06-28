@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 142383,
+        "text": "🇮🇷\n👀\n|\nبه نظر شما مهم‌ترین دلیل حذف ایران چه بود\n⁉️\n🚨\nاگر فقط اجازه داشتی یک نفر را مقصر حذف ایران بدانی، چه کسی یا چه چیزی را انتخاب می‌کردی؟\n🚫\nبدون توهین، فقط اسم یا دلیل را در یک کامنت بنویس\n👇\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-28T04:30:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142383_0_b6067ac4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142383_1_c4ae1441.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142383"
+      },
+      {
         "id": 142382,
         "text": "رسمی:\nایران از جام جهانی حذف شد\n💢\n@Baga_News\n| Король",
         "date": "2026-06-28T04:01:04+00:00",
@@ -14687,21 +14706,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142266"
-      },
-      {
-        "id": 142265,
-        "text": "رضاییان داره گریه میکنه\n💢\n@Baga_News | Король",
-        "date": "2026-06-27T05:17:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142265_0_1c590d98.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142265"
       }
     ],
     "maznet": [
@@ -16283,23 +16287,23 @@
       }
     ]
   },
-  "last_update": "2026-06-28T04:02:10.143866+00:00",
+  "last_update": "2026-06-28T05:06:02.500304+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 746,
-    "total_files": 746,
+    "total_media": 747,
+    "total_files": 747,
     "total_links": 281,
     "files_by_type": {
-      "image": 711,
+      "image": 712,
       "video": 23,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 396.14,
-    "last_calculation": "2026-06-28T04:02:10.152747+00:00"
+    "referenced_files": 747,
+    "existing_media_files": 746,
+    "total_size_mb": 396.23,
+    "last_calculation": "2026-06-28T05:06:02.509110+00:00"
   }
 }
