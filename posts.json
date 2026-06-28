@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 142453,
+        "text": "بیاید بازی کنیم\n👇\n☄️\n@DozGame_Robot",
+        "date": "2026-06-28T19:32:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142453_0_b6067ac4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142453"
+      },
+      {
+        "id": 142452,
+        "text": "💢\nاگه میخواید بدونید نفوذ موساد و اسرائیل چقدر توی ایران زیاده؛ کافیه بدونید که «کمال خرازی» بعد از اینکه توی بمباران زخمی شده و کشته نشده؛ مامورهای موساد رفتن تو بیمارستان خفش کردن\n«کمال خرازی» رئیس شورای راهبردی روابط خارجی و مشاور خامنه‌ای در امور بین الملل بود\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-28T19:30:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142452_0_b6067ac4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142452_1_259ed418.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142452"
+      },
+      {
         "id": 142451,
         "text": "یکی از امیرخان بپرسه این تعطیلی یک هفته‌ای ما چی میشه؟!\n⚪️\n@Baga_Tweet",
         "date": "2026-06-28T19:10:22+00:00",
@@ -14598,44 +14632,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142340"
-      },
-      {
-        "id": 142339,
-        "text": "تو تاریخ بنویسین دو کشور در حالی که توافق کرده بودن، هر شب باهم میجنگیدن :))\n@Baga_Tweet",
-        "date": "2026-06-27T21:45:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142339_0_b6067ac4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142339"
-      },
-      {
-        "id": 142337,
-        "text": "خوبه مادورو رو گرفتن وگرنه خرج زلزله رو ما مردم ایران باید میدادیم.\n🔴\nتو ونزوئلا دو سه روزه زلزله‌هایی شدید داره اتفاق میفته که دو زلزله بیشتر از ۷ ریشتر بوده و تا الان حدود ۵۵ هزار نفر مفقود شدند و حدود ۱۰ هزار کشته هم ثبت شده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-27T21:33:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142337_0_b6067ac4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142337_1_44677441.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142337_2_2b88a804.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142337"
       }
     ],
     "maznet": [
@@ -16217,23 +16213,23 @@
       }
     ]
   },
-  "last_update": "2026-06-28T19:24:43.401378+00:00",
+  "last_update": "2026-06-28T19:42:00.356148+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 731,
-    "total_files": 731,
+    "total_media": 730,
+    "total_files": 730,
     "total_links": 280,
     "files_by_type": {
-      "image": 700,
+      "image": 699,
       "video": 19,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 731,
-    "existing_media_files": 730,
-    "total_size_mb": 386.99,
-    "last_calculation": "2026-06-28T19:24:43.410007+00:00"
+    "referenced_files": 730,
+    "existing_media_files": 729,
+    "total_size_mb": 386.91,
+    "last_calculation": "2026-06-28T19:42:00.364618+00:00"
   }
 }
