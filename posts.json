@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 142392,
+        "text": "⭕️\nسپاه پاسداران ویدیوی حملات موشکی شب گذشته رو منتشر کرد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-28T08:50:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142392_0_b6067ac4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142392_1_d0bd4aaa.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142392"
+      },
+      {
         "id": 142391,
         "text": "💢\nسخنگوی سپاه: از اینکه دولت به سپاه نفت داده باشد اطلاعی ندارم و بعید می‌دانم چنین موضوعی صحت داشته باشد\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-28T08:31:42+00:00",
@@ -14691,25 +14710,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142275"
-      },
-      {
-        "id": 142274,
-        "text": "سوژه شدی رفت شجاع جون\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-27T05:35:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142274_0_1c590d98.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142274_1_cda8a681.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142274"
       }
     ],
     "maznet": [
@@ -16291,7 +16291,7 @@
       }
     ]
   },
-  "last_update": "2026-06-28T08:34:49.358131+00:00",
+  "last_update": "2026-06-28T08:56:01.476588+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16299,15 +16299,15 @@
     "total_files": 748,
     "total_links": 281,
     "files_by_type": {
-      "image": 712,
-      "video": 24,
+      "image": 711,
+      "video": 25,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 748,
     "existing_media_files": 747,
-    "total_size_mb": 402.56,
-    "last_calculation": "2026-06-28T08:34:49.366956+00:00"
+    "total_size_mb": 408.43,
+    "last_calculation": "2026-06-28T08:56:01.485463+00:00"
   }
 }
