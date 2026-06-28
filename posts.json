@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 142386,
+        "text": "🟠\nتا الان بیش از 69 هزار نفر در زلزله ی ونزوئلا مفقود شدن ...\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-28T06:02:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142386_0_b6067ac4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142386_1_b1508aea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142386"
+      },
+      {
+        "id": 142385,
+        "text": "بعد این، تو دنیا هیچی دیگه سوپرایزم نمیکنه.\n🔴\nزهران ممدانی شهردار مسلمان نیویورک با کت و شلوار پرید تو استخر شنا کرد، با خانوما دست داد بغلشون کرد و باهاشون روبوسی کرد.\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-28T05:34:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142385_0_b6067ac4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142385"
+      },
+      {
+        "id": 142384,
+        "text": "🔴\nشادی مردم غزه با پرچم مصر بعد از مردود شدن گل تیم جمهوری اسلامی :\n+\n🤑\nمن چیزی نمیگم خودتون با یه ری اکشن حستونو نسبت به این حرکت نشون بدید\n😊\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-28T05:10:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142384_0_b6067ac4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142384_1_1afe612b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142384"
+      },
+      {
         "id": 142383,
         "text": "🇮🇷\n👀\n|\nبه نظر شما مهم‌ترین دلیل حذف ایران چه بود\n⁉️\n🚨\nاگر فقط اجازه داشتی یک نفر را مقصر حذف ایران بدانی، چه کسی یا چه چیزی را انتخاب می‌کردی؟\n🚫\nبدون توهین، فقط اسم یا دلیل را در یک کامنت بنویس\n👇\n💢\n@Baga_News\n| Король",
         "date": "2026-06-28T04:30:32+00:00",
@@ -14653,59 +14706,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142269"
-      },
-      {
-        "id": 142268,
-        "text": "🇮🇷\n| رامین رضاییان بهترین بازیکن زمین شد\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-27T05:24:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142268_0_1c590d98.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142268_1_445c47b9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142268"
-      },
-      {
-        "id": 142267,
-        "text": "تصویر وایرال شده از اتاق وار:\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-27T05:21:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142267_0_1c590d98.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142267_1_7e7fec92.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142267"
-      },
-      {
-        "id": 142266,
-        "text": "قلعه نویی اومد رو خط\n💢\n@Baga_News | Король",
-        "date": "2026-06-27T05:19:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142266_0_1c590d98.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142266"
       }
     ],
     "maznet": [
@@ -16287,7 +16287,7 @@
       }
     ]
   },
-  "last_update": "2026-06-28T05:06:02.500304+00:00",
+  "last_update": "2026-06-28T06:06:31.848813+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16295,15 +16295,15 @@
     "total_files": 747,
     "total_links": 281,
     "files_by_type": {
-      "image": 712,
-      "video": 23,
+      "image": 711,
+      "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 747,
     "existing_media_files": 746,
-    "total_size_mb": 396.23,
-    "last_calculation": "2026-06-28T05:06:02.509110+00:00"
+    "total_size_mb": 399.62,
+    "last_calculation": "2026-06-28T06:06:31.857429+00:00"
   }
 }
