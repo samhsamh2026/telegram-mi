@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 142487,
+        "text": "🔻\nکانال 12 اسرائیل:\nجی دی ونس و افرادش کسانی بودند که طرح مخفی موساد برای تغییر حکومت در ایران با کمک کردها را به اردوغان، لو دادن\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-29T10:53:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142487_0_136a153b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142487"
+      },
+      {
+        "id": 142486,
+        "text": "⭕️\n⭕️\n|\nفوری\n‼️\n🔴\nرویترز: ایران شرکت در مذاکرات فنی را لغو کرد.\n!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-29T10:50:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142486_0_136a153b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142486_1_4fa27be7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142486"
+      },
+      {
+        "id": 142484,
+        "text": "🔹\nوزیر کشاورزی آمریکا:\nمحصولات ما آماده ارسال به ایران هستن\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-29T10:31:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142484_0_136a153b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142484"
+      },
+      {
         "id": 142483,
         "text": "🔻\nشریعتمداری، نماینده علی خامنه ای تو روزنامه کیهان :\nاولین کاری که باید تو مذاکرات انجام بدیم اینه که خیلی جدی بهشون بگیم ترامپ باید تحویل جمهوری اسلامی داده بشه تا تو دادگاه‌های ایران محاکمه‌ش کنیم.\nاین میشه قدم اول برای عملی شدن خواسته‌های رهبری.\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-29T10:10:21+00:00",
@@ -14643,51 +14692,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142381"
-      },
-      {
-        "id": 142380,
-        "text": "خدایا بگیم شکرت خودت خندت نمیگیره؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-28T03:58:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142380_0_b6067ac4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142380"
-      },
-      {
-        "id": 142378,
-        "text": "اتریش گل زد\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-28T03:57:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142378_0_b6067ac4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142378"
-      },
-      {
-        "id": 142374,
-        "text": "الجزایر گل زددد\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-28T03:55:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142374_0_b6067ac4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142374"
       }
     ],
     "maznet": [
@@ -16269,23 +16273,23 @@
       }
     ]
   },
-  "last_update": "2026-06-29T10:11:48.558646+00:00",
+  "last_update": "2026-06-29T11:04:31.499546+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 744,
-    "total_files": 744,
+    "total_media": 745,
+    "total_files": 745,
     "total_links": 280,
     "files_by_type": {
-      "image": 707,
+      "image": 708,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 744,
-    "existing_media_files": 743,
-    "total_size_mb": 401.04,
-    "last_calculation": "2026-06-29T10:11:48.567617+00:00"
+    "referenced_files": 745,
+    "existing_media_files": 744,
+    "total_size_mb": 401.12,
+    "last_calculation": "2026-06-29T11:04:31.508367+00:00"
   }
 }
