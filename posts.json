@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 142523,
+        "text": "😂\nعراقی ها حسابی رو عباس کراش زدن\n💢\n@Baga_News\n| Король",
+        "date": "2026-06-29T20:10:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142523_0_974a3c03.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142523_1_a8c90a66.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142523_2_6b42e64c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142523"
+      },
+      {
+        "id": 142522,
+        "text": "🔴\n✈️\n🚀\n|\nحملات سنگین اسرائیل به مواضع حماس در خان یونس\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-29T20:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142522_0_974a3c03.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142522_1_93f4dd7d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142522"
+      },
+      {
         "id": 142521,
         "text": "🚨\nامروز شهرهای \"ایرانشهر، امیدیه، دهلران و بُستان\" جزو 4تا از گرمترین شهرهای جهان بودن.\n💢\n@Baga_News\n| Король",
         "date": "2026-06-29T19:50:22+00:00",
@@ -14670,36 +14712,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142417"
-      },
-      {
-        "id": 142416,
-        "text": "🔴\nدولت عراق دیشب ۳۷ نفر از وزرا و دست‌اندرکاران سیاسی در مجلس رو به‌دلیل فساد و عمدتاً ارتباط با جمهوری‌اسلامی و سپاه (از اعضای حشدالشعبی) رو دستگیر کردن.\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-28T13:37:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142416_0_b6067ac4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142416"
-      },
-      {
-        "id": 142415,
-        "text": "دادستان مازندران: بی حجابی در سطح استان به بیشترین حد خودش رسیده و دخترا عریان میان بیرون!\nاز مسئولین مربوطه درخواست دارم اشد مجازات رو برای دخترانی که خلاف موازین اسلامی رفتار میکنن در نظر بگیرن.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-28T13:32:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142415_0_b6067ac4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142415"
       }
     ],
     "maznet": [
@@ -16281,23 +16293,23 @@
       }
     ]
   },
-  "last_update": "2026-06-29T20:01:20.675845+00:00",
+  "last_update": "2026-06-29T20:13:52.122376+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 747,
-    "total_files": 747,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 280,
     "files_by_type": {
-      "image": 712,
-      "video": 23,
+      "image": 713,
+      "video": 25,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 747,
-    "existing_media_files": 746,
-    "total_size_mb": 387.29,
-    "last_calculation": "2026-06-29T20:01:20.684762+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 394.76,
+    "last_calculation": "2026-06-29T20:13:52.131091+00:00"
   }
 }
