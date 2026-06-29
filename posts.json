@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 142467,
+        "text": "🔴\n🪖\n🗣\n🇮🇱\n|\nارتش اسرائیل ویدئویی از تخریب یک تونل بزرگ حزب‌الله در زیر روستای مجدل زون در جنوب لبنان، در شامگاه دیروز را منتشر کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-29T06:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142467_0_136a153b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142467_1_56fa0fca.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142467"
+      },
+      {
+        "id": 142466,
+        "text": "🔴\nاشتباه نکنید، این زیرزمین خونه والتر وایت نیست، این بخشی از دلارها و طلاهای کشف‌شده در منزل یکی از نمایندگان متهم به فساد مالی پارلمان عراقه.\n‼️\n+\n🤑\nبنظرتون از زیرزمین خونه مسئولین فاسد ایرانم به همچین چیزایی در میاد؟\n👍\n/\n👎\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-06-29T05:33:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142466_0_136a153b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142466_1_49a07951.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142466"
+      },
+      {
         "id": 142465,
         "text": "🇮🇷\n👀\n|\nقلعه نویی:\nاستعفا نمیدم و آماده میشیم برای جام‌ملت‌ها\n💢\n@Baga_News\n| Король",
         "date": "2026-06-29T05:01:21+00:00",
@@ -14618,44 +14656,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142358"
-      },
-      {
-        "id": 142357,
-        "text": "خیابانی با زبان عربی از تیم ملی الجزایر می‌خواد اتریش رو شکست بده تا ایران راهی مرحله بعد جام جهانی بشه\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-28T03:10:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142357_0_b6067ac4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_142357_1_88dc171f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142357"
-      },
-      {
-        "id": 142356,
-        "text": "گل  الجزایر رو دیدید؟\nتوپ خورد به پرچم کرنر و برگشت\n😐\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-28T02:57:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142356_0_b6067ac4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_142356_1_3f596c91.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142356"
       }
     ],
     "maznet": [
@@ -16237,7 +16237,7 @@
       }
     ]
   },
-  "last_update": "2026-06-29T05:16:07.300171+00:00",
+  "last_update": "2026-06-29T06:27:23.625668+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16245,15 +16245,15 @@
     "total_files": 736,
     "total_links": 280,
     "files_by_type": {
-      "image": 703,
-      "video": 21,
+      "image": 704,
+      "video": 20,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 736,
     "existing_media_files": 735,
-    "total_size_mb": 395.77,
-    "last_calculation": "2026-06-29T05:16:07.308906+00:00"
+    "total_size_mb": 400.02,
+    "last_calculation": "2026-06-29T06:27:23.634345+00:00"
   }
 }
