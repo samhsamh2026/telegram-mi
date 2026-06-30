@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 142558,
+        "text": "⭕️\nیک هواپیمای دولتی آمریکا از میامی به سمت قطر می رود که احتمالاً استیو ویتکاف، نماینده ترامپ را برای مذاکره با ایران حمل می کند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-30T09:53:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142558_0_974a3c03.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142558_1_6c7dabfe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142558"
+      },
+      {
+        "id": 142557,
+        "text": "🔹\nروبیو:\nاحتمال شکست مذاکرات با ایران وجود دارد\n‼️\n💢\n@Baga_News\n| areZo",
+        "date": "2026-06-30T09:51:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142557_0_974a3c03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142557"
+      },
+      {
         "id": 142556,
         "text": "💢\nدلار مردم ایران می‌ره این و آن کشور، اینجا دختر ایرانی ۱ کیلومتر آب می‌کشه به خاطر نبود یه پمپ ساده!\n😔\n💢\n@Baga_News\n| areZo",
         "date": "2026-06-30T09:32:48+00:00",
@@ -14722,40 +14756,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142441"
-      },
-      {
-        "id": 142440,
-        "text": "🔴\n🇶🇦\n🇮🇷\nوزارت کشور قطر اعلام کرد:\nدر آخر هفته ای ک گذشت تیم‌های جستجوی دریایی بعد از برنگشتن یک کشتی در زمان مقرر آن را پیدا کردند و مشخص شد یک شهروند قطری پس از اصابت ترکش از «پرتابه های سپاه» در منطقه کشته شده است.\n❗️\n◀️\nیک ساکن عرب هم که در کشتی بود زخمی شده.\n❗️\n◀️\nمقامات تحقیقات در مورد این حادثه را آغاز کرده‌اند.\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-28T17:15:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142440_0_b6067ac4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142440"
-      },
-      {
-        "id": 142439,
-        "text": "🔵\nقلعه نویی چندتا قلب\n(\n🖕\n)\nداره؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-28T17:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142439_0_b6067ac4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_142439_1_d4e25230.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142439"
       }
     ],
     "maznet": [
@@ -16337,7 +16337,7 @@
       }
     ]
   },
-  "last_update": "2026-06-30T09:41:02.237847+00:00",
+  "last_update": "2026-06-30T10:10:23.553206+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16345,15 +16345,15 @@
     "total_files": 761,
     "total_links": 280,
     "files_by_type": {
-      "image": 719,
-      "video": 30,
+      "image": 720,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 761,
     "existing_media_files": 760,
-    "total_size_mb": 404.24,
-    "last_calculation": "2026-06-30T09:41:02.246991+00:00"
+    "total_size_mb": 401.21,
+    "last_calculation": "2026-06-30T10:10:23.562043+00:00"
   }
 }
