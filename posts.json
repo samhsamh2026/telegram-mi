@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 142622,
+        "text": "«نانا کواکو بونسام» جادوگر غنایی معروف جام جهانی که تا الان هرچی گفته درست دراومده؛ مدعی شد آرژانتین تو این مرحله مقابل کیپ ورد میبازه و از جام جهانی حذف میشه!\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-01T05:01:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142622_0_7b62a66c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142622_1_fc627ab2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142622"
+      },
+      {
+        "id": 142621,
+        "text": "این عکسی که میبینید نه هوش مصنوعیه نه قدیمی\nاین عکس مربوط به جنگ اخیر و جنازه های سرباز های حزب الله هست که اسرائیل روی دستشون گذاشته!\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-01T04:33:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142621_0_7b62a66c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142621_1_87c2c7c7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142621"
+      },
+      {
         "id": 142620,
         "text": "🇮🇷\n🏴\nفیلم منتشر شده برای اولین بار از اولین وصیت نامه ایت الله سید علی خامنه ای :\nاولین وصیت من اینه افرادی که نزدیک به من هستن و بهترین خاطراتمو باهاشون داشتم ، حلالم کنن\n💢\n@Baga_News\n| Король",
         "date": "2026-07-01T04:02:21+00:00",
@@ -14680,40 +14718,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142507"
-      },
-      {
-        "id": 142506,
-        "text": "شده تاحالا فیلترشکن بگیری ولی بعد 2 3 روز قطع بشه\n⁉️\nاین تیم تا آخرین قطره حجمتون پشتیبانی و تضمین کیفیت و عدم قطعی دارن\n⚡️\n🛡\n@SkyShieldVPNBot\nمورد تایید ما هستن\n💢",
-        "date": "2026-06-29T16:11:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142506_0_136a153b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142506"
-      },
-      {
-        "id": 142505,
-        "text": "⏺\nوزارت حمل‌ونقل قطر: تمام قایق‌های تفریحی، ماهیگیری، جت‌اسکی و سایر شناورهای دریایی کوچک تا اطلاع ثانوی باید فعالیت خود را متوقف کنند.\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-29T16:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142505_0_136a153b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142505_1_f46ce549.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142505"
       }
     ],
     "maznet": [
@@ -16295,23 +16299,23 @@
       }
     ]
   },
-  "last_update": "2026-07-01T04:06:10.344341+00:00",
+  "last_update": "2026-07-01T05:09:14.851427+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 281,
     "files_by_type": {
-      "image": 713,
+      "image": 714,
       "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 384.8,
-    "last_calculation": "2026-07-01T04:06:10.352955+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 384.91,
+    "last_calculation": "2026-07-01T05:09:14.860422+00:00"
   }
 }
