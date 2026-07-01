@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 142664,
+        "text": "🔵\nتصاویر دیده نشده از لحظه نجات معجزه‌آسای یک هموطن از زیر آوار حملات با تلاش امدادگران\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-01T15:10:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142664_0_7b62a66c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142664_1_1a77a9fe.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142664"
+      },
+      {
+        "id": 142663,
+        "text": "🚨\nتو آلمان بخاطر اینکه دمای هوا برای اولین بار تو تاریخ به ۴۰ درجه رسیده و مردم شهرای مختلف دارن بر اثر گرما زدگی میفتن میمیرن،ماشین آب پاش آوردن دارن روی مردم آب میریزن تا گرما زده نشنو نمیرن\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-01T14:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142663_0_7b62a66c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142663_1_11f11458.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142663"
+      },
+      {
         "id": 142662,
         "text": "🇮🇷\nخوش چشم کارشناس ارشد صداوسیما:\nچین باید میانجیگری کنه چون ما به قطر اعتماد نداریم\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-01T14:32:26+00:00",
@@ -14666,52 +14704,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142554"
-      },
-      {
-        "id": 142553,
-        "text": "🔹\nسخنگوی کمیسیون بهداشت: وضعیت صدها قلم دارو در بازار بحرانی و حاد است\n‎\n💢\n@Baga_News\n| areZo",
-        "date": "2026-06-30T08:30:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142553_0_974a3c03.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142553_1_823d9ecb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142553"
-      },
-      {
-        "id": 142550,
-        "text": "🔴\nپول‌های کشف شده در پرونده مربوط به متهم بازداشت‌شده علی معارج صویدج البهادلی، معاون وزیر نفت در امور توزیع عراق:\n◀️\nدر جریان تحقیقات مربوط به پرونده فساد مالی علیه علی معارج صویدج البهادلی، معاون وزیر نفت در امور توزیع، مبلغ 11 میلیون دلار، 4 میلیارد دینار و تعدادی املاک توقیف شده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-06-30T08:20:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142550_0_974a3c03.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142550_1_a07cee50.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142550_2_f9f75cd4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142550_3_b37becd9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142550"
       }
     ],
     "maznet": [
@@ -16293,23 +16285,23 @@
       }
     ]
   },
-  "last_update": "2026-07-01T14:41:12.725425+00:00",
+  "last_update": "2026-07-01T15:22:36.707994+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 747,
-    "total_files": 747,
+    "total_media": 745,
+    "total_files": 745,
     "total_links": 282,
     "files_by_type": {
-      "image": 716,
-      "video": 19,
+      "image": 712,
+      "video": 21,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 747,
-    "existing_media_files": 746,
-    "total_size_mb": 382.53,
-    "last_calculation": "2026-07-01T14:41:12.734413+00:00"
+    "referenced_files": 745,
+    "existing_media_files": 744,
+    "total_size_mb": 394.69,
+    "last_calculation": "2026-07-01T15:22:36.716893+00:00"
   }
 }
