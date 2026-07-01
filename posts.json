@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 142620,
+        "text": "🇮🇷\n🏴\nفیلم منتشر شده برای اولین بار از اولین وصیت نامه ایت الله سید علی خامنه ای :\nاولین وصیت من اینه افرادی که نزدیک به من هستن و بهترین خاطراتمو باهاشون داشتم ، حلالم کنن\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-01T04:02:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142620_0_7b62a66c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142620_1_1e62f8a5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142620"
+      },
+      {
         "id": 142619,
         "text": "🇺🇸\n👀\n|\nبا اعلام سنتکام ناو USS Portland و USS Boxer به همراه یازدهمین گروه تفنگداران دریایی درحال اومدن به خاورمیانه ان\n‼️\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-06-30T22:23:25+00:00",
@@ -14695,21 +14714,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142505"
-      },
-      {
-        "id": 142504,
-        "text": "🇮🇱\n👀\n|\nکاتز، وزیر جنگ اسرائیل: ما چندین هدف آماده در داخل ایران داریم اما اکنون اقدامی نخواهیم کرد\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-29T15:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142504_0_136a153b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142504"
       }
     ],
     "maznet": [
@@ -16291,23 +16295,23 @@
       }
     ]
   },
-  "last_update": "2026-07-01T00:16:14.939313+00:00",
+  "last_update": "2026-07-01T04:06:10.344341+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 281,
     "files_by_type": {
       "image": 713,
-      "video": 23,
+      "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 378.93,
-    "last_calculation": "2026-07-01T00:16:14.948402+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 384.8,
+    "last_calculation": "2026-07-01T04:06:10.352955+00:00"
   }
 }
