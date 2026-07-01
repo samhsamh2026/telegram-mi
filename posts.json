@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 142624,
+        "text": "امروز ، روز جهانی پسره.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-01T06:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142624_0_7b62a66c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142624"
+      },
+      {
+        "id": 142623,
+        "text": "🚨\nشاید فکر کنید این طوماری که ترامپ نوشته در مورد جنگ یا یه چیز مهم دیگست ولی نیست، و حرفاش در مورد مجسمه‌ها، گلف و فواره هست:)\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-01T05:33:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142623_0_7b62a66c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142623_1_791dde7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142623"
+      },
+      {
         "id": 142622,
         "text": "«نانا کواکو بونسام» جادوگر غنایی معروف جام جهانی که تا الان هرچی گفته درست دراومده؛ مدعی شد آرژانتین تو این مرحله مقابل کیپ ورد میبازه و از جام جهانی حذف میشه!\n💢\n@Baga_News\n| Король",
         "date": "2026-07-01T05:01:25+00:00",
@@ -14684,40 +14718,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142509"
-      },
-      {
-        "id": 142508,
-        "text": "عراقچی رفت حرم حضرت ابوالفضل؛ عراقیا ازش حمایت کردن ولی طرفداران حکومت تو عراق گفتن مرگ بر سازشگر و..\n💢\n@Baga_News\n| Король",
-        "date": "2026-06-29T16:31:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142508_0_136a153b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_142508_1_e6177c8f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142508"
-      },
-      {
-        "id": 142507,
-        "text": "شده تاحالا فیلترشکن بگیری ولی بعد 2 3 روز قطع بشه\n⁉️\nاین تیم تا آخرین قطره حجمتون پشتیبانی و تضمین کیفیت و عدم قطعی دارن\n⚡️\n🛡\n@SkyShieldVPNBot  مورد تایید ما هستن\n💢",
-        "date": "2026-06-29T16:11:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142507_0_136a153b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142507"
       }
     ],
     "maznet": [
@@ -16299,7 +16299,7 @@
       }
     ]
   },
-  "last_update": "2026-07-01T05:09:14.851427+00:00",
+  "last_update": "2026-07-01T06:15:46.159766+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16307,15 +16307,15 @@
     "total_files": 750,
     "total_links": 281,
     "files_by_type": {
-      "image": 714,
-      "video": 24,
+      "image": 715,
+      "video": 23,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 750,
     "existing_media_files": 749,
-    "total_size_mb": 384.91,
-    "last_calculation": "2026-07-01T05:09:14.860422+00:00"
+    "total_size_mb": 380.75,
+    "last_calculation": "2026-07-01T06:15:46.168925+00:00"
   }
 }
