@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 142739,
+        "text": "⚪️\nدکل ارتباطی در سیریک که آمریکا در جریان اتفاقات هفته پیش سه مرتبه بهش حمله کرده بود، امروز دوباره سرپا شد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-02T13:50:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142739_0_7791421d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142739_1_f0d489c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142739"
+      },
+      {
+        "id": 142738,
+        "text": "🔹\nاتفاقی جالب در تجمعات شبانه\n😂\nمردها: گندم و جو ارزونیتون\nزن‌ها: تنگه، نمیدیم بهتون\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-02T13:32:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142738_0_7791421d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_142738_1_be6bf598.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142738"
+      },
+      {
         "id": 142737,
         "text": "‼️\nغضنفری نماینده مجلس: یک کودتا علیه رهبری مجتبی خامنه ای در جریان هست\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-02T13:10:24+00:00",
@@ -14686,44 +14724,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142623"
-      },
-      {
-        "id": 142622,
-        "text": "«نانا کواکو بونسام» جادوگر غنایی معروف جام جهانی که تا الان هرچی گفته درست دراومده؛ مدعی شد آرژانتین تو این مرحله مقابل کیپ ورد میبازه و از جام جهانی حذف میشه!\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-01T05:01:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142622_0_7b62a66c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142622_1_fc627ab2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142622"
-      },
-      {
-        "id": 142621,
-        "text": "این عکسی که میبینید نه هوش مصنوعیه نه قدیمی\nاین عکس مربوط به جنگ اخیر و جنازه های سرباز های حزب الله هست که اسرائیل روی دستشون گذاشته!\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-01T04:33:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142621_0_7b62a66c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142621_1_87c2c7c7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142621"
       }
     ],
     "maznet": [
@@ -16305,7 +16305,7 @@
       }
     ]
   },
-  "last_update": "2026-07-02T13:20:44.936796+00:00",
+  "last_update": "2026-07-02T14:06:17.799391+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16313,15 +16313,15 @@
     "total_files": 750,
     "total_links": 282,
     "files_by_type": {
-      "image": 706,
-      "video": 32,
+      "image": 705,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 750,
     "existing_media_files": 749,
-    "total_size_mb": 426.63,
-    "last_calculation": "2026-07-02T13:20:44.945762+00:00"
+    "total_size_mb": 427.88,
+    "last_calculation": "2026-07-02T14:06:17.808325+00:00"
   }
 }
