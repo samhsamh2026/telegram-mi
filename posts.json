@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 142766,
+        "text": "خدا منو ببخشه ولی این چیه دیگه\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-02T19:31:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_142766_0_7210eaff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_142766_1_f21fbbf4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/142766"
+      },
+      {
         "id": 142765,
         "text": "🚨\nامروز 11 تیر، سالروز تولد سارینا اسماعیل‌زاده‌ست.\nسارینا یه دختر ۱۶ ساله اهل کرج بود که تو اعتراضات ۱۴۰۱ کشته شد.\nسارینا متولد ۱۱ تیر ۱۳۸۵ بود.\n💢\n@Baga_News\n| Король",
         "date": "2026-07-02T19:10:22+00:00",
@@ -14733,21 +14752,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142651"
-      },
-      {
-        "id": 142650,
-        "text": "⭕️\nنتانیاهو:\nهر کسی که در هفتم اکتبر شرکت کرده باشد کشته خواهد شد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-01T10:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142650_0_7b62a66c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142650"
       }
     ],
     "maznet": [
@@ -16329,23 +16333,23 @@
       }
     ]
   },
-  "last_update": "2026-07-02T19:27:57.915363+00:00",
+  "last_update": "2026-07-02T19:46:25.551038+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 756,
-    "total_files": 756,
+    "total_media": 757,
+    "total_files": 757,
     "total_links": 282,
     "files_by_type": {
-      "image": 711,
+      "image": 712,
       "video": 33,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 756,
-    "existing_media_files": 755,
-    "total_size_mb": 419.71,
-    "last_calculation": "2026-07-02T19:27:57.924613+00:00"
+    "referenced_files": 757,
+    "existing_media_files": 756,
+    "total_size_mb": 419.78,
+    "last_calculation": "2026-07-02T19:46:25.560370+00:00"
   }
 }
