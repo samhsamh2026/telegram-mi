@@ -12946,6 +12946,80 @@
     ],
     "bg_ae": [
       {
+        "id": 143085,
+        "text": "🇮🇷\n👀\n| شات های رسانه فارس از امشب:\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-04T22:28:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143085_0_47b4365b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_1_0aa55da4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_2_de91d8c5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_3_eb1682b1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_4_e64cf32f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_5_0763d2ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_6_eb2a8ef8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_7_5a1affd7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_8_5274bde4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_9_a3b2e73a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143085_10_26d8ab41.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143085"
+      },
+      {
+        "id": 143084,
+        "text": "🔵\nتصویر وایرال شده از مصلی تهران\n:\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-04T22:21:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143084_0_47b4365b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143084_1_d7f17c38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143084"
+      },
+      {
         "id": 143083,
         "text": "🔵\nتصویر تابوت ایت الله خامنه ای تو مصلی\n:\n💢\n@Baga_News\n| Король",
         "date": "2026-07-04T20:30:43+00:00",
@@ -14728,40 +14802,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142940"
-      },
-      {
-        "id": 142939,
-        "text": "مسی گلش کن خوابمون میاد\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-03T23:55:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142939_0_3b513e4d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142939"
-      },
-      {
-        "id": 142938,
-        "text": "از این زاویه ببینید.\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-03T23:55:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142938_0_3b513e4d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142938_1_52d77033.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142938"
       }
     ],
     "maznet": [
@@ -16343,23 +16383,23 @@
       }
     ]
   },
-  "last_update": "2026-07-04T21:07:52.151003+00:00",
+  "last_update": "2026-07-04T22:32:13.492742+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 761,
-    "total_files": 761,
+    "total_media": 771,
+    "total_files": 771,
     "total_links": 281,
     "files_by_type": {
-      "image": 728,
+      "image": 738,
       "video": 21,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 761,
-    "existing_media_files": 760,
-    "total_size_mb": 392.82,
-    "last_calculation": "2026-07-04T21:07:52.158416+00:00"
+    "referenced_files": 771,
+    "existing_media_files": 770,
+    "total_size_mb": 393.86,
+    "last_calculation": "2026-07-04T22:32:13.501864+00:00"
   }
 }
