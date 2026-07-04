@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 143048,
+        "text": "🟠\nتصویر خبرگزاری دولت از مراسم وداع\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-04T13:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143048_0_3b513e4d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143048_1_ff4b47e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143048"
+      },
+      {
         "id": 143047,
         "text": "هیئت دولت اعلام کرده است که فردا، یکشنبه ۱۴ تیر ۱۴۰۵، در سراسر کشور تعطیل رسمی است. طبق اطلاعیه دولت، این تصمیم برای تسهیل حضور مردم در مراسم وداع و تشییع اعلام شده است\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-07-04T13:31:16+00:00",
@@ -14715,25 +14734,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142889"
-      },
-      {
-        "id": 142888,
-        "text": "🇮🇷\n👀\n|\nتسنیم:\nبانوان زائر میتونن برای اسکان به این لوکشین مراجعه کنن\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-03T16:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142888_0_7210eaff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142888_1_f25cb232.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142888"
       }
     ],
     "maznet": [
@@ -16315,7 +16315,7 @@
       }
     ]
   },
-  "last_update": "2026-07-04T13:38:02.586671+00:00",
+  "last_update": "2026-07-04T13:51:20.964260+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16331,7 +16331,7 @@
     },
     "referenced_files": 754,
     "existing_media_files": 753,
-    "total_size_mb": 382.13,
-    "last_calculation": "2026-07-04T13:38:02.595660+00:00"
+    "total_size_mb": 382.15,
+    "last_calculation": "2026-07-04T13:51:20.971466+00:00"
   }
 }
