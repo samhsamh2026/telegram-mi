@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 143006,
+        "text": "🔴\nموزیک ویدیو کامل آهنگ جدید توماج صالحی به اسم «تو چی؟» که تا تونسته به رضا پهلوی دیس داده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-04T05:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143006_0_3b513e4d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_143006_1_21d3d9a5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143006"
+      },
+      {
+        "id": 143005,
+        "text": "وقتی رفیق آتئیستم رو تو صف قیمه جلوی مسجد می بینم:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-04T04:31:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143005_0_3b513e4d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143005_1_d3eacae6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143005"
+      },
+      {
         "id": 143004,
         "text": "🔴\nتوی مشهد یه نفر وقتی فهمید شوهرش بهش خیانت کرده، تیکه تیکه‌اش کرد، گوشتشو پخت و در آخر گوشت پخته شدش رو به عنوان غذا داد به گربه‌ها.\n🙀\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-04T04:00:31+00:00",
@@ -14746,40 +14784,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142832"
-      },
-      {
-        "id": 142831,
-        "text": "🇮🇷\nبرج میلاد تا ۱۸ تیر تعطیل و به‌طور کامل برای اسکان و خدمات‌رسانی به زائران مراسم تشییع خامنه ای اختصاص یافته است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-03T11:10:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142831_0_7210eaff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142831_1_2472ab84.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142831"
-      },
-      {
-        "id": 142830,
-        "text": "🇮🇷\nسردار رادان:\nقدرت نیروهای مسلح به رخ دنیا کشیده شد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-03T10:50:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142830_0_7210eaff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142830"
       }
     ],
     "maznet": [
@@ -16361,23 +16365,23 @@
       }
     ]
   },
-  "last_update": "2026-07-04T04:23:01.691769+00:00",
+  "last_update": "2026-07-04T05:34:12.611910+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 767,
-    "total_files": 767,
+    "total_media": 768,
+    "total_files": 768,
     "total_links": 280,
     "files_by_type": {
       "image": 730,
-      "video": 25,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 767,
-    "existing_media_files": 766,
-    "total_size_mb": 370.29,
-    "last_calculation": "2026-07-04T04:23:01.700937+00:00"
+    "referenced_files": 768,
+    "existing_media_files": 767,
+    "total_size_mb": 378.91,
+    "last_calculation": "2026-07-04T05:34:12.620980+00:00"
   }
 }
