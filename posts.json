@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 143079,
+        "text": "🇺🇸\n👀\n|\nترامپ:\n🔵\nفیلم گریه کردن مردم برای خامنه ای رو دیدم و غافلگیر شدم چون فکر میکردم مردم ازش متنفرن اما احتمالا فیلم ساختگیه\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-04T19:34:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143079_0_47b4365b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143079_1_f8c52349.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143079_2_beff0a57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143079"
+      },
+      {
+        "id": 143078,
+        "text": "🇺🇸\n👀\n|\nدونالد ترامپ :\nما دیروز با یه حمله می تونستیم کل‌شون (مقامات ایران) رو از بین ببریم ولی این کار رو نمی‌کنیم چون دیگه کسی واسه مذاکره باقی نمی‌موند.\nایران داره التماس میکنه که یه توافقی انجام بشه\nفعلا توافق کردیم مذاکرات هسته‌ای رو تا تموم شدن مراسم های مرتبط با تشييع خامنه‌ای، به مدت یه هفته متوقف کنیم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-04T19:20:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143078_0_47b4365b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143078_1_fceca875.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143078"
+      },
+      {
         "id": 143077,
         "text": "🇻🇪\n👀\n|\nدولت ونزوئلا : تعداد کشته‌ها به ۲۹۵۴ نفر افزایش یافته\n💢\n@Baga_News\n| Король",
         "date": "2026-07-04T19:10:19+00:00",
@@ -14712,40 +14754,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142935"
-      },
-      {
-        "id": 142934,
-        "text": "موقعیت مشکوک به هند/پنالتی\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-03T23:51:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142934_0_3b513e4d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142934"
-      },
-      {
-        "id": 142914,
-        "text": "مسی در دقیقۀ ۲۹ دروازۀ حریف را باز کرد\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-03T22:35:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142914_0_3b513e4d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_142914_1_c7a88aa3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142914"
       }
     ],
     "maznet": [
@@ -16327,23 +16335,23 @@
       }
     ]
   },
-  "last_update": "2026-07-04T19:17:25.740673+00:00",
+  "last_update": "2026-07-04T19:47:52.694149+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 757,
-    "total_files": 757,
+    "total_media": 759,
+    "total_files": 759,
     "total_links": 281,
     "files_by_type": {
-      "image": 724,
-      "video": 21,
+      "image": 727,
+      "video": 20,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 757,
-    "existing_media_files": 756,
-    "total_size_mb": 391.97,
-    "last_calculation": "2026-07-04T19:17:25.749689+00:00"
+    "referenced_files": 759,
+    "existing_media_files": 758,
+    "total_size_mb": 390.26,
+    "last_calculation": "2026-07-04T19:47:52.703622+00:00"
   }
 }
