@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 143004,
+        "text": "🔴\nتوی مشهد یه نفر وقتی فهمید شوهرش بهش خیانت کرده، تیکه تیکه‌اش کرد، گوشتشو پخت و در آخر گوشت پخته شدش رو به عنوان غذا داد به گربه‌ها.\n🙀\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-04T04:00:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143004_0_3b513e4d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143004_1_282e8109.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143004"
+      },
+      {
         "id": 143002,
         "text": "🔴\n👀\n🐐\n🇦🇷\n| مسی تو خطا ایستگاهی آخر تعادلشو از دست داد و با کله صاف رفت خورد به کفش مدافع کیپ وورد و پیشونیش اینجوری اوف شد.\n🙃\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-04T02:02:01+00:00",
@@ -14761,25 +14780,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142830"
-      },
-      {
-        "id": 142829,
-        "text": "🇮🇷\nامروز یه پیرمرد یاسوجی تو مراسم وداع با ایت الله سید علی خامنه‌ای ازحال رفت:\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-03T10:34:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142829_0_7210eaff.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_142829_1_c48a5214.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142829"
       }
     ],
     "maznet": [
@@ -16361,7 +16361,7 @@
       }
     ]
   },
-  "last_update": "2026-07-04T03:20:38.467304+00:00",
+  "last_update": "2026-07-04T04:23:01.691769+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16369,15 +16369,15 @@
     "total_files": 767,
     "total_links": 280,
     "files_by_type": {
-      "image": 729,
-      "video": 26,
+      "image": 730,
+      "video": 25,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 767,
     "existing_media_files": 766,
-    "total_size_mb": 373.18,
-    "last_calculation": "2026-07-04T03:20:38.476586+00:00"
+    "total_size_mb": 370.29,
+    "last_calculation": "2026-07-04T04:23:01.700937+00:00"
   }
 }
