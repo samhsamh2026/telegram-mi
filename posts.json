@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 143128,
+        "text": "🔴\nگویا کامیون حمل پیکر آیت الله خامنه‌ای مبلغ2,298,000 هزار تومان خلافی داره\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-05T08:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143128_0_47b4365b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143128_1_f7dde6e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143128"
+      },
+      {
+        "id": 143127,
+        "text": "💢\nتصاویر هوایی از مصلی و خیابان‌های اطراف\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-05T08:32:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143127_0_47b4365b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_143127_1_7189a900.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143127"
+      },
+      {
         "id": 143126,
         "text": "از حاشیه‌ی مراسم تشییع آیت‌الله سید علی خامنه‌ای\n:\n💢\n@Baga_News\n| Король",
         "date": "2026-07-05T08:02:31+00:00",
@@ -14838,40 +14876,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/142993"
-      },
-      {
-        "id": 142992,
-        "text": "امشب تلاش کیپ وورد برای حذف نشدن واقعا ستونی بود.\nبه معنای واقعی کلمه جنگیدن و تا ثانیه آخر بازی تسلیم نشدن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-04T00:55:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142992_0_3b513e4d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142992"
-      },
-      {
-        "id": 142991,
-        "text": "🔴\n💀\n🇦🇷\n|\nلیونل‌مسی با یک گل زده و یک پاس گل بهترین بازیکن زمین شد.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-04T00:51:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_142991_0_3b513e4d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_142991_1_761d589f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/142991"
       }
     ],
     "maznet": [
@@ -16453,23 +16457,23 @@
       }
     ]
   },
-  "last_update": "2026-07-05T08:07:57.221379+00:00",
+  "last_update": "2026-07-05T08:56:14.186595+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 787,
-    "total_files": 787,
+    "total_media": 788,
+    "total_files": 788,
     "total_links": 282,
     "files_by_type": {
       "image": 748,
-      "video": 27,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 787,
-    "existing_media_files": 786,
-    "total_size_mb": 422.04,
-    "last_calculation": "2026-07-05T08:07:57.231253+00:00"
+    "referenced_files": 788,
+    "existing_media_files": 787,
+    "total_size_mb": 427.87,
+    "last_calculation": "2026-07-05T08:56:14.196398+00:00"
   }
 }
