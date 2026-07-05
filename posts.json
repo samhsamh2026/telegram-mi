@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 143148,
+        "text": "🇮🇷\n👀\n|\nمداح پویانفر :\n🔵\nآقایون سیاستمدار، بسه دیگه ، اشتباهات زمان رهبر رو دوباره تو دوره آقا مجتبی تکرار نکنید\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-05T14:10:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143148_0_47b4365b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143148"
+      },
+      {
+        "id": 143147,
+        "text": "🇮🇷\n👀\n|\nآخوند پناهیان:\n🔵\nما حاضریم تمام منافع ملی و تمام هستی‌مان را بدهیم ولی انتقام رهبر شهیدمان را بگیریم\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-05T13:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143147_0_47b4365b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143147"
+      },
+      {
         "id": 143145,
         "text": "شات های وایرال شده از رسانه های داخلی:\n💢\n@Baga_News\n| Король",
         "date": "2026-07-05T13:33:55+00:00",
@@ -14822,44 +14852,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143014"
-      },
-      {
-        "id": 143013,
-        "text": "🚨\nبلند کردن پرچم کشتن ترامپ در مراسم وداع با ایت الله خامنه ای\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-04T06:58:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143013_0_3b513e4d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_143013_1_926c7480.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143013"
-      },
-      {
-        "id": 143012,
-        "text": "🇮🇷\n👀\n| شعار «مرگ بر آمریکا» مردم در مراسم وداع با در مصلی \"امام خمینی\"تهران.\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-04T06:55:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143012_0_3b513e4d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_143012_1_6713c41a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143012"
       }
     ],
     "maznet": [
@@ -16441,23 +16433,23 @@
       }
     ]
   },
-  "last_update": "2026-07-05T13:44:26.635491+00:00",
+  "last_update": "2026-07-05T14:19:34.357002+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 784,
-    "total_files": 784,
+    "total_media": 782,
+    "total_files": 782,
     "total_links": 282,
     "files_by_type": {
-      "image": 742,
-      "video": 30,
+      "image": 741,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 784,
-    "existing_media_files": 783,
-    "total_size_mb": 418.45,
-    "last_calculation": "2026-07-05T13:44:26.645197+00:00"
+    "referenced_files": 782,
+    "existing_media_files": 781,
+    "total_size_mb": 404.61,
+    "last_calculation": "2026-07-05T14:19:34.366699+00:00"
   }
 }
