@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 143303,
+        "text": "🇵🇹\nرونالدو حذف شد\n🇧🇷\nنیمار حذف شد\n💢\n@Baga_News | Король",
+        "date": "2026-07-06T22:18:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143303_0_ee77683d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143303_1_e136e06f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143303"
+      },
+      {
+        "id": 143301,
+        "text": "🔴\nصفدر سلطانی جانشین سپاه پاوه در مسیر بازگشت از مراسم تشییع علی خامنه‌ای توسط یک خودروی ناشناس از جاده منحرف و کشته شد.\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-06T22:10:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143301_0_ee77683d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143301_1_9e0f9331.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143301_2_1b3b2450.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143301"
+      },
+      {
         "id": 143299,
         "text": "دیشب نیمار تموم شد، امشب کریستیانو، و ممکنه کمتر از چند ساعت دیگه همین سناریو برای مسی تکرار بشه :\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-06T21:45:25+00:00",
@@ -14784,44 +14826,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143178"
-      },
-      {
-        "id": 143177,
-        "text": "🔻\nزینب سلیمانی :\nمرگ سیدعلی برای ما خیلی سنگین تر از حاج قاسمه ، ما آرزو میکردیم نباشیم که این روزو نبینیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-05T17:08:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143177_0_47b4365b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_143177_1_ebe9a0b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143177"
-      },
-      {
-        "id": 143176,
-        "text": "🇮🇷\n👀\n|\nپزشکیان:\n🟠\nقول میدم راه امام شهید رو ادامه بدم.\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-05T16:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143176_0_47b4365b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_143176_1_eee00127.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143176"
       }
     ],
     "maznet": [
@@ -16403,23 +16407,23 @@
       }
     ]
   },
-  "last_update": "2026-07-06T21:58:26.790574+00:00",
+  "last_update": "2026-07-06T23:18:04.798500+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 776,
-    "total_files": 776,
+    "total_media": 777,
+    "total_files": 777,
     "total_links": 281,
     "files_by_type": {
-      "image": 722,
+      "image": 723,
       "video": 42,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 776,
-    "existing_media_files": 775,
-    "total_size_mb": 466.37,
-    "last_calculation": "2026-07-06T21:58:26.800372+00:00"
+    "referenced_files": 777,
+    "existing_media_files": 776,
+    "total_size_mb": 466.45,
+    "last_calculation": "2026-07-06T23:18:04.808045+00:00"
   }
 }
