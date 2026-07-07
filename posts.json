@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 143334,
+        "text": "🟠\nکامنت هادی چوپان زیر یکی از پست های مربوط به تشیع\n👩‍💻\nشات از گوشی فرد دیگه ای هست بنده لایک نکردم این شخص رو\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-07T09:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143334_0_ee77683d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143334_1_5bf0331d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143334"
+      },
+      {
         "id": 143333,
         "text": "👋\nترامپ:\n🟠\nپیشنهاد من اینه بازی با بلژیک مجدد برگزار شود\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-07T09:34:29+00:00",
@@ -14795,25 +14814,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143206"
-      },
-      {
-        "id": 143205,
-        "text": "🔴\nانهدام کامل زاغه مهمات پایگاه هشتم شکاری ( جاوید نام شهید سرلشکر خلبان بابایی ) اصفهان توسط بمب افکن های آمریکایی.\n◀️\nبا توجه به گودال عمیق ۸ الی ۹ متری از بمب های ۲۰۰۰ پوندی GBU-31 استفاده شده است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-06T04:03:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143205_0_c3277303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_143205_1_0e14563b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143205"
       }
     ],
     "maznet": [
@@ -16395,7 +16395,7 @@
       }
     ]
   },
-  "last_update": "2026-07-07T09:46:07.007424+00:00",
+  "last_update": "2026-07-07T09:56:17.845465+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16403,15 +16403,15 @@
     "total_files": 774,
     "total_links": 281,
     "files_by_type": {
-      "image": 726,
-      "video": 36,
+      "image": 727,
+      "video": 35,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 774,
     "existing_media_files": 773,
-    "total_size_mb": 437.1,
-    "last_calculation": "2026-07-07T09:46:07.016583+00:00"
+    "total_size_mb": 436.46,
+    "last_calculation": "2026-07-07T09:56:17.854789+00:00"
   }
 }
