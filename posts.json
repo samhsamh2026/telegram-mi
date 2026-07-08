@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 143562,
+        "text": "دلیل اینکه جادوگر غنایی نتونست مسی‌ رو جادو کنه اینه که توسط همه ادیان بیمه شده\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-08T04:33:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143562_0_3f15601f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143562_1_34c18412.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143562"
+      },
+      {
+        "id": 143561,
+        "text": "🔴\n🛰\n💫\n🇺🇸\n|\nسازمان فضایی آمریکا (ناسا) با استفاده از داده‌های ماهواره‌ای، آتش‌سوزی‌هایی را در دو بندر در بندرعباس شناسایی کرده است که به نظر می‌رسد ناشی از حملات تلافی‌جویانه آمریکا در ساعات اخیر باشند.\n◀️\nاسکله پشت شهر و اسکله ارتش رو زدن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-08T04:01:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143561_0_3f15601f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143561_1_fe6a4c93.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143561"
+      },
+      {
         "id": 143560,
         "text": "🔴\nشلیک موشک از سایت موشکی اصفهان\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-08T01:03:32+00:00",
@@ -14622,48 +14660,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143357"
-      },
-      {
-        "id": 143356,
-        "text": "🔵\nخبرنگار اسکای نیوز : مراسم تشییع رهبر پیشین ایران بزرگترین تشییع تاریخ با ۱۵ میلیون جمعیته.\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-07T14:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143356_0_ee77683d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_143356_1_6814d6ba.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143356"
-      },
-      {
-        "id": 143355,
-        "text": "🔴\nعراقچی: میلیون‌ها ایرانیِ سرافراز، متحداً برای بزرگداشت آیت‌الله العظمی خامنه‌ای و میراث ایشان گرد هم آمدند. نه آنها و نه نیروهای مسلح شجاع ما، هیچ تهدیدی را نمی‌پذیرند.  بند ۱۳ تفاهم‌نامه واضح است: اگر تهدیدها ادامه یابد، مذاکرات بر سر توافق نهایی آغاز…",
-        "date": "2026-07-07T14:40:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143355_0_ee77683d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_143355_1_a3ddca6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_143355_2_e4f8c3ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143355"
       }
     ],
     "maznet": [
@@ -16245,23 +16241,23 @@
       }
     ]
   },
-  "last_update": "2026-07-08T02:51:18.960218+00:00",
+  "last_update": "2026-07-08T04:50:51.745823+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 738,
-    "total_files": 738,
+    "total_media": 737,
+    "total_files": 737,
     "total_links": 280,
     "files_by_type": {
       "image": 709,
-      "video": 17,
+      "video": 16,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 738,
-    "existing_media_files": 737,
-    "total_size_mb": 355.84,
-    "last_calculation": "2026-07-08T02:51:18.969303+00:00"
+    "referenced_files": 737,
+    "existing_media_files": 736,
+    "total_size_mb": 353.57,
+    "last_calculation": "2026-07-08T04:50:51.754774+00:00"
   }
 }
