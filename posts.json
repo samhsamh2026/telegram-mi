@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 143871,
+        "text": "🇺🇸\n👋\n|\nادعاهای تکراری ترامپ کنار توالت هواپیما:\nآن‌ها همین چند لحظه پیش تماس گرفتند. آن‌ها به‌شدت می‌خواهند توافق کنند! اما من فقط نمی‌دانم آیا شایسته انجام یک توافق هستند یا نه. نمی‌دانم که به توافق پایبند خواهند ماند یا نه. مشکل همین است.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-09T09:50:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143871_0_4ac430cf.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_143871_1_d1e5b616.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143871"
+      },
+      {
         "id": 143869,
         "text": "تصویری دیگر\nاز مراقبت ترافیک دریایی بندر چابهار که بامداد امروز مورد هدف قرار گرفت\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-09T09:35:00+00:00",
@@ -14553,21 +14572,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143665"
-      },
-      {
-        "id": 143664,
-        "text": "🛜\n🛜\n🛜\nوضعیت اینترنت\n⁉️\n👍\n٫\n👎\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-08T19:40:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143664_0_4ac430cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143664"
       }
     ],
     "maznet": [
@@ -16149,23 +16153,23 @@
       }
     ]
   },
-  "last_update": "2026-07-09T09:43:08.057052+00:00",
+  "last_update": "2026-07-09T09:53:52.091644+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 714,
-    "total_files": 714,
+    "total_media": 715,
+    "total_files": 715,
     "total_links": 280,
     "files_by_type": {
       "image": 691,
-      "video": 11,
+      "video": 12,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 714,
-    "existing_media_files": 713,
-    "total_size_mb": 332.14,
-    "last_calculation": "2026-07-09T09:43:08.064579+00:00"
+    "referenced_files": 715,
+    "existing_media_files": 714,
+    "total_size_mb": 332.83,
+    "last_calculation": "2026-07-09T09:53:52.100220+00:00"
   }
 }
