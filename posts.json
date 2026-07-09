@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 143905,
+        "text": "🏆\nبرنامه بازی های امروز جام‌ جهانی:\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-09T15:50:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143905_0_4ac430cf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_143905_1_ef29d86c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143905"
+      },
+      {
+        "id": 143904,
+        "text": "🇮🇷\n👀\n|\nجواد لاریجانی:\n🚨\nبرای سر عاملان ترور رهبر انقلاب جایزه بگذاریم\n🚨\nهرکسی اقدام کند به بهشت می رود\n😊\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-09T15:34:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143904_0_4ac430cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143904"
+      },
+      {
         "id": 143903,
         "text": "💢\nپست بانک هم به بانک‌های فروش ارز اربعین اضافه شد\n💢\n@Baga_News\n| Noll",
         "date": "2026-07-09T15:10:21+00:00",
@@ -14588,36 +14622,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143772"
-      },
-      {
-        "id": 143771,
-        "text": "🔴\nفوری\n🔴\n🔴\nبر اساس گزارش‌های شبکه العربیه، بحرین امشب در حملات علیه ایران شرکت داشت.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-08T21:39:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143771_0_4ac430cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143771"
-      },
-      {
-        "id": 143770,
-        "text": "🔴\nمهر:نیروهای مسلح ایران به زودی یک عملیات نظامی گسترده علیه پایگاه‌های آمریکایی در سراسر منطقه آغاز خواهند کرد\n+ حمله به پایگاه اگه بازدارندگی ایجاد میکرد الان اینجا کار نبودیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-08T21:38:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143770_0_4ac430cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143770"
       }
     ],
     "maznet": [
@@ -16199,23 +16203,23 @@
       }
     ]
   },
-  "last_update": "2026-07-09T15:14:52.525461+00:00",
+  "last_update": "2026-07-09T16:07:26.866269+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 725,
-    "total_files": 725,
+    "total_media": 726,
+    "total_files": 726,
     "total_links": 281,
     "files_by_type": {
-      "image": 700,
+      "image": 701,
       "video": 13,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 725,
-    "existing_media_files": 724,
-    "total_size_mb": 344.52,
-    "last_calculation": "2026-07-09T15:14:52.534049+00:00"
+    "referenced_files": 726,
+    "existing_media_files": 725,
+    "total_size_mb": 344.57,
+    "last_calculation": "2026-07-09T16:07:26.875204+00:00"
   }
 }
