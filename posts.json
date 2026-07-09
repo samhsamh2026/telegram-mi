@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 143839,
+        "text": "ترامپ: ایرانی ها کلاهبردارند\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-09T01:29:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_143839_0_4ac430cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/143839"
+      },
+      {
         "id": 143838,
         "text": "💢\nوقوع انفجارهای مهیب در کویت\nرسانه عراقی «صابرین‌نیوز» نوشت که علاوه بر بحرین و قطر، پایگاه‌های نظامیان تروریست آمریکایی در کویت نیز هدف حملات هوایی ایران قرار گرفته‌اند.\n💢\n@Baga_News\n| Noll",
         "date": "2026-07-09T00:42:19+00:00",
@@ -14581,21 +14596,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143639"
-      },
-      {
-        "id": 143638,
-        "text": "این دفعه اینترنت قطع شه جای بله می‌رم کنج یه ساختمون نظامی که قراره بزننش.\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-08T15:30:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143638_0_3f15601f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143638"
       }
     ],
     "maznet": [
@@ -16177,7 +16177,7 @@
       }
     ]
   },
-  "last_update": "2026-07-09T01:12:35.276880+00:00",
+  "last_update": "2026-07-09T03:28:57.965539+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16194,6 +16194,6 @@
     "referenced_files": 721,
     "existing_media_files": 720,
     "total_size_mb": 354.58,
-    "last_calculation": "2026-07-09T01:12:35.286430+00:00"
+    "last_calculation": "2026-07-09T03:28:57.974123+00:00"
   }
 }
