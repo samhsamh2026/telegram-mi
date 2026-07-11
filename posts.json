@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 144102,
+        "text": "🔵\nغزه قبل و بعد کامبک آرژانتین:\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-11T03:13:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144102_0_043c7716.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_144102_1_a44cd5c5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144102"
+      },
+      {
         "id": 144101,
         "text": "قضیه ی نات کوین رو یادتون هست؟ میگن بنظر یه شخص پیدا شده که اون موقع با برخی دستکاری ها باعث متضرر شدن خیلی از افراد شده، اگر کامل مشخص بشه مراحل پیگیری برای مالباختگان انجام میشه\n💢\n@Baga_News\n| Noll",
         "date": "2026-07-10T23:54:47+00:00",
@@ -14741,25 +14760,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143986"
-      },
-      {
-        "id": 143985,
-        "text": "🐐\n🇦🇷\nلیونل مسی 8 گل\n👤\n🇫🇷\nکیلیان امباپه 8 گل\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-09T21:50:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143985_0_729f124d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_143985_1_73d7ad1d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143985"
       }
     ],
     "maznet": [
@@ -16341,7 +16341,7 @@
       }
     ]
   },
-  "last_update": "2026-07-11T02:47:43.095135+00:00",
+  "last_update": "2026-07-11T03:55:53.407797+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16357,7 +16357,7 @@
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 388.99,
-    "last_calculation": "2026-07-11T02:47:43.104271+00:00"
+    "total_size_mb": 390.55,
+    "last_calculation": "2026-07-11T03:55:53.416899+00:00"
   }
 }
