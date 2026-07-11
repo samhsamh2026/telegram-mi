@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 144103,
+        "text": "🇮🇷\n👀\n|\nبلاگرِ حامی حکومت :\nپزشکیان از شعار مرگ بر سازشگرِ مردم ناراحت شده؟\nتو با امضای قاتل رهبر ما با افتخار عکس گرفتی، همین که با لباس زن فرار نمی‌کنی و مردم هنوز آتیشتون نزدن برو خداتو شکر کن، برید توبه کنید و برگردید...\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-11T04:33:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144103_0_043c7716.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_144103_1_d8fe86a2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144103"
+      },
+      {
         "id": 144102,
         "text": "🔵\nغزه قبل و بعد کامبک آرژانتین:\n💢\n@Baga_News\n| Король",
         "date": "2026-07-11T03:13:46+00:00",
@@ -14741,25 +14760,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/143987"
-      },
-      {
-        "id": 143986,
-        "text": "🔴\nفوری: بالاخره علی خامنه‌ای پس از ۱۳۲ روز، در مشهد/حرم امام رضا، به خاک سپرده شد.\n+\nحستونو با ری اکت اعلام کنید\n👇\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-09T22:01:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_143986_0_729f124d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_143986_1_b63ec03c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/143986"
       }
     ],
     "maznet": [
@@ -16341,7 +16341,7 @@
       }
     ]
   },
-  "last_update": "2026-07-11T03:55:53.407797+00:00",
+  "last_update": "2026-07-11T04:51:37.195327+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16349,15 +16349,15 @@
     "total_files": 759,
     "total_links": 282,
     "files_by_type": {
-      "image": 722,
-      "video": 25,
+      "image": 721,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 390.55,
-    "last_calculation": "2026-07-11T03:55:53.416899+00:00"
+    "total_size_mb": 392.78,
+    "last_calculation": "2026-07-11T04:51:37.204449+00:00"
   }
 }
