@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 144149,
+        "text": "🟠\nبازخوانی سخنان اوستاد رائفی‌پور درباره احتمال وقوع جنگ!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-11T13:34:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144149_0_043c7716.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_144149_1_46208ae2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144149"
+      },
+      {
         "id": 144148,
         "text": "🚨\nتصاویر وایرال شده از محل برگزاری امتحانات نهایی که بعضیاش نزدیک پادگان های نظامیه.\nآزاده مختاری؛ خبرنگار:\nترامپ اعلام کرد آتش بس تموم شده. مراقب باشید یه مدرسه میناب دیگه درست نشه.\n💢\n@Baga_News\n| Король",
         "date": "2026-07-11T13:21:31+00:00",
@@ -14723,21 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144033"
-      },
-      {
-        "id": 144032,
-        "text": "🚫\n۳۰ فروند قایق صیادی در حمله آمریکا به اسکله پنج‌پله بندرعباس تخریب شد\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-10T12:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144032_0_729f124d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144032"
       }
     ],
     "maznet": [
@@ -16319,23 +16323,23 @@
       }
     ]
   },
-  "last_update": "2026-07-11T13:23:58.383597+00:00",
+  "last_update": "2026-07-11T13:43:58.909294+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 755,
-    "total_files": 755,
+    "total_media": 756,
+    "total_files": 756,
     "total_links": 281,
     "files_by_type": {
       "image": 717,
-      "video": 26,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 755,
-    "existing_media_files": 754,
-    "total_size_mb": 388.4,
-    "last_calculation": "2026-07-11T13:23:58.392728+00:00"
+    "referenced_files": 756,
+    "existing_media_files": 755,
+    "total_size_mb": 389.94,
+    "last_calculation": "2026-07-11T13:43:58.918277+00:00"
   }
 }
