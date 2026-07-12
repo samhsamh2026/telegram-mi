@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 144377,
+        "text": "📺\n🇮🇷\nاعتراض یک طرفدار حکومت به یوسف سلامی خبرنگار صداوسیما :\nچرا روی شعارهای مردم علیه منافق ها و وطن فروش ها آهنگ میزارید و سانسور میکنید  ؟\nچرا اینقدر مردم رو ساکت میکنید !\nچرا انقدر موافق خائن ها هستید؟\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-12T04:31:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144377_0_f8d542e7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_144377_1_4a06639c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144377"
+      },
+      {
         "id": 144376,
         "text": "❤️\nهشدار حمله موشکی در قطر\n💢\n@Baga_News\n|\nArT",
         "date": "2026-07-12T02:45:50+00:00",
@@ -14635,21 +14654,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144142"
-      },
-      {
-        "id": 144141,
-        "text": "🇮🇱\nروزنامه عبری معاریو:\nاز آن‌جا که اسرائیل برنامه‌های خود را برای بازگشت به جنگ علیه ایران تکمیل کرده، کشور‌های حاشیه خلیج فارس بر ترامپ فشار می‌آورند که تل‌آویو را مهار کند\nمحتمل‌ترین گزینه، خارج ماندن از درگیری همراه با اعمال فشار از سوی نتانیاهو بر واشنگتن، جهت تشدید تحریم‌ها علیه ایران و مخالفت با خواسته‌های این کشور است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-11T11:50:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144141_0_043c7716.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144141"
       }
     ],
     "maznet": [
@@ -16231,23 +16235,23 @@
       }
     ]
   },
-  "last_update": "2026-07-12T03:39:31.539189+00:00",
+  "last_update": "2026-07-12T05:13:30.886467+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 730,
-    "total_files": 730,
+    "total_media": 731,
+    "total_files": 731,
     "total_links": 283,
     "files_by_type": {
       "image": 704,
-      "video": 14,
+      "video": 15,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 730,
-    "existing_media_files": 729,
-    "total_size_mb": 363.92,
-    "last_calculation": "2026-07-12T03:39:31.548079+00:00"
+    "referenced_files": 731,
+    "existing_media_files": 730,
+    "total_size_mb": 367.73,
+    "last_calculation": "2026-07-12T05:13:30.895498+00:00"
   }
 }
