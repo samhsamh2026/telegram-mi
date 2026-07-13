@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 144599,
+        "text": "🔴\nاز ۱۵ تا گرمترین شهرهای جهان ۱۲ تاشون واسه ایرانه!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-13T05:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144599_0_8901a716.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_144599_1_de766047.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144599"
+      },
+      {
+        "id": 144598,
+        "text": "دیروز یکی از سربازای روسیه تو رزمایش اینطوری گرفت رو همرزماش\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-13T04:30:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144598_0_8901a716.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_144598_1_ffbec9e1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144598"
+      },
+      {
         "id": 144597,
         "text": "منبع ایتا:ناو آبراهام لینکلن رو هدف قرار دادیم\n💢\n@Baga_News\n| Король",
         "date": "2026-07-12T23:46:22+00:00",
@@ -14620,36 +14658,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144406"
-      },
-      {
-        "id": 144405,
-        "text": "🔵\nمنابع غربی از آغاز مین‌گذاری سپاه در تنگه هرمز خبر میدن.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-12T13:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144405_0_f8d542e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144405"
-      },
-      {
-        "id": 144404,
-        "text": "🇮🇱\nشبکه 14 اسرائیل:\nایران و کارتل مکزیک رفیق شدن و بزودی خیلیا قراره ترور بشن!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-12T12:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144404_0_f8d542e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144404"
       }
     ],
     "maznet": [
@@ -16231,23 +16239,23 @@
       }
     ]
   },
-  "last_update": "2026-07-13T02:57:13.992967+00:00",
+  "last_update": "2026-07-13T05:05:01.524038+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 733,
-    "total_files": 733,
+    "total_media": 735,
+    "total_files": 735,
     "total_links": 281,
     "files_by_type": {
-      "image": 704,
-      "video": 17,
+      "image": 705,
+      "video": 18,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 733,
-    "existing_media_files": 732,
-    "total_size_mb": 356.21,
-    "last_calculation": "2026-07-13T02:57:14.001788+00:00"
+    "referenced_files": 735,
+    "existing_media_files": 734,
+    "total_size_mb": 359.46,
+    "last_calculation": "2026-07-13T05:05:01.532830+00:00"
   }
 }
