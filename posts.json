@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 144723,
+        "text": "❤️‍🔥\nخسته نشدی انقدر VPN گرون خریدی؟\n🪐\n❤️\n😳\nفـقط گـیگی ۲ هـزار\n❗\n⭕️\n❤️\n✅\nساب لینک اختصاصی\n✅\nمولتی لوکیشن (چندین کشور)\n✅\nسرعت فوق‌العاده و پینگ پایین\n✅\nمناسب گیم، استریم و استفاده روزمره\n✅\nاتصال پایدار و بدون قطعی\n✅\nسازگار با Android، iPhone، Windows و Mac\n✅\nپشتیبانی و بروزرسانی مداوم\n🚀\nاینترنت بدون محدودیت را با بهترین کیفیت تجربه کن.\n❤️\nاول تـست کن بـعد بـخر!\n☑️\n🛒\n😎\nخرید سریع از ربات:\n@VpnBrozeBot\n✅\nچنل ما :\n@VpnBroze\n⭐️\nکیفیت بالا، قیمت اقتصادی، تحویل آنی.",
+        "date": "2026-07-13T19:36:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144723_0_899f0ad7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_144723_1_95cb708c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144723"
+      },
+      {
+        "id": 144722,
+        "text": "💢\nصداوسیما:\nانفجاری تو بندرعباس و لارک رخ نداده و همه چی ارومه\n💢\n@Baga_News\n| Noll",
+        "date": "2026-07-13T19:36:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144722_0_899f0ad7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144722"
+      },
+      {
         "id": 144721,
         "text": "💢\nعربستان سعودی حریم هوایی خود را بست\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
         "date": "2026-07-13T19:25:31+00:00",
@@ -14628,36 +14662,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144585"
-      },
-      {
-        "id": 144584,
-        "text": "💢\nاستانداری هرمزگان: تاکنون اصابتی در بندر خمیر گزارش نشده و صداهای شنیده‌شدۀ احتمالی ممکن است از سمت دریا باشد.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-07-12T23:24:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144584_0_8901a716.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144584"
-      },
-      {
-        "id": 144583,
-        "text": "بنا به گزارش کاربران  پالایشگاه بهبهان زدن و قطع برق در سراسر شهر رخ داده .\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-12T23:23:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144583_0_8901a716.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144583"
       }
     ],
     "maznet": [
@@ -16239,23 +16243,23 @@
       }
     ]
   },
-  "last_update": "2026-07-13T19:26:03.302338+00:00",
+  "last_update": "2026-07-13T19:40:14.765332+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 735,
-    "total_files": 735,
+    "total_media": 736,
+    "total_files": 736,
     "total_links": 281,
     "files_by_type": {
-      "image": 702,
+      "image": 703,
       "video": 21,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 735,
-    "existing_media_files": 734,
-    "total_size_mb": 383.53,
-    "last_calculation": "2026-07-13T19:26:03.311007+00:00"
+    "referenced_files": 736,
+    "existing_media_files": 735,
+    "total_size_mb": 383.62,
+    "last_calculation": "2026-07-13T19:40:14.770804+00:00"
   }
 }
