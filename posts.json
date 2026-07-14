@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 144769,
+        "text": "✅\nخواهر لیندسی گراهام جایگزین او شد\nفرماندار کارولینای جنوبی هنری مک مستر، خواهر لیندزی گراهام، دارلین گراهام را به عنوان جایگزین او ، سناتور این ایالت منصوب کرد.\nبا توجه به پیروزی لیندزی گراهام در انتخابات مقدماتی، خواهرش یک دوره شش ساله کامل در سنای آمریکا خواهد بود.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-14T13:31:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144769_0_899f0ad7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_144769_1_0b6ae7aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144769"
+      },
+      {
+        "id": 144768,
+        "text": "🇫🇷\nوزیر دفاع فرانسه: ما برای خنثی‌سازی مین‌ها در تنگه هرمز آماده هستیم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-14T13:10:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144768_0_899f0ad7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144768"
+      },
+      {
         "id": 144767,
         "text": "🚨\nرادار کلادفلر:\nطی ۴۸ ساعت گذشته، سهم ترافیک IPv۶ به تدریج در حال افزایش است/ نسبت ترافیک عبوری از این پروتکل در حال حاضر حدود ۲.۵ درصد از ترافیک کل کشور است\nپس از قطعی ۲۰ روزه اینترنت در دی و بهمن ۱۴۰۴، دسترسی کاربران ایرانی به اینترنت از طریق IPv۶ مسدود مانده بود.\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-14T12:50:21+00:00",
@@ -14634,44 +14668,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144612"
-      },
-      {
-        "id": 144611,
-        "text": "🇺🇸\nدونالد ترامپ در تروث سوشال عکسی از لیندسی گراهام منتشر کرده با کلاهی که روی آن نوشته شده:\n«\nایران را دوباره با عظمت کن\n».\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-13T08:33:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144611_0_8901a716.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_144611_1_f2644b38.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144611"
-      },
-      {
-        "id": 144610,
-        "text": "🇮🇷\nحسین شریعتمداری، مدیرروزنامه کیهان:\nحضرت عزرائیل چرا در مورد لیندسی گراهام پیشدستی کردی و قبل از ما حسابشو رسیدی\nلااقل از خدا اجازه می‌گرفتی و یکم صبر می‌کردی تا ما بفرستیمش جهنم!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-13T08:03:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144610_0_8901a716.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_144610_1_001b4a92.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144610"
       }
     ],
     "maznet": [
@@ -16253,23 +16249,23 @@
       }
     ]
   },
-  "last_update": "2026-07-14T12:50:50.090232+00:00",
+  "last_update": "2026-07-14T13:48:39.398176+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 737,
-    "total_files": 737,
+    "total_media": 736,
+    "total_files": 736,
     "total_links": 282,
     "files_by_type": {
-      "image": 706,
+      "image": 705,
       "video": 19,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 737,
-    "existing_media_files": 736,
-    "total_size_mb": 389.7,
-    "last_calculation": "2026-07-14T12:50:50.097458+00:00"
+    "referenced_files": 736,
+    "existing_media_files": 735,
+    "total_size_mb": 389.6,
+    "last_calculation": "2026-07-14T13:48:39.405011+00:00"
   }
 }
