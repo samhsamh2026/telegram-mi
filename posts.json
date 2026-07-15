@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 144874,
+        "text": "🚨\nعکس جدید بیژن مرتضوی ، کنار کریس مارتین ، خواننده گروه کلدپلی( یکی از گروه های اجرا کننده تو فینال جام جهانی) ؛\nبیژن مرتضوی با این پست رسما اجرای خودش تو فینال جام جهانی رو تأیید کرد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-15T04:33:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144874_0_3181ea22.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_144874_1_b716504b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144874"
+      },
+      {
+        "id": 144873,
+        "text": "🇺🇸\n👀\n|\nترامپ:\nجنگ ادامه خواهد داشت تا زمانی که من تصمیم بگیرم که زمان پایان دادن به آن فرا رسیده است\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-15T04:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_144873_0_3181ea22.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/144873"
+      },
+      {
         "id": 144872,
         "text": "🔴\nانفجار در دهلران\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-14T23:29:00+00:00",
@@ -14568,40 +14602,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144766"
-      },
-      {
-        "id": 144765,
-        "text": "🇮🇷\n🇮🇷\nسخنگوی ارتش: نیروهای مسلح سر سوزنی بر سر تنگۀ هرمز کوتاه نخواهد آمد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-14T12:15:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144765_0_899f0ad7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_144765_1_d4a08ad3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144765"
-      },
-      {
-        "id": 144764,
-        "text": "💢\nترامپ :\nعملیات نظامی علیه ایران ممکن است بین دو تا سه هفته طول بکشد\n+جنگ قبلی گفته بود ۳ روز طول میکشه ۴ ماه طول کشید\nایندفعه فک کنم یه یه‌سالی طول بکشه\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-07-14T12:07:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144764_0_899f0ad7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144764"
       }
     ],
     "maznet": [
@@ -16183,7 +16183,7 @@
       }
     ]
   },
-  "last_update": "2026-07-15T03:25:02.895689+00:00",
+  "last_update": "2026-07-15T04:37:47.291182+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16199,7 +16199,7 @@
     },
     "referenced_files": 721,
     "existing_media_files": 720,
-    "total_size_mb": 357.73,
-    "last_calculation": "2026-07-15T03:25:02.904798+00:00"
+    "total_size_mb": 357.74,
+    "last_calculation": "2026-07-15T04:37:47.300801+00:00"
   }
 }
