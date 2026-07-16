@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 145088,
+        "text": "🇵🇰\nوزارت امور خارجه پاکستان:\nما به تعامل فعال با طرف‌های اصلی ادامه می‌دهیم تا از تلاش‌ها برای کاهش تنش و گفت‌وگو حمایت کنیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-16T08:31:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145088_0_8fbf9ddd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145088"
+      },
+      {
+        "id": 145087,
+        "text": "🔴\nعلیرضا فغانی داور فینال جام‌جهانی بین اسپانیا و آرژانتین شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-16T08:20:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145087_0_8fbf9ddd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145087"
+      },
+      {
         "id": 145086,
         "text": "مرد پاشو ساز بزن روزی ۲ساعت برقامون میره..\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-16T08:13:28+00:00",
@@ -14590,40 +14620,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144951"
-      },
-      {
-        "id": 144949,
-        "text": "",
-        "date": "2026-07-15T15:59:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144949_0_8fbf9ddd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144949"
-      },
-      {
-        "id": 144948,
-        "text": "🇮🇷\n👀\n| سالار ولایتمدار، عضو کمیسیون امنیت ملی مجلس:\nمردم خود را برای شرایط سخت آماده کنند. ممکن است با محدودیت هایی در تامین برق و سوخت مواجه شویم و به این دلیل مردم تحملشان را بالا ببرند.\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-15T15:54:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144948_0_8fbf9ddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_144948_1_fbb313b4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144948"
       }
     ],
     "maznet": [
@@ -16205,23 +16201,23 @@
       }
     ]
   },
-  "last_update": "2026-07-16T08:18:09.500573+00:00",
+  "last_update": "2026-07-16T08:43:14.195750+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 725,
-    "total_files": 725,
+    "total_media": 724,
+    "total_files": 724,
     "total_links": 282,
     "files_by_type": {
-      "image": 695,
+      "image": 694,
       "video": 18,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 725,
-    "existing_media_files": 724,
-    "total_size_mb": 371.6,
-    "last_calculation": "2026-07-16T08:18:09.509301+00:00"
+    "referenced_files": 724,
+    "existing_media_files": 723,
+    "total_size_mb": 371.54,
+    "last_calculation": "2026-07-16T08:43:14.204738+00:00"
   }
 }
