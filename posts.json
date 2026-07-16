@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 145078,
+        "text": "🔴\n🇮🇷\nسردار محبی، سخنگوی سپاه پاسداران انقلاب اسلامی:\nدشمن تصور نکند می تواند معادله فعلی نبرد را ادامه دهد و جنگ را فرسایشی کند.\nعملیات‌های ایران فعلا متمرکز بر انهدام زیرساخت تهاجمی آمریکا در منطقه است. سپس گام‌های بعدی آغاز خواهد شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-16T04:30:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145078_0_8fbf9ddd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145078_1_b95ee484.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145078"
+      },
+      {
+        "id": 145077,
+        "text": "🔴\n🇺🇸\nترامپ: حملات علیه ایران از هفته آینده وارد مرحله جدیدی میشه و خاورمیانه باید خودش رو برای اتفاقات بعدی آماده کنه.\nالبته ایرانیا دوست دارن توافق کنن و درخواست جلسه دادن بهمون.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-16T04:01:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145077_0_8fbf9ddd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145077_1_6efbb504.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145077"
+      },
+      {
         "id": 145076,
         "text": "صبح بخیر\n💢\n@Baga_News\n|\nArT",
         "date": "2026-07-16T01:49:55+00:00",
@@ -14586,40 +14624,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144933"
-      },
-      {
-        "id": 144932,
-        "text": "🔴\n😂\nتا ساعتی دیگه ممباقر قالیباف درباره جنگ و تحولات کشور یه بیانیه منتشر می‌کنه\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-15T14:55:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144932_0_8fbf9ddd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144932"
-      },
-      {
-        "id": 144931,
-        "text": "🟠\nداریوش فرضیایی (عمو پورنگ) تو مراسم ختم مادرش :\nمن مامان ندارم... الان در رو باز کنم کیه تو خونه؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-15T14:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144931_0_8fbf9ddd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_144931_1_4075347e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144931"
       }
     ],
     "maznet": [
@@ -16201,23 +16205,23 @@
       }
     ]
   },
-  "last_update": "2026-07-16T03:22:50.394501+00:00",
+  "last_update": "2026-07-16T04:48:28.507632+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 724,
-    "total_files": 724,
+    "total_media": 725,
+    "total_files": 725,
     "total_links": 282,
     "files_by_type": {
-      "image": 689,
-      "video": 23,
+      "image": 691,
+      "video": 22,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 724,
-    "existing_media_files": 723,
-    "total_size_mb": 384.61,
-    "last_calculation": "2026-07-16T03:22:50.401515+00:00"
+    "referenced_files": 725,
+    "existing_media_files": 724,
+    "total_size_mb": 379.85,
+    "last_calculation": "2026-07-16T04:48:28.516370+00:00"
   }
 }
