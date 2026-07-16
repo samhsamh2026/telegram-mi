@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 145143,
+        "text": "🚨\n4 انفجار در بندر عباس",
+        "date": "2026-07-16T19:32:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145143_0_3777631d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145143"
+      },
+      {
+        "id": 145142,
+        "text": "🇮🇷\n👀\n| سعیدی نماینده مجلس:\nاگه آمریکا به ایران حمله زمینی کنه،نیروهای آمریکایی یا اسیر میشن یا میمیرن و جمهوری اسلامی درسی سخت به آمریکا میده‌.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-16T19:32:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145142_0_3777631d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145142"
+      },
+      {
         "id": 145141,
         "text": "🇾🇪\nرهبر انصارالله یمن: عربستان باید مجازات شود\n💢\n@Baga_News\n| Король",
         "date": "2026-07-16T19:10:21+00:00",
@@ -14594,40 +14624,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145018"
-      },
-      {
-        "id": 145017,
-        "text": "🔴\nسیریک و قشم صدای انفجار\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-15T21:57:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145017_0_8fbf9ddd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145017"
-      },
-      {
-        "id": 145016,
-        "text": "🔴\n🇺🇸\nشبکه ۱۲ اسرائیل\n:\nدونالد ترامپ در حال بررسی گسترش عملیات نظامی آمریکا در ایران است — از جمله افزایش حملات هوایی و\nاحتمال اقدام زمینی.\n◀️\nمنبع خبر گفته این تصمیم بخشی از ارزیابی جدید کاخ سفید دربارهٔ راهبرد فشار نظامی بر تهران است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-15T21:53:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145016_0_8fbf9ddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145016_1_60b13a00.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145016"
       }
     ],
     "maznet": [
@@ -16209,23 +16205,23 @@
       }
     ]
   },
-  "last_update": "2026-07-16T19:15:02.806938+00:00",
+  "last_update": "2026-07-16T19:44:13.090351+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 729,
-    "total_files": 729,
+    "total_media": 728,
+    "total_files": 728,
     "total_links": 280,
     "files_by_type": {
-      "image": 700,
+      "image": 699,
       "video": 17,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 729,
-    "existing_media_files": 728,
-    "total_size_mb": 352.74,
-    "last_calculation": "2026-07-16T19:15:02.816075+00:00"
+    "referenced_files": 728,
+    "existing_media_files": 727,
+    "total_size_mb": 352.69,
+    "last_calculation": "2026-07-16T19:44:13.099488+00:00"
   }
 }
