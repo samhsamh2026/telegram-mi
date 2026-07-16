@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 145080,
+        "text": "مونیز فرناندز: علیرضا فغانی داور ایرانی احتمال زیاد داورِ فینال جام جهانی میشه و تایید نهایی مونده چون اون شخصیت قوی‌ای داره\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-16T05:33:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145080_0_8fbf9ddd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145080_1_51818308.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145080"
+      },
+      {
+        "id": 145079,
+        "text": "نتانیاهو : لیونل مسی همیشه حامی ما بوده،امیدوارم این فوق ستاره قهرمان جام جهانی بشه.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-16T05:00:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145079_0_8fbf9ddd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145079_1_1ea052f3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145079"
+      },
+      {
         "id": 145078,
         "text": "🔴\n🇮🇷\nسردار محبی، سخنگوی سپاه پاسداران انقلاب اسلامی:\nدشمن تصور نکند می تواند معادله فعلی نبرد را ادامه دهد و جنگ را فرسایشی کند.\nعملیات‌های ایران فعلا متمرکز بر انهدام زیرساخت تهاجمی آمریکا در منطقه است. سپس گام‌های بعدی آغاز خواهد شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-16T04:30:39+00:00",
@@ -14590,40 +14628,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/144935"
-      },
-      {
-        "id": 144934,
-        "text": "🔴\nعظيمی‌راد، نماینده مجلس:\nبه کاظمی، وزير آموزش و پرورش 24 ساعت مهلت میدم که امتحانات نهایی کل کشور رو عقب بندازه وگرنه به شدت باهاش برخورد نظارتی میکنم!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-15T15:05:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144934_0_8fbf9ddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_144934_1_4fb39e4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144934"
-      },
-      {
-        "id": 144933,
-        "text": "🔴\n🇺🇸\nترامپ: تصاویر حمله به میناب شاید هوش مصنوعی باشه، چیزی قطعی نیست.\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-15T15:05:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_144933_0_8fbf9ddd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/144933"
       }
     ],
     "maznet": [
@@ -16205,23 +16209,23 @@
       }
     ]
   },
-  "last_update": "2026-07-16T04:48:28.507632+00:00",
+  "last_update": "2026-07-16T06:01:45.918487+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 725,
-    "total_files": 725,
+    "total_media": 726,
+    "total_files": 726,
     "total_links": 282,
     "files_by_type": {
-      "image": 691,
+      "image": 692,
       "video": 22,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 725,
-    "existing_media_files": 724,
-    "total_size_mb": 379.85,
-    "last_calculation": "2026-07-16T04:48:28.516370+00:00"
+    "referenced_files": 726,
+    "existing_media_files": 725,
+    "total_size_mb": 379.88,
+    "last_calculation": "2026-07-16T06:01:45.927216+00:00"
   }
 }
