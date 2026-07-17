@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 145279,
+        "text": "🔴\nتصاویر و اسامی نیروهای کومله که تو حملات موشکی و پهپادی سپاه و ارتش به مقر این گروه تو سلیمانیه عراق کشته شدن، منتشر شد.\n‼️\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-17T14:08:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145279_0_3777631d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145279_1_2e302b57.mp4"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145279_2_587a9ead.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145279"
+      },
+      {
+        "id": 145278,
+        "text": "🇮🇱\nکانال ۱۲ اسرائیل :\nموج بعدی حملات آمریکا قراره خیلی شدیدتر باشه و‌ احتمالا تهران و بقیه شهر هارو هم بزنه.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-17T13:50:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145278_0_3777631d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145278"
+      },
+      {
         "id": 145277,
         "text": "🔴\nتصاویر و اسامی نیروهای کومله که تو حملات موشکی و پهپادی سپاه و ارتش به مقر این گروه تو سلیمانیه عراق کشته شدن، منتشر شد.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-17T13:40:54+00:00",
@@ -14618,36 +14656,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145141"
-      },
-      {
-        "id": 145140,
-        "text": "🚨\nمجدد انفجار در اهواز\n‼️\n🔴\nاصابت پی در پی موشک های آمریکایی به اهواز.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-16T19:06:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145140_0_3777631d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145140"
-      },
-      {
-        "id": 145139,
-        "text": "🚨\n۵ انفجار سنگین در اهواز\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-16T19:05:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145139_0_3777631d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145139"
       }
     ],
     "maznet": [
@@ -16229,23 +16237,23 @@
       }
     ]
   },
-  "last_update": "2026-07-17T13:42:38.658444+00:00",
+  "last_update": "2026-07-17T14:14:47.171927+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 734,
-    "total_files": 734,
+    "total_media": 736,
+    "total_files": 736,
     "total_links": 280,
     "files_by_type": {
-      "image": 699,
-      "video": 23,
+      "image": 700,
+      "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 734,
-    "existing_media_files": 733,
-    "total_size_mb": 396.6,
-    "last_calculation": "2026-07-17T13:42:38.665281+00:00"
+    "referenced_files": 736,
+    "existing_media_files": 735,
+    "total_size_mb": 397.01,
+    "last_calculation": "2026-07-17T14:14:47.180644+00:00"
   }
 }
