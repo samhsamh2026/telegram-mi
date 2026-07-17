@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 145251,
+        "text": "💢\nدانشگاه علوم پزشکی هرمزگان:\nبراساس آخرین اطلاعات دریافتی، شمار شهدای حمله به پل‌های بندر خمیر به هفت نفر افزایش یافته است.\nهمچنین در این حمله ۹ نفر مجروح شدند که روند رسیدگی درمانی به مصدومان از سوی نیروهای امدادی و کادر درمان در حال انجام است.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-17T08:32:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145251_0_3777631d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145251_1_bdc6171d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145251"
+      },
+      {
         "id": 145250,
         "text": "🇺🇸\nترامپ: هفته آینده خاورمیانه تغییر خواهد کرد و همه باید برای آن آماده باشند.\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-17T08:05:30+00:00",
@@ -14629,37 +14648,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145113"
-      },
-      {
-        "id": 145109,
-        "text": "بازیکنان آرژانتین بطری آب جردن پیکفورد پیدا کردند؛ بطری‌ای که روش نوشته شده هر بازیکن پنالتی‌ به کدوم سمت میزنه.\nخنده‌های انزو فرناندز که مقابل اسمش نوشته شده بود “وسط بایست” (یعنی پنالتی رو به وسط دروازه می‌زنه)\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-16T14:34:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145109_0_8fbf9ddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145109_1_b910b00a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145109_2_42a12f30.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145109_3_7df1d5a8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145109_4_ad4acef0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145109"
       }
     ],
     "maznet": [
@@ -16241,23 +16229,23 @@
       }
     ]
   },
-  "last_update": "2026-07-17T08:13:24.239324+00:00",
+  "last_update": "2026-07-17T08:38:05.255650+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 737,
-    "total_files": 737,
+    "total_media": 734,
+    "total_files": 734,
     "total_links": 280,
     "files_by_type": {
-      "image": 704,
+      "image": 701,
       "video": 21,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 737,
-    "existing_media_files": 736,
-    "total_size_mb": 373.6,
-    "last_calculation": "2026-07-17T08:13:24.248488+00:00"
+    "referenced_files": 734,
+    "existing_media_files": 733,
+    "total_size_mb": 373.26,
+    "last_calculation": "2026-07-17T08:38:05.264465+00:00"
   }
 }
