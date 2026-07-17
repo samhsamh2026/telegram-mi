@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 145238,
+        "text": "🇸🇾\nوزارت کشور سوریه در بیانیه‌ای، حزب‌الله را گروه تروریستی خواند.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-17T04:31:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145238_0_3777631d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145238"
+      },
+      {
+        "id": 145237,
+        "text": "محسن رضایی: مسیری که در ذهن آقامجتبی هست، بهتر از مسیری بود که شورای‌عالی امنیت‌ملی رفت.\nمجری: چه مسیری بود؟\nمحسن رضایی: نمی‌دونم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-17T04:01:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145237_0_3777631d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145237_1_2369fd35.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145237"
+      },
+      {
         "id": 145236,
         "text": "💢\nهم اکنون گزارش انفجار در چابهار\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
         "date": "2026-07-17T01:42:24+00:00",
@@ -14626,40 +14660,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145098"
-      },
-      {
-        "id": 145097,
-        "text": "🇺🇸\nترامپ:\nاحتمالا بلایی که سر داعش آوردیم رو سر سـپاه پاسـداران میاریم و همینطوری که داعش رو ریشه کن کردیم؛ سپاه هم رو ریشه کن میکنیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-16T11:10:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145097_0_8fbf9ddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145097_1_74c79d62.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145097"
-      },
-      {
-        "id": 145096,
-        "text": "🇮🇷\nمدیرکل امنیتی استانداری سمنان\n:\nدر حمله هوایی به فرودگاه سمنان یک سوله جانبی مورد اصابت قرار گرفته و کشته و مصدومی نداشته است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-16T10:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145096_0_8fbf9ddd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145096"
       }
     ],
     "maznet": [
@@ -16241,7 +16241,7 @@
       }
     ]
   },
-  "last_update": "2026-07-17T03:49:50.413818+00:00",
+  "last_update": "2026-07-17T04:51:33.368675+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16249,15 +16249,15 @@
     "total_files": 737,
     "total_links": 280,
     "files_by_type": {
-      "image": 704,
-      "video": 21,
+      "image": 703,
+      "video": 22,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 737,
     "existing_media_files": 736,
-    "total_size_mb": 375.26,
-    "last_calculation": "2026-07-17T03:49:50.423192+00:00"
+    "total_size_mb": 377.62,
+    "last_calculation": "2026-07-17T04:51:33.377808+00:00"
   }
 }
