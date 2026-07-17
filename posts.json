@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 145308,
+        "text": "🟠\nمقامات پاکستانی به رویترز :\nبه ایران گفتیم که حمله به عربستان سعودی خط قرمزه پاکستانه و نباید همچین کاری بکنید.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-17T19:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145308_0_1fced222.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145308_1_6214b15c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145308"
+      },
+      {
+        "id": 145307,
+        "text": "🚨\nتوی یکی از پرواز ها داخل آمریکا یه مسافر مسلمون بوده که آهنگ زنگ گوشیش صدای اذان و الله اکبر بوده بعد همه مسافرا وحشت کردن و سریع تماس گرفتن با پلیس و پلیسا هم ریختن اینطوری فرد مسلمان رو دستگیر کردن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-17T18:50:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145307_0_1fced222.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145307_1_98141c4c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145307"
+      },
+      {
         "id": 145305,
         "text": "‏\nبعضی از منابع مدعی شدن که پل بعدی که قراره هدف آمریکا باشه پل «فورگ» هستش\nاین پل داراب رو به بندر عباس متصل میکنه\n‎\nهم وطنان عزیز مواظب باشید\n‼️\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-17T18:32:36+00:00",
@@ -14706,44 +14744,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145181"
-      },
-      {
-        "id": 145180,
-        "text": "سرویس حجمی هم فعال شد\n🌎\nهمین الان میتونید از توی بات تست بگیرید\n💎\n🦖\n↬\n@B2TeamBot\n✅\n📍\n📍\n📍\n📍\n📍\n📍\n🦖\n↬\n@B2TeamBot\n✅\n📍\n📍\n📍\n📍\n📍\n📍\n🦖\n↬\n@B2TeamBot\n✅\nتست سرویس حجمی با ضمانت اتصال در جنگ\n👆\n👆\n👆\nکاملا رایگان تست کن\n🔝",
-        "date": "2026-07-16T21:11:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145180_0_3777631d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145180_1_028818dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145180"
-      },
-      {
-        "id": 145179,
-        "text": "🔴\nتصویری از پل کهورستان در شهرستان خمیر استان هرمزگان\n‼️\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-16T21:10:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145179_0_3777631d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145179_1_f0cc81e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145179"
       }
     ],
     "maznet": [
@@ -16325,7 +16325,7 @@
       }
     ]
   },
-  "last_update": "2026-07-17T18:38:03.013184+00:00",
+  "last_update": "2026-07-17T19:13:46.990566+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16333,15 +16333,15 @@
     "total_files": 758,
     "total_links": 280,
     "files_by_type": {
-      "image": 715,
-      "video": 31,
+      "image": 714,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 758,
     "existing_media_files": 757,
-    "total_size_mb": 417.75,
-    "last_calculation": "2026-07-17T18:38:03.022478+00:00"
+    "total_size_mb": 423.24,
+    "last_calculation": "2026-07-17T19:13:46.999942+00:00"
   }
 }
