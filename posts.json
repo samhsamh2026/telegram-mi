@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 145442,
+        "text": "سخنگوی قوه قضاییه: دشمن قصد داشت با کودتای سوم، پهلوی و خاندانش رو به قدرت برسونه؛ خاندان پهلوی اسرائیلی و اسرائیلی‌زاده هستن.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-18T13:32:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145442_0_1fced222.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145442_1_b39b747a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145442"
+      },
+      {
         "id": 145441,
         "text": "‼️\n👀\n| انبوه بزرگی از هواپیماهای ترابری و سوخت‌رسان آمریکایی به سوی خاورمیانه در حال حرکت هستند .\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-18T13:10:23+00:00",
@@ -14603,21 +14622,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145305"
-      },
-      {
-        "id": 145304,
-        "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿\n👀\n| دولت انگلیس:\nاز این پس هرکس در انگلیس از سپاه پاسداران حمایت یا به آن کمک کند ممکن است با ۱۴ سال زندان روبرو شود!\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-17T18:10:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145304_0_1fced222.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145304"
       }
     ],
     "maznet": [
@@ -16199,23 +16203,23 @@
       }
     ]
   },
-  "last_update": "2026-07-18T13:20:17.233026+00:00",
+  "last_update": "2026-07-18T13:39:15.823573+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 725,
-    "total_files": 725,
+    "total_media": 726,
+    "total_files": 726,
     "total_links": 281,
     "files_by_type": {
       "image": 699,
-      "video": 14,
+      "video": 15,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 725,
-    "existing_media_files": 724,
-    "total_size_mb": 364.88,
-    "last_calculation": "2026-07-18T13:20:17.241863+00:00"
+    "referenced_files": 726,
+    "existing_media_files": 725,
+    "total_size_mb": 369.21,
+    "last_calculation": "2026-07-18T13:39:15.832428+00:00"
   }
 }
