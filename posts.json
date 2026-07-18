@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 145402,
+        "text": "🇮🇱\n👀\n|\nنتانیاهو:\nبه این فکر نکنید که اگر به ما حمله کنید،\nاوضاع به آرامی پیش خواهد رفت. این یک اتفاق کاملاً متفاوت و بسیار قوی‌تر خواهد بود\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-18T04:34:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145402_0_1fced222.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145402_1_8a68becc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145402"
+      },
+      {
         "id": 145401,
         "text": "🇮🇷\n👀\n|\nمحمد مرندی : یا با ترامپ و نتانیاهو هستید یا علیه آن‌ها؛ سکوت یعنی همدستی!\n💢\n@Baga_News\n| Король",
         "date": "2026-07-18T04:01:56+00:00",
@@ -14657,25 +14676,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145262"
-      },
-      {
-        "id": 145261,
-        "text": "🔴\n🛰\nتصاویر ماهواره‌ای یک نشت بزرگ نفتی در جزیره خارک رو نشون میده\n:\n+ علت هنوز مشخص نیست.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-17T10:20:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145261_0_3777631d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_145261_1_dba2f6e9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145261"
       }
     ],
     "maznet": [
@@ -16257,7 +16257,7 @@
       }
     ]
   },
-  "last_update": "2026-07-18T04:29:59.580615+00:00",
+  "last_update": "2026-07-18T04:36:15.611490+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16265,15 +16265,15 @@
     "total_files": 741,
     "total_links": 280,
     "files_by_type": {
-      "image": 709,
-      "video": 20,
+      "image": 710,
+      "video": 19,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 741,
     "existing_media_files": 740,
-    "total_size_mb": 368.75,
-    "last_calculation": "2026-07-18T04:29:59.589660+00:00"
+    "total_size_mb": 362.29,
+    "last_calculation": "2026-07-18T04:36:15.616315+00:00"
   }
 }
