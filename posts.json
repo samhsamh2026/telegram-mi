@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 145486,
+        "text": "🇮🇷\n👀\n| رسما دارن افکار رو برای حمله زمینی آماده میکنن! مجری صداوسیما: اگه آمریکا بیاد و جنوبم تصرف کنه، بازم دنیا به آخر نمیرسه!\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-18T19:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145486_0_b7c38729.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145486_1_509cbc43.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145486"
+      },
+      {
         "id": 145485,
         "text": "🔴\nپیت هگست در واکنش به کشته شدن سرباز های آمریکایی :  فداکاری‌های شما، تنها باعث افزایش اراده ما میشه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-18T19:00:02+00:00",
@@ -14643,24 +14662,24 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145374"
-      },
+      }
+    ],
+    "maznet": [
       {
-        "id": 145373,
-        "text": "🚨\nآژیر ها در اردن به صدا در امد\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-17T23:06:33+00:00",
+        "id": 9294,
+        "text": "کانفیگ مناسب همه نت ها\n- سرعت خوب\n🔑\nاپ\nاندروید\nو\nآیفون\n:  Npv tunnel\n📍\nرو فایل بزن وارد اپ میشه ، انتخاب کن از بخش Configs و در Home استارتو بزن و تمام\n🛍\nخرید وی‌پی‌ان(تانل-آیپی ثابت)\n@Maznet",
+        "date": "2026-07-18T19:08:29+00:00",
         "media": [
           {
             "type": "image",
-            "file": "bg_ae_145373_0_1fced222.jpg"
+            "file": "maznet_9294_0_4672d9c8.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/bg_ae/145373"
-      }
-    ],
-    "maznet": [
+        "source": "https://t.me/maznet/9294"
+      },
       {
         "id": 9293,
         "text": "vless://3e6a3182-5cb6-476f-bbf5-80c4199c5fef@107.181.155.175:8899?security=reality&encryption=none&pbk=wbcRJDNTU7tmBWYu_ik6nY_5nonaiMQjHY11OI5A_B8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=161f1eccd99956a2#%40Maznet%20-SOS504\n📲\nاندروید:\nV2rayNg\nآیفون:\nV2box\n🛍\nخرید وی‌پی‌ان(آیپی ثابت)\n@Maznet",
@@ -16215,47 +16234,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/maznet/9185"
-      },
-      {
-        "id": 9184,
-        "text": "📱\nآموزش گام به گام و متنی برای اتصال به کانفیگ های مبتنی بر dns در ios\n⛓\nلینک دانلود برنامه‌ی CoreForge(اپ در مرحله تست و توسعه هست)\nhttps://testflight.apple.com/join/GfUqXrFz\n📍\nخلاصه pdf و برخی نکات\nبالای برنامه دو تا گزینه می‌بینید:\n• DNS Forge\n• RelayForge\nبخش RelayForge برای کانفیگ‌های VMess و VLESS هست، ولی با وضعیت فعلی فیلترینگ فعلاً خیلی خوب جواب نمی‌ده. داخل PDF هم توضیح داده شده.\nفعلاً بهتره برید روی DNS Forge.\nپایین برنامه هم سه تا بخش هست:\n• Diagnostics\n• Connect\n• Profile\nفعلاً با Diagnostics کاری نداریم.\nاول برید داخل Profile.\nاینجا دو بخش دارید:\n🔹\nConnection\nاینجا می‌تونید سرور انتخاب کنید یا سرورهای StormLink که کانال‌ها میذارن رو اضافه کنید.\n⚠️\nچون برنامه هنوز آزمایشیه، بهتره بیشتر از یه سرور اضافه نکنید؛ چندتا سرور بعضی وقتا باعث میشه برنامه قاطی کنه.\n🔹\nResolver\nخود برنامه ۴۰۰۰ DNS آماده داره، ولی خودتون هم می‌تونید DNS دلخواه اضافه کنید.\nبعد برید بخش Connect.\nداخل Tune Preset یکی از گزینه‌ها رو انتخاب کنید.\n⚠️\nیه باگ هم داره؛ اگه از بخش Profile سرور رو عوض کنید، بعضی وقتا این قسمت خالی میشه.\nپایین‌تر دو حالت اتصال دارید:\n• SOCKS\n• Full VPN\nخیلی ساده بخوام بگم:\nSOCKS فقط روی بعضی برنامه‌ها مثل تلگرام که پراکسی ساپورت می‌کنن کار می‌کنه و وقتی وصله علامت VPN بالای گوشی نمیاد.\nولی پیشنهاد می‌کنم روی Full VPN بذارید تا کل اینترنت گوشی از فیلتر رد بشه. تفاوت کاملشون هم داخل PDF توضیح داده شده.\n🔹\nParallel Test\nاین قسمت برای تست هم‌زمان چند سروره.\nمثلاً می‌تونید ۲ یا ۳ تا سرور انتخاب کنید تا برنامه خودش تست بگیره.\nبعد از انتخاب سرورها، بالا روی Run بزنید.\n⚠️\nبیشتر از ۵ تا سرور انتخاب نکنید چون ممکنه برنامه باگ بخوره.\nبعد از تست هم خودش بهترین سرور رو از نظر پینگ و سرعت پیشنهاد میده.\n❗\nاگر ارور Packet Tunnel Provider گرفتید معمولاً با این کارا درست میشه:\n• سرور رو عوض کنید\n• یک بار قطع و وصل کنید\n• برنامه رو ببندید و دوباره باز کنید\nبعضی وقتا هم ممکنه خود سرور خاموش باشه یا برنامه قاطی کرده باشه.\n📌\nیه نکته مهم: DNSهای پیش‌فرض خود برنامه ممکنه کند باشن و در حد پیام تلگرام جواب بدن.\nاگه DNS خوب پیدا کنید، سرعت و پایداری\nبهتر میشه.\n@Maznet",
-        "date": "2026-05-17T12:36:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "maznet_9184_0_44fe823c.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://testflight.apple.com/join/GfUqXrFz",
-            "type": "external",
-            "display_text": "https://testflight.apple.com/join/GfUqXrFz"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/maznet/9184"
       }
     ]
   },
-  "last_update": "2026-07-18T19:08:22.401567+00:00",
+  "last_update": "2026-07-18T19:15:40.678254+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 735,
-    "total_files": 735,
-    "total_links": 281,
+    "total_media": 736,
+    "total_files": 736,
+    "total_links": 280,
     "files_by_type": {
       "image": 703,
-      "video": 20,
+      "video": 21,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 735,
-    "existing_media_files": 734,
-    "total_size_mb": 384.15,
-    "last_calculation": "2026-07-18T19:08:22.410742+00:00"
+    "referenced_files": 736,
+    "existing_media_files": 735,
+    "total_size_mb": 385.79,
+    "last_calculation": "2026-07-18T19:15:40.687358+00:00"
   }
 }
