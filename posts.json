@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 145400,
+        "text": "🔴\nطبق گزارشات قزوین صدای جنگنده میاد\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
+        "date": "2026-07-18T01:35:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145400_0_1fced222.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145400"
+      },
+      {
+        "id": 145399,
+        "text": "🔴\nانفجار در اهواز\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
+        "date": "2026-07-18T01:34:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145399_0_1fced222.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145399"
+      },
+      {
         "id": 145398,
         "text": "🔴\nمناطق کامل بمباران شده امشب در یزد :\n◀️\nصنایع دفاع\n◀️\nآماد و پشتیبانی سپاه\n◀️\nسایت موشکی\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-18T00:04:14+00:00",
@@ -14646,40 +14676,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145260"
-      },
-      {
-        "id": 145259,
-        "text": "🇺🇸\nترامپ : شبکه‌های تلویزیونی که این سخنرانی من را پخش نمی‌کنند، باید مجوزهایشان باطل شود!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-17T10:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145259_0_3777631d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_145259_1_07ab6882.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145259"
-      },
-      {
-        "id": 145258,
-        "text": "💢\nادعای تأییدنشده ایران اینتل‌واچ: سناتور لیندسی گراهام توسط سم نوویچوک کشته شده است!\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-07-17T10:02:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145258_0_3777631d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145258"
       }
     ],
     "maznet": [
@@ -16261,23 +16257,23 @@
       }
     ]
   },
-  "last_update": "2026-07-18T01:01:28.495378+00:00",
+  "last_update": "2026-07-18T02:38:13.157438+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 742,
-    "total_files": 742,
+    "total_media": 741,
+    "total_files": 741,
     "total_links": 280,
     "files_by_type": {
       "image": 709,
-      "video": 21,
+      "video": 20,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 742,
-    "existing_media_files": 741,
-    "total_size_mb": 372.01,
-    "last_calculation": "2026-07-18T01:01:28.499975+00:00"
+    "referenced_files": 741,
+    "existing_media_files": 740,
+    "total_size_mb": 368.75,
+    "last_calculation": "2026-07-18T02:38:13.166455+00:00"
   }
 }
