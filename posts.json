@@ -12946,6 +12946,67 @@
     ],
     "bg_ae": [
       {
+        "id": 145557,
+        "text": "سنتکام از پایان هشتمین شب حملات به ایران خبر داد\n‼️\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-19T04:52:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145557_0_b7c38729.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145557"
+      },
+      {
+        "id": 145556,
+        "text": "خاورمیانه اینجوریه که اگه تا قبل از ۱۱ خوابیدی که خوابیدی وگرنه تا صبح بیداری.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-19T04:32:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145556_0_b7c38729.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145556"
+      },
+      {
+        "id": 145552,
+        "text": "🚨\nاین دختره به این نتيجه رسیده که از درس و امتحانات نهایی قرار نیست چیزی واسش دربیاد؛\nبخاطر همین داره دونه به دونه کتاب‌هاش رو لباس میکنه و میلیونی ویو میخوره:\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-19T04:03:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145552_0_b7c38729.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145552_1_ec100500.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145552_2_24b5ad3a.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145552_3_c3c06b60.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_145552_4_33a48e22.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145552"
+      },
+      {
         "id": 145551,
         "text": "🔻\nمعاون امنیتی ‌استانداری خوزستان:\n‌جنگنده‌های‌ آمریکا ساعت\n۰۵:۵۵\nدقیقه نقاطی در اطراف شادگان را مورد اصابت موشک قرار دادند.\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-19T03:11:33+00:00",
@@ -14555,55 +14616,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145442"
-      },
-      {
-        "id": 145441,
-        "text": "‼️\n👀\n| انبوه بزرگی از هواپیماهای ترابری و سوخت‌رسان آمریکایی به سوی خاورمیانه در حال حرکت هستند .\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-18T13:10:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145441_0_1fced222.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145441"
-      },
-      {
-        "id": 145440,
-        "text": "💢\nجاده بندرعباس–رودان که شب گذشته هدف حمله آمریکا قرار گرفته بود، از صبح امروز عملیات بازگشایی آن آغاز شده و با تلاش نیروهای امدادی و راهداری، مسیر تا حد زیادی باز شده است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-18T12:50:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145440_0_1fced222.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_145440_1_aa45ef8f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145440"
-      },
-      {
-        "id": 145439,
-        "text": "🔴\nبه نقل از خبرگزاری دریانیوز:\nدرحال حاضر امکان لغو عضویت تو پویش جانفدا وجود نداره.\n😂\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-18T12:32:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145439_0_1fced222.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145439"
       }
     ],
     "maznet": [
@@ -16179,23 +16191,23 @@
       }
     ]
   },
-  "last_update": "2026-07-19T03:35:47.915293+00:00",
+  "last_update": "2026-07-19T04:59:13.316079+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 723,
-    "total_files": 723,
+    "total_media": 726,
+    "total_files": 726,
     "total_links": 279,
     "files_by_type": {
       "image": 696,
-      "video": 15,
+      "video": 18,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 723,
-    "existing_media_files": 722,
-    "total_size_mb": 356.89,
-    "last_calculation": "2026-07-19T03:35:47.923981+00:00"
+    "referenced_files": 726,
+    "existing_media_files": 725,
+    "total_size_mb": 363.17,
+    "last_calculation": "2026-07-19T04:59:13.324862+00:00"
   }
 }
