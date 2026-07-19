@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 145633,
+        "text": "🔴\nپایان بازی\n‼️\nاسپانیا قهرمان جهان جام ۲۰۲۶ شد\n🇦🇷\n🇦🇷\nآرژانتین 0_ 1 اسپانیا\n🇪🇸\n🇪🇸\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-19T22:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145633_0_fcfa80e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145633"
+      },
+      {
         "id": 145632,
         "text": "این فرصتا اسپانیا اگه گل میشد الان چند چند بودن ؟!\n😂\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-19T20:43:11+00:00",
@@ -14655,21 +14670,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145525"
-      },
-      {
-        "id": 145524,
-        "text": "پایان نیمه‌اول؛\n❤️\nانگلیس\n😀\n-\n😏\nفرانسه\n🇫🇷\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-18T22:30:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145524_0_b7c38729.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145524"
       }
     ],
     "maznet": [
@@ -16245,7 +16245,7 @@
       }
     ]
   },
-  "last_update": "2026-07-19T21:01:11.471912+00:00",
+  "last_update": "2026-07-19T22:05:44.910602+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16262,6 +16262,6 @@
     "referenced_files": 735,
     "existing_media_files": 734,
     "total_size_mb": 371.56,
-    "last_calculation": "2026-07-19T21:01:11.480878+00:00"
+    "last_calculation": "2026-07-19T22:05:44.919492+00:00"
   }
 }
