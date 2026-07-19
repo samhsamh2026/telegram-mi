@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 145621,
+        "text": "🇺🇸\n👀\n| ترامپ: من نه مسی فنم نه رونالدو فن ولی واقعاً سخته که روی باختِ مسی شرط ببندی\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-19T19:34:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145621_0_fcfa80e5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145621_1_01a7df6f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145621"
+      },
+      {
+        "id": 145620,
+        "text": "فقط میتونی یه ایرانی باشی که نه تنها نتونی بری آمریکا بازیو از نزدیک ببینی بلکه تو خونه هم نتونی ببینی (برقمون رفت)\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-19T19:21:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145620_0_fcfa80e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145620"
+      },
+      {
+        "id": 145619,
+        "text": "🔻\nبنظرت کی قهرمان جام جهانی میشه؟ اسپانیا یا آرژانتین؟\n🇺🇲\nترامپ: بنظرم ایران نباید سلاح هسته‌ای داشته باشه\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-19T19:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145619_0_fcfa80e5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145619_1_f64c4e94.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145619"
+      },
+      {
         "id": 145618,
         "text": "🔴\nبا سوت داور بازی شروع شد.\n🇦🇷\n🇦🇷\nآرژانتین 0\n_\n0\nاسپانیا\n🇪🇸\n🇪🇸\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-19T19:01:01+00:00",
@@ -14601,55 +14654,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145513"
-      },
-      {
-        "id": 145512,
-        "text": "🔴\n🦁\nامباپه 4 ساعت پیش برا دشان پست خداحافظی زده بود و نوشته بود «ما امشب یه پایان خوب برات رقم میزنیم»\n+ نتیجه نیمه اول\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n4×0\n🇫🇷\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-18T22:05:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145512_0_b7c38729.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145512_1_89d25084.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145512"
-      },
-      {
-        "id": 145511,
-        "text": "فکر کنم امشب قراره عوض سنتکامو در بیارن.\nبا این فرمون تا آخر بازی فرانسه علیه انگلیس اعلان جنگ کنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-18T21:57:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145511_0_b7c38729.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145511"
-      },
-      {
-        "id": 145510,
-        "text": "پایان نیمه‌اول؛\n❤️\nانگلیس\n😀\n-\n😏\nفرانسه\n🇫🇷\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-18T21:54:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145510_0_b7c38729.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145510"
       }
     ],
     "maznet": [
@@ -16225,23 +16229,23 @@
       }
     ]
   },
-  "last_update": "2026-07-19T19:10:14.910231+00:00",
+  "last_update": "2026-07-19T19:49:12.816723+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 730,
-    "total_files": 730,
+    "total_media": 731,
+    "total_files": 731,
     "total_links": 282,
     "files_by_type": {
-      "image": 695,
+      "image": 696,
       "video": 23,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 730,
-    "existing_media_files": 729,
-    "total_size_mb": 361.45,
-    "last_calculation": "2026-07-19T19:10:14.919106+00:00"
+    "referenced_files": 731,
+    "existing_media_files": 730,
+    "total_size_mb": 361.44,
+    "last_calculation": "2026-07-19T19:49:12.823709+00:00"
   }
 }
