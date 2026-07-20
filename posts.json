@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 145692,
+        "text": "دایرکت : نت قطع میشه؟\nمگه من وزیر ارتباطاتم اخه\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-20T06:31:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145692_0_fcfa80e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145692"
+      },
+      {
+        "id": 145691,
+        "text": "تو روبیکا این تصویر از اسپانیا ساختن و گفتن مقاومت پیروز است.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-20T06:02:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145691_0_fcfa80e5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145691_1_4e08aed1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145691"
+      },
+      {
+        "id": 145690,
+        "text": "داستان این سه نفر با جام جهانی تموم شد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-20T05:31:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145690_0_fcfa80e5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145690_1_14ffe344.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145690"
+      },
+      {
         "id": 145689,
         "text": "🔴\nفرماندهی مرکزی آمریکا اعلام کرد تا تاریخ ۱۹ ژوئیه، مسیر ۶ کشتی رو تغییر داده و فعالیت یک کشتی دیگه رو برای اطمینان از پایبندی کامل به محاصره متوقف کرده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-20T05:02:58+00:00",
@@ -14619,55 +14672,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145570"
-      },
-      {
-        "id": 145569,
-        "text": "😐\n😐\n😐\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-19T08:01:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145569_0_b7c38729.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_145569_1_2cdcb3b1.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145569"
-      },
-      {
-        "id": 145568,
-        "text": "سازمان ملل: نگرانیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-19T07:32:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145568_0_b7c38729.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145568"
-      },
-      {
-        "id": 145566,
-        "text": "شایعه «قطع اینترنت پس از جام جهانی» تکذیب شد\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-19T07:01:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145566_0_b7c38729.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145566"
       }
     ],
     "maznet": [
@@ -16243,23 +16247,23 @@
       }
     ]
   },
-  "last_update": "2026-07-20T05:27:25.315446+00:00",
+  "last_update": "2026-07-20T06:56:21.883038+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 736,
-    "total_files": 736,
+    "total_media": 737,
+    "total_files": 737,
     "total_links": 281,
     "files_by_type": {
-      "image": 699,
-      "video": 25,
+      "image": 701,
+      "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 736,
-    "existing_media_files": 735,
-    "total_size_mb": 359.35,
-    "last_calculation": "2026-07-20T05:27:25.320048+00:00"
+    "referenced_files": 737,
+    "existing_media_files": 736,
+    "total_size_mb": 358.39,
+    "last_calculation": "2026-07-20T06:56:21.891744+00:00"
   }
 }
