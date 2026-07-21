@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 145807,
+        "text": "یعنی میرسه اون روزی که خاورمیانه درست بشه و ما مجبور شیم کلا موضوع کانال رو عوض کنیم؟؟ بنظرتون روزی میاد ک ماهم زندگی کنیم ؟\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-20T23:44:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145807_0_f0338b50.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145807"
+      },
+      {
         "id": 145806,
         "text": "🇾🇪\n👀\n|\nیمن:\nبه این عربستان بگید سلیطه بازی در نیاره وگرنه به وقتش نشون میدیم سلیطه واقعی کیه\n💢\n@Baga_News\n| Король",
         "date": "2026-07-20T23:13:39+00:00",
@@ -14613,25 +14628,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145694"
-      },
-      {
-        "id": 145693,
-        "text": "کشور نیست که دیوونه خونست؛ ایرانی های حاضر در کلش آف کلنز واسه قبیله های خودشون سخنگو انتخاب کردن و به این شکل به همدیگه اتک میزنن:\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-20T07:01:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145693_0_fcfa80e5.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_145693_1_b5c8fa95.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145693"
       }
     ],
     "maznet": [
@@ -16207,23 +16203,23 @@
       }
     ]
   },
-  "last_update": "2026-07-20T23:34:32.650039+00:00",
+  "last_update": "2026-07-21T02:50:02.371400+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 730,
-    "total_files": 730,
+    "total_media": 729,
+    "total_files": 729,
     "total_links": 279,
     "files_by_type": {
       "image": 700,
-      "video": 18,
+      "video": 17,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 730,
-    "existing_media_files": 729,
-    "total_size_mb": 371.34,
-    "last_calculation": "2026-07-20T23:34:32.659134+00:00"
+    "referenced_files": 729,
+    "existing_media_files": 728,
+    "total_size_mb": 366.39,
+    "last_calculation": "2026-07-21T02:50:02.379984+00:00"
   }
 }
