@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 145911,
+        "text": "تهران صدای زیردریایی میاد\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-22T01:15:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145911_0_90051290.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145911"
+      },
+      {
         "id": 145910,
         "text": "غرب تهران پدافند فعاله\n💢\n@Baga_News  |    ArT",
         "date": "2026-07-22T00:02:37+00:00",
@@ -14635,25 +14650,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145804"
-      },
-      {
-        "id": 145803,
-        "text": "سال 95 : 1 کیم\nسال 405 :\nسی‌کیم\n#منهای_جنگ\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-07-20T22:27:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145803_0_f0338b50.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145803_1_99c9848b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145803"
       }
     ],
     "maznet": [
@@ -16223,23 +16219,23 @@
       }
     ]
   },
-  "last_update": "2026-07-22T00:59:18.120029+00:00",
+  "last_update": "2026-07-22T02:48:21.621324+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 734,
-    "total_files": 734,
+    "total_media": 733,
+    "total_files": 733,
     "total_links": 279,
     "files_by_type": {
-      "image": 704,
+      "image": 703,
       "video": 18,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 734,
-    "existing_media_files": 733,
-    "total_size_mb": 368.6,
-    "last_calculation": "2026-07-22T00:59:18.129230+00:00"
+    "referenced_files": 733,
+    "existing_media_files": 732,
+    "total_size_mb": 368.52,
+    "last_calculation": "2026-07-22T02:48:21.630327+00:00"
   }
 }
