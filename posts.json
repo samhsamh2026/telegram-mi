@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 145912,
+        "text": "🔴\nگویا دلیل بسته شدن سایت و اپلیکیشن فوتبال 360، مصاحبه زنده این رسانه با علیرضا فغانی بوده!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-22T04:01:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_145912_0_90051290.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_145912_1_df5ab44f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/145912"
+      },
+      {
         "id": 145911,
         "text": "تهران صدای زیردریایی میاد\n💢\n@Baga_News\n| Король",
         "date": "2026-07-22T01:15:25+00:00",
@@ -14631,25 +14650,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145805"
-      },
-      {
-        "id": 145804,
-        "text": "انفجار و ستون دود در بندرعباس\n‼️\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-20T22:34:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145804_0_f0338b50.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145804_1_25b650d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145804"
       }
     ],
     "maznet": [
@@ -16219,7 +16219,7 @@
       }
     ]
   },
-  "last_update": "2026-07-22T02:48:21.621324+00:00",
+  "last_update": "2026-07-22T04:27:10.838007+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16235,7 +16235,7 @@
     },
     "referenced_files": 733,
     "existing_media_files": 732,
-    "total_size_mb": 368.52,
-    "last_calculation": "2026-07-22T02:48:21.630327+00:00"
+    "total_size_mb": 368.54,
+    "last_calculation": "2026-07-22T04:27:10.847039+00:00"
   }
 }
