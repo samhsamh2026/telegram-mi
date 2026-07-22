@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 146005,
+        "text": "🏴\n🏴",
+        "date": "2026-07-22T19:34:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146005_0_c425e296.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146005"
+      },
+      {
         "id": 146002,
         "text": "⭕️\n|\nطی بررسی دوباره آوارهای دبستان میناب، ۶۲ قطعه جدید از پیکر ۳۲ تا بچه بی‌ گناه اون مدرسه پیدا شده که امروز دوباره واسشون تو هرمزگان مراسم تشییع گرفتن و همشون رو با هم به خاک سپردن.\n🔵\nهمچنان هیچ اثری از ماکان نصیری پیدا نشده..\n🖤\n💢\n@Baga_News\n| Король",
         "date": "2026-07-22T19:10:22+00:00",
@@ -14663,25 +14678,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145890"
-      },
-      {
-        "id": 145889,
-        "text": "🎬\nبا نایت موویز بدون نیاز به تهیه اشتراک، فیلم و سریال مورد علاقتو تماشا یا دانلود کن!\n🎥\nتوی ربات نایت موویز هم میتونی جستجو کنی، هم تماشا و هم دانلود، تازه مینی‌اپ هم داره که اگه به فضای سایتی علاقه داری میتونی از اون هم استفاده کنی همشم رایگانه :)\n🍿\n@NightMoviezBot\n🍿\n@NightMoviezBot",
-        "date": "2026-07-21T19:42:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145889_0_90051290.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145889_1_da985be7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145889"
       }
     ],
     "maznet": [
@@ -16251,23 +16247,23 @@
       }
     ]
   },
-  "last_update": "2026-07-22T19:28:46.282500+00:00",
+  "last_update": "2026-07-22T19:38:13.008613+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 741,
-    "total_files": 741,
+    "total_media": 740,
+    "total_files": 740,
     "total_links": 279,
     "files_by_type": {
-      "image": 699,
+      "image": 698,
       "video": 30,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 741,
-    "existing_media_files": 740,
-    "total_size_mb": 413.89,
-    "last_calculation": "2026-07-22T19:28:46.287839+00:00"
+    "referenced_files": 740,
+    "existing_media_files": 739,
+    "total_size_mb": 413.74,
+    "last_calculation": "2026-07-22T19:38:13.017300+00:00"
   }
 }
