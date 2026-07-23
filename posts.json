@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 146157,
+        "text": "🇺🇸\nترامپ:\nاز این به بعد، هر گونه خسارتی که به کشتی‌ها، بارها، یا هر چیز مرتبط با اون‌ها وارد بشه، از پول‌های ایرانی\n🇮🇷\nکه آمریکا در اختیار داره و کنترلشون می‌کنه، پرداخت خواهد شد.\nممکنه این خسارت‌ها خیلی سنگین باشن، ولی خب، این کار عادلانه و منصفانه‌ست.\n💢\n@Baga_News\n| Noll",
+        "date": "2026-07-23T22:21:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146157_0_69f2e5b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146157_1_32f2277f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146157"
+      },
+      {
+        "id": 146156,
+        "text": "💢\nتسنیم :\nساعتی پیش آمریکا با دو موشک به قسمتی از روستای مسن تو جزیره قشم حمله کرد.\n💢\n@Baga_News\n| Noll",
+        "date": "2026-07-23T21:51:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146156_0_69f2e5b3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146156"
+      },
+      {
+        "id": 146155,
+        "text": "هیچ میدونستید لوگوی Chat gpt، دقیقا شکل عمامه از نمای بالاس\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-23T21:21:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146155_0_69f2e5b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146155_1_dcb0ecb7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146155"
+      },
+      {
         "id": 146154,
         "text": "🔴\nدقایقی قبل انفجار در قشم رخ داد\n‼️\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
         "date": "2026-07-23T20:50:08+00:00",
@@ -14621,51 +14674,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146051"
-      },
-      {
-        "id": 146050,
-        "text": "حملۀ موشکی به اطراف شهر اندیمشک\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-23T00:19:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146050_0_c425e296.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146050"
-      },
-      {
-        "id": 146049,
-        "text": "کشته شدن ۲ تن تا الان تایید شده\n💢\n@Baga_News | Король",
-        "date": "2026-07-23T00:17:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146049_0_c425e296.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146049"
-      },
-      {
-        "id": 146048,
-        "text": "🟠\nمنابع غیررسمی از تلفات بالا خبر میدهند\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-23T00:15:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146048_0_c425e296.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146048"
       }
     ],
     "maznet": [
@@ -16235,23 +16243,23 @@
       }
     ]
   },
-  "last_update": "2026-07-23T21:14:42.746456+00:00",
+  "last_update": "2026-07-23T22:33:38.318295+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 737,
-    "total_files": 737,
+    "total_media": 739,
+    "total_files": 739,
     "total_links": 279,
     "files_by_type": {
-      "image": 701,
+      "image": 703,
       "video": 24,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 737,
-    "existing_media_files": 736,
-    "total_size_mb": 408.34,
-    "last_calculation": "2026-07-23T21:14:42.751567+00:00"
+    "referenced_files": 739,
+    "existing_media_files": 738,
+    "total_size_mb": 408.49,
+    "last_calculation": "2026-07-23T22:33:38.327007+00:00"
   }
 }
