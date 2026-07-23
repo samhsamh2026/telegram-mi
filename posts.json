@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 146059,
+        "text": "چشم عباس آقا\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-23T04:31:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146059_0_c425e296.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146059_1_ce47c6a7.mp4"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146059_2_36ef9dcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146059"
+      },
+      {
+        "id": 146058,
+        "text": "🔴\nحمید رسایی:\nجدیدا کلیپ‌هایی وایرال شده با عنوان خانم پیاز و آقای پرتقال که باعث قبح شکنی شدن.\nاز مسئولین می‌خوام هر چه زودتر جلوی این موضوع رو بگیرن، چون باعث شده خیانت عادی سازی بشه.\n+\n😂\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-23T04:03:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146058_0_c425e296.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146058_1_ece8edf1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146058"
+      },
+      {
         "id": 146057,
         "text": "بیشتر جاهارو الان دارن میزنن ولی نمیدونیم کدوم رسمیه کدوم فیک\nاین زیر تو کامنتا گزارش بدید\n💢\n@Baga_News\n|\nArT",
         "date": "2026-07-23T00:37:22+00:00",
@@ -14636,52 +14678,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/145949"
-      },
-      {
-        "id": 145948,
-        "text": "💢\nفرمانده کل ارتش:\nاگر دشمن پای خود را به خاک ایران بگذارد، با هر چه در دست داریم با آن‌ها می‌جنگیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-22T10:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145948_0_90051290.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145948"
-      },
-      {
-        "id": 145944,
-        "text": "🔹\nاین شما و این کیف سطلی، مد جدید دنیا که ناقابل 665 دلار [130 میلیون تومن] به فروش میرسه!\n🤣\n😂\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-22T09:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_145944_0_90051290.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_145944_1_1ab99531.mp4"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145944_2_60da57b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145944_3_2ef2e00a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_145944_4_e5b4d903.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/145944"
       }
     ],
     "maznet": [
@@ -16251,23 +16247,23 @@
       }
     ]
   },
-  "last_update": "2026-07-23T03:58:09.852576+00:00",
+  "last_update": "2026-07-23T05:02:01.191914+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 741,
-    "total_files": 741,
+    "total_media": 740,
+    "total_files": 740,
     "total_links": 279,
     "files_by_type": {
-      "image": 701,
+      "image": 700,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 741,
-    "existing_media_files": 740,
-    "total_size_mb": 379.88,
-    "last_calculation": "2026-07-23T03:58:09.862324+00:00"
+    "referenced_files": 740,
+    "existing_media_files": 739,
+    "total_size_mb": 379.79,
+    "last_calculation": "2026-07-23T05:02:01.200988+00:00"
   }
 }
