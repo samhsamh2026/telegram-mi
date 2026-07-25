@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 146337,
+        "text": "💢\nدیشب تو بحرین یه موشک پدافندی پاتریوت، فیل‌شد و به مناطق شهری بحرین برخورد کرد!\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-25T04:12:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146337_0_c5ad47a2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146337_1_57649539.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146337"
+      },
+      {
+        "id": 146336,
+        "text": "🏆\nفیفا\n؛ علیرضا فغانی بعنوان دومین داور برتر رقابت‌های جام جهانی 2026 انتخاب شد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-25T04:01:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146336_0_c5ad47a2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146336_1_857e4a62.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146336"
+      },
+      {
         "id": 146335,
         "text": "💢\nپیش‌بینی ایلان ماسک از ۱۰ سال آینده: انسان کنترل هوش مصنوعی را از دست می‌دهد؛ پول اهمیتی نخواهد داشت\nایلان ماسک، ثروتمندترین مرد جهان و مدیرعامل «اسپیس‌ایکس» در گفتگو با «اکونومیست» تصویری از سال ۲۰۳۶ ارائه داد که در آن هوش مصنوعی از هوش انسان فراتر رفته و کنترل عملا از دست انسان خارج شده است.\nبه باور ماسک، در ۱۰ سال آینده تنها کاری که هوش مصنوعی قادر به انجام آن نخواهد بود، «انسان بودن» است.\n💢\n@Baga_News\n| Noll",
         "date": "2026-07-25T01:30:50+00:00",
@@ -14636,40 +14674,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146230"
-      },
-      {
-        "id": 146229,
-        "text": "🔴\nوضعیت اسکله اصلی بندر جاسک:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-24T00:31:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146229_0_69f2e5b3.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146229_1_8be2c79e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146229"
-      },
-      {
-        "id": 146228,
-        "text": "🚨\nبرق مناطق آسیب‌دیده بندرعباس تا یک ساعت آینده وصل می‌شود\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-24T00:25:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146228_0_69f2e5b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146228"
       }
     ],
     "maznet": [
@@ -16239,23 +16243,23 @@
       }
     ]
   },
-  "last_update": "2026-07-25T03:27:50.760500+00:00",
+  "last_update": "2026-07-25T04:53:55.978869+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 738,
-    "total_files": 738,
+    "total_media": 739,
+    "total_files": 739,
     "total_links": 279,
     "files_by_type": {
-      "image": 707,
+      "image": 708,
       "video": 19,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 738,
-    "existing_media_files": 737,
-    "total_size_mb": 366.26,
-    "last_calculation": "2026-07-25T03:27:50.769356+00:00"
+    "referenced_files": 739,
+    "existing_media_files": 738,
+    "total_size_mb": 367.03,
+    "last_calculation": "2026-07-25T04:53:55.987803+00:00"
   }
 }
