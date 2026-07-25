@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 146340,
+        "text": "🛜\n👀\n| همراه اول قیمت بسته های شبانه خودشو 3 برابر کرد\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-25T06:03:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146340_0_c5ad47a2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146340_1_efc2fce7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146340"
+      },
+      {
+        "id": 146339,
+        "text": "🔴\nپیروزمند، کارشناس صداوسیما: تا کی قراره غیبت رهبری ادامه پیدا کنه!؟\n◀️\nمجری: تا نابودی کامل عوامل جنگ\n🔴\nپیروزمند: خب اینطوری شاید ۱۰ سال دیگه طول کشید خب ما تا کی اماممونو نبینیم؟ اینطوری همیشه در موضع ضعف میمونیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-25T05:31:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146339_0_c5ad47a2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146339_1_d770a621.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146339"
+      },
+      {
+        "id": 146338,
+        "text": "🔴\nپزشکیان:رهبر شهید میومد میگفت با آمریکا مذاکره نکنیم بعد توی خلوت به ما مجوز مذاکره با آمریکا رو میداد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-25T05:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146338_0_c5ad47a2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146338_1_4c31de60.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146338"
+      },
+      {
         "id": 146337,
         "text": "💢\nدیشب تو بحرین یه موشک پدافندی پاتریوت، فیل‌شد و به مناطق شهری بحرین برخورد کرد!\n💢\n@Baga_News\n|\nArT",
         "date": "2026-07-25T04:12:52+00:00",
@@ -14625,55 +14682,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146233"
-      },
-      {
-        "id": 146232,
-        "text": "همین کم بود\n🔴\nیک انفجار مهیب در جنوب لبنان\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-24T00:39:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146232_0_69f2e5b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146232"
-      },
-      {
-        "id": 146231,
-        "text": "🔴\nویدئو مربوط به فعالیت شدید پدافند هوایی در شرق تهران دقایقی قبل.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-24T00:35:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146231_0_69f2e5b3.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146231_1_502a9356.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146231"
-      },
-      {
-        "id": 146230,
-        "text": "🔴\nپدافند حکیمیه، فاز ۹پردیس فعاله\n‼️\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-24T00:33:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146230_0_69f2e5b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146230"
       }
     ],
     "maznet": [
@@ -16243,23 +16251,23 @@
       }
     ]
   },
-  "last_update": "2026-07-25T04:53:55.978869+00:00",
+  "last_update": "2026-07-25T06:03:50.019425+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 739,
-    "total_files": 739,
+    "total_media": 741,
+    "total_files": 741,
     "total_links": 279,
     "files_by_type": {
-      "image": 708,
-      "video": 19,
+      "image": 709,
+      "video": 20,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 739,
-    "existing_media_files": 738,
-    "total_size_mb": 367.03,
-    "last_calculation": "2026-07-25T04:53:55.987803+00:00"
+    "referenced_files": 741,
+    "existing_media_files": 740,
+    "total_size_mb": 375.86,
+    "last_calculation": "2026-07-25T06:03:50.028357+00:00"
   }
 }
