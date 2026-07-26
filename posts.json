@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 146460,
+        "text": "تلگراف:\nبریتانیا به آمریکا اطلاع داده ، قصد دارد در ائتلاف نظامی برای تامین امنیت تنگه هرمز با آمریکا همکاری کند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-26T13:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146460_0_3540ce4e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146460"
+      },
+      {
+        "id": 146459,
+        "text": "الحدث: واشنگتن و تهران، پیشنهاد پاکستان و قطر مبنی بر از سرگیری مذاکرات را رد کردند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-26T12:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146459_0_3540ce4e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146459"
+      },
+      {
         "id": 146457,
         "text": "🔴\nایلان ماسک : هوش مصنوعی تقریبا 5 سال دیگه نیاز داره تا از هوش انسانی جلو بزنه.\nدیگه واقعا انسان‌ها هیچ کاری رو نمی‌تونن بهتر از هوش مصنوعی انجام بدن جز انسانیت...\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-26T12:30:40+00:00",
@@ -14640,48 +14670,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146353"
-      },
-      {
-        "id": 146352,
-        "text": "🟠\nبرخورد صاعقه با موشک چینی در حین پرتاب\n!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-25T09:31:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146352_0_c5ad47a2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146352_1_fb7d595d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146352"
-      },
-      {
-        "id": 146350,
-        "text": "بعد از ایمان صفا؛ مهتاب ثروتی بازیگر، هم پیراهنی به یاد حمید مهدوی به تن کرد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-25T09:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146350_0_c5ad47a2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146350_1_06b15d76.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146350_2_d0fd0965.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146350"
       }
     ],
     "maznet": [
@@ -16251,23 +16239,23 @@
       }
     ]
   },
-  "last_update": "2026-07-26T12:42:02.846975+00:00",
+  "last_update": "2026-07-26T13:26:52.710545+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 741,
-    "total_files": 741,
+    "total_media": 738,
+    "total_files": 738,
     "total_links": 279,
     "files_by_type": {
-      "image": 702,
-      "video": 27,
+      "image": 700,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 741,
-    "existing_media_files": 740,
-    "total_size_mb": 425.35,
-    "last_calculation": "2026-07-26T12:42:02.855957+00:00"
+    "referenced_files": 738,
+    "existing_media_files": 737,
+    "total_size_mb": 424.72,
+    "last_calculation": "2026-07-26T13:26:52.719509+00:00"
   }
 }
