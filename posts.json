@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 146505,
+        "text": "راستی امروز تاریخ امروز 05/05/05 هستش .\nپاشید یه حرکتی بزنید یادگاری بمونه\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-26T21:06:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146505_0_3540ce4e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146505"
+      },
+      {
+        "id": 146504,
+        "text": "چه شب ارومی بهبه\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-26T21:00:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146504_0_3540ce4e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146504"
+      },
+      {
         "id": 146503,
         "text": "⏺\n😂\n🇮🇷\n| پزشکیان : بعضی‌ها میگن امضای توافق با آمریکا بدون اجازه مجتبی خامنه‌ای بوده؛\nاصلا مگه امکان داره دولت بدون هماهنگی و اجازه رهبر تصمیمی تو مسائل کلان کشور بگیره؟\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-26T20:30:53+00:00",
@@ -14696,36 +14726,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146399"
-      },
-      {
-        "id": 146398,
-        "text": "🔴\n😂\nمحمدباقر سامتینگ:\nحملات ما به اهداف آمریکایی در منطقه تا زمان تسلیم کامل دشمن و به عنوان انتقام خون کودکان بی‌گناه در میناب و لامرد و سایر مناطق ادامه خواهد داشت.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-25T19:03:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146398_0_3d990c17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146398"
-      },
-      {
-        "id": 146397,
-        "text": "🔴\nگزارش ها حاکی از حمله به تنگه هرمز از سمت ایران\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-25T18:52:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146397_0_3d990c17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146397"
       }
     ],
     "maznet": [
@@ -16295,7 +16295,7 @@
       }
     ]
   },
-  "last_update": "2026-07-26T20:33:18.951359+00:00",
+  "last_update": "2026-07-26T22:07:04.376904+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16312,6 +16312,6 @@
     "referenced_files": 752,
     "existing_media_files": 751,
     "total_size_mb": 400.57,
-    "last_calculation": "2026-07-26T20:33:18.960460+00:00"
+    "last_calculation": "2026-07-26T22:07:04.386199+00:00"
   }
 }
