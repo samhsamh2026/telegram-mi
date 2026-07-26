@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 146495,
+        "text": "💢\nامیرعلی جداوی دومین دانش آموزیه که تو بمبارون مدرسه ی میناب جاویدالاثر شد و هیچ چیز ازش باقی نموند،علت اینکه تا الان هیچ اسمی از این کودک شهید منتشر نشده،درخواست پدرش بخاطر باخبر نشدن مادر باردارش بود،از امیر علی جداوی فقط یک لنگه کفش باقی موند که خاکش کردن...\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-26T19:19:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146495_0_3540ce4e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146495_1_233d42a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146495"
+      },
+      {
         "id": 146494,
         "text": "🇮🇷\n👀\n| معاون شرکت مخابرات:\nسرقت کابل‌های مخابرات به بحران تبدیل شده.\n💢\n@Baga_News\n| Король",
         "date": "2026-07-26T19:10:17+00:00",
@@ -14707,21 +14726,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146389"
-      },
-      {
-        "id": 146388,
-        "text": "🔴\nآکسیوس به نقل از مقامات آمریکایی:   ممکنه امشب یا فردا، توافقی بین ایران و عمان در خصوص تنگه هرمز حاصل بشه.\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-25T17:25:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146388_0_3d990c17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146388"
       }
     ],
     "maznet": [
@@ -16291,23 +16295,23 @@
       }
     ]
   },
-  "last_update": "2026-07-26T19:14:35.447167+00:00",
+  "last_update": "2026-07-26T19:23:05.780956+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 279,
     "files_by_type": {
-      "image": 716,
+      "image": 717,
       "video": 23,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 418.21,
-    "last_calculation": "2026-07-26T19:14:35.456357+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 418.29,
+    "last_calculation": "2026-07-26T19:23:05.790292+00:00"
   }
 }
