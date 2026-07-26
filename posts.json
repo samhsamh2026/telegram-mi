@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 146428,
+        "text": "🔴\nآتش سوزی در بغداد\n‼️\nعلتش نامشخصه\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-26T00:19:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146428_0_3d990c17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146428_1_c10ad798.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146428"
+      },
+      {
         "id": 146427,
         "text": "🔵\nیک پهپاد در نزدیکی خانه ایتامار بن گویر، وزیر امنیت ملی اسرائیل سقوط کرد.\n💢\n@Baga_News | Король",
         "date": "2026-07-25T22:26:47+00:00",
@@ -14643,21 +14662,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146317"
-      },
-      {
-        "id": 146316,
-        "text": "خطوط هوایی اتریش و ایتالیا پروازهای پایان این هفته خود به مقصد اسرائیل لغو کردند.\n🔴\n| پایان هفتشون میشه فردا و پس فردا\n💢\n@Baga_News\n| Noll",
-        "date": "2026-07-24T21:19:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146316_0_c5ad47a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146316"
       }
     ],
     "maznet": [
@@ -16227,23 +16231,23 @@
       }
     ]
   },
-  "last_update": "2026-07-25T23:37:22.783639+00:00",
+  "last_update": "2026-07-26T02:56:31.776266+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 735,
-    "total_files": 735,
+    "total_media": 736,
+    "total_files": 736,
     "total_links": 279,
     "files_by_type": {
-      "image": 701,
+      "image": 702,
       "video": 22,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 735,
-    "existing_media_files": 734,
-    "total_size_mb": 388.9,
-    "last_calculation": "2026-07-25T23:37:22.792687+00:00"
+    "referenced_files": 736,
+    "existing_media_files": 735,
+    "total_size_mb": 388.97,
+    "last_calculation": "2026-07-26T02:56:31.785180+00:00"
   }
 }
