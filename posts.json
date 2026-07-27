@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 146564,
+        "text": "🇺🇸\n👀\n| ترامپ:\nبی‌صبرانه منتظر صحبت‌کردن با نتانیاهو هستم، اگه من رئیس جمهور نشده بودم جمهوری‌اسلامی تا الان بمب هسته‌ای ساخته بود و اسرائیل رو نابود کرده بود.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-27T20:10:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146564_0_ec12fffb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146564_1_a65326be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146564"
+      },
+      {
+        "id": 146563,
+        "text": "🇮🇷\n👀\n| رائفی پور:\nاصلا مهم نیست کی میره مذاکره، مهم اینه که طرف مقابل آمریکاست. اصلاح طلبا هم جرات نمی کردند بعد ترور رهبری، مذاکره بکنند اما قالیباف با نام اصول گرایی کاری کرد صد بار بد تر از اصلاح طلبا. اینا اینکارا رو می کنن چون قرآن نمی خوانند.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-27T19:50:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146563_0_ec12fffb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146563_1_a6936cea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146563"
+      },
+      {
         "id": 146562,
         "text": "🇺🇸\n👀\n| ویدیوی طنزی که در شبکه های اجتماعی غربی به خصوص آمریکا وایرال شده: وضعیت ونس بعد از شنیدن احتمال آتش بس و توقف جنگ بین ایران و آمریکا\n💢\n@Baga_News\n| Король",
         "date": "2026-07-27T19:31:24+00:00",
@@ -14690,36 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146461"
-      },
-      {
-        "id": 146460,
-        "text": "تلگراف:\nبریتانیا به آمریکا اطلاع داده ، قصد دارد در ائتلاف نظامی برای تامین امنیت تنگه هرمز با آمریکا همکاری کند.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-26T13:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146460_0_3540ce4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146460"
-      },
-      {
-        "id": 146459,
-        "text": "الحدث: واشنگتن و تهران، پیشنهاد پاکستان و قطر مبنی بر از سرگیری مذاکرات را رد کردند.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-26T12:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146459_0_3540ce4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146459"
       }
     ],
     "maznet": [
@@ -16289,23 +16297,23 @@
       }
     ]
   },
-  "last_update": "2026-07-27T19:36:45.387894+00:00",
+  "last_update": "2026-07-27T20:41:23.666853+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 280,
     "files_by_type": {
-      "image": 719,
+      "image": 721,
       "video": 18,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 392.04,
-    "last_calculation": "2026-07-27T19:36:45.397117+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 392.16,
+    "last_calculation": "2026-07-27T20:41:23.676077+00:00"
   }
 }
