@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 146567,
+        "text": "جرثقیل رو هم اوردن و آماده کردن جای اعدام رو...\nبا اذان صبح، اعدام صورت میگیره.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-27T22:01:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146567_0_ec12fffb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146567_1_333e3517.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146567"
+      },
+      {
+        "id": 146566,
+        "text": "💢\nتو میدان علیخانی اصفهان داربست نصب کردن و جو به شدت امنیتی شده\nطبق آخرین اخبار ابوالفضل سپاهی، علیرضا سپاهی و امیرحسین صفری به انفرادی منتقل شدن و قراره تو ملاعام اعدام بشن\n#نه_به_اعدام\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-27T20:55:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146566_0_ec12fffb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146566_1_5459e66d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146566"
+      },
+      {
+        "id": 146565,
+        "text": "🇮🇷\n👀\n| سپاه:\nاز فرصت آتش بس استفاده کردیم و خودمونو‌ قوی تر کردیم ولی آمریکاییا هیچ کاری نتونسن بکنن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-27T20:50:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146565_0_ec12fffb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146565"
+      },
+      {
         "id": 146564,
         "text": "🇺🇸\n👀\n| ترامپ:\nبی‌صبرانه منتظر صحبت‌کردن با نتانیاهو هستم، اگه من رئیس جمهور نشده بودم جمهوری‌اسلامی تا الان بمب هسته‌ای ساخته بود و اسرائیل رو نابود کرده بود.\n💢\n@Baga_News\n| Король",
         "date": "2026-07-27T20:10:28+00:00",
@@ -14679,55 +14732,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146464"
-      },
-      {
-        "id": 146463,
-        "text": "عراقچی: ما حاضریم روابط خود با کشور های همسایه را از نو بسازیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-26T14:10:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146463_0_3540ce4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146463"
-      },
-      {
-        "id": 146462,
-        "text": "🇮🇷\nصدا و سیما: جمهوری اسلامی بارها هشدار داده است که هرگونه عواقبی که ناشی از انحراف کشتی‌ها از مسیر اعلام‌شده توسط ایران باشد، مسئولیت آن بر عهده‌ی آن کشتی‌ها خواهد بود.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-26T13:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146462_0_3540ce4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146462"
-      },
-      {
-        "id": 146461,
-        "text": "🔹\nدیده شده در تجمعات شبانه :\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-26T13:32:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146461_0_3540ce4e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146461_1_5628f023.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146461"
       }
     ],
     "maznet": [
@@ -16297,23 +16301,23 @@
       }
     ]
   },
-  "last_update": "2026-07-27T20:41:23.666853+00:00",
+  "last_update": "2026-07-27T22:14:07.794344+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 280,
     "files_by_type": {
       "image": 721,
-      "video": 18,
+      "video": 19,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 392.16,
-    "last_calculation": "2026-07-27T20:41:23.676077+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 392.54,
+    "last_calculation": "2026-07-27T22:14:07.803639+00:00"
   }
 }
