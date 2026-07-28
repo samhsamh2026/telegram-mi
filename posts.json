@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 146671,
+        "text": "ایران رتبه 5 کمترین دستمزد\n+ ونزوئلا چه بدبختیه\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-07-28T19:33:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146671_0_d9f71e56.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146671_1_c5bf97ed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146671"
+      },
+      {
+        "id": 146670,
+        "text": "‏یه روز میری تو آشپزخونه‌ی مامان‌بزرگت. یه پتوی گلوله شده‌می‌بینی، به هیچ‌عنوان شوتش نکن.\n⚪️\n@Baga_Tweet",
+        "date": "2026-07-28T19:32:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146670_0_d9f71e56.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146670"
+      },
+      {
         "id": 146668,
         "text": "🚨\nژاپنیا اومدن برای اینکه وسط خیابون گرمشون نشه یه یخچال هایی رو درست کردن که انسان بتونی داخلش جا بشه؛\nاین یخچالا اینطوریه که میزارنشون توی یسری از نقاط شهر تا شهروندا هر موقع گرمشون شد برن داخلش و تو عرض چند دقیقه کل بدنو خنک میکنه.\n💢\n@Baga_News\n| Король",
         "date": "2026-07-28T19:10:25+00:00",
@@ -14716,36 +14750,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146555"
-      },
-      {
-        "id": 146554,
-        "text": "🇮🇷\n👀\n| تسنیم: کویت در حال فروپاشی است، از یک طرف داره مهاجران را سلب تابعیت می کند و از طرف دیکه آب و برق ندارن و مردم دارن از کویت فرار و مهاجرت می کنند. اینها همه نتیجه حملات ماست.\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-27T17:35:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146554_0_ec12fffb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146554"
-      },
-      {
-        "id": 146553,
-        "text": "حاجی‌بابایی، نایب رئیس مجلس : ما هیچ‌وقت با آمریکا به تفاهم نخواهیم رسید\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-27T17:10:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146553_0_ec12fffb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146553"
       }
     ],
     "maznet": [
@@ -16315,23 +16319,23 @@
       }
     ]
   },
-  "last_update": "2026-07-28T19:27:59.517114+00:00",
+  "last_update": "2026-07-28T19:48:37.903883+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 757,
-    "total_files": 757,
+    "total_media": 758,
+    "total_files": 758,
     "total_links": 279,
     "files_by_type": {
-      "image": 713,
+      "image": 714,
       "video": 32,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 757,
-    "existing_media_files": 756,
-    "total_size_mb": 427.08,
-    "last_calculation": "2026-07-28T19:27:59.524581+00:00"
+    "referenced_files": 758,
+    "existing_media_files": 757,
+    "total_size_mb": 427.19,
+    "last_calculation": "2026-07-28T19:48:37.913006+00:00"
   }
 }
