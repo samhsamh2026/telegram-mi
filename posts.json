@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 146627,
+        "text": "🇮🇷\nهمشهری:\n۱۵۵ نماینده در نامه‌ای خواستار اجرای قانون برای جلوگیری از رشد بی حجابی شدند!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-28T09:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146627_0_ec12fffb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146627"
+      },
+      {
+        "id": 146626,
+        "text": "🚨\nفوری- گزارشات از برگزاری یک رزمایش نظامی بسیار بزرگ و ناگهانی که به صورت بی سابقه توسط اکثر کشور های عربی خاورمیانه و آمریکا در خلیج فارس طی ساعات آینده\n.\nیک منطقه پرواز ممنوع برای بخش بزرگی از خلیج فارس صادر شده است.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-28T08:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146626_0_ec12fffb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146626"
+      },
+      {
         "id": 146625,
         "text": "🟠\nواکنش مارک لوین\nبه اعدام و سرکوب مردم در اصفهان:\nبا این نازی‌ها مذاکره نکنید. مردم رو مسلح کنید.\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-28T08:32:43+00:00",
@@ -14666,40 +14696,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146513"
-      },
-      {
-        "id": 146512,
-        "text": "یکی نیست گوشیو از دست ترامپ بگیره؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-27T06:34:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146512_0_3540ce4e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146512_1_58fdc9e5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146512"
-      },
-      {
-        "id": 146511,
-        "text": "خب امروز رند ترین تاریخ امساله\nپس روز دختر مبارک\n🤍\n🎀\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-27T06:05:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146511_0_3540ce4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146511"
       }
     ],
     "maznet": [
@@ -16269,23 +16265,23 @@
       }
     ]
   },
-  "last_update": "2026-07-28T08:37:40.334385+00:00",
+  "last_update": "2026-07-28T09:20:38.236766+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 744,
-    "total_files": 744,
+    "total_media": 743,
+    "total_files": 743,
     "total_links": 280,
     "files_by_type": {
-      "image": 705,
+      "image": 704,
       "video": 27,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 744,
-    "existing_media_files": 743,
-    "total_size_mb": 416.67,
-    "last_calculation": "2026-07-28T08:37:40.343854+00:00"
+    "referenced_files": 743,
+    "existing_media_files": 742,
+    "total_size_mb": 416.57,
+    "last_calculation": "2026-07-28T09:20:38.246070+00:00"
   }
 }
