@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 146715,
+        "text": "🇮🇷\n👀\n|\nصداوسیما :\nجانفدایان سراسر کشور دارن به تنب کوچک و تنب بزرگ و بوموسی فرستاده میشن و عده ی زیادیشون هم اومدن تا مقابل حمله زمینی احتمالی آمریکا ایستادگی کنن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-29T04:30:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146715_0_d9f71e56.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146715"
+      },
+      {
+        "id": 146714,
+        "text": "⏺\nرویترز:\nدرحالی که ترامپ مدام از مذاکره با ایران حرف میزند، طی چند روز اخیر گسترده‌ترین تحرکات نظامی و لجستیکی آمریکا در منطقه گزارش شده.\nبه گفته برخی منابع نظامی، آمریکا در حال آماده‌سازی خودش برای یک جنگ تمام‌عیار است!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-29T04:02:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146714_0_d9f71e56.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146714"
+      },
+      {
+        "id": 146713,
+        "text": "🇮🇷\n👀\n| خبرگزاری فارس:\n🟠\nنصف مردم آمریکا می‌خوان نتانیاهو رو حالا که تو کشورشونه، بازداشتش کنن\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-29T04:01:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146713_0_d9f71e56.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146713_1_765da163.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146713"
+      },
+      {
         "id": 146712,
         "text": "🔴\nحمله جدید آمریکا و عربستان به استان نینوا عراق.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-29T00:55:36+00:00",
@@ -14653,67 +14702,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146604"
-      },
-      {
-        "id": 146603,
-        "text": "موقع اعدام مردم هجوم بردن سمت نیروهای حکومتی و سعی کردن جلوی اعدام رو بگیرن و فریاد بیشرف سر میدن.\n💢\n@Baga_Newsz\n| xd",
-        "date": "2026-07-28T00:38:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146603_0_ec12fffb.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146603_1_75101f11.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146603"
-      },
-      {
-        "id": 146600,
-        "text": "لحظه اذان و اعدام شدن اعدامی های امشب...\n💢\n@Baga_News\n| xd",
-        "date": "2026-07-28T00:25:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146600_0_ec12fffb.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146600_1_0cd7c7db.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146600_2_2806bdff.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146600"
-      },
-      {
-        "id": 146594,
-        "text": "بنری که تو محل اجرای حکم نصب کردن:\n💢\n@Baga_News\n| xd",
-        "date": "2026-07-28T00:11:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146594_0_ec12fffb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146594_1_aaf204e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146594"
       }
     ],
     "maznet": [
@@ -16283,23 +16271,23 @@
       }
     ]
   },
-  "last_update": "2026-07-29T03:53:51.942953+00:00",
+  "last_update": "2026-07-29T04:56:57.205348+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 746,
+    "total_files": 746,
     "total_links": 279,
     "files_by_type": {
       "image": 711,
-      "video": 26,
+      "video": 23,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 404.66,
-    "last_calculation": "2026-07-29T03:53:51.950530+00:00"
+    "referenced_files": 746,
+    "existing_media_files": 745,
+    "total_size_mb": 388.12,
+    "last_calculation": "2026-07-29T04:56:57.214789+00:00"
   }
 }
