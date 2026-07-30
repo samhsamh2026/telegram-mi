@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 146851,
+        "text": "🔴\n😂\nپزشکیان: اگه این اقتصاد شخمی رو درست نکنیم اون دنیا خدا دهنمونو سرویس می‌کنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-30T04:34:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146851_0_a6f31f3d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146851"
+      },
+      {
+        "id": 146850,
+        "text": "یه خوزستانی باشرف تو اون گرمای طاقت فرسا، هروز میره برای حیوانات تو کویر آب میریزه تا از تشنگی تلف نشن؛\n❤️\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-30T04:01:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146850_0_a6f31f3d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146850_1_11dc55e9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146850"
+      },
+      {
         "id": 146849,
         "text": "انفجارهای مجدد در اهواز\n‼️",
         "date": "2026-07-30T02:17:59+00:00",
@@ -14584,36 +14618,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146736"
-      },
-      {
-        "id": 146735,
-        "text": "🔴\nمدیرکل مدیریت بحران آذربایجان‌غربی:\nیک موشک دشمن به یک منطقهٔ خالی از ابنیه و سکنه در استان برخورد کرده هیچ تلفات جانی نداشته است.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-29T10:43:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146735_0_d9f71e56.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146735"
-      },
-      {
-        "id": 146734,
-        "text": "🔴\nگزارش های تایید نشده منابع محلی و مردمی در خصوص حمله هوایی به نوار مرزی پیرانشهر در ایران.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-29T10:39:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146734_0_d9f71e56.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146734"
       }
     ],
     "maznet": [
@@ -16183,23 +16187,23 @@
       }
     ]
   },
-  "last_update": "2026-07-30T03:44:04.471538+00:00",
+  "last_update": "2026-07-30T04:44:57.587910+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 724,
-    "total_files": 724,
+    "total_media": 725,
+    "total_files": 725,
     "total_links": 279,
     "files_by_type": {
       "image": 697,
-      "video": 15,
+      "video": 16,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 724,
-    "existing_media_files": 723,
-    "total_size_mb": 347.77,
-    "last_calculation": "2026-07-30T03:44:04.480512+00:00"
+    "referenced_files": 725,
+    "existing_media_files": 724,
+    "total_size_mb": 350.75,
+    "last_calculation": "2026-07-30T04:44:57.597006+00:00"
   }
 }
