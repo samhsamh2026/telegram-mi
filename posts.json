@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 146922,
+        "text": "سر شبه بیا ی دست دوز بازی کنیم ببینیم کی مخش بهتر کار می‌کنه\n😈\n@DozGame_Robot",
+        "date": "2026-07-30T19:40:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146922_0_214450cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146922"
+      },
+      {
+        "id": 146921,
+        "text": "⏺\nوزیر آموزش و پرورش : ادعای شروع مدارس از آبان ماه کذبه و طبق روال همیشه مدارس از مهرماه به‌صورت حضوری دایر خواهد بود.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-30T19:32:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146921_0_214450cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146921"
+      },
+      {
         "id": 146920,
         "text": "🔴\nعربستان خیلی ساکت داره یه ائتلاف بین‌المللی بر علیه بستن تنگه باب المندب توسط حوثی‌ها درست میکنه.\n◀️\nتا الانم ۱۳ کشور اسلامی به این ائتلاف پیوستن و میخوان عربستان رو در حمله به حوثی‌های یمن همراهی کنن\nمصر، ترکیه و پاکستان و کشور های حاشیه خلیج فارس از جمله این کشورها هستند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-30T19:20:26+00:00",
@@ -14598,40 +14628,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146811"
-      },
-      {
-        "id": 146810,
-        "text": "⏺\nیک فروند هواپیمای هشدار زودهنگام E-11A لحظاتی پیش از پایگاه هوایی شاهزاده سلطان در عربستان سعودی به پرواز درآمد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-29T22:11:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146810_0_a6f31f3d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146810_1_7c7907d9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146810"
-      },
-      {
-        "id": 146809,
-        "text": "🔴\n👀\nرسانه های داخلی انفجار ها تو تبریز و بندرعباس رو تکذیب کردن.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-29T21:59:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146809_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146809"
       }
     ],
     "maznet": [
@@ -16201,23 +16197,23 @@
       }
     ]
   },
-  "last_update": "2026-07-30T19:31:46.622712+00:00",
+  "last_update": "2026-07-30T19:46:44.516590+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 730,
-    "total_files": 730,
+    "total_media": 729,
+    "total_files": 729,
     "total_links": 278,
     "files_by_type": {
-      "image": 697,
+      "image": 696,
       "video": 21,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 730,
-    "existing_media_files": 729,
-    "total_size_mb": 389.45,
-    "last_calculation": "2026-07-30T19:31:46.631710+00:00"
+    "referenced_files": 729,
+    "existing_media_files": 728,
+    "total_size_mb": 389.39,
+    "last_calculation": "2026-07-30T19:46:44.525385+00:00"
   }
 }
