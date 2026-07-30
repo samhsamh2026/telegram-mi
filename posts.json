@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 146933,
+        "text": "🔴\nاسرائیل همچنان مشغول انهدام تونل های حزب الله تو جنوب لبنانه\n.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-30T22:02:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146933_0_214450cc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146933_1_c7a22a6d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146933_2_be44ea88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146933"
+      },
+      {
+        "id": 146932,
+        "text": "🔴\nصدای انفجار در ارومیه یا پرتاب موشک.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-30T21:44:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146932_0_214450cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146932"
+      },
+      {
+        "id": 146931,
+        "text": "⏺\nتصاویری از انفجار تونلی که زیر رشته‌کوه بوفور قرار داشت:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-30T21:20:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146931_0_214450cc.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146931_1_a0bcf6cf.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146931"
+      },
+      {
         "id": 146930,
         "text": "🔴\nگزارش های تایید نشده از وقوع انفجاری مهیب در جنوب لبنان.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-30T21:13:24+00:00",
@@ -14595,51 +14652,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146831"
-      },
-      {
-        "id": 146830,
-        "text": "انفجار در بندرعباس و قشم\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T00:14:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146830_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146830"
-      },
-      {
-        "id": 146820,
-        "text": "حملات به‌صورت مجازیه گویا.\nدر بستر شاد برگذار میشه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-30T00:02:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146820_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146820"
-      },
-      {
-        "id": 146819,
-        "text": "این حملات لِه کننده ما چیشد کله زرد؟\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-29T23:43:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146819_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146819"
       }
     ],
     "maznet": [
@@ -16209,23 +16221,23 @@
       }
     ]
   },
-  "last_update": "2026-07-30T21:19:31.964239+00:00",
+  "last_update": "2026-07-30T22:41:00.886718+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 732,
-    "total_files": 732,
+    "total_media": 735,
+    "total_files": 735,
     "total_links": 278,
     "files_by_type": {
-      "image": 698,
-      "video": 22,
+      "image": 700,
+      "video": 23,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 732,
-    "existing_media_files": 731,
-    "total_size_mb": 393.76,
-    "last_calculation": "2026-07-30T21:19:31.973073+00:00"
+    "referenced_files": 735,
+    "existing_media_files": 734,
+    "total_size_mb": 394.64,
+    "last_calculation": "2026-07-30T22:41:00.895574+00:00"
   }
 }
