@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 146886,
+        "text": "🇮🇷\nجماران:\nنتانیاهو به ترامپ پیشنهاد داده یه لایه دیگه از رهبران و‌ فرماندهان جمهوری اسلامی رو بزنیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-30T14:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146886_0_214450cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146886"
+      },
+      {
         "id": 146885,
         "text": "‏\nوضعیت پنجره خوابگاه دخترانه جندی شاپور اهواز بعد از حملات دیشب\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-30T13:50:21+00:00",
@@ -14597,21 +14612,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146771"
-      },
-      {
-        "id": 146770,
-        "text": "🇮🇷\n👀\n| زید آبادی:\nبه آمریکا حمله نکنید ، ما باید با آمریکا رفع تخاصم کنیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-29T16:50:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146770_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146770"
       }
     ],
     "maznet": [
@@ -16181,7 +16181,7 @@
       }
     ]
   },
-  "last_update": "2026-07-30T14:08:07.171104+00:00",
+  "last_update": "2026-07-30T14:26:45.538844+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16198,6 +16198,6 @@
     "referenced_files": 725,
     "existing_media_files": 724,
     "total_size_mb": 368.55,
-    "last_calculation": "2026-07-30T14:08:07.180174+00:00"
+    "last_calculation": "2026-07-30T14:26:45.547606+00:00"
   }
 }
