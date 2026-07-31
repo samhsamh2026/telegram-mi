@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 146937,
+        "text": "🎯\nدنبال ممبر ارزون و فوری هستی؟\n✅\nهر 1000 ممبر فقط ۲۰ هزار تومان\nفالوور\n⛄️\nویو لایک ارزان\n😄\nممبر ریزش صفر\n😉\nسابسکرایب یوتیوب\n😍\nپرمیوم آنی\n⚡️\nاستارز\n⭐️\n🤖\nربات کاملاً خودکار\n💳\nشارژ حساب هم کریپتور آنی و هم کارت به کارت\n⚡\nتحویل سریع\nمیخای اعتبار و اعتماد مشتری هاتو بیشتر کنی ممبر ریزش صفر برای توعه\n😉\n😁\nیک بار امتحان کن، مشتری دائمی می‌شی.\n@Ptelestarbot\n🤖\n@Ptelestarbot\n🤖\n@Ptelestarbot\n🤖\n@Ptelestarbot\n🤖",
+        "date": "2026-07-30T23:47:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146937_0_214450cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146937"
+      },
+      {
+        "id": 146936,
+        "text": "تصویری دلخراش از پیکر شهید ۲ ساله در قشم\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-30T23:10:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146936_0_214450cc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_146936_1_5ba03f80.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146936"
+      },
+      {
+        "id": 146935,
+        "text": "ترامپ: حماس خلع سلاح شد\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-30T23:05:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146935_0_214450cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146935"
+      },
+      {
         "id": 146933,
         "text": "🔴\nاسرائیل همچنان مشغول انهدام تونل های حزب الله تو جنوب لبنانه\n.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-30T22:02:20+00:00",
@@ -14607,51 +14656,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146834"
-      },
-      {
-        "id": 146833,
-        "text": "🔴\nصدای انفجار در قشم\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-30T00:21:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146833_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146833"
-      },
-      {
-        "id": 146832,
-        "text": "احیانا اونایی که قراره تنبیه بشن یه چند ده هزار کیلومتر از اونجایی که داری میزنی فاصله ندارن کله زرد؟\nجنوب بسته خب ازش سه تا نقطه موند کلا.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-30T00:18:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146832_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146832"
-      },
-      {
-        "id": 146831,
-        "text": "مبدا شلیک موشک ها از سمت کویت بوده\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T00:16:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146831_0_a6f31f3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146831"
       }
     ],
     "maznet": [
@@ -16221,23 +16225,23 @@
       }
     ]
   },
-  "last_update": "2026-07-30T22:41:00.886718+00:00",
+  "last_update": "2026-07-31T00:11:30.990217+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 735,
-    "total_files": 735,
+    "total_media": 736,
+    "total_files": 736,
     "total_links": 278,
     "files_by_type": {
-      "image": 700,
+      "image": 701,
       "video": 23,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 735,
-    "existing_media_files": 734,
-    "total_size_mb": 394.64,
-    "last_calculation": "2026-07-30T22:41:00.895574+00:00"
+    "referenced_files": 736,
+    "existing_media_files": 735,
+    "total_size_mb": 394.72,
+    "last_calculation": "2026-07-31T00:11:30.999212+00:00"
   }
 }
