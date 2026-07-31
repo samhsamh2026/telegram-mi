@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 146989,
+        "text": "🇺🇸\n🇮🇷\n👀\n|\nترامپ درباره ایران:ما پنج ماه است که درگیر این موضوع هستیم؛ اگر به ویتنام نگاه کنید، آن‌ها ۲۰ سال درگیر آن جنگ بودند.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-31T19:10:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146989_0_2d3ec4dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146989"
+      },
+      {
         "id": 146988,
         "text": "بعد میگید چرا تو اینستاگرام فعالیت ندارید\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-07-31T18:50:18+00:00",
@@ -14705,25 +14720,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146884"
-      },
-      {
-        "id": 146883,
-        "text": "‏\n⚪️\nاین پست رو تپسی یا اسنپ نباید ببینن.\nدر تاکسی های اینترنتی خارجی\nعلاوه بر سفر اشتراکی\nگزینه رفیقِ پیاده رفتن هم اضافه شده\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-30T13:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146883_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146883_1_1ae47bf1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146883"
       }
     ],
     "maznet": [
@@ -16293,23 +16289,23 @@
       }
     ]
   },
-  "last_update": "2026-07-31T18:56:35.793477+00:00",
+  "last_update": "2026-07-31T19:29:19.652741+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 753,
-    "total_files": 753,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 278,
     "files_by_type": {
-      "image": 712,
+      "image": 711,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 753,
-    "existing_media_files": 752,
-    "total_size_mb": 410.32,
-    "last_calculation": "2026-07-31T18:56:35.804963+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 410.26,
+    "last_calculation": "2026-07-31T19:29:19.661746+00:00"
   }
 }
