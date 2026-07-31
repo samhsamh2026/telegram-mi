@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 146975,
+        "text": "🇮🇱\n👀\n| وزیر جنگ اسرائیل:\nاگه ترامپ از ما بخواد،به حمله علیه ایران فوراً ملحق می‌شیم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-31T15:10:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146975_0_2d3ec4dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146975"
+      },
+      {
+        "id": 146974,
+        "text": "⚪️\n👀\n| گاردین:\nعربستان در حال آماده‌سازی یک عملیات نظامی گسترده علیه انصارالله است.\nاین عملیات ممکن است هم شامل عملیات دریایی در دریای سرخ و هم یک حمله زمینی در مناطق مرکزی یمن باشد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-31T14:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146974_0_2d3ec4dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146974"
+      },
+      {
+        "id": 146973,
+        "text": "🟠\nویدیو وایرال شده از صحبت‌های تلخ و بامزه یک ایرانی حین ورود به‌تونلی در بندرعباس\n💢\n@Baga_News\n| areZo",
+        "date": "2026-07-31T14:30:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146973_0_2d3ec4dd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146973_1_772bebb0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146973"
+      },
+      {
         "id": 146972,
         "text": "🇮🇷\nرائفی پور: بصورت زمینی میتونیم بریم اسرائیل رو بگیریم.\n💢\n@Baga_News\n| areZo",
         "date": "2026-07-31T14:10:17+00:00",
@@ -14671,63 +14720,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146869"
-      },
-      {
-        "id": 146868,
-        "text": "🇮🇷\n👀\n| صداسیما و پلیس رفتن بالا سرش:\nبابت اشتباهی که انجام دادم پشیمانم\nکارم بشدت اشتباه بوده و دو مرتبه این اتفاق افتاده\nاز مردم و اون عزیزی که این اتفاق افتاده براش عذرخواهی میکنم\nپاهام و دستم تیر خوردن\nدستی که تیر خورده همون دستی بود که باهاش دختر مردم زدم\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T09:45:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146868_0_a6f31f3d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146868_1_981f78ab.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146868"
-      },
-      {
-        "id": 146867,
-        "text": "⚪️\nقیافه بدون سانسورش هم ببینید یکم جیگرتون خنک بشه\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T09:42:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146867_0_a6f31f3d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146867_1_5f694090.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146867"
-      },
-      {
-        "id": 146866,
-        "text": "رفتن بالاسر نوید قره خانی\n😂\n😂\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T09:38:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146866_0_a6f31f3d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146866_1_2e195922.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146866"
       }
     ],
     "maznet": [
@@ -16297,23 +16289,23 @@
       }
     ]
   },
-  "last_update": "2026-07-31T14:12:12.602704+00:00",
+  "last_update": "2026-07-31T15:20:22.704696+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 278,
     "files_by_type": {
       "image": 711,
-      "video": 31,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 8
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 428.46,
-    "last_calculation": "2026-07-31T14:12:12.611684+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 415.68,
+    "last_calculation": "2026-07-31T15:20:22.713684+00:00"
   }
 }
