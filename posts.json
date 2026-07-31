@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147005,
+        "text": "رسانه i24News: ترامپ صبرش رو از دست داده و حمله به زیرساخت‌های انرژی ایران میتونه آسیب‌پذیرترین نقطه جمهوری اسلامی رو هدف قرار بده؛ تصمیم نهایی در آخرین لحظه گرفته خواهد شد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-31T21:52:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147005_0_2d3ec4dd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147005_1_9a682d94.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147005"
+      },
+      {
+        "id": 147004,
+        "text": "خوش چشم: فک نکنم‌ جنگ بشه\n💢\n@Baga_News | Король",
+        "date": "2026-07-31T21:46:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147004_0_2d3ec4dd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147004_1_aa672be5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147004"
+      },
+      {
         "id": 147003,
         "text": "🇺🇸\n👀\n|\nسخنگوی پنتاگون:\n🔵\nوزارت دفاع آماده است تا در هر لحظه دستورات رئیس‌جمهور ترامپ را اجرا کند\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-07-31T21:40:17+00:00",
@@ -14710,44 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146898"
-      },
-      {
-        "id": 146897,
-        "text": "🇾🇪\n👀\n🇸🇦\n|\nتصویری از حملات شدید عربستان به یمن\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T15:30:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146897_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146897_1_ab3868d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146897"
-      },
-      {
-        "id": 146896,
-        "text": "🇾🇪\n👀\n|\nعبدالملک الحوثی: نشانه‌های خطرناکی وجود دارد که نشان می‌دهد اسرائیل در حال آماده‌سازی برای تخریب بخشی از مسجد الاقصی است، و این کار را به صورت غیرمستقیم، از طریق حفر و عملیات بسیار خطرناک انجام می‌دهد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T15:10:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146896_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146896_1_e6463467.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146896"
       }
     ],
     "maznet": [
@@ -16317,7 +16317,7 @@
       }
     ]
   },
-  "last_update": "2026-07-31T21:43:01.439008+00:00",
+  "last_update": "2026-07-31T23:10:54.340461+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16325,15 +16325,15 @@
     "total_files": 759,
     "total_links": 278,
     "files_by_type": {
-      "image": 717,
-      "video": 30,
+      "image": 716,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 414.56,
-    "last_calculation": "2026-07-31T21:43:01.448440+00:00"
+    "total_size_mb": 414.64,
+    "last_calculation": "2026-07-31T23:10:54.347493+00:00"
   }
 }
