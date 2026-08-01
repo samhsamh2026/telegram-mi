@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147007,
+        "text": "⚪️\nتوییت جدید اتاق جنگ اسرائیل\n🇮🇱\n:\n⌛️\n💢\n@Baga_News | Король",
+        "date": "2026-08-01T02:15:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147007_0_2d3ec4dd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147007_1_1b8ee919.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147007"
+      },
+      {
+        "id": 147006,
+        "text": "⚪️\nتوییت جدید اتاق جنگ اسرائیل\n🇮🇱\n:\n⌛️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-01T02:14:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147006_0_2d3ec4dd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147006_1_adbbcdb0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147006"
+      },
+      {
         "id": 147005,
         "text": "رسانه i24News: ترامپ صبرش رو از دست داده و حمله به زیرساخت‌های انرژی ایران میتونه آسیب‌پذیرترین نقطه جمهوری اسلامی رو هدف قرار بده؛ تصمیم نهایی در آخرین لحظه گرفته خواهد شد.\n💢\n@Baga_News\n| Король",
         "date": "2026-07-31T21:52:01+00:00",
@@ -14710,44 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146900"
-      },
-      {
-        "id": 146899,
-        "text": "🟠\nبا اعلام رسمی دولت آفرود سواری ممنوع شد.\nحالا یه پیج آفرود سواری بعد خوندن این خبر اومده مسخره کرده و گفته: باشه\n😂\nو بعدش این صحنه خلق شده:\n💢\n@Baga_News\n| Король",
-        "date": "2026-07-30T15:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146899_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146899_1_dfc82f5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146899"
-      },
-      {
-        "id": 146898,
-        "text": "🇮🇷\n👀\n| صداوسیما: امروز صبح 6 تا جنگنده زدیم\n🔴\n3 تا F35 رو منهدم کردیم و به 3 تا دیگه خسارت زدیم\n💢\n@Baga_News | Король",
-        "date": "2026-07-30T15:35:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146898_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146898_1_e7ba66c0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146898"
       }
     ],
     "maznet": [
@@ -16317,7 +16317,7 @@
       }
     ]
   },
-  "last_update": "2026-08-01T01:07:33.269404+00:00",
+  "last_update": "2026-08-01T02:56:58.739882+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16333,7 +16333,7 @@
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 414.64,
-    "last_calculation": "2026-08-01T01:07:33.278889+00:00"
+    "total_size_mb": 414.67,
+    "last_calculation": "2026-08-01T02:56:58.748924+00:00"
   }
 }
