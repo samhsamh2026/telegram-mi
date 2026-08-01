@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147009,
+        "text": "مسی چقد زن ذلیله.\nمسی:\nآنتو همسرم تو خونه قانون گذاشته که منو بچه ها فوتبال بازی نکنیم، من فوتبالیستم ولی خونه رو با پول فوتبال خریدم ولی اجازه ندارم توش فوتبال بازی کنم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-01T04:32:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147009_0_2d3ec4dd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147009_1_2d047eb7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147009"
+      },
+      {
+        "id": 147008,
+        "text": "کشوری که از بچگی بهمون گفتن بلاد کفر و مردمان کافر :\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-01T04:05:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147008_0_2d3ec4dd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147008_1_e55c9f01.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147008"
+      },
+      {
         "id": 147007,
         "text": "⚪️\nتوییت جدید اتاق جنگ اسرائیل\n🇮🇱\n:\n⌛️\n💢\n@Baga_News | Король",
         "date": "2026-08-01T02:15:30+00:00",
@@ -14710,44 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146902"
-      },
-      {
-        "id": 146901,
-        "text": "💎\nدانلود از یوتیوب از همیشه راحت‌تر شد!\n🎉\n✅\nدانلود ویدیو شورت مثل آب خوردن\n✅\nدانلود ویدیو به همراه کیفیت های مختلف برای صدا و ویدیو\n✅\nکاملا رایگان و بدون محدودیت\n🔥\nخفن ترین یوتیوب دانلودر جهان با عشق خدمت شما\n👇\n❤️\n💎\n@EzzyYoutubeBot",
-        "date": "2026-07-30T16:08:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146901_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146901_1_6a964369.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146901"
-      },
-      {
-        "id": 146900,
-        "text": "💎\nدانلود از یوتیوب از همیشه راحت‌تر شد!\n🎉\n✅\nدانلود ویدیو شورت مثل آب خوردن\n✅\nدانلود ویدیو به همراه کیفیت های مختلف برای صدا و ویدیو\n✅\nکاملا رایگان و بدون محدودیت\n🔥\nخفن ترین یوتیوب دانلودر جهان با عشق خدمت شما\n👇\n❤️\n💎\n@EzzyYoutubeBot",
-        "date": "2026-07-30T16:06:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146900_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146900_1_4070d161.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146900"
       }
     ],
     "maznet": [
@@ -16317,7 +16317,7 @@
       }
     ]
   },
-  "last_update": "2026-08-01T02:56:58.739882+00:00",
+  "last_update": "2026-08-01T04:58:57.370816+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16325,15 +16325,15 @@
     "total_files": 759,
     "total_links": 278,
     "files_by_type": {
-      "image": 716,
-      "video": 31,
+      "image": 714,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 8
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 414.67,
-    "last_calculation": "2026-08-01T02:56:58.748924+00:00"
+    "total_size_mb": 419.79,
+    "last_calculation": "2026-08-01T04:58:57.380030+00:00"
   }
 }
