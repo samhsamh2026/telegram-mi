@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147036,
+        "text": "قالیباف: یک ساعت بعداز بمباران متوجه شدیم که ایت الله خامنه ای ترور شدند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-01T13:33:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147036_0_fa951f77.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147036_1_1c6f13f3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147036"
+      },
+      {
         "id": 147035,
         "text": "🇮🇷\nمجری و یک بازیگر :\nمردمی که تو دی‌ماه اومدن بیرون کاملا توسط شیاطین و جن‌ها تسخیر شده بودن و کنترلشون دست خودشون نبود!\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-01T13:10:23+00:00",
@@ -14755,25 +14774,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146928"
-      },
-      {
-        "id": 146927,
-        "text": "🔴\nمحمد الصالحی، فرمانده پلیس حوثی ها در استان عمران، پس از برخورد یک آجر بزرگ به سرش توسط یک زن کشه شد\n.\n😳\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-30T20:34:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146927_0_214450cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_146927_1_3288d8dc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146927"
       }
     ],
     "maznet": [
@@ -16333,7 +16333,7 @@
       }
     ]
   },
-  "last_update": "2026-08-01T13:25:45.619455+00:00",
+  "last_update": "2026-08-01T13:45:06.825906+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16341,15 +16341,15 @@
     "total_files": 763,
     "total_links": 278,
     "files_by_type": {
-      "image": 715,
-      "video": 37,
+      "image": 714,
+      "video": 38,
       "file": 3,
       "audio": 1,
       "document": 7
     },
     "referenced_files": 763,
     "existing_media_files": 762,
-    "total_size_mb": 404.92,
-    "last_calculation": "2026-08-01T13:25:45.628859+00:00"
+    "total_size_mb": 410.28,
+    "last_calculation": "2026-08-01T13:45:06.832553+00:00"
   }
 }
