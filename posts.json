@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147090,
+        "text": "🚨\nخاورمیانه بزودی:\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-01T19:20:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147090_0_fa951f77.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147090_1_401f1f92.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147090"
+      },
+      {
+        "id": 147089,
+        "text": "🔴\nابراهیم رضایی، عضو کمیسیون امنیت ملی مجلس: اگه آمریکا حمله کنه، همه پایگاه‌های آمریکا و مبدأ حملات رو میزنیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-01T19:16:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147089_0_fa951f77.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147089_1_2b53410e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147089"
+      },
+      {
         "id": 147086,
         "text": "🚨\n👀\n|\nبسیاری از خبرگزاری‌ها و رسانه‌های داخلی و خارجی از افزایش احتمال وقوع یک جنگ تمام‌عیار در خاورمیانه خبر می‌دهند.\nبرای هرگونه شرایط و بحران احتمالی، از هم‌اکنون آمادگی لازم را داشته باشید\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-01T18:46:55+00:00",
@@ -14758,44 +14796,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/146969"
-      },
-      {
-        "id": 146968,
-        "text": "🇪🇸\nبرای که بهتر از عمق فاجعه اسپانیا مطلع بشید این ویدئو رو نگاه کنید:\nحمله دسته جمعی و گروهی افراد سیاه آفریقایی مراکشی مسلمان به خانه های مردم اسپانیا جهت دزدی و غارت\nگویا تا الان دو شهر هم گرفتن\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-31T12:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146968_0_2d3ec4dd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146968_1_adaf677c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146968"
-      },
-      {
-        "id": 146967,
-        "text": "🇮🇷\nکارشناس صداوسیما: نه نفتمون آزاد شد، نه حزب‌الله آزاد شد، نه تفاهم‌نامه برقرار شد ولی با این حال این مرحله رو یه پیروزی برای جمهوری اسلامی میدونم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-07-31T12:32:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_146967_0_2d3ec4dd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_146967_1_0d812d97.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146967"
       }
     ],
     "maznet": [
@@ -16355,7 +16355,7 @@
       }
     ]
   },
-  "last_update": "2026-08-01T19:12:20.644111+00:00",
+  "last_update": "2026-08-01T19:21:14.458489+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16363,15 +16363,15 @@
     "total_files": 767,
     "total_links": 279,
     "files_by_type": {
-      "image": 725,
-      "video": 31,
+      "image": 726,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 7
     },
     "referenced_files": 767,
     "existing_media_files": 766,
-    "total_size_mb": 368.77,
-    "last_calculation": "2026-08-01T19:12:20.651460+00:00"
+    "total_size_mb": 372.92,
+    "last_calculation": "2026-08-01T19:21:14.467523+00:00"
   }
 }
