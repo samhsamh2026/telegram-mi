@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 147192,
+        "text": "🔴\nکانال ۱۲ اسرائیل به نقل از مقامات امنیتی این کشور:\nترامپ ما را در وضعیت ابهام و سردرگمی کامل رها کرده!\n‌\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-02T19:20:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147192_0_d6c1b770.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147192"
+      },
+      {
         "id": 147191,
         "text": "🇮🇷\n👀\n| صحبتای کامل همسر حسین رمضانی که تو دی ماه تو میدان علیخانی اصفهان به قتل رسید : قاتل همسرم قبل از اعدام آب میخواست و دادن بهش و من جیگرم میسوخت که آب میدن بهش ی لیوان آب خورد بازم گفت آب میخوام بازم بهش دادن،حسین من تشنه و گرسنه از دنیا رفت‌،جمجمش رو شکسته بودن،۸۰ ضربه چاقو زده بودن به پشتش،گفته بود‌ زن و بچه دارم منتظرمن ولی اونا بنزین ریختن روش و زنده زنده آتشش زدن. نه به اعدام چی آخه؟\n💢\n@Baga_News\n| Король",
         "date": "2026-08-02T19:10:21+00:00",
@@ -14711,29 +14726,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147083"
-      },
-      {
-        "id": 147080,
-        "text": "🔴\nیکی این بشرو متوقفش کنه\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-01T18:34:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147080_0_fa951f77.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147080_1_f8e8720e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147080_2_69f0141f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147080"
       }
     ],
     "maznet": [
@@ -16279,23 +16271,23 @@
       }
     ]
   },
-  "last_update": "2026-08-02T19:13:24.241738+00:00",
+  "last_update": "2026-08-02T19:22:23.432132+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 277,
     "files_by_type": {
-      "image": 716,
+      "image": 714,
       "video": 26,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 257.97,
-    "last_calculation": "2026-08-02T19:13:24.248864+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 257.86,
+    "last_calculation": "2026-08-02T19:22:23.441517+00:00"
   }
 }
