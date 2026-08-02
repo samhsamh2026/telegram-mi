@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147133,
+        "text": "وسط برنامه زنده سمت خدا برق رفت\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-02T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147133_0_fa951f77.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147133_1_e709443a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147133"
+      },
+      {
+        "id": 147132,
+        "text": "🔴\nنبرد ربات‌ها در میدان جنگ!\nلحظه‌ای عجیب که یک وسیله زمینی بدون سرنشین اوکراینی با مانور و جاخالی دادن، از حمله پهپاد FPV روسیه فرار می‌کنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-02T03:02:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147132_0_fa951f77.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147132_1_da4ecc48.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147132"
+      },
+      {
         "id": 147131,
         "text": "⏺\nموسویان:\nشاید میدان آرژانتین تهران به میدان اسپانیا تغییر کنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-02T02:32:17+00:00",
@@ -14720,44 +14758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147014"
-      },
-      {
-        "id": 147013,
-        "text": "⭕️\nاحمد ایراندوست(بازیگر) فیلم رقصیدنش با آهنگ جمال جمالو رو پست کرده و تو کپشن نوشته تقدیم به روح اکبر عبدی\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-01T06:35:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147013_0_2d3ec4dd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147013_1_579965c6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147013"
-      },
-      {
-        "id": 147012,
-        "text": "🇧🇭\n👀\n| حاکم بحرین خطاب به ایران :\nحضرت محمد(ص) پس از قرن ها تاریکی تو ایران به ایران عمق روحی، انسانی و معرفتی بخشید، بخاطر تشکر از این پیامبر دیگه به بحرین حمله نکنید و به راه راست هدایت بشید.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-01T06:02:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147012_0_2d3ec4dd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147012_1_6be580bf.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147012"
       }
     ],
     "maznet": [
@@ -16303,7 +16303,7 @@
       }
     ]
   },
-  "last_update": "2026-08-02T02:55:46.316862+00:00",
+  "last_update": "2026-08-02T04:07:44.663311+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16319,7 +16319,7 @@
     },
     "referenced_files": 754,
     "existing_media_files": 753,
-    "total_size_mb": 280.84,
-    "last_calculation": "2026-08-02T02:55:46.325883+00:00"
+    "total_size_mb": 273.74,
+    "last_calculation": "2026-08-02T04:07:44.672612+00:00"
   }
 }
