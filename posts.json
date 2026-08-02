@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147162,
+        "text": "⚪️\nاین دو کودک،تو حملات آمریکا به قشم پدر،مادر و برادر ۲ سالشونو از دست دادن.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-02T13:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147162_0_d6c1b770.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147162_1_63a21006.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147162"
+      },
+      {
+        "id": 147161,
+        "text": "⚪️\nمارک لوین، مجری و تحلیلگر فاکس نیوز: مردم ایران رو مسلح کنید\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-02T12:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147161_0_d6c1b770.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147161_1_e754f5ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147161"
+      },
+      {
         "id": 147160,
         "text": "🔹\nحاکم بحرین به ایران: اگه جنگ شد مارو بخاطر حضرت محمد نزنید\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-02T12:35:04+00:00",
@@ -14730,40 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147041"
-      },
-      {
-        "id": 147040,
-        "text": "🔴\nکانال ۱۲ اسراییل\nایست های بازرسی هدف مشروع خواهند بود\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-01T14:40:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147040_0_fa951f77.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147040"
-      },
-      {
-        "id": 147039,
-        "text": "🚨\nفیلم منتشر شده از لحظه هدف قرار گرفتن مدرسه میناب در ۹ اسفند ۱۴۰۴.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-01T14:31:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147039_0_fa951f77.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147039_1_b71c4b15.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147039"
       }
     ],
     "maznet": [
@@ -16309,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-08-02T12:37:51.365158+00:00",
+  "last_update": "2026-08-02T13:25:49.844781+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 757,
-    "total_files": 757,
+    "total_media": 758,
+    "total_files": 758,
     "total_links": 278,
     "files_by_type": {
-      "image": 727,
-      "video": 21,
+      "image": 729,
+      "video": 20,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 757,
-    "existing_media_files": 756,
-    "total_size_mb": 245.26,
-    "last_calculation": "2026-08-02T12:37:51.374364+00:00"
+    "referenced_files": 758,
+    "existing_media_files": 757,
+    "total_size_mb": 244.17,
+    "last_calculation": "2026-08-02T13:25:49.854338+00:00"
   }
 }
