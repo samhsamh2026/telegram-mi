@@ -12946,6 +12946,52 @@
     ],
     "bg_ae": [
       {
+        "id": 147136,
+        "text": "مطمئن بودم قبلا یجا دیده بودمش\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-02T05:01:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147136_0_fa951f77.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147136_1_b2897aa0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147136_2_52ad3068.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147136"
+      },
+      {
+        "id": 147134,
+        "text": "سمندون رو واس مجازات به این دخمه مینداختن الان شده مناسب برای زندگی مجردی\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-02T04:31:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147134_0_fa951f77.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147134_1_db8e688c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147134_2_51822a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147134"
+      },
+      {
         "id": 147133,
         "text": "وسط برنامه زنده سمت خدا برق رفت\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-08-02T04:04:07+00:00",
@@ -14716,48 +14762,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147017"
-      },
-      {
-        "id": 147016,
-        "text": "⚪️\nمراد ویسی:\nآمریکا و اسرائیل برای شدیدترین بمبارون علیه ایران، طی روزهای شنبه و یکشنبه [امروز و فردا]  آماده شدن و ترامپ دستور حمله رو صادر کرده\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-01T07:31:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147016_0_2d3ec4dd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147016_1_7ffd55b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147016"
-      },
-      {
-        "id": 147014,
-        "text": "🚨\nدر حالی که مسولین گفتن به هیچ وجه به جای پول مسدود شده ی ایران غلات آمریکایی نمیگیریم اما برنج آمریکایی وارد ایران شده و دارن بصورت گسترده تو کشور برنج آمریکایی میفروشن :\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-01T07:02:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147014_0_2d3ec4dd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147014_1_f931aee4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147014_2_d29655c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147014"
       }
     ],
     "maznet": [
@@ -16303,23 +16307,23 @@
       }
     ]
   },
-  "last_update": "2026-08-02T04:07:44.663311+00:00",
+  "last_update": "2026-08-02T05:16:58.205907+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 755,
+    "total_files": 755,
     "total_links": 279,
     "files_by_type": {
-      "image": 720,
+      "image": 721,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 273.74,
-    "last_calculation": "2026-08-02T04:07:44.672612+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 273.67,
+    "last_calculation": "2026-08-02T05:16:58.215076+00:00"
   }
 }
