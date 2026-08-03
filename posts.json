@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147283,
+        "text": "🔴\nکانال ۱۴ اسرائیل:\nرویکرد سخت‌گیرانه احمد وحیدی(فرمانده کل سپاه) به سیاست رسمی جمهوری اسلامی تبدیل شده و مجتبی خامنه‌ای تصمیم‌گیری درباره پرونده آمریکا رو به اون واگذار کرده.\nمذاکره رسمی بین تهران و واشنگتن در جریان نیست و تماس‌ها فقط از طریق پیام و میانجی‌ها ادامه داره.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-03T21:10:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147283_0_3541d9e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147283"
+      },
+      {
+        "id": 147282,
+        "text": "🔴\nمرندی:\nایران هیچ قصدی برای مذاکره با رژیم ترامپ ندارد.\nهرگونه اقدام تجاوزکارانه با پاسخ قاطع و کوبنده جمهوری اسلامی مواجه خواهد شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-03T20:50:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147282_0_3541d9e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147282"
+      },
+      {
         "id": 147281,
         "text": "🔴\nکانال 12 اسرائیل:\nبانک اطلاعات اسراییل برای حذف سران نظام در حال تکمیل شدن است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-03T20:35:16+00:00",
@@ -14694,40 +14724,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147173"
-      },
-      {
-        "id": 147172,
-        "text": "🇺🇸\n👀\n|\nنیویورک پست:\nانقلاب ایران می‌تواند «هر لحظه» اتفاق بیفتد، زیرا رهبران اعتراضات سعی در مسلح کردن دارند\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T15:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147172_0_d6c1b770.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147172"
-      },
-      {
-        "id": 147171,
-        "text": "این ویدیو از جوون مراکشی که داره با شنا کردن به منطقه اسپانیایی سئوتا مهاجرت میکنه خیلی وایرال شده..\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T14:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147171_0_d6c1b770.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147171_1_02350059.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147171"
       }
     ],
     "maznet": [
@@ -16273,23 +16269,23 @@
       }
     ]
   },
-  "last_update": "2026-08-03T20:46:52.695938+00:00",
+  "last_update": "2026-08-03T22:14:20.086849+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 747,
+    "total_files": 747,
     "total_links": 278,
     "files_by_type": {
       "image": 713,
-      "video": 26,
+      "video": 25,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 275.73,
-    "last_calculation": "2026-08-03T20:46:52.704740+00:00"
+    "referenced_files": 747,
+    "existing_media_files": 746,
+    "total_size_mb": 273.97,
+    "last_calculation": "2026-08-03T22:14:20.095738+00:00"
   }
 }
