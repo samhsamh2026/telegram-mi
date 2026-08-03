@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147281,
+        "text": "🔴\nکانال 12 اسرائیل:\nبانک اطلاعات اسراییل برای حذف سران نظام در حال تکمیل شدن است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-03T20:35:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147281_0_3541d9e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147281"
+      },
+      {
+        "id": 147280,
+        "text": "🔴\nوزیر اقتصاد:\nزهی خیال باطل؛ دشمن آرزوی زمین زدن اقتصاد ایران رو به گور میبره\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-03T20:18:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147280_0_3541d9e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147280_1_7e6a05c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147280"
+      },
+      {
         "id": 147279,
         "text": "🇮🇷\n👀\n| محسن رضایی: با حملات ایران کویت به یک خرابه تبدیل شد\n💢\n@Baga_News\n| Король",
         "date": "2026-08-03T19:31:38+00:00",
@@ -14694,60 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147171"
-      },
-      {
-        "id": 147166,
-        "text": "🇺🇦\nزلنسکی رئیس‌جمهور اوکراین:\nامروز صبح تو روسیه ، به یه پالایشگاه نفت، یه پایگاه هوایی نظامی، یه مخزن ذخیره نفت و مکانی که برای ذخیره، آماده‌سازی و پرتاب پهپادهای تهاجمی استفاده میشد، حملات سنگینی رو انجام دادیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-02T14:33:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147166_0_d6c1b770.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147166_1_ac11fc72.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147166_2_79136569.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147166_3_8e00ad0c.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147166_4_cad00412.mp4"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147166_5_a1397f5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147166"
-      },
-      {
-        "id": 147165,
-        "text": "⚪️\n16 فلسطینی روز گذشته در حملات اسرائیل کشته شدن\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-02T14:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147165_0_d6c1b770.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147165_1_6e9d96e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147165"
       }
     ],
     "maznet": [
@@ -16293,23 +16273,23 @@
       }
     ]
   },
-  "last_update": "2026-08-03T19:41:22.511085+00:00",
+  "last_update": "2026-08-03T20:46:52.695938+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 753,
-    "total_files": 753,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 278,
     "files_by_type": {
-      "image": 714,
-      "video": 30,
+      "image": 713,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 753,
-    "existing_media_files": 752,
-    "total_size_mb": 285.35,
-    "last_calculation": "2026-08-03T19:41:22.525297+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 275.73,
+    "last_calculation": "2026-08-03T20:46:52.704740+00:00"
   }
 }
