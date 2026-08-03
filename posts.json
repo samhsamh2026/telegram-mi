@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147216,
+        "text": "🔴\nتو یونان، دو بالگرد آتش‌نشانی درحال مهار آتیش بودن که باهم برخورد کردن و یکیشون منفجر شد و سقوط کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-03T04:03:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147216_0_d6c1b770.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147216_1_83905730.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147216"
+      },
+      {
         "id": 147215,
         "text": "🇺🇸\n👀\n|\nهگست، وزیر جنگ آمریکا :\nوزارت جنگ از قبل آماده بوده و هنوز هم کاملاً آماده‌ست\nدر سطحی که از زمان جنگ جهانی دوم تا حالا سابقه نداشته، ما آماده‌ایم و هر وقت لازم باشه، اقدام می‌کنیم\n💢\n@Baga_News\n| Король",
         "date": "2026-08-03T00:16:14+00:00",
@@ -14703,21 +14722,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147104"
-      },
-      {
-        "id": 147103,
-        "text": "🔹\n📲\n🇮🇷\n|\nتوییت مرندی؛ عضو تیم مذاکرات:\nاگر ترامپ امشب حمله کند، پاسخ کوبنده ایران بلافاصله آغاز خواهد شد. همه مردم باید آماده شوند تا دیکتاتوری‌های خانوادگی جنایتکار در خلیج فارس را فوراً ترک کنند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-01T20:25:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147103_0_fa951f77.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147103"
       }
     ],
     "maznet": [
@@ -16263,23 +16267,23 @@
       }
     ]
   },
-  "last_update": "2026-08-03T02:57:10.614908+00:00",
+  "last_update": "2026-08-03T04:10:35.035481+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 747,
-    "total_files": 747,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 277,
     "files_by_type": {
       "image": 713,
-      "video": 25,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 747,
-    "existing_media_files": 746,
-    "total_size_mb": 250.3,
-    "last_calculation": "2026-08-03T02:57:10.624259+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 250.92,
+    "last_calculation": "2026-08-03T04:10:35.045012+00:00"
   }
 }
