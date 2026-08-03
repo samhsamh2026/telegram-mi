@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147218,
+        "text": "🔴\nترامپ دوتا رقابت تو باشگاه گلف خودش تو نیوجرسی برگزار کرد و تو دوتاش خودشو قهرمان کرد و به خودش جایزه داد :\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-03T05:05:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147218_0_d6c1b770.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147218_1_2f422284.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147218"
+      },
+      {
+        "id": 147217,
+        "text": "آیت الله عزیز.\nبه شما حمله گسترده‌ای خواهیم کرد.\nلغو۱۱\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-03T04:30:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147217_0_d6c1b770.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147217_1_bdbcf8ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147217"
+      },
+      {
         "id": 147216,
         "text": "🔴\nتو یونان، دو بالگرد آتش‌نشانی درحال مهار آتیش بودن که باهم برخورد کردن و یکیشون منفجر شد و سقوط کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-03T04:03:23+00:00",
@@ -14692,36 +14730,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147106"
-      },
-      {
-        "id": 147105,
-        "text": "هنوز نزدن؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-01T21:48:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147105_0_fa951f77.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147105"
-      },
-      {
-        "id": 147104,
-        "text": "🔴\nامام جمعه اردبیل:\nنتانیاهو به ترامپ گفته جمهوری اسلامی میتونه خونه‌ات رو با موشک بزنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-01T20:31:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147104_0_fa951f77.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147104"
       }
     ],
     "maznet": [
@@ -16267,23 +16275,23 @@
       }
     ]
   },
-  "last_update": "2026-08-03T04:10:35.035481+00:00",
+  "last_update": "2026-08-03T05:27:47.956042+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 277,
     "files_by_type": {
-      "image": 713,
-      "video": 26,
+      "image": 714,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 250.92,
-    "last_calculation": "2026-08-03T04:10:35.045012+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 252.67,
+    "last_calculation": "2026-08-03T05:27:47.964824+00:00"
   }
 }
