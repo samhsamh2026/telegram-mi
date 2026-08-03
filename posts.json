@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147254,
+        "text": "⚪️\nهمه طارمی رو مسخره میکردن که توی جام جهانی، کونش توی آفساید بود؛\nولی کسی نمیدونست اون بخاطر پسرش که اوتیسم داره، مجبور شد کونشو قمبل کنه تا پسرش اونو راحت‌تر بشناسه\n💔\n⚪️\n@Baga_Tweet",
+        "date": "2026-08-03T14:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147254_0_3541d9e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147254_1_a7c11f75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147254"
+      },
+      {
         "id": 147253,
         "text": "خیلی حرفه که از دبی یه جوری فیلم بگیری که انگار سمنانه.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-03T14:32:21+00:00",
@@ -14739,21 +14758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147140"
-      },
-      {
-        "id": 147139,
-        "text": "هنوز نزدن؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T05:40:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147139_0_fa951f77.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147139"
       }
     ],
     "maznet": [
@@ -16299,23 +16303,23 @@
       }
     ]
   },
-  "last_update": "2026-08-03T14:43:27.265153+00:00",
+  "last_update": "2026-08-03T14:57:41.562931+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 756,
-    "total_files": 756,
+    "total_media": 757,
+    "total_files": 757,
     "total_links": 277,
     "files_by_type": {
-      "image": 717,
+      "image": 718,
       "video": 30,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 756,
-    "existing_media_files": 755,
-    "total_size_mb": 286.66,
-    "last_calculation": "2026-08-03T14:43:27.274688+00:00"
+    "referenced_files": 757,
+    "existing_media_files": 756,
+    "total_size_mb": 286.71,
+    "last_calculation": "2026-08-03T14:57:41.572781+00:00"
   }
 }
