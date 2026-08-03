@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 147287,
+        "text": "انفجار در کویت\n💢\n@Baga_News | Король",
+        "date": "2026-08-03T22:56:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147287_0_3541d9e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147287"
+      },
+      {
+        "id": 147286,
+        "text": "انفجار در کویت\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-03T22:56:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147286_0_3541d9e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147286"
+      },
+      {
+        "id": 147284,
+        "text": "🚨\nمهدی روشنی که تو ۱۸ دی ماه تو ملکشاهی این عکس رو گرفته بود به اعدام محکوم شد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-03T22:51:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147284_0_3541d9e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147284_1_c8acafb8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147284_2_d7c472a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147284"
+      },
+      {
         "id": 147283,
         "text": "🔴\nکانال ۱۴ اسرائیل:\nرویکرد سخت‌گیرانه احمد وحیدی(فرمانده کل سپاه) به سیاست رسمی جمهوری اسلامی تبدیل شده و مجتبی خامنه‌ای تصمیم‌گیری درباره پرونده آمریکا رو به اون واگذار کرده.\nمذاکره رسمی بین تهران و واشنگتن در جریان نیست و تماس‌ها فقط از طریق پیام و میانجی‌ها ادامه داره.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-03T21:10:27+00:00",
@@ -14667,63 +14720,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147176"
-      },
-      {
-        "id": 147175,
-        "text": "ترامپ:\n🤪\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T15:40:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147175_0_d6c1b770.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147175_1_2913fd7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147175"
-      },
-      {
-        "id": 147174,
-        "text": "🚀\nاشتراک\nGemini Pro\nبا فعال‌سازی سریع روی اکانت شخصی شما\n✅\nاشتراک رسمی ۱۸ ماهه\n⚡\nفعال‌سازی کمتر از ۱۵ دقیقه\n🛡️\nهمراه با ضمانت و پشتیبانی\nقیمت اصلی : ۲ میلیون تومان\nقیمت بعد تخفیف :\n899\nتومان  !!!\n🔥\nبرای دیدن قابلیت ها و مشاوره تخصصی به پشتیبانی پیام بدین\n✨\n@nexoitem\n@nexsup",
-        "date": "2026-08-02T15:31:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147174_0_d6c1b770.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147174_1_c993e299.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147174"
-      },
-      {
-        "id": 147173,
-        "text": "عجب\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T15:31:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147173_0_d6c1b770.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147173_1_44452b5d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147173"
       }
     ],
     "maznet": [
@@ -16269,23 +16265,23 @@
       }
     ]
   },
-  "last_update": "2026-08-03T22:14:20.086849+00:00",
+  "last_update": "2026-08-03T23:41:04.807918+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 747,
-    "total_files": 747,
+    "total_media": 746,
+    "total_files": 746,
     "total_links": 278,
     "files_by_type": {
-      "image": 713,
+      "image": 712,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 747,
-    "existing_media_files": 746,
-    "total_size_mb": 273.97,
-    "last_calculation": "2026-08-03T22:14:20.095738+00:00"
+    "referenced_files": 746,
+    "existing_media_files": 745,
+    "total_size_mb": 273.83,
+    "last_calculation": "2026-08-03T23:41:04.814744+00:00"
   }
 }
