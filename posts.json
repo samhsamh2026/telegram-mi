@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 147290,
+        "text": "🚨\nترامپ : محبوبیتم در بالاترین سطح تاریخه.\n+طبق نظرسنجیای جدید رسانه‌های آمریکایی محبوبیت ترامپ با کاهش شدید به ۳۲ درصد رسیده.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-04T04:31:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147290_0_3541d9e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147290_1_559f9e75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147290"
+      },
+      {
+        "id": 147288,
+        "text": "۱۲ اوت قراره هم زمان خورشید گرفتگی، بارش شهابی و هم ترازی ۶ تا سیاره با هم اتفاق بیوفته.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-04T04:04:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147288_0_3541d9e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147288_1_e9414792.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147288_2_233d59eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147288"
+      },
+      {
         "id": 147287,
         "text": "انفجار در کویت\n💢\n@Baga_News | Король",
         "date": "2026-08-03T22:56:46+00:00",
@@ -14690,36 +14732,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147178"
-      },
-      {
-        "id": 147177,
-        "text": "🇮🇷\n👀\n|\nمقامات جمهوری اسلامی به روزنامه \"وال استریت ژورنال\"\n:\n\"ما در حال بررسی گزینه حمله هستیم، اگر دیپلماسی شکست بخورد.\"\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T16:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147177_0_d6c1b770.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147177"
-      },
-      {
-        "id": 147176,
-        "text": "🇮🇷\n👀\n| سنگدوینی، عضو کمیسیون انرژی مجلس: ۲ تا ۳ هفته آینده قطعی‌های برق تمام می‌شود\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T15:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147176_0_d6c1b770.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147176"
       }
     ],
     "maznet": [
@@ -16265,23 +16277,23 @@
       }
     ]
   },
-  "last_update": "2026-08-04T03:25:17.648705+00:00",
+  "last_update": "2026-08-04T04:53:05.269854+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 746,
-    "total_files": 746,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 278,
     "files_by_type": {
-      "image": 712,
+      "image": 715,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 273.83,
-    "last_calculation": "2026-08-04T03:25:17.657630+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 274.17,
+    "last_calculation": "2026-08-04T04:53:05.279144+00:00"
   }
 }
