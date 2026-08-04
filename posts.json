@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147303,
+        "text": "🇮🇷\nرییس جمهور در گفت‌وگویش با مردم که به‌زودی پخش می‌شود به شایعه استعفا پاسخ داد: استعفا نخواهم داد و خواهم ایستاد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-04T09:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147303_0_3541d9e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147303"
+      },
+      {
+        "id": 147301,
+        "text": "🇮🇱\nکابینه اسرائیل امروز جلسه‌ای را برگزار می‌کند تا درباره تنش‌ها با ایران بحث و بررسی کند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-04T08:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147301_0_3541d9e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147301"
+      },
+      {
         "id": 147300,
         "text": "🇱🇧\nنعیم قاسم:\nجمهوری اسلامی ایران پیروز شد و دیگر جایی برای صحبت کردن درباره اینکه چه کسی در این رویارویی پیروز شده است، وجود ندارد.\nدرود بر عراق و یمن به خاطر حمایت از مسائل ما در برابر دشمن مشترک.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-04T08:33:18+00:00",
@@ -14718,40 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147188"
-      },
-      {
-        "id": 147187,
-        "text": "🇮🇱\n👀\n|\nرسانه اسرائیلی:\n🟠\nایران مستقیماً ادعاهای دونالد ترامپ مبنی بر دستیابی به یک توافق مهم را رد کرده است\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-02T18:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147187_0_d6c1b770.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147187_1_414b379e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147187"
-      },
-      {
-        "id": 147186,
-        "text": "🔴\nکان نیوز :\nتصمیم ترامپ برای لغو عملیات گسترده علیه ایران، آمادگی عملیاتی اسرائیل را تضعیف و برنامه‌ریزی نظامی را زیر سوال برده است.\nاین دومین بار در یک هفته است که آمریکا حمله‌ای برنامه‌ریزی شده علیه ایران را در آخرین لحظه و بدون توضیحی لغو کرده است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-02T18:45:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147186_0_d6c1b770.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147186"
       }
     ],
     "maznet": [
@@ -16297,23 +16293,23 @@
       }
     ]
   },
-  "last_update": "2026-08-04T08:40:27.843902+00:00",
+  "last_update": "2026-08-04T09:24:33.330957+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 753,
+    "total_files": 753,
     "total_links": 278,
     "files_by_type": {
-      "image": 718,
+      "image": 717,
       "video": 27,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 279.18,
-    "last_calculation": "2026-08-04T08:40:27.852930+00:00"
+    "referenced_files": 753,
+    "existing_media_files": 752,
+    "total_size_mb": 279.07,
+    "last_calculation": "2026-08-04T09:24:33.340712+00:00"
   }
 }
