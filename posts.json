@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147327,
+        "text": "باز هم خبر تلخ و جان گداز برای ایران و ایرانی،شاهییین و طنازِ برنامه ی عشق ابدی با ی استوری اعلام کردن از هم جدا شدن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-04T14:33:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147327_0_53d5f9a5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147327_1_886fc6ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147327"
+      },
+      {
         "id": 147326,
         "text": "اگه‌ توی گوگل سرچ کنید پدر استعفای ایران با همچین شاهکاری مواجه میشید :\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-04T14:10:21+00:00",
@@ -14743,21 +14762,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147216"
-      },
-      {
-        "id": 147215,
-        "text": "🇺🇸\n👀\n|\nهگست، وزیر جنگ آمریکا :\nوزارت جنگ از قبل آماده بوده و هنوز هم کاملاً آماده‌ست\nدر سطحی که از زمان جنگ جهانی دوم تا حالا سابقه نداشته، ما آماده‌ایم و هر وقت لازم باشه، اقدام می‌کنیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-03T00:16:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147215_0_d6c1b770.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147215"
       }
     ],
     "maznet": [
@@ -16303,23 +16307,23 @@
       }
     ]
   },
-  "last_update": "2026-08-04T14:18:33.901862+00:00",
+  "last_update": "2026-08-04T14:34:07.426033+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 755,
+    "total_files": 755,
     "total_links": 279,
     "files_by_type": {
-      "image": 719,
+      "image": 720,
       "video": 26,
       "file": 3,
       "audio": 1,
       "document": 5
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 292.45,
-    "last_calculation": "2026-08-04T14:18:33.907354+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 292.52,
+    "last_calculation": "2026-08-04T14:34:07.435350+00:00"
   }
 }
