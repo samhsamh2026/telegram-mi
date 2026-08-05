@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147375,
+        "text": "🇮🇱\n👀\n| طبق نظرسنجی ها در اسرائیل و اطلاعات کانال 14 اسرائیل :\nبنیامین نتانیاهو همچنان میتونه نخست وزیر اسرائیل بمونه بخاطر محبوبیت زیادش و رای بیشتر\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-05T04:31:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147375_0_53d5f9a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147375"
+      },
+      {
+        "id": 147374,
+        "text": "🔴\nرجب صفراوف:\n“ما انتظار داشتیم که دولت ج‌اسلامی طبق قرارداد ۱۹۲۱ (کنوانسیون مودت ایران و شوروی) و پیمان بازرگانی ۱۹۴۰، تقاضای ۵۰٪ از سهم دریای کاسپین را داشته باشد؛ اما دولت روحانی و جواد ظریف از این حق صرف نظر کردند و تعجب مارا برانگیخت”\nپزشکیان در لایحه اخیر، از سهم ۲۰ درصد هم گذشت و به ۱۳ درصد قانع شد …\n🌟\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-05T04:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147374_0_53d5f9a5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147374_1_1196f1ed.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147374"
+      },
+      {
         "id": 147373,
         "text": "🚨\nفقط چندساعت از مهلتی که ترامپ به ایران داده بود باقی مونده\n‼️\n💢\n@Baga_News | Король",
         "date": "2026-08-05T00:07:59+00:00",
@@ -14702,40 +14736,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147262"
-      },
-      {
-        "id": 147261,
-        "text": "🇮🇷\n👀\n|\nصادق زیباکلام:\nبحث با بسیجی‌ها مثل کوبیدن میخ تو سنگه\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-03T17:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147261_0_3541d9e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147261"
-      },
-      {
-        "id": 147260,
-        "text": "⚪️\nگویا هر 1 گیگ اینترنت که مصرف کنید توسط اپراتور‌ها 2.7 گیگ‌ محاسبه میشه\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-03T16:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147260_0_3541d9e0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147260_1_0bccdca6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147260"
       }
     ],
     "maznet": [
@@ -16277,7 +16277,7 @@
       }
     ]
   },
-  "last_update": "2026-08-05T03:20:12.022756+00:00",
+  "last_update": "2026-08-05T04:53:41.395393+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16285,15 +16285,15 @@
     "total_files": 749,
     "total_links": 278,
     "files_by_type": {
-      "image": 722,
-      "video": 19,
+      "image": 721,
+      "video": 20,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 749,
     "existing_media_files": 748,
-    "total_size_mb": 261.01,
-    "last_calculation": "2026-08-05T03:20:12.032528+00:00"
+    "total_size_mb": 261.65,
+    "last_calculation": "2026-08-05T04:53:41.402489+00:00"
   }
 }
