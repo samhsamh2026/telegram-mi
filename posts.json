@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147388,
+        "text": "🇺🇸\nترامپ\n:\nگفت‌وگوهای بسیار خوبی با ایران داریم/ تنگه هرمز به‌زودی باز خواهد شد یا ایران هدف ضربه‌ای فوق‌العاده سنگین قرار می‌گیرد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-05T09:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147388_0_53d5f9a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147388"
+      },
+      {
+        "id": 147387,
+        "text": "🇺🇸\nترامپ تو آخرین صحبتاش باز اومده گفته تا ۴۸ ساعت اینده میفهمید که قراره چه اتفاقایی بیفته و با ایران کجا هستیم\nاگه تا ۴۸ ساعت دیگه اتفاقی نیفتاد\nاین پیامو دوباره بخونید\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-05T08:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147387_0_53d5f9a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147387"
+      },
+      {
         "id": 147386,
         "text": "🇮🇷\nتوی صداوسیما خبر کشته شدن ترامپ رو تمرین کردن\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-05T08:32:31+00:00",
@@ -14700,50 +14730,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147273"
-      },
-      {
-        "id": 147272,
-        "text": "🔴\nترامپ به هگست:\nشما کار فوق‌العاده‌ای انجام می‌دهید\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-03T18:30:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147272_0_3541d9e0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147272_1_5396bd0c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147272"
-      },
-      {
-        "id": 147271,
-        "text": "وقتی دهنت واسه پروژه‌های خفن آب می‌فته!\n🤤\n🍊\n🍑\nدنبال کار و پروژه‌ی پردرآمدی؟ یا برای مجموعه‌ت دنبال نیروی کاربلد و حرفه‌ای می‌گردی؟\nتوی دیاکو همه‌چی آماده‌ست تا خیلی سریع به هدفِ شغلیت برسی!\n🚀\n📌\n«دیاکو؛ پل ارتباطی بین تخصص و صنعت»\n👇\nهمین الان بقیه ویدیوها و آگهی‌های روز رو توی کانال تلگراممون ببین:\n🆔\nhttps://t.me/+9gzgVQjc-RtlOWFk\n🌐\nسایت رسمی:\nDeaqo.ir",
-        "date": "2026-08-03T18:30:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147271_0_3541d9e0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147271_1_eb2942f3.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+9gzgVQjc-RtlOWFk",
-            "type": "telegram",
-            "display_text": "https://t.me/+9gzgVQjc-RtlOWFk"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/bg_ae/147271"
       }
     ],
     "maznet": [
@@ -16285,23 +16271,23 @@
       }
     ]
   },
-  "last_update": "2026-08-05T08:39:27.198482+00:00",
+  "last_update": "2026-08-05T09:21:47.463627+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
-    "total_links": 278,
+    "total_media": 749,
+    "total_files": 749,
+    "total_links": 277,
     "files_by_type": {
       "image": 720,
-      "video": 23,
+      "video": 21,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 278.12,
-    "last_calculation": "2026-08-05T08:39:27.207262+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 272.63,
+    "last_calculation": "2026-08-05T09:21:47.472519+00:00"
   }
 }
