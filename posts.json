@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147373,
+        "text": "🚨\nفقط چندساعت از مهلتی که ترامپ به ایران داده بود باقی مونده\n‼️\n💢\n@Baga_News | Король",
+        "date": "2026-08-05T00:07:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147373_0_53d5f9a5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147373_1_e5dbfc69.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147373"
+      },
+      {
+        "id": 147372,
+        "text": "تا الان ۷ انفجار در امارات گزارش شده\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-04T23:39:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147372_0_53d5f9a5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147372_1_4d5928ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147372"
+      },
+      {
         "id": 147371,
         "text": "وقوع چند انفجار شدید در سواحل امارات گزارش شده\n💢\n@Baga_News\n| Король",
         "date": "2026-08-04T23:35:01+00:00",
@@ -14698,40 +14736,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147260"
-      },
-      {
-        "id": 147259,
-        "text": "🇮🇷\n👀\n| شهبازی: اینکه میبینم یه عده تروریست اعدام میشن برام از خوردن عسل شیرین‌تره\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-03T16:30:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147259_0_3541d9e0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147259_1_49baf838.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147259"
-      },
-      {
-        "id": 147258,
-        "text": "🔴\nخبرگزاری  فارس:\nعاقبت مذاکره با آمریکای ترامپ بن‌بست است\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-03T16:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147258_0_3541d9e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147258"
       }
     ],
     "maznet": [
@@ -16273,23 +16277,23 @@
       }
     ]
   },
-  "last_update": "2026-08-04T23:36:21.595201+00:00",
+  "last_update": "2026-08-05T02:40:24.007277+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 278,
     "files_by_type": {
-      "image": 721,
+      "image": 722,
       "video": 19,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 261.0,
-    "last_calculation": "2026-08-04T23:36:21.602117+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 261.01,
+    "last_calculation": "2026-08-05T02:40:24.016759+00:00"
   }
 }
