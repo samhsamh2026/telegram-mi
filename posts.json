@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147438,
+        "text": "🇺🇸\n👀\n|\nترامپ: دولت بایدن فاسد ترین بود\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-06T04:01:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147438_0_de37e201.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147438"
+      },
+      {
+        "id": 147437,
+        "text": "‏\n🇺🇸\n👀\n|\nترامپ: هیچ‌کس نمی‌داند که کلمه \"احمق\" (dumb) حرف \"ب\" ندارد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-06T02:50:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147437_0_de37e201.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147437_1_829efc2c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147437"
+      },
+      {
         "id": 147436,
         "text": "بغض پزشکیان هنگام بیان روایت حمله به بیت رهبری\n💢\n@Baga_News\n| Король",
         "date": "2026-08-06T00:50:50+00:00",
@@ -14688,44 +14722,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147328"
-      },
-      {
-        "id": 147327,
-        "text": "باز هم خبر تلخ و جان گداز برای ایران و ایرانی،شاهییین و طنازِ برنامه ی عشق ابدی با ی استوری اعلام کردن از هم جدا شدن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-04T14:33:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147327_0_53d5f9a5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147327_1_886fc6ee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147327"
-      },
-      {
-        "id": 147326,
-        "text": "اگه‌ توی گوگل سرچ کنید پدر استعفای ایران با همچین شاهکاری مواجه میشید :\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-04T14:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147326_0_53d5f9a5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147326_1_ea707262.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147326"
       }
     ],
     "maznet": [
@@ -16267,23 +16263,23 @@
       }
     ]
   },
-  "last_update": "2026-08-06T02:42:55.730180+00:00",
+  "last_update": "2026-08-06T04:21:33.802961+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 747,
+    "total_files": 747,
     "total_links": 277,
     "files_by_type": {
-      "image": 713,
-      "video": 27,
+      "image": 711,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 270.09,
-    "last_calculation": "2026-08-06T02:42:55.739637+00:00"
+    "referenced_files": 747,
+    "existing_media_files": 746,
+    "total_size_mb": 272.87,
+    "last_calculation": "2026-08-06T04:21:33.811915+00:00"
   }
 }
