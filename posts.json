@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147475,
+        "text": "قیمت گوشی‌ پشم ریزون شده، کی فکرشو میکرد گوشی میان‌رده شیائومی ۲۵۰ میلیون بشه!\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-06T14:50:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147475_0_9178fc94.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147475_1_48ab5a0a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147475"
+      },
+      {
+        "id": 147474,
+        "text": "⏺\nتو پیاده‌روی اربعینِ امسال تو عراق، یه پسربچه ایرانی گوشیشو گم میکنه و وقتی صاحب‌‌های موکب‌‌های عراقی متوجه میشه، اندازه‌ی پولِ دوتا گوشی براش پول جمع میکنن تا خوشحالش کنن\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-06T14:33:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147474_0_9178fc94.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147474_1_e97b3d3b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147474"
+      },
+      {
         "id": 147473,
         "text": "🇮🇷\nحسن روحانی:\nبعضی‌ها میگن اگر جنگ بیشتر بشه امام زمان ظهور میکنه!\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-06T14:10:23+00:00",
@@ -14652,56 +14690,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147366"
-      },
-      {
-        "id": 147364,
-        "text": "🔴\n🎙\n👑\n|\nمراد ویسی تحلیلگر ارشد اینترنشنال: جمهوری اسلامی دریای خزر رو فروخت رفت\nدر تازه‌ترین قرارداد، جمهوری اسلامی دریای خزر رو تقدیم روسیه کرده و یواشکی دارن میبرن مجلس و تصویبش کنن.\nسهم ایران فقط به ۱۱ درصد رسیده! شما ایران رو فروختین و شرمتون میاد بیاین به مردم بگین.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-04T22:34:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147364_0_53d5f9a5.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147364_1_2b120664.mp4"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147364_2_dbcdc609.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147364"
-      },
-      {
-        "id": 147361,
-        "text": "وضعیت کیف\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-04T22:25:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147361_0_53d5f9a5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147361_1_b52d9a06.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147361_2_61c7ab5b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147361_3_d1c19409.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147361"
       }
     ],
     "maznet": [
@@ -16243,23 +16231,23 @@
       }
     ]
   },
-  "last_update": "2026-08-06T14:14:34.390383+00:00",
+  "last_update": "2026-08-06T14:59:16.681220+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 742,
-    "total_files": 742,
+    "total_media": 739,
+    "total_files": 739,
     "total_links": 277,
     "files_by_type": {
-      "image": 706,
+      "image": 703,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 742,
-    "existing_media_files": 741,
-    "total_size_mb": 275.85,
-    "last_calculation": "2026-08-06T14:14:34.399756+00:00"
+    "referenced_files": 739,
+    "existing_media_files": 738,
+    "total_size_mb": 277.06,
+    "last_calculation": "2026-08-06T14:59:16.687334+00:00"
   }
 }
