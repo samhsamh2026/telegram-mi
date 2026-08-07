@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147543,
+        "text": "🇺🇸\nتد کروز، سناتور جمهوری‌خواه:\n🚨\nهدف آمریکا باید حذف جمهوری اسلامی باشه، نه توافق.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-07T12:50:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147543_0_9817292a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147543"
+      },
+      {
+        "id": 147542,
+        "text": "🇺🇸\nترامپ : رئیس‌جمهور شی جین پینگ احتمالا بیاد آمریکا\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-07T12:30:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147542_0_9817292a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147542"
+      },
+      {
         "id": 147541,
         "text": "💢\nحسین کلهر:\nزنگ زدم اطلاعات گفتم کلی اطلاعات سری دارم، یه پرستو برای من بفرستید کل اطلاعات رو لو میدم\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-07T12:10:18+00:00",
@@ -14614,48 +14644,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147415"
-      },
-      {
-        "id": 147414,
-        "text": "امروز 5 August، روز جهانیِ فرشته هاست.\nبه یاد فرشته هایی که دیگه پیشمون نیستن؛ روزتون مبارک\n🤍\n💢\n@Baga_News\n| xd",
-        "date": "2026-08-05T15:33:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147414_0_de37e201.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147414_1_cf9d33fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147414"
-      },
-      {
-        "id": 147412,
-        "text": "نوید محمدزاده این عکاسرو از خودش پست کرده.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-05T15:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147412_0_de37e201.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147412_1_a6db3bde.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147412_2_4cc80028.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147412"
       }
     ],
     "maznet": [
@@ -16197,23 +16185,23 @@
       }
     ]
   },
-  "last_update": "2026-08-07T12:13:09.220278+00:00",
+  "last_update": "2026-08-07T13:08:06.159943+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 732,
-    "total_files": 732,
+    "total_media": 729,
+    "total_files": 729,
     "total_links": 276,
     "files_by_type": {
-      "image": 699,
+      "image": 696,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 732,
-    "existing_media_files": 731,
-    "total_size_mb": 275.36,
-    "last_calculation": "2026-08-07T12:13:09.228977+00:00"
+    "referenced_files": 729,
+    "existing_media_files": 728,
+    "total_size_mb": 274.98,
+    "last_calculation": "2026-08-07T13:08:06.169009+00:00"
   }
 }
