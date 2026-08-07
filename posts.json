@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147567,
+        "text": "🇮🇷\n👀\n|\nامام جمعه کرج:\nبا کودتای برهنگی مواجه شده ایم\n😂\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-07T18:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147567_0_9817292a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147567"
+      },
+      {
+        "id": 147566,
+        "text": "⚪️\nتصاویری از پهپادها و جنگنده‌های منهدم شده آمریکایی توسط سپاه پاسداران\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-07T18:33:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147566_0_9817292a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147566_1_fdc19181.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147566"
+      },
+      {
         "id": 147565,
         "text": "🇮🇷\n👀\n|\nامام‌جمعه اهواز:\n🟠\nجمهوری اسلامی ایران در حال آماده‌سازی برای افزایش برد موشک‌های خود تا ۱۵ هزار کیلومتر است تا بتواند «عمق آمریکا» را هدف قرار دهد\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-07T18:10:20+00:00",
@@ -14626,44 +14660,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147434"
-      },
-      {
-        "id": 147433,
-        "text": "🔴\nحملات اسرائیل به شهر صور در لبنان\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-05T23:34:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147433_0_de37e201.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147433_1_a7db6a98.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147433"
-      },
-      {
-        "id": 147432,
-        "text": "یه خانمی زنگ زده به برنامه سیاسی شبکه دو و به سر تا پای شهبازی میرینه و همچین صحنه زیبایی خلق میکنه:\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-05T20:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147432_0_de37e201.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147432_1_bd887aae.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147432"
       }
     ],
     "maznet": [
@@ -16205,23 +16201,23 @@
       }
     ]
   },
-  "last_update": "2026-08-07T18:26:29.911743+00:00",
+  "last_update": "2026-08-07T19:00:29.466975+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 734,
-    "total_files": 734,
+    "total_media": 733,
+    "total_files": 733,
     "total_links": 276,
     "files_by_type": {
       "image": 700,
-      "video": 26,
+      "video": 25,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 734,
-    "existing_media_files": 733,
-    "total_size_mb": 279.77,
-    "last_calculation": "2026-08-07T18:26:29.920181+00:00"
+    "referenced_files": 733,
+    "existing_media_files": 732,
+    "total_size_mb": 276.6,
+    "last_calculation": "2026-08-07T19:00:29.474400+00:00"
   }
 }
