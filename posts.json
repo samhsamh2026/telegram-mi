@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147569,
+        "text": "🇾🇪\n👀\n|\nحوثی های یمن: عربستان حتی اگه کل جهان پشتش باشه براش سودی نداره\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-07T19:31:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147569_0_9817292a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147569"
+      },
+      {
+        "id": 147568,
+        "text": "🇮🇷\n👀\n|\nثابتی:\nانقدر میجنگیم تا پیروز بشیم\n😏\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-07T19:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147568_0_9817292a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147568"
+      },
+      {
         "id": 147567,
         "text": "🇮🇷\n👀\n|\nامام جمعه کرج:\nبا کودتای برهنگی مواجه شده ایم\n😂\n💢\n@Baga_News\n| Король",
         "date": "2026-08-07T18:50:16+00:00",
@@ -14626,40 +14656,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147436"
-      },
-      {
-        "id": 147435,
-        "text": "خاورمیانه زیادی اروم نیست؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-06T00:46:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147435_0_de37e201.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147435_1_edcaee3c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147435"
-      },
-      {
-        "id": 147434,
-        "text": "🔴\n🇺🇸\n👀\n|\nاز اون ۴۸ ساعت ترامپ که خیلی مهم نیست ۲۴ ساعت رد شد.\nترامپ گفته بود بعد ۴۸ ساعت متوجه میشید توافق صورت میگیره یا نه.\nاگه صورت نگرفت باز بیاید این پیامو بخونید\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-05T23:40:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147434_0_de37e201.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147434"
       }
     ],
     "maznet": [
@@ -16201,23 +16197,23 @@
       }
     ]
   },
-  "last_update": "2026-08-07T19:00:29.466975+00:00",
+  "last_update": "2026-08-07T19:33:56.186660+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 733,
-    "total_files": 733,
+    "total_media": 732,
+    "total_files": 732,
     "total_links": 276,
     "files_by_type": {
       "image": 700,
-      "video": 25,
+      "video": 24,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 733,
-    "existing_media_files": 732,
-    "total_size_mb": 276.6,
-    "last_calculation": "2026-08-07T19:00:29.474400+00:00"
+    "referenced_files": 732,
+    "existing_media_files": 731,
+    "total_size_mb": 276.48,
+    "last_calculation": "2026-08-07T19:33:56.191900+00:00"
   }
 }
