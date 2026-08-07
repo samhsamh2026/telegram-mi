@@ -12946,6 +12946,71 @@
     ],
     "bg_ae": [
       {
+        "id": 147561,
+        "text": "🇮🇷\n👀\n|\nعلم‌الهدی:\n🔵\nافرادی که می‌گویند جنگ را تمام کنید، بی‌عقل، مریض و منافق هستند\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-07T17:10:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147561_0_9817292a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147561"
+      },
+      {
+        "id": 147557,
+        "text": "🔹\nتصویری از انعقاد تفاهم نامه مکه در مرکز جهان اسلام\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-07T16:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147557_0_9817292a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147557_1_998be1c5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147557_2_c70b0b68.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147557_3_fe8f7127.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147557_4_7e8bec0a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147557"
+      },
+      {
+        "id": 147556,
+        "text": "🔹\nمنابع عبری:\nمحسن رضایی جزو اهداف ترور است\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-07T16:33:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147556_0_9817292a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147556_1_d8d8057f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147556"
+      },
+      {
         "id": 147554,
         "text": "⚪️\nتصاویر پهپاد ها و جنگنده انهدام شده آمریکایی اسرائیلی توسط سپاه\n💢\n@Baga_News\n| Король",
         "date": "2026-08-07T16:10:22+00:00",
@@ -14595,59 +14660,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147428"
-      },
-      {
-        "id": 147427,
-        "text": "🚨\nجدیدا چیزی که داره مد میشه ختنه نکردن بچه های پسره،دیگه خانواده ها وقتی بچه دار میشن ختنش نمیکنن و این کارو نشونه ی باکلاس بودن و مدرن بودن میدونن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-05T19:31:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147427_0_de37e201.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147427_1_fa153128.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147427"
-      },
-      {
-        "id": 147426,
-        "text": "🇮🇷\n👀\n| نماینده مجلس: طرح موضوع بازکردن تنگه هرمز در مقابل لغو تحریم با واقعیت مطابقت ندارد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-05T19:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147426_0_de37e201.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147426"
-      },
-      {
-        "id": 147425,
-        "text": "🚨\nاستوری جدید رونالدو که نشسته مزه خوری میکنه\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-05T18:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147425_0_de37e201.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147425_1_4f605432.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147425"
       }
     ],
     "maznet": [
@@ -16189,23 +16201,23 @@
       }
     ]
   },
-  "last_update": "2026-08-07T16:27:31.542820+00:00",
+  "last_update": "2026-08-07T17:27:20.524483+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 730,
-    "total_files": 730,
+    "total_media": 733,
+    "total_files": 733,
     "total_links": 276,
     "files_by_type": {
-      "image": 696,
-      "video": 26,
+      "image": 700,
+      "video": 25,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 730,
-    "existing_media_files": 729,
-    "total_size_mb": 277.7,
-    "last_calculation": "2026-08-07T16:27:31.551848+00:00"
+    "referenced_files": 733,
+    "existing_media_files": 732,
+    "total_size_mb": 276.51,
+    "last_calculation": "2026-08-07T17:27:20.531925+00:00"
   }
 }
