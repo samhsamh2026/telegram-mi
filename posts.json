@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147653,
+        "text": "خاورمیانه باز ارومه\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-08T20:14:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147653_0_fbf3ee79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147653"
+      },
+      {
+        "id": 147652,
+        "text": "🇮🇷\n👀\n|\nپزشکیان:\n🔵\nدرحال رایزنی با سران سه قوه هستیم تا وضعیت اینترنت رو به وضعیتِ قبل از محدودیت‌ها برگردونیم\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-08T19:50:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147652_0_fbf3ee79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147652"
+      },
+      {
         "id": 147651,
         "text": "🇸🇦\n👀\n|\nوزارت امور خارجه عربستان:\nما ایران را مسئول عواقب اتفاقات آتی در خاورمیانه می‌دانیم\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-08T19:31:51+00:00",
@@ -14709,44 +14739,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147542"
-      },
-      {
-        "id": 147541,
-        "text": "💢\nحسین کلهر:\nزنگ زدم اطلاعات گفتم کلی اطلاعات سری دارم، یه پرستو برای من بفرستید کل اطلاعات رو لو میدم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-07T12:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147541_0_9817292a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147541_1_278ba612.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147541"
-      },
-      {
-        "id": 147540,
-        "text": "🚨\nتو اینستاگرام دارن آینده مملکتو بدین شکل پیشگویی میکنن :\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-07T11:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147540_0_9817292a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147540_1_ea4449aa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147540"
       }
     ],
     "maznet": [
@@ -16288,23 +16280,23 @@
       }
     ]
   },
-  "last_update": "2026-08-08T19:37:25.467789+00:00",
+  "last_update": "2026-08-08T20:39:46.945558+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 752,
-    "total_files": 752,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 278,
     "files_by_type": {
-      "image": 724,
-      "video": 20,
+      "image": 723,
+      "video": 19,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 254.81,
-    "last_calculation": "2026-08-08T19:37:25.476951+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 253.82,
+    "last_calculation": "2026-08-08T20:39:46.954535+00:00"
   }
 }
