@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 147620,
+        "text": "🔻\nهیلاری کلینتون: کاخ سفید ترامپ شبیه کاخ‌های صدام در زمان سقوط است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T13:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147620_0_fbf3ee79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147620_1_8d1f52e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147620"
+      },
+      {
+        "id": 147619,
+        "text": "🍳\nنیمرو در رستوران‌ها یه 2میلیون رسید\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T13:33:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147619_0_fbf3ee79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147619_1_7f365b73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147619"
+      },
+      {
+        "id": 147618,
+        "text": "🔹\nتصویر امروز ماهواره کوپرنیک از وضعیت دریاچه ارومیه و مقایسه با زمان مشابه سال قبل که نشون میده به نسبت پارسال وضع دریاچه خیلی بهتر شده\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T13:10:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147618_0_fbf3ee79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147618_1_1a409c99.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147618"
+      },
+      {
         "id": 147617,
         "text": "پزشکیان: امروز مهم‌ترین نگرانیم معیشت مردمه.\nماشاء الله همتونم که فقط نگرانید\n😳\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-08T12:50:41+00:00",
@@ -14690,55 +14747,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147507"
-      },
-      {
-        "id": 147506,
-        "text": "🔵\nمرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر و به گونی هدایت شد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-06T20:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147506_0_9178fc94.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147506_1_4f498e42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147506"
-      },
-      {
-        "id": 147505,
-        "text": "🇮🇷\n👀\n|\nامام‌جمعه رشت : دستور دادم عکس هیچ زنی رو نزنن سنگ قبر، نا سلامتی مسلمونیم\n😏\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-06T19:50:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147505_0_9178fc94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147505"
-      },
-      {
-        "id": 147504,
-        "text": "🇮🇱\n👀\n|\nکانال ۱۲ اسرائیل:\nرئیس سازمان اطلاعات اسرائیل (موساد) دو رئیس بخش را به دلیل شکست در تلاش برای تغییر رژیم در ایران، برکنار کرد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-06T19:30:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147504_0_9178fc94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147504"
       }
     ],
     "maznet": [
@@ -16280,23 +16288,23 @@
       }
     ]
   },
-  "last_update": "2026-08-08T13:05:42.211882+00:00",
+  "last_update": "2026-08-08T14:09:15.604070+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 278,
     "files_by_type": {
-      "image": 717,
+      "image": 719,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 274.3,
-    "last_calculation": "2026-08-08T13:05:42.221282+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 274.39,
+    "last_calculation": "2026-08-08T14:09:15.613018+00:00"
   }
 }
