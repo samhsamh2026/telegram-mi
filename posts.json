@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 147609,
+        "text": "🔵\nفاکس نیوز:\nآیت الله مجتبی قدرت پدرش را ندارد و اختلافات بالا گرفته.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T10:31:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147609_0_fbf3ee79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147609_1_6d360495.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147609_2_c9329907.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147609"
+      },
+      {
+        "id": 147608,
+        "text": "💢\nبانک مرکزی:\nترامپ حرف مفت میزنه تورم ایران کجاش ۱۰۰ درصده،ما کلا ۶۱ درصد تورم داریم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T10:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147608_0_fbf3ee79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147608"
+      },
+      {
+        "id": 147607,
+        "text": "🇸🇦\nساختمان‌های مرتفع و برج‌های شهر ریاض به مناسبت امضای «توافق‌ مکه» با پرچم‌های سعودی، ترکیه و پاکستان تزیین شدند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T09:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147607_0_fbf3ee79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147607"
+      },
+      {
         "id": 147606,
         "text": "👀\n🔹\nپزشکیان :\nکسانی که فاجعه هولناک بمباران اتمی هیروشیما را محکوم می‌کنند، باید ذهنیتی که امروز در آمریکا حاکم است و تهدید به تخریب زیرساخت‌های غیر نظامی می‌کند را هم محکوم کنند\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-08T09:32:42+00:00",
@@ -14662,59 +14715,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147497"
-      },
-      {
-        "id": 147496,
-        "text": "گزارشات از انفجار در بندرعباس\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-06T18:18:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147496_0_9178fc94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147496"
-      },
-      {
-        "id": 147475,
-        "text": "قیمت گوشی‌ پشم ریزون شده، کی فکرشو میکرد گوشی میان‌رده شیائومی ۲۵۰ میلیون بشه!\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-06T14:50:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147475_0_9178fc94.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147475_1_48ab5a0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147475"
-      },
-      {
-        "id": 147474,
-        "text": "⏺\nتو پیاده‌روی اربعینِ امسال تو عراق، یه پسربچه ایرانی گوشیشو گم میکنه و وقتی صاحب‌‌های موکب‌‌های عراقی متوجه میشه، اندازه‌ی پولِ دوتا گوشی براش پول جمع میکنن تا خوشحالش کنن\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-06T14:33:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147474_0_9178fc94.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147474_1_e97b3d3b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147474"
       }
     ],
     "maznet": [
@@ -16256,7 +16256,7 @@
       }
     ]
   },
-  "last_update": "2026-08-08T09:46:12.498604+00:00",
+  "last_update": "2026-08-08T10:42:17.391231+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16264,15 +16264,15 @@
     "total_files": 744,
     "total_links": 278,
     "files_by_type": {
-      "image": 714,
-      "video": 22,
+      "image": 715,
+      "video": 21,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 744,
     "existing_media_files": 743,
-    "total_size_mb": 260.74,
-    "last_calculation": "2026-08-08T09:46:12.503285+00:00"
+    "total_size_mb": 253.57,
+    "last_calculation": "2026-08-08T10:42:17.400105+00:00"
   }
 }
