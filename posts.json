@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147606,
+        "text": "👀\n🔹\nپزشکیان :\nکسانی که فاجعه هولناک بمباران اتمی هیروشیما را محکوم می‌کنند، باید ذهنیتی که امروز در آمریکا حاکم است و تهدید به تخریب زیرساخت‌های غیر نظامی می‌کند را هم محکوم کنند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T09:32:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147606_0_9817292a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147606_1_e0aacd04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147606"
+      },
+      {
+        "id": 147605,
+        "text": "‏\n🔸\n‏سپاه: رسانه‌های جهان اعتراف می‌کنند که تفاهم‌نامه‌های حاصله بین ایران و آمریکا، چیزی جز «سند تسلیم ایالات متحده» در برابر واقعیت‌های میدانی و قدرت مذاکراتی ایران نیست\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-08T09:10:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147605_0_9817292a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147605"
+      },
+      {
         "id": 147604,
         "text": "‏\n🔻\nبه نقل از رویترز: دوراهی سخت ترامپ در ایران؛ او در جنگی گرفتار شده که هیچ راهی برای خروج از آن پیش رویش نیست\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-08T08:50:18+00:00",
@@ -14681,36 +14715,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147474"
-      },
-      {
-        "id": 147473,
-        "text": "🇮🇷\nحسن روحانی:\nبعضی‌ها میگن اگر جنگ بیشتر بشه امام زمان ظهور میکنه!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-06T14:10:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147473_0_9178fc94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147473"
-      },
-      {
-        "id": 147472,
-        "text": "🚨\nهواشناسی: به نظر نمی‌رسد تهران دیگر رنگ دمای ۴۰ درجه را به خودش ببیند.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-06T13:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147472_0_9178fc94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147472"
       }
     ],
     "maznet": [
@@ -16252,23 +16256,23 @@
       }
     ]
   },
-  "last_update": "2026-08-08T08:52:46.287672+00:00",
+  "last_update": "2026-08-08T09:46:12.498604+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 743,
-    "total_files": 743,
+    "total_media": 744,
+    "total_files": 744,
     "total_links": 278,
     "files_by_type": {
-      "image": 713,
+      "image": 714,
       "video": 22,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 743,
-    "existing_media_files": 742,
-    "total_size_mb": 260.68,
-    "last_calculation": "2026-08-08T08:52:46.296819+00:00"
+    "referenced_files": 744,
+    "existing_media_files": 743,
+    "total_size_mb": 260.74,
+    "last_calculation": "2026-08-08T09:46:12.503285+00:00"
   }
 }
