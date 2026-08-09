@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147726,
+        "text": "⚪️\nاکانت اسرائیل\n🇮🇱\nبه فارسی، در حال معرفیِ مکان‌های جذاب اسرائیل برای گردشگران ایرانی تو سفرهای تابستانی سال آینده‌ست:\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-09T23:34:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147726_0_20afe370.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147726_1_a788285c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147726"
+      },
+      {
+        "id": 147725,
+        "text": "سکوت قبل طوفانه یا خاورمیانه بالاخره درست شده؟\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-09T23:29:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147725_0_20afe370.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147725"
+      },
+      {
         "id": 147724,
         "text": "🔴\n👀\nبلومبرگ :\nتوافق درباره تنگه هرمز همچنان دور از دسترس است؛ ایران با مذاکرات مستقیم با آمریکا مخالفت می‌کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-09T21:57:49+00:00",
@@ -14664,44 +14698,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147618"
-      },
-      {
-        "id": 147617,
-        "text": "پزشکیان: امروز مهم‌ترین نگرانیم معیشت مردمه.\nماشاء الله همتونم که فقط نگرانید\n😳\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-08T12:50:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147617_0_fbf3ee79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147617_1_a8f3f5e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147617"
-      },
-      {
-        "id": 147616,
-        "text": "یک بسیجی رندوم :\nبعد از تشکر های فراوان از پزشکیان و مجلس و ریاست مجلس میگه که داره پوشش و اصالت ایرانی از بین میره\n🙁\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-08T12:32:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147616_0_fbf3ee79.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147616_1_dd68b31f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147616"
       }
     ],
     "maznet": [
@@ -16243,23 +16239,23 @@
       }
     ]
   },
-  "last_update": "2026-08-09T22:40:32.265925+00:00",
+  "last_update": "2026-08-09T23:40:29.817901+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 742,
-    "total_files": 742,
+    "total_media": 741,
+    "total_files": 741,
     "total_links": 277,
     "files_by_type": {
       "image": 716,
-      "video": 18,
+      "video": 17,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 742,
-    "existing_media_files": 741,
-    "total_size_mb": 237.52,
-    "last_calculation": "2026-08-09T22:40:32.275196+00:00"
+    "referenced_files": 741,
+    "existing_media_files": 740,
+    "total_size_mb": 232.94,
+    "last_calculation": "2026-08-09T23:40:29.826767+00:00"
   }
 }
