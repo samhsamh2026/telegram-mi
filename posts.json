@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147660,
+        "text": "🔵\nآتش‌سوزی در یک واحد صنعتی در شهرک صنعتی نصیرآباد رباط‌کریم\nسخنگوی اورژانس تهران: درپی آتش‌سوزی در کارگاه فندک‌سازی شهرک صنعتی نصیر‌آباد که ساعت ۷:۲۰ امروز رخ داد، تاکنون ۴ نفر مصدوم شده‌اند که از این تعداد ۲ نفر به بیمارستان منتقل شده‌اند\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-09T06:08:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147660_0_fbf3ee79.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147660_1_7f2667ba.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147660"
+      },
+      {
+        "id": 147659,
+        "text": "🔴\n⚠️\n🔞\nحاوی محتوای دلخراش و آزار دهنده\n‼️\n◀️\nیه بچه‌ تیک تاکر وسط لایوش تو تیک تاک داخل مخزن آب پرید و چون فضای کافی واسه چرخیدنش وجود نداشت تو پخش زنده غرق شد و جونش رو از دست داد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-09T06:01:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147659_0_fbf3ee79.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147659_1_fb9558bc.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147659"
+      },
+      {
         "id": 147658,
         "text": "🔴\n🇸🇦\n🇾🇪\nرئیس ستاد نیروهای مورد حمایت عربستان سعودی در یمن، در جریان یک عملیات   یمن در مأرب کشته شد.\n‼️\n◀️\nوزارت دفاع دولت عدن، کشته شدن سرتیپ \"عزیز بن صغیر\"، رئیس ستاد نیروهای سعودی در یمن را به در حمله موشکی و پهپادی ارتش یمن به مأرب، تأیید کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-09T05:31:03+00:00",
@@ -14717,36 +14755,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147548"
-      },
-      {
-        "id": 147547,
-        "text": "🇺🇸\nهشدار اطلاعاتی آمریکا: روسیه شاید به ناتو حمله کند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-07T14:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147547_0_9817292a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147547"
-      },
-      {
-        "id": 147546,
-        "text": "🇺🇸\nترامپ: اگر دموکرات‌ها به قدرت برسند، ممکن است من آخرین رئیس‌جمهور جمهوری‌خواه باشم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-07T13:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147546_0_9817292a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147546"
       }
     ],
     "maznet": [
@@ -16288,23 +16296,23 @@
       }
     ]
   },
-  "last_update": "2026-08-09T05:31:51.702322+00:00",
+  "last_update": "2026-08-09T06:26:06.076356+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 752,
-    "total_files": 752,
+    "total_media": 754,
+    "total_files": 754,
     "total_links": 278,
     "files_by_type": {
       "image": 726,
-      "video": 18,
+      "video": 20,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 248.66,
-    "last_calculation": "2026-08-09T05:31:51.711286+00:00"
+    "referenced_files": 754,
+    "existing_media_files": 753,
+    "total_size_mb": 252.16,
+    "last_calculation": "2026-08-09T06:26:06.085424+00:00"
   }
 }
