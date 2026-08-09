@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 147724,
+        "text": "🔴\n👀\nبلومبرگ :\nتوافق درباره تنگه هرمز همچنان دور از دسترس است؛ ایران با مذاکرات مستقیم با آمریکا مخالفت می‌کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-09T21:57:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147724_0_20afe370.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147724"
+      },
+      {
         "id": 147723,
         "text": "🔴\n✈️\n👀\n|\nپرواز جنگنده های آمریکایی بر فراز عراق\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-09T21:36:23+00:00",
@@ -14687,25 +14702,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147616"
-      },
-      {
-        "id": 147615,
-        "text": "🚨\nتحلیل‏ ️جان بولتون: پوتین احساس می‌کند ترامپ در جنگ با ایران ضعیف و ترسیده شده است،روسیه آماده حمله به ناتو است!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-08T12:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147615_0_fbf3ee79.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147615_1_27337d2f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147615"
       }
     ],
     "maznet": [
@@ -16247,23 +16243,23 @@
       }
     ]
   },
-  "last_update": "2026-08-09T21:41:32.821164+00:00",
+  "last_update": "2026-08-09T22:40:32.265925+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 743,
-    "total_files": 743,
+    "total_media": 742,
+    "total_files": 742,
     "total_links": 277,
     "files_by_type": {
       "image": 716,
-      "video": 19,
+      "video": 18,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 743,
-    "existing_media_files": 742,
-    "total_size_mb": 241.93,
-    "last_calculation": "2026-08-09T21:41:32.830109+00:00"
+    "referenced_files": 742,
+    "existing_media_files": 741,
+    "total_size_mb": 237.52,
+    "last_calculation": "2026-08-09T22:40:32.275196+00:00"
   }
 }
