@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 147702,
+        "text": "💢\n🇺🇸\nپست جدید ترامپ\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-09T17:30:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147702_0_20afe370.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147702_1_4ab689f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147702"
+      },
+      {
+        "id": 147701,
+        "text": "🇯🇵\n👀\n| تو شهر فوجیساوا ژاپن مردم اعتراضات گسترده ای بخاطر ساخت اولین مسجد تو این شهر انجام دادن\n‼️\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-09T17:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147701_0_20afe370.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147701_1_534b1d87.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147701"
+      },
+      {
         "id": 147700,
         "text": "⚪️\nوال استریت ژورنال:\nترامپ به طور خصوصی به دستیاران ارشد خود گفته است که اگر تهران تنگه هرمز را به طور کامل بازگشایی کند، ممکن است حاضر باشد جنگ با ایران را بدون توافق هسته‌ای پایان دهد. با این حال، خواسته‌های جدید و جامعی که مطرح می‌کند\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-09T16:50:18+00:00",
@@ -14692,44 +14730,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147595"
-      },
-      {
-        "id": 147594,
-        "text": "🇮🇷\n👀\n|\nمعاون پزشکیان:\nرئیس جمهور هرگز از سختی‌ها نهراسیده و نمی‌هراسد با تمام توان در کنار رئیس جمهور برای ایران ایستاده‌ایم\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-08T04:15:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147594_0_9817292a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147594_1_7ae5e41b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147594"
-      },
-      {
-        "id": 147593,
-        "text": "توی دوران جنگ با بهترین کیفیت ما وصل بودیم\n👑\n❤️\nپایین ترین قیمت نامحدود\n✅\n🔥\nسرویس‌های موجود:\n✅\nنامحدود\n✅\nپلن‌های حجمی (مولتی‌لوکیشن)\n✅\nسرور تانل (تک‌لوکیشن)\n⚡️\nسرعت بالا | پینگ عالی | اتصال پایدار\n🎮\nمناسب برای استفاده روزمره، استریم و گیم\n🎁\n۴۰٪ تخفیف ویژه…",
-        "date": "2026-08-08T04:15:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147593_0_9817292a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147593_1_9ab14236.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147593"
       }
     ],
     "maznet": [
@@ -16271,7 +16271,7 @@
       }
     ]
   },
-  "last_update": "2026-08-09T16:50:56.332212+00:00",
+  "last_update": "2026-08-09T17:39:15.977045+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16279,15 +16279,15 @@
     "total_files": 749,
     "total_links": 277,
     "files_by_type": {
-      "image": 723,
-      "video": 18,
+      "image": 722,
+      "video": 19,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 749,
     "existing_media_files": 748,
-    "total_size_mb": 250.86,
-    "last_calculation": "2026-08-09T16:50:56.341976+00:00"
+    "total_size_mb": 251.73,
+    "last_calculation": "2026-08-09T17:39:15.986191+00:00"
   }
 }
