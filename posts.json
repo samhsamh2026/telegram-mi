@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147655,
+        "text": "⏺\nهانتر بایدن:\nهانتر بایدن گفت سرطان پروستات پدرش، جو بایدن، به استخوان‌های او سرایت کرده و باعث درد و ناتوانی شدیدش شده است.\nاو افزود این بیماری گسترش پیدا کرده و در حال حاضر شرایط جسمی بایدن را به‌شدت تحت تأثیر قرار داده است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-09T04:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147655_0_fbf3ee79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147655_1_0ce4166c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147655"
+      },
+      {
         "id": 147653,
         "text": "خاورمیانه باز ارومه\n💢\n@Baga_News\n| Король",
         "date": "2026-08-08T20:14:40+00:00",
@@ -14724,21 +14743,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147543"
-      },
-      {
-        "id": 147542,
-        "text": "🇺🇸\nترامپ : رئیس‌جمهور شی جین پینگ احتمالا بیاد آمریکا\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-07T12:30:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147542_0_9817292a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147542"
       }
     ],
     "maznet": [
@@ -16280,23 +16284,23 @@
       }
     ]
   },
-  "last_update": "2026-08-09T03:24:19.401535+00:00",
+  "last_update": "2026-08-09T04:06:40.689082+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 278,
     "files_by_type": {
-      "image": 723,
+      "image": 724,
       "video": 19,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 253.82,
-    "last_calculation": "2026-08-09T03:24:19.410755+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 253.87,
+    "last_calculation": "2026-08-09T04:06:40.696101+00:00"
   }
 }
