@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147692,
+        "text": "این وسط گوجه کبابی هم شده 200 هزارتومن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-09T14:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147692_0_20afe370.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147692_1_904366d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147692"
+      },
+      {
+        "id": 147691,
+        "text": "🇮🇷\nرجبی‌مشهدی، معاون برق و انرژی وزارت نیرو:\n🔵\nخاموشی‌ها تا دو هفته آینده به حداقل می‌رسد\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-09T14:32:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147691_0_20afe370.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147691"
+      },
+      {
         "id": 147690,
         "text": "🇮🇷\nمعاون وزارت کشور:توهین به رییس جمهور جرم است\nزین پس هر فردی در تلویزیون ملی به مسعود توهین کنه به گونی هدایت\nمیشه\n😊\n💢\n@Baga_News\n| Король",
         "date": "2026-08-09T14:10:18+00:00",
@@ -14716,40 +14750,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147581"
-      },
-      {
-        "id": 147580,
-        "text": "🔴\nرسانه عبری :\nمحسن رضایی جزو اهداف ترور است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-07T21:36:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147580_0_9817292a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147580_1_29c25f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147580"
-      },
-      {
-        "id": 147578,
-        "text": "🔴\nحملات گسترده نیروهای وفادار عربستان به مواضع و نیروها و خودرو های حوثی ها با کوادکوپتر\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-07T21:35:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147578_0_9817292a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147578"
       }
     ],
     "maznet": [
@@ -16291,7 +16291,7 @@
       }
     ]
   },
-  "last_update": "2026-08-09T14:10:56.483774+00:00",
+  "last_update": "2026-08-09T15:04:09.066624+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16307,7 +16307,7 @@
     },
     "referenced_files": 754,
     "existing_media_files": 753,
-    "total_size_mb": 252.96,
-    "last_calculation": "2026-08-09T14:10:56.493682+00:00"
+    "total_size_mb": 252.97,
+    "last_calculation": "2026-08-09T15:04:09.075606+00:00"
   }
 }
