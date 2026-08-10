@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 147752,
+        "text": "🇺🇦\nاوکراین: یه سامانه جنگ الکترونیک ضد استارلینک روسی رو زدیم\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-10T12:10:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147752_0_9857afe4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147752_1_8b5582bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147752"
+      },
+      {
+        "id": 147751,
+        "text": "🇮🇷\nخرازی، دبیرکل حزب‌الله ایران:\nایت الله مجتبی خامنه‌ای اگه تو این سه سال از دفتر رهبری طرد نمی‌شد، می‌کُشتنش!\nخودِ ایت الله سید علی خامنه‌ای هم همین‌طوری بود، تو دفترِ روح‌الله خمینی هیچ جایی نداشت.\nاز احمد خمینی بگیر تا کروبی و... همه میخواستن مرگ علی خامنه‌ای رو ببینن.\nابراهیم رئیسی هم قصد داشت رهبر بشه که شهیدش کردن!\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-10T11:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147751_0_9857afe4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147751_1_98ad8ce2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147751"
+      },
+      {
+        "id": 147750,
+        "text": "🇮🇷\nپزشکیان: هیچ قدرتی نمی‌تواند مردم ما را وادار به تسلیم کند\n💢\n@Baga_News\n|\nКороль",
+        "date": "2026-08-10T11:34:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147750_0_9857afe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147750"
+      },
+      {
         "id": 147749,
         "text": "🇮🇷\nپزشکیان:  در موضوع بنزین نمی‌توانم دستور بدهم که از فردا فلان اتفاق بیفتد؛ چون ممکن است کشور را دچار مشکل کنیم\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-10T11:10:01+00:00",
@@ -14641,59 +14694,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147642"
-      },
-      {
-        "id": 147641,
-        "text": "حماسه جدید ساختن این جماعت تندرو:\n🟠\nبا دیدن موهاش هم تحریک شد هم برنج و خورشت یهو تموم شد.\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-08T18:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147641_0_fbf3ee79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147641_1_a224d836.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147641"
-      },
-      {
-        "id": 147640,
-        "text": "⏺\nوال استریت ژورنال : ایران به دنبال منع عبور ناوهای جنگی آمریکا از تنگه هرمز حتی با توافق است\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-08T18:05:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147640_0_fbf3ee79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147640_1_ba20d760.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147640"
-      },
-      {
-        "id": 147639,
-        "text": "🇮🇱\n👀\n|\nکانال ۱۳ اسرائیل: اسرائیل در حال آماده‌سازی برای احتمال اقدام یک‌جانبه علیه ایران است!\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-08T17:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147639_0_fbf3ee79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147639"
       }
     ],
     "maznet": [
@@ -16235,7 +16235,7 @@
       }
     ]
   },
-  "last_update": "2026-08-10T11:15:46.503926+00:00",
+  "last_update": "2026-08-10T12:12:12.537182+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16243,15 +16243,15 @@
     "total_files": 740,
     "total_links": 277,
     "files_by_type": {
-      "image": 712,
-      "video": 20,
+      "image": 711,
+      "video": 21,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 740,
     "existing_media_files": 739,
-    "total_size_mb": 260.59,
-    "last_calculation": "2026-08-10T11:15:46.513214+00:00"
+    "total_size_mb": 261.87,
+    "last_calculation": "2026-08-10T12:12:12.546420+00:00"
   }
 }
