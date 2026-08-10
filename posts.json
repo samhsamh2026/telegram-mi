@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 147772,
+        "text": "🇮🇷\n👀\n|\nزاکانی: هر وقت راه نفس دشمن بند می‌آید، برخی «نه به جنگ» می‌گویند\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-10T16:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147772_0_9857afe4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147772_1_6fe73cb2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147772"
+      },
+      {
+        "id": 147771,
+        "text": "⚪️\n👀\n|\nوای نت:\n🔵\nبی‌بی ‎نتانیاهو قصد دارد انتخابات 27 اکتبر کنست اسرائیل را تحت تأثیر حمله جدید به ایران قرار دهد تا ائتلاف لیکود متلاشی نشود\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-10T15:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147771_0_9857afe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147771"
+      },
+      {
+        "id": 147770,
+        "text": "🟠\nامروز 10 August، روزِ تنبلی و هیچ‌کاری نکردنه.\nاین روز رو به ۹۸/۲ درصد از ملت شریف ایران تبریک میگیم\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-10T15:33:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147770_0_9857afe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147770"
+      },
+      {
         "id": 147767,
         "text": "تکمیلی؛\nدیروز عراقچی برای مهمانان خارجی تو ساختمون وزارت خارجه بساط تعزیه راه انداخت\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-08-10T15:10:23+00:00",
@@ -14693,55 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147656"
-      },
-      {
-        "id": 147655,
-        "text": "⏺\nهانتر بایدن:\nهانتر بایدن گفت سرطان پروستات پدرش، جو بایدن، به استخوان‌های او سرایت کرده و باعث درد و ناتوانی شدیدش شده است.\nاو افزود این بیماری گسترش پیدا کرده و در حال حاضر شرایط جسمی بایدن را به‌شدت تحت تأثیر قرار داده است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-09T04:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147655_0_fbf3ee79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147655_1_0ce4166c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147655"
-      },
-      {
-        "id": 147653,
-        "text": "خاورمیانه باز ارومه\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-08T20:14:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147653_0_fbf3ee79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147653"
-      },
-      {
-        "id": 147652,
-        "text": "🇮🇷\n👀\n|\nپزشکیان:\n🔵\nدرحال رایزنی با سران سه قوه هستیم تا وضعیت اینترنت رو به وضعیتِ قبل از محدودیت‌ها برگردونیم\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-08T19:50:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147652_0_fbf3ee79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147652"
       }
     ],
     "maznet": [
@@ -16283,7 +16283,7 @@
       }
     ]
   },
-  "last_update": "2026-08-10T15:16:33.528853+00:00",
+  "last_update": "2026-08-10T16:27:22.537955+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16291,15 +16291,15 @@
     "total_files": 752,
     "total_links": 277,
     "files_by_type": {
-      "image": 719,
-      "video": 25,
+      "image": 718,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 752,
     "existing_media_files": 751,
-    "total_size_mb": 281.18,
-    "last_calculation": "2026-08-10T15:16:33.538397+00:00"
+    "total_size_mb": 282.32,
+    "last_calculation": "2026-08-10T16:27:22.547251+00:00"
   }
 }
