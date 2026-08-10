@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147785,
+        "text": "💠\nیک مقام ایرانی به MSNOW گفت :\nتهران تا زمانی که واشنگتن شروط تفاهم‌نامه ماه ژوئن، از جمله آزادسازی دارایی‌های ایران و پایان جنگ در لبنان را اجرا نکند، تنگه هرمز را بازگشایی نخواهد کرد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-10T18:50:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147785_0_9857afe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147785"
+      },
+      {
+        "id": 147784,
+        "text": "🔻\nسفیر سابق ایران در آذربایجان:\nتعلق ۵۰ درصدی دریای خزر به ایران، هیچ مبنای حقوقی و تاریخی ندارد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-10T18:30:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147784_0_9857afe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147784"
+      },
+      {
         "id": 147783,
         "text": "🔻\nترامپ: ایران باید مسئول خسارات و تلفاتی باشد که به مردم لبنان، سوریه، یمن و غزه وارد شده است\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-10T18:10:11+00:00",
@@ -14700,48 +14730,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147671"
-      },
-      {
-        "id": 147670,
-        "text": "⭕️\n۴ متهم قتل حمیدرضا رجب‌زاده دستگیر شدند\n🔹\nپس از اعلام ربایش و قتل «حمیدرضا رجب‌زاده» تحقیقات قضائی و انتظامی برای شناسایی عاملان قتل او آغاز شد.\n🔹\nپس از ارائه اطلاعات جزئی از سوی خانواده وی درباره آخرین برنامه «رجب‌زاده» و مسیری که قرار بود طی کند، پیگیری‌های…",
-        "date": "2026-08-09T08:50:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147670_0_fbf3ee79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147670"
-      },
-      {
-        "id": 147667,
-        "text": "🚨\nحوثی‌ها\n:\nپالایشگاه آرامکو تو جیزان عربستان رو با یک پهپاد هدف قرار دادیم\nاین حمله تو پاسخ به ورود پهپادهای عربستان به حریم هوایی استان‌های صعده و حجه انجام شده\n﻿\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-09T08:36:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147667_0_fbf3ee79.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147667_1_b88b0d71.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147667_2_163df20f.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147667_3_4f7f8a33.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147667"
       }
     ],
     "maznet": [
@@ -16283,23 +16271,23 @@
       }
     ]
   },
-  "last_update": "2026-08-10T18:29:45.617963+00:00",
+  "last_update": "2026-08-10T19:00:45.207479+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 752,
-    "total_files": 752,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 277,
     "files_by_type": {
       "image": 720,
-      "video": 24,
+      "video": 21,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 274.23,
-    "last_calculation": "2026-08-10T18:29:45.627438+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 271.9,
+    "last_calculation": "2026-08-10T19:00:45.218529+00:00"
   }
 }
