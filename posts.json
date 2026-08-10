@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147800,
+        "text": "این عکس داره به عنوان عکس جدید ایت الله مجتبی خامنه ای پخش میشه :\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-10T22:44:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147800_0_9857afe4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147800_1_0ee2d1b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147800"
+      },
+      {
         "id": 147799,
         "text": "💢\nگزارش غیر رسمی مبنی بر شلیک موشک از سیریک\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
         "date": "2026-08-10T21:22:59+00:00",
@@ -14697,25 +14716,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147685"
-      },
-      {
-        "id": 147684,
-        "text": "کارشناس صداوسیما: باید نیروی نظامی ببریم و بحرین را پس بگیریم! دستگاه دیپلماسی ما خجالت می‌کشد این حرف‌ها را بزند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-09T12:32:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147684_0_20afe370.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147684_1_925a7a04.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147684"
       }
     ],
     "maznet": [
@@ -16257,7 +16257,7 @@
       }
     ]
   },
-  "last_update": "2026-08-10T21:52:06.730840+00:00",
+  "last_update": "2026-08-10T22:47:44.622988+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16265,15 +16265,15 @@
     "total_files": 747,
     "total_links": 276,
     "files_by_type": {
-      "image": 716,
-      "video": 23,
+      "image": 717,
+      "video": 22,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 747,
     "existing_media_files": 746,
-    "total_size_mb": 283.01,
-    "last_calculation": "2026-08-10T21:52:06.740182+00:00"
+    "total_size_mb": 271.22,
+    "last_calculation": "2026-08-10T22:47:44.627562+00:00"
   }
 }
