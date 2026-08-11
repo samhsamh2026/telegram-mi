@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 147840,
+        "text": "🇮🇷\n👀\n|\nمهدی مطهرنیا:\nاقتصاد و ارزش پول ملی درحال نابود شدنه اما برخی آقایان در توهم هستند\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-11T13:10:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147840_0_6f976cb2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147840"
+      },
+      {
+        "id": 147839,
+        "text": "🇮🇷\n👀\n|\nسخنگوی کمیسیون انرژی مجلس اعلام کرد: افزایش قیمت بنزین فعلاً منتفی است\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-11T12:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147839_0_6f976cb2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147839"
+      },
+      {
+        "id": 147838,
+        "text": "🔵\nوایرال شده از مشهد که از طرف ۷۰۰ هزار پول میگیرن بعد میگن غذا رو مهمون امام رضایی\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-11T12:27:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147838_0_6f976cb2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147838_1_1e326b9f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147838"
+      },
+      {
         "id": 147837,
         "text": "بعد این همه بی حوصلگی وقتشه بریم یکم تو دوز کل کل کنیم\n😎\nفکر می‌کنی اینکاره ایی خوشحال میشم تو رقابت ببینمت\n🔥\n😈\n@DozGame_Robot",
         "date": "2026-08-11T12:16:36+00:00",
@@ -14683,51 +14732,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147726"
-      },
-      {
-        "id": 147725,
-        "text": "سکوت قبل طوفانه یا خاورمیانه بالاخره درست شده؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-09T23:29:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147725_0_20afe370.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147725"
-      },
-      {
-        "id": 147724,
-        "text": "🔴\n👀\nبلومبرگ :\nتوافق درباره تنگه هرمز همچنان دور از دسترس است؛ ایران با مذاکرات مستقیم با آمریکا مخالفت می‌کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-09T21:57:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147724_0_20afe370.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147724"
-      },
-      {
-        "id": 147723,
-        "text": "🔴\n✈️\n👀\n|\nپرواز جنگنده های آمریکایی بر فراز عراق\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-09T21:36:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147723_0_20afe370.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147723"
       }
     ],
     "maznet": [
@@ -16269,23 +16273,23 @@
       }
     ]
   },
-  "last_update": "2026-08-11T12:16:47.495683+00:00",
+  "last_update": "2026-08-11T13:10:56.874426+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 276,
     "files_by_type": {
       "image": 713,
-      "video": 29,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 306.84,
-    "last_calculation": "2026-08-11T12:16:47.502733+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 308.29,
+    "last_calculation": "2026-08-11T13:10:56.881398+00:00"
   }
 }
