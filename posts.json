@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 147863,
+        "text": "⚪️\nباراک راوید:\n🟠\nامید به توافق میان جمهوری اسلامی و آمریکا در حال محو شدن است\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-11T19:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147863_0_6f976cb2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147863"
+      },
+      {
         "id": 147862,
         "text": "🇮🇷\n👀\n|\nرسایی:\nچونکه نمیدانیم اسرائیل کِی حمله میکند مجبوریم جلسات مجلس را مجازی کنیم\n💢\n@Baga_News\n| Король",
         "date": "2026-08-11T18:50:17+00:00",
@@ -14693,25 +14708,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147752"
-      },
-      {
-        "id": 147751,
-        "text": "🇮🇷\nخرازی، دبیرکل حزب‌الله ایران:\nایت الله مجتبی خامنه‌ای اگه تو این سه سال از دفتر رهبری طرد نمی‌شد، می‌کُشتنش!\nخودِ ایت الله سید علی خامنه‌ای هم همین‌طوری بود، تو دفترِ روح‌الله خمینی هیچ جایی نداشت.\nاز احمد خمینی بگیر تا کروبی و... همه میخواستن مرگ علی خامنه‌ای رو ببینن.\nابراهیم رئیسی هم قصد داشت رهبر بشه که شهیدش کردن!\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-10T11:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147751_0_9857afe4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147751_1_98ad8ce2.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147751"
       }
     ],
     "maznet": [
@@ -16253,23 +16249,23 @@
       }
     ]
   },
-  "last_update": "2026-08-11T19:05:44.131202+00:00",
+  "last_update": "2026-08-11T19:13:49.328149+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 746,
-    "total_files": 746,
+    "total_media": 745,
+    "total_files": 745,
     "total_links": 276,
     "files_by_type": {
       "image": 710,
-      "video": 28,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 280.83,
-    "last_calculation": "2026-08-11T19:05:44.140471+00:00"
+    "referenced_files": 745,
+    "existing_media_files": 744,
+    "total_size_mb": 279.47,
+    "last_calculation": "2026-08-11T19:13:49.337724+00:00"
   }
 }
