@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 147808,
+        "text": "🔴\n🇮🇷\nفرمانده نیروی زمینی سپاه:\nدر صورت هرگونه خطای گروهک‌های تروریستی شمال غرب کشور را به گورستان عناصر مزدور بدل می‌کنیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-11T07:01:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147808_0_9857afe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147808"
+      },
+      {
+        "id": 147807,
+        "text": "⏺\nجانباز شدید شیمیایی جنگ ۸ ساله: لعنت بهتون که با این وضع بدنم باید با تاکسی کار کنم\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-11T06:33:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147807_0_9857afe4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147807_1_735acd58.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147807"
+      },
+      {
+        "id": 147806,
+        "text": "💢\nآهنگر دادرس (حدادعادل) :\nبنده در انتخابات به آقای پزشکیان رای ندادم اما الان وظیفه خودم می دانم که به دولت کمک کنم؛ رهبری هم همین را می‌گوید.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-11T06:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147806_0_9857afe4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147806_1_20f1c9f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147806"
+      },
+      {
         "id": 147805,
         "text": "⏺\nکان‌نیوز:\nمذاکرات اسرائیل و لبنان به‌دلیل ادامه تنش‌ها میان دو کشور به تعویق افتاد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-11T05:32:36+00:00",
@@ -14667,59 +14720,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147694"
-      },
-      {
-        "id": 147693,
-        "text": "محل درج ایموجی خنده برای صداسیما :\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-09T15:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147693_0_20afe370.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147693_1_e82dda3a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147693"
-      },
-      {
-        "id": 147692,
-        "text": "این وسط گوجه کبابی هم شده 200 هزارتومن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-09T14:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147692_0_20afe370.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147692_1_904366d9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147692"
-      },
-      {
-        "id": 147691,
-        "text": "🇮🇷\nرجبی‌مشهدی، معاون برق و انرژی وزارت نیرو:\n🔵\nخاموشی‌ها تا دو هفته آینده به حداقل می‌رسد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-09T14:32:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147691_0_20afe370.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147691"
       }
     ],
     "maznet": [
@@ -16261,7 +16261,7 @@
       }
     ]
   },
-  "last_update": "2026-08-11T05:39:13.320404+00:00",
+  "last_update": "2026-08-11T07:11:03.951214+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16277,7 +16277,7 @@
     },
     "referenced_files": 748,
     "existing_media_files": 747,
-    "total_size_mb": 273.11,
-    "last_calculation": "2026-08-11T05:39:13.329540+00:00"
+    "total_size_mb": 278.14,
+    "last_calculation": "2026-08-11T07:11:03.956646+00:00"
   }
 }
