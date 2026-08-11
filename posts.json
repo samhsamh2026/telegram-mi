@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147842,
+        "text": "🇮🇷\n👀\n|\nفیلد مارشال رضایی:\nتمام توانم را برای افزایش قدرت ایران به کار خواهم گرفت\nایران در برابر هیچ تهدیدی از حقوق خود عقب نشینی نمی‌کند\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-11T13:50:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147842_0_6f976cb2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147842_1_fb58fd82.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147842"
+      },
+      {
+        "id": 147841,
+        "text": "🇶🇦\n👀\n|\nوزارت خارجه قطر: بازخوردهای مثبتی از عمان و ایران دریافت کردیم\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-11T13:31:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147841_0_6f976cb2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147841"
+      },
+      {
         "id": 147840,
         "text": "🇮🇷\n👀\n|\nمهدی مطهرنیا:\nاقتصاد و ارزش پول ملی درحال نابود شدنه اما برخی آقایان در توهم هستند\n💢\n@Baga_News\n| Король",
         "date": "2026-08-11T13:10:14+00:00",
@@ -14694,44 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147728"
-      },
-      {
-        "id": 147727,
-        "text": "🔴\nرسانه n12 اسرائیل: اگر حماس خلع سلاح شود، اسرائیل از نوار خارج می‌شود.!\n- نیکلای ملادینوف، مدیر شورای صلح، گفت طرح خلع سلاح کامل غزه شامل همه نوع سلاح از جمله کلاشنیکف است.\n- او افزود هیچ اقدامی پیش از اجرای گام‌های میدانی لازم نیست.\n- ملادینوف تأکید کرد نقش ترکیه و قطر در این روند حیاتی بوده است\n.\n﻿\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-10T04:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147727_0_20afe370.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147727_1_4819bcfa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147727"
-      },
-      {
-        "id": 147726,
-        "text": "⚪️\nاکانت اسرائیل\n🇮🇱\nبه فارسی، در حال معرفیِ مکان‌های جذاب اسرائیل برای گردشگران ایرانی تو سفرهای تابستانی سال آینده‌ست:\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-09T23:34:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147726_0_20afe370.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147726_1_a788285c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147726"
       }
     ],
     "maznet": [
@@ -16273,23 +16269,23 @@
       }
     ]
   },
-  "last_update": "2026-08-11T13:10:56.874426+00:00",
+  "last_update": "2026-08-11T13:59:52.887339+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 276,
     "files_by_type": {
-      "image": 713,
+      "image": 712,
       "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 308.29,
-    "last_calculation": "2026-08-11T13:10:56.881398+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 308.17,
+    "last_calculation": "2026-08-11T13:59:52.896624+00:00"
   }
 }
