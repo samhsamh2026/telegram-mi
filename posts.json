@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 147928,
+        "text": "🔹\nقالیباف فروردین ماه خطاب به مردم آمریکا :\nدلتان برای قیمت فعلی بنزین تنگ می‌شود.\nفکر کنم منظور ما بودیم\n🥱\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-12T19:50:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147928_0_118e8db8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147928_1_3fb8cbbb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147928"
+      },
+      {
+        "id": 147927,
+        "text": "رسانه های اسرائیلی :\nبنزین ایران داره تموم میشه و محاصره هم اجازه نمیده بنزین وارد بشه. به زودی چرخه حمل و نقل ایران با مشکلات جدی مواجه میشه.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-12T19:30:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147927_0_118e8db8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147927"
+      },
+      {
         "id": 147924,
         "text": "🔹\nنخست‌وزیر اسرائیل نتانیاهو در کمپین انتخاباتی خود از زبانی نسبتاً جالب استفاده کرده است:\n«کمی شیک است که یاهو بزرگ باشی.»\n«کمی شیک است که در ارتش اسرائیل خدمت کنی.»\n«کمی شیک است که ایران را متوقف کنی.»\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-12T19:10:27+00:00",
@@ -14652,44 +14686,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147824"
-      },
-      {
-        "id": 147823,
-        "text": "🔴\nساحل قشم بعد از زدن یک نفتکش توسط سپاه\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-11T09:55:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147823_0_6f976cb2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147823_1_680cf4ba.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147823"
-      },
-      {
-        "id": 147822,
-        "text": "🔹\nوضعیت میدون تره بار کرج\nبارهایی که رسیده و هیچ کس نمیخره\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-11T09:45:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147822_0_6f976cb2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147822_1_4232ff31.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147822"
       }
     ],
     "maznet": [
@@ -16231,23 +16227,23 @@
       }
     ]
   },
-  "last_update": "2026-08-12T19:26:47.593490+00:00",
+  "last_update": "2026-08-12T20:13:02.352294+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 739,
-    "total_files": 739,
+    "total_media": 738,
+    "total_files": 738,
     "total_links": 277,
     "files_by_type": {
-      "image": 706,
-      "video": 25,
+      "image": 707,
+      "video": 23,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 739,
-    "existing_media_files": 738,
-    "total_size_mb": 263.55,
-    "last_calculation": "2026-08-12T19:26:47.602121+00:00"
+    "referenced_files": 738,
+    "existing_media_files": 737,
+    "total_size_mb": 256.64,
+    "last_calculation": "2026-08-12T20:13:02.361014+00:00"
   }
 }
