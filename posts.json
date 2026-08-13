@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 147944,
+        "text": "⚪️\nمحل درج ایموجی خنده\n🇮🇷\n👀\n| دادستان اردبیل:\n🔵\nبی حجابی مشکل اصلی کشور هست\n😂\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-13T06:34:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147944_0_118e8db8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147944"
+      },
+      {
+        "id": 147943,
+        "text": "🇮🇷\n👀\n|\nمجری شبکه خبر:\n🔵\nباید تا هروقت که نیازه بجنگیم اگر چندسال هم بشه مشکلی نیست و مردم راضین\n👩‍💻\n- شما راضی هستی\n⁉️\n👍\n👎\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-13T06:00:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147943_0_118e8db8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147943_1_d9db4821.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147943"
+      },
+      {
+        "id": 147942,
+        "text": "🇮🇷\n👀\n|\nساحل شیب‌دراز قشم از آلودگی نفتی پاکسازی شد\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-13T05:32:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147942_0_118e8db8.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147942_1_5080467c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147942"
+      },
+      {
         "id": 147941,
         "text": "🇺🇸\n👀\n|\nبا اعلام ترامپ کارولین لیویت سخنگوی کاخ سفید این ماه بازنشسته میشه تا با خونواده و بچه هاش وقت بیشتری بگذرونه\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-08-13T05:04:34+00:00",
@@ -14661,59 +14714,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147839"
-      },
-      {
-        "id": 147838,
-        "text": "🔵\nوایرال شده از مشهد که از طرف ۷۰۰ هزار پول میگیرن بعد میگن غذا رو مهمون امام رضایی\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T12:27:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147838_0_6f976cb2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147838_1_1e326b9f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147838"
-      },
-      {
-        "id": 147837,
-        "text": "بعد این همه بی حوصلگی وقتشه بریم یکم تو دوز کل کل کنیم\n😎\nفکر می‌کنی اینکاره ایی خوشحال میشم تو رقابت ببینمت\n🔥\n😈\n@DozGame_Robot",
-        "date": "2026-08-11T12:16:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147837_0_6f976cb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147837"
-      },
-      {
-        "id": 147836,
-        "text": "🚨\nدومینیک تارچینسکی، سیاستمدار لهستانی\n🇵🇱\nو عضو پارلمان اروپا، با انتشار این ویدیو از جنگنده‌ها تو ایکس نوشت:\nصبح‌بخیر ایرانِ عزیز!\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T12:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147836_0_6f976cb2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147836_1_8e6fa334.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147836"
       }
     ],
     "maznet": [
@@ -16255,7 +16255,7 @@
       }
     ]
   },
-  "last_update": "2026-08-13T05:21:11.639307+00:00",
+  "last_update": "2026-08-13T07:00:35.358847+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16263,15 +16263,15 @@
     "total_files": 745,
     "total_links": 277,
     "files_by_type": {
-      "image": 714,
-      "video": 23,
+      "image": 715,
+      "video": 22,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 745,
     "existing_media_files": 744,
-    "total_size_mb": 251.96,
-    "last_calculation": "2026-08-13T05:21:11.648391+00:00"
+    "total_size_mb": 249.6,
+    "last_calculation": "2026-08-13T07:00:35.368155+00:00"
   }
 }
