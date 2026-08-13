@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 147946,
+        "text": "🇮🇱\n👀\n|\nکانال ۱۲ اسرائیل:\n🟠\nقحطی بنزین در این با محاصره امریکا شدت گرفته است\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-13T07:30:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147946_0_118e8db8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147946"
+      },
+      {
+        "id": 147945,
+        "text": "🇮🇷\n👀\n| رئیس کمیسیون امنیت ملی مجلس :\nدشمن قصد حمله زمینی از مسیرهای غرب کشور، خارک و قشم را داشت که با واکنش یگان‌های نظامی و نیروهای مردمی، این نقشه در نطفه خفه شد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-13T07:03:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147945_0_118e8db8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147945"
+      },
+      {
         "id": 147944,
         "text": "⚪️\nمحل درج ایموجی خنده\n🇮🇷\n👀\n| دادستان اردبیل:\n🔵\nبی حجابی مشکل اصلی کشور هست\n😂\n💢\n@Baga_News\n| Король",
         "date": "2026-08-13T06:34:18+00:00",
@@ -14684,36 +14714,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147841"
-      },
-      {
-        "id": 147840,
-        "text": "🇮🇷\n👀\n|\nمهدی مطهرنیا:\nاقتصاد و ارزش پول ملی درحال نابود شدنه اما برخی آقایان در توهم هستند\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T13:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147840_0_6f976cb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147840"
-      },
-      {
-        "id": 147839,
-        "text": "🇮🇷\n👀\n|\nسخنگوی کمیسیون انرژی مجلس اعلام کرد: افزایش قیمت بنزین فعلاً منتفی است\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T12:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147839_0_6f976cb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147839"
       }
     ],
     "maznet": [
@@ -16255,7 +16255,7 @@
       }
     ]
   },
-  "last_update": "2026-08-13T07:00:35.358847+00:00",
+  "last_update": "2026-08-13T07:37:51.721091+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16272,6 +16272,6 @@
     "referenced_files": 745,
     "existing_media_files": 744,
     "total_size_mb": 249.6,
-    "last_calculation": "2026-08-13T07:00:35.368155+00:00"
+    "last_calculation": "2026-08-13T07:37:51.729895+00:00"
   }
 }
