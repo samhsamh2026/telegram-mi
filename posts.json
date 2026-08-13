@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147991,
+        "text": "‏\n📸\n👀\n|\nتصاویر جدیدی از آلودگی نفتی سواحل قشم که یک غواص ثبت کرده\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-13T19:10:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147991_0_53a4021a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147991_1_8709204f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147991"
+      },
+      {
         "id": 147990,
         "text": "🇰🇵\n👀\n| کره شمالی رسماً توهین به پیامبر حضرت محمد ص و قرآن را تحت قانون جدیدی ممنوع کرده است\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-13T18:50:20+00:00",
@@ -14751,29 +14770,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147882"
-      },
-      {
-        "id": 147880,
-        "text": "🔴\nپرواز بالگرد آپاچی ۶۴ آمریکا برفراز دکل نفتی ایران.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-12T06:32:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147880_0_6f976cb2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147880_1_25e21a9e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147880_2_f4dca66c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147880"
       }
     ],
     "maznet": [
@@ -16315,23 +16311,23 @@
       }
     ]
   },
-  "last_update": "2026-08-13T19:06:52.052798+00:00",
+  "last_update": "2026-08-13T19:13:46.542168+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 760,
-    "total_files": 760,
+    "total_media": 759,
+    "total_files": 759,
     "total_links": 277,
     "files_by_type": {
-      "image": 723,
-      "video": 29,
+      "image": 721,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
-    "total_size_mb": 310.13,
-    "last_calculation": "2026-08-13T19:06:52.059790+00:00"
+    "referenced_files": 759,
+    "existing_media_files": 758,
+    "total_size_mb": 323.65,
+    "last_calculation": "2026-08-13T19:13:46.551568+00:00"
   }
 }
