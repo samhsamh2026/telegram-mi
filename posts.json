@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 147970,
+        "text": "‏\n🔻\nالجزیره :\nایران هدف خود را طولانی کردن جنگ قرار داده تا درد را برای ترامپ حادتر کند\nواشنگتن هیچ ابزاری در چنته ندارد تا تهران را وادار به انجام خواسته‌های خود کند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-13T13:10:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147970_0_53a4021a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147970"
+      },
+      {
+        "id": 147969,
+        "text": "🔻\nسخنگوی قرارگاه مرکزی خاتم‌الانبیا: هیچ کشتی بدون مجوز و نظارت ایران امکان تردد امن را از تنگه هرمز ندارد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-13T12:50:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147969_0_53a4021a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_147969_1_c91e14ee.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147969"
+      },
+      {
+        "id": 147968,
+        "text": "🚨\nناو هواپیمابر آمریکایی \"جورج واشنگتن\" به همراه گروه جنگی خود، در حال حرکت به سمت ایران است، این در حالی است که مهلت آتش‌بس بین آمریکا و ایران رو به پایان است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-13T12:30:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147968_0_53a4021a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147968_1_f1ffab40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147968"
+      },
+      {
         "id": 147967,
         "text": "⚪️\n👀\n|\nپاکستان: مهلت ۶۰ روزه مذاکرات ایران و آمریکا قابل تمدید است\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-13T12:10:11+00:00",
@@ -14693,51 +14746,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147860"
-      },
-      {
-        "id": 147859,
-        "text": "🇺🇸\n👀\n|\nترامپ: ما بر پول ایران کنترل داریم و کنترل کاملی بر آن اعمال می کنیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T17:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147859_0_6f976cb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147859"
-      },
-      {
-        "id": 147858,
-        "text": "🇮🇷\n👀\n|\nرییس کمیسیون عمران مجلس:\nما بسیاری از زیرساخت‌های دشمن را نابود کرده‌ایم که اطلاعات آن‌ها توسط دشمن سانسور شده است\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T17:30:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147858_0_6f976cb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147858"
-      },
-      {
-        "id": 147857,
-        "text": "🚨\nخبر تایید نشده‌ای مبنی بر وقوع انفجاری یا شلیک موشکی از سیریک\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T17:21:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147857_0_6f976cb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147857"
       }
     ],
     "maznet": [
@@ -16279,23 +16287,23 @@
       }
     ]
   },
-  "last_update": "2026-08-13T12:27:09.118023+00:00",
+  "last_update": "2026-08-13T13:15:49.236081+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 753,
+    "total_files": 753,
     "total_links": 277,
     "files_by_type": {
-      "image": 716,
-      "video": 27,
+      "image": 717,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 291.1,
-    "last_calculation": "2026-08-13T12:27:09.123450+00:00"
+    "referenced_files": 753,
+    "existing_media_files": 752,
+    "total_size_mb": 293.81,
+    "last_calculation": "2026-08-13T13:15:49.245107+00:00"
   }
 }
