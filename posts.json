@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 147963,
+        "text": "شاهکار دیگری از ایلان ماسک را مشاهده میکنید .\n🔻\nامروز شرکت ایکس (توییتر سابق) اکانت سخنگوی حوثی‌های یمن رو مسدود کرد و فرستادش وردل تسنیم و مابقی.\n😂\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-13T11:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147963_0_53a4021a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147963_1_9572a992.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147963_2_1de2a185.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147963"
+      },
+      {
+        "id": 147962,
+        "text": "💢\nمعاون وزیر نیرو :\nمحدودیت‌های تأمین برق ظرف سه تا چهار هفته آینده و حتی زودتر برطرف شود.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-13T10:50:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147962_0_53a4021a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147962"
+      },
+      {
+        "id": 147961,
+        "text": "‏\n🔻\n️ترامپ که معمولا در جلسات رسمی چرت می‌زند، برای تماشای مسابقات ورزشی دختران نوجوان بیدار و بسیار متمرکز دیده شد\n‏ یک کاربر رندوم با کنایه : آنها فهمیده‌اند چطور او را بیدار نگه دارند.\n‎\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-13T10:30:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147961_0_53a4021a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147961_1_62ef3c66.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147961"
+      },
+      {
         "id": 147960,
         "text": "🚨\nپرواز یک هواپیمای باری ایرانی از فرودگاه تیانجین چین به تهران\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-13T10:12:42+00:00",
@@ -14685,59 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147854"
-      },
-      {
-        "id": 147853,
-        "text": "🔴\nفیلدمارشال آن‌فایر.\nمحسن رضایی: تمام توانم رو برای افزایش قدرت ایران به کار میگیرم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-11T16:20:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147853_0_6f976cb2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147853_1_38b1fe62.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147853"
-      },
-      {
-        "id": 147852,
-        "text": "🇮🇷\n👀\n| حداد عادل:\nشما که میگی رضاشاه روحت شاد، همین شاه آزادی ایران رو گرفت\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-11T16:10:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147852_0_6f976cb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147852"
-      },
-      {
-        "id": 147851,
-        "text": "🔴\nپست جدید حمید فرخ نژاد:\n\" نهنگ عن‌بر \"\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-11T16:02:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147851_0_6f976cb2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147851_1_362cedda.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147851"
       }
     ],
     "maznet": [
@@ -16279,23 +16283,23 @@
       }
     ]
   },
-  "last_update": "2026-08-13T10:17:09.703908+00:00",
+  "last_update": "2026-08-13T11:25:27.848068+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 277,
     "files_by_type": {
-      "image": 715,
+      "image": 716,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 295.65,
-    "last_calculation": "2026-08-13T10:17:09.713106+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 295.7,
+    "last_calculation": "2026-08-13T11:25:27.857013+00:00"
   }
 }
