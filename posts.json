@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147997,
+        "text": "🚨\nمتاسفانه یه خبری منتشر شد از اکانت رسمی امام زمان (عج) که گفتند:\nظهور این جمعه هم منتفی هست.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T01:19:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147997_0_53a4021a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147997_1_de0c029e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147997"
+      },
+      {
         "id": 147996,
         "text": "نظرتون راجب اینده خاورمیانه چیه؟\n💢\n@Baga_News\n| Король",
         "date": "2026-08-13T20:34:44+00:00",
@@ -14743,25 +14762,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147888"
-      },
-      {
-        "id": 147887,
-        "text": "‼️\nتصویر هوایی از ساحل قشم\nقسمت سیاه رنگ مال نفت\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-12T08:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147887_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147887_1_af1d49a1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147887"
       }
     ],
     "maznet": [
@@ -16303,7 +16303,7 @@
       }
     ]
   },
-  "last_update": "2026-08-14T00:12:18.845985+00:00",
+  "last_update": "2026-08-14T02:04:59.049659+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16319,7 +16319,7 @@
     },
     "referenced_files": 757,
     "existing_media_files": 756,
-    "total_size_mb": 327.73,
-    "last_calculation": "2026-08-14T00:12:18.855046+00:00"
+    "total_size_mb": 327.72,
+    "last_calculation": "2026-08-14T02:04:59.058938+00:00"
   }
 }
