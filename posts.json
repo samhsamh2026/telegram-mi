@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 148058,
+        "text": "🇺🇸\n👀\n|\nوزیر انرژی اوباما:\n🟠\nترامپ با جنگ ایران، آمریکا را در بن‌بست انداخت\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T19:50:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148058_0_9a95b67f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148058"
+      },
+      {
+        "id": 148057,
+        "text": "این عکس اخیراً توی مترو تهران گرفته شده.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T19:32:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148057_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148057_1_fa6939be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148057"
+      },
+      {
+        "id": 148056,
+        "text": "🇮🇷\n👀\n|\nسردار کوثری: «طهرانی مقدم هنگام ساخت موشک قاره‌پیما به شهادت رسید\n»\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T19:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148056_0_9a95b67f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148056"
+      },
+      {
         "id": 148055,
         "text": "🚨\nویدیویی که رسانه‌های وابسته به حکومت آمریکا\n🇺🇸\nدرباره کمک ارتش آمریکا به مردم ایران درست و وایرال کردن:\n👩‍💻\n- نظرتون چیه\n⁉️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-14T18:50:15+00:00",
@@ -14715,67 +14764,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147942"
-      },
-      {
-        "id": 147941,
-        "text": "🇺🇸\n👀\n|\nبا اعلام ترامپ کارولین لیویت سخنگوی کاخ سفید این ماه بازنشسته میشه تا با خونواده و بچه هاش وقت بیشتری بگذرونه\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T05:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147941_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147941_1_e1d18f1f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147941"
-      },
-      {
-        "id": 147939,
-        "text": "🚨\nامروز تو تردز، یکی یه عکس از چشم‌های \"نیکا شاکرمی\" گذاشت و نوشت:\nاگه حتی از چشماشم شناختی تو دوست خوب منى\n🚨\nبعد نصرالله رادش (بازیگر) هم اومد عکس چشم خودش رو کامنت کرد واسه طرف که خیلی‌ها اینو به نوعی تمسخر برداشت کردن...\nتهشم خودِ رادش گفت اشتباه کردم و عذرخواهی کرد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T04:33:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147939_0_118e8db8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147939_1_bea49fc3.mp4"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147939_2_50590d6d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147939"
-      },
-      {
-        "id": 147938,
-        "text": "⚪️\nبنظرتون این اقای مهربون چی داره می‌بره؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T00:03:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147938_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147938_1_f3aa0458.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147938"
       }
     ],
     "maznet": [
@@ -16317,23 +16305,23 @@
       }
     ]
   },
-  "last_update": "2026-08-14T19:04:54.457371+00:00",
+  "last_update": "2026-08-14T20:05:45.787425+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 759,
+    "total_files": 759,
     "total_links": 276,
     "files_by_type": {
-      "image": 720,
-      "video": 34,
+      "image": 718,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 339.07,
-    "last_calculation": "2026-08-14T19:04:54.466725+00:00"
+    "referenced_files": 759,
+    "existing_media_files": 758,
+    "total_size_mb": 335.58,
+    "last_calculation": "2026-08-14T20:05:45.794150+00:00"
   }
 }
