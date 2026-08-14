@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148030,
+        "text": "🔹\nامام جمعه قم: آمریکا و اروپا و اسرائیلی ها می‌خواهند از قم انتقام بگیرند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-14T13:10:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148030_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148030_1_60d2c233.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148030"
+      },
+      {
+        "id": 148029,
+        "text": "⭕️\nوال استریت ژورنال : توافق ایران و عمان برای بازگشایی تنگه هرمز در حال نهایی شدن است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-14T12:50:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148029_0_9a95b67f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148029"
+      },
+      {
+        "id": 148028,
+        "text": "💠\nدرحالی که ترامپ مدام از مذاکرات بین ایران و آمریکا صحبت میکنه، طبق گزارشات؛ ارتش آمریکا داره خودشو برای یه حمله بزرگ و گسترده آماده می‌کنه.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-14T12:33:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148028_0_9a95b67f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148028_1_cd0b2a50.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148028"
+      },
+      {
         "id": 148027,
         "text": "🚨\nیک فروند پهپاد MQ9 توسط سامانه نوین پدافند پیشرفته سپاه در آسمان استان هرمزگان رهگیری و منهدم شد\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-14T12:14:49+00:00",
@@ -14703,63 +14756,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147916"
-      },
-      {
-        "id": 147915,
-        "text": "🇮🇱\n🤝\n🇻🇪\n| ونزوئلا و اسرائیل بعد ۱۷ سال قطع ارتباط باهم رفیق شدن\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-12T18:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147915_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147915_1_0aa6dd98.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147915"
-      },
-      {
-        "id": 147914,
-        "text": "🇵🇹\n👀\n| کامنت کریستیانو رونالدو زیر پست مسی :\n«تو این روزهای سخت، یه بغل خیلی بزرگ برای تو و عزیزانت، لئو. خیلی قوی باش و طاقت بیار.\n❤️\n»\n+ این اولین باره که رونالدو واسه مسی کامنت میذاره..\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-12T17:31:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147914_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147914_1_2c40d110.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147914"
-      },
-      {
-        "id": 147913,
-        "text": "🚨\nیه اکانت تو ایکس:\nایلان ماسک باید بریتانیا\n🇬🇧\nرو بخره و آزادی بیان رو به اونجا بیاره.\n✔️\nایلان ماسک:\nحالا قیمت بریتانیا چند هست؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-12T17:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147913_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147913_1_f615d87f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147913"
       }
     ],
     "maznet": [
@@ -16301,23 +16297,23 @@
       }
     ]
   },
-  "last_update": "2026-08-14T12:19:24.428560+00:00",
+  "last_update": "2026-08-14T13:10:48.709902+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 758,
-    "total_files": 758,
+    "total_media": 757,
+    "total_files": 757,
     "total_links": 276,
     "files_by_type": {
-      "image": 718,
-      "video": 32,
+      "image": 716,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
-    "total_size_mb": 321.7,
-    "last_calculation": "2026-08-14T12:19:24.435739+00:00"
+    "referenced_files": 757,
+    "existing_media_files": 756,
+    "total_size_mb": 323.2,
+    "last_calculation": "2026-08-14T13:10:48.719248+00:00"
   }
 }
