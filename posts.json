@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148035,
+        "text": "⭕️\nبا نزدیک شدن به پایان آتش‌بس ۶۰ روزه بین ایران و آمریکا، هواپیماهای سوخت‌رسانی آمریکا فعالیت خود را در تنگه هرمز از سر گرفتند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-14T14:50:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148035_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148035_1_3fa318cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148035"
+      },
+      {
+        "id": 148034,
+        "text": "🔻\nصداوسیما: همه چیز دوباره گران خواهد شد\n‌‌\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-14T14:32:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148034_0_9a95b67f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148034_1_ac7237e0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148034"
+      },
+      {
+        "id": 148033,
+        "text": "💢\nحسین طاهری مداح :\nخون آقا مارو ۶ماه آواره خیابون‌ها کرده\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-14T14:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148033_0_9a95b67f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148033"
+      },
+      {
         "id": 148032,
         "text": "🔹\nعلم‌الهدی :\nآسایش و زندگی راحت بدون داشتن انرژی هسته‌ای محقق نمی‌شه.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-14T13:50:25+00:00",
@@ -14703,59 +14756,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147922"
-      },
-      {
-        "id": 147920,
-        "text": "خورشید گرفتگی کامل اکنون در ایسلند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-12T18:45:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147920_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147920_1_24519749.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147920_2_ecdf4027.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147920"
-      },
-      {
-        "id": 147919,
-        "text": "شلیک موشک به تنگه هرمز\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-12T18:37:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147919_0_118e8db8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147919"
-      },
-      {
-        "id": 147918,
-        "text": "به نقل از خبرگزاری ایرنا :  قرار شده سهمیه 60 لیتر بنزین 1500 تومنی و 50 لیتر 3000 تومنی حفظ بشه و 40 لیتر بنزین 5000 تومنی هم بهش اضافه بشه. بعد از اون، بنزین آزاد لیتری 87000 تومن حساب می‌شه. این طرح فعلاً از امشب به‌صورت آزمایشی تو کرمان اجرا می‌شه و قراره…",
-        "date": "2026-08-12T18:33:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147918_0_118e8db8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147918"
       }
     ],
     "maznet": [
@@ -16297,7 +16297,7 @@
       }
     ]
   },
-  "last_update": "2026-08-14T13:57:49.534135+00:00",
+  "last_update": "2026-08-14T15:01:06.146976+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16305,15 +16305,15 @@
     "total_files": 757,
     "total_links": 276,
     "files_by_type": {
-      "image": 717,
-      "video": 32,
+      "image": 716,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 757,
     "existing_media_files": 756,
-    "total_size_mb": 322.1,
-    "last_calculation": "2026-08-14T13:57:49.543264+00:00"
+    "total_size_mb": 325.6,
+    "last_calculation": "2026-08-14T15:01:06.156028+00:00"
   }
 }
