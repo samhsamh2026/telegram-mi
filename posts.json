@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148063,
+        "text": "🇺🇸\n👀\n| ترامپ:\nما نماینده کل جهان هستیم، هیچ کشوری مثل ایالات متحده وجود نداره\nوقتی کشورها به کمک نیاز دارن، با آمریکا تماس می‌گیرند\nمن همیشه بهشون کمک نمی‌کنم، چون بعضی وقت‌ها رفتار خوبی با ما نداشتند\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T23:34:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148063_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148063_1_c443788e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148063"
+      },
+      {
         "id": 148062,
         "text": "🇺🇸\n👀\n|\nکراسنشتاین،خبرنگار آمریکایی:\nکارولین لیویت،سخنگوی کاخ سفید بعد از اینکه متوجه شد ترامپ در برگشت از سفر ترکیه اونو تو هواپیمایی رها کرد که ممکن بود ایران بهش شلیک کنه اعلام کرد میخواد استعفا بده.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-14T20:50:22+00:00",
@@ -14749,21 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147946"
-      },
-      {
-        "id": 147945,
-        "text": "🇮🇷\n👀\n| رئیس کمیسیون امنیت ملی مجلس :\nدشمن قصد حمله زمینی از مسیرهای غرب کشور، خارک و قشم را داشت که با واکنش یگان‌های نظامی و نیروهای مردمی، این نقشه در نطفه خفه شد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T07:03:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147945_0_118e8db8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147945"
       }
     ],
     "maznet": [
@@ -16305,23 +16309,23 @@
       }
     ]
   },
-  "last_update": "2026-08-14T23:30:21.360972+00:00",
+  "last_update": "2026-08-14T23:56:09.320212+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 759,
-    "total_files": 759,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 276,
     "files_by_type": {
-      "image": 718,
+      "image": 719,
       "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 759,
-    "existing_media_files": 758,
-    "total_size_mb": 335.78,
-    "last_calculation": "2026-08-14T23:30:21.370294+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 335.84,
+    "last_calculation": "2026-08-14T23:56:09.329349+00:00"
   }
 }
