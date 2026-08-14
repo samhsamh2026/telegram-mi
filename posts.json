@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148062,
+        "text": "🇺🇸\n👀\n|\nکراسنشتاین،خبرنگار آمریکایی:\nکارولین لیویت،سخنگوی کاخ سفید بعد از اینکه متوجه شد ترامپ در برگشت از سفر ترکیه اونو تو هواپیمایی رها کرد که ممکن بود ایران بهش شلیک کنه اعلام کرد میخواد استعفا بده.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T20:50:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148062_0_9a95b67f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148062"
+      },
+      {
+        "id": 148060,
+        "text": "⚪️\nبه گفته برخی منابع:\nاین خانم زشتی که میبینید، قراره جایگزین کارولین لیویت سخنگوی کاخ سفید بشه.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T20:33:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148060_0_9a95b67f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148060_1_a6071261.mp4"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148060_2_84fc4090.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148060"
+      },
+      {
+        "id": 148059,
+        "text": "🇮🇱\n👀\n|\nادعای کانال ۱۲ اسرائیل:\nترامپ در بین نزدیکان خود گفته حمایت از نتانیاهو را برای انتخابات قطع می‌کند و اعلام کرده نتانیاهو بزرگترین دشمن خودش است\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T20:10:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148059_0_9a95b67f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148059"
+      },
+      {
         "id": 148058,
         "text": "🇺🇸\n👀\n|\nوزیر انرژی اوباما:\n🟠\nترامپ با جنگ ایران، آمریکا را در بن‌بست انداخت\n💢\n@Baga_News\n| Король",
         "date": "2026-08-14T19:50:25+00:00",
@@ -14711,59 +14764,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147945"
-      },
-      {
-        "id": 147944,
-        "text": "⚪️\nمحل درج ایموجی خنده\n🇮🇷\n👀\n| دادستان اردبیل:\n🔵\nبی حجابی مشکل اصلی کشور هست\n😂\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T06:34:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147944_0_118e8db8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147944"
-      },
-      {
-        "id": 147943,
-        "text": "🇮🇷\n👀\n|\nمجری شبکه خبر:\n🔵\nباید تا هروقت که نیازه بجنگیم اگر چندسال هم بشه مشکلی نیست و مردم راضین\n👩‍💻\n- شما راضی هستی\n⁉️\n👍\n👎\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T06:00:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147943_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147943_1_d9db4821.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147943"
-      },
-      {
-        "id": 147942,
-        "text": "🇮🇷\n👀\n|\nساحل شیب‌دراز قشم از آلودگی نفتی پاکسازی شد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T05:32:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147942_0_118e8db8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147942_1_5080467c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147942"
       }
     ],
     "maznet": [
@@ -16305,7 +16305,7 @@
       }
     ]
   },
-  "last_update": "2026-08-14T20:05:45.787425+00:00",
+  "last_update": "2026-08-14T21:03:42.282927+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16321,7 +16321,7 @@
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 335.58,
-    "last_calculation": "2026-08-14T20:05:45.794150+00:00"
+    "total_size_mb": 335.78,
+    "last_calculation": "2026-08-14T21:03:42.292138+00:00"
   }
 }
