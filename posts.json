@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148013,
+        "text": "🇺🇸\n👀\n| وزیر انرژی ایالات متحده:\nایران در تلاش است همسایگان خود را ترور کند\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-14T08:05:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148013_0_53a4021a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148013"
+      },
+      {
+        "id": 148012,
+        "text": "چین یه سری پستونک درست کرده که مخصوص استفاده بزرگسالانه، حالا بعد از چین این پستونک ها به آمریکا هم رسیده و بزودی در سراسر جهان منتشر میشه.\n⚪️\n@Baga_Tweet",
+        "date": "2026-08-14T07:31:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148012_0_53a4021a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148012_1_81c67c5d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148012"
+      },
+      {
         "id": 148011,
         "text": "⚪️\n👀\n| یه رستوران توی کیش، تمام نوشیدنی هارو فقط برای خانما رایگان کرد\n💢\n@Baga_News\n| Король",
         "date": "2026-08-14T07:02:46+00:00",
@@ -14752,40 +14786,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147899"
-      },
-      {
-        "id": 147898,
-        "text": "🔹\nپزشکیان: دشمن به دنبال فروپاشی از داخل کشور است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-12T12:31:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147898_0_118e8db8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147898_1_29c20dec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147898"
-      },
-      {
-        "id": 147897,
-        "text": "🔻\nآژانس بین‌المللی انرژی:\nبسته ماندن تنگه هرمز و بالا بودن قیمت‌ها، بر مصرف نفت فشار وارد کرده\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-12T12:11:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147897_0_118e8db8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147897"
       }
     ],
     "maznet": [
@@ -16327,7 +16327,7 @@
       }
     ]
   },
-  "last_update": "2026-08-14T07:29:11.147515+00:00",
+  "last_update": "2026-08-14T08:24:18.265909+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16343,7 +16343,7 @@
     },
     "referenced_files": 763,
     "existing_media_files": 762,
-    "total_size_mb": 318.26,
-    "last_calculation": "2026-08-14T07:29:11.156680+00:00"
+    "total_size_mb": 318.36,
+    "last_calculation": "2026-08-14T08:24:18.275093+00:00"
   }
 }
