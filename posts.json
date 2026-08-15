@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148097,
+        "text": "🚨\nتو سیستان و بلوچستان اتفاق افتاد :\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T13:33:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148097_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148097_1_b97bbaf3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148097"
+      },
+      {
+        "id": 148096,
+        "text": "⏺\nاین پست تو اینستاگرام از یه خانوم کناف‌کار در کمتر از\n6 ساعت\nبیش از\nیک میلیون\nویو خورد\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T13:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148096_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148096_1_1bf7f512.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148096"
+      },
+      {
         "id": 148095,
         "text": "🔻\n۸۰ میلیون در ۱۰ دقیقه! پاداش برای سر ترامپ در شبکه قرآن\nشبکه قرآن پویشی برگزار کرده که به قاتل ترامپ پاداش بدهد. در ده دقیقه اول این پویش ۸۰ میلیون تومن جمع شده‌است\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-15T12:50:44+00:00",
@@ -14730,48 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147982"
-      },
-      {
-        "id": 147980,
-        "text": "🚨\nچند روز پیش فرزاد فرخ، خواننده حکومتی با صدای «سپهر بابا کجایی؟» یه موزیک ساخته که در پی اون پدر جاویدنام سپهر شکری واکنش نشون داد و گفت این صدا صدای یک ملت بود و کسی حق سو استفاده از ما رو نداره‌\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T16:31:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147980_0_53a4021a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147980_1_37a395fb.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147980_2_d8425f91.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147980"
-      },
-      {
-        "id": 147979,
-        "text": "توی این تجمعات شبانه حکومتیا، بازم یه مصاحبه از آدمای خودشون گرفتن و گفتن ببینید تو جیب سپاهیایی که کشته شدن عکس خامنه‌ای و تسبیح و... نیست. فقط یه دونه نسکافه گذاشته بودن تو جیبشون تا شبا و حین جنگ خوابشون نبره\n.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T16:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147979_0_53a4021a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147979_1_ff14f3c5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147979"
       }
     ],
     "maznet": [
@@ -16313,23 +16309,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T12:53:31.341580+00:00",
+  "last_update": "2026-08-15T13:38:05.313273+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 761,
-    "total_files": 761,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 276,
     "files_by_type": {
-      "image": 721,
-      "video": 32,
+      "image": 722,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 761,
-    "existing_media_files": 760,
-    "total_size_mb": 309.81,
-    "last_calculation": "2026-08-15T12:53:31.350781+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 300.88,
+    "last_calculation": "2026-08-15T13:38:05.322431+00:00"
   }
 }
