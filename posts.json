@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148133,
+        "text": "🔴\nپست جدید ترامپ: پیروز خواهیم شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-15T20:47:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148133_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148133_1_b0e5f480.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148133"
+      },
+      {
+        "id": 148132,
+        "text": "🔴\n👀\n🇺🇸\nتنها 30 ساعت تا پایان مهلت 60 روزه ترامپ برای رسیدن به توافق با ایران باقی مانده و هنوز نه آتش‌بس تمدید شده و نه مذاکره یا توافقی صورت گرفته...\nخواهیم دید چه خواهد شد\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-15T20:33:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148132_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148132_1_75aac4a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148132"
+      },
+      {
         "id": 148131,
         "text": "🇵🇱\n👀\n|\nدونالد توسک، نخست‌وزیر لهستان: ارتش ما به زودی بزرگ‌ترین ارتش اروپا خواهد بود\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T20:10:21+00:00",
@@ -14724,40 +14762,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148021"
-      },
-      {
-        "id": 148020,
-        "text": "🇵🇰\nشهباز شریف، میانجی‌گر ایران و آمریکا: هند سر عقل بیاید وگرنه پاسخ مستقیم می‌دهیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T10:30:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148020_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148020"
-      },
-      {
-        "id": 148019,
-        "text": "🇨🇳\nچین برای نخستین بار تصاویری از بمب‌افکن استراتژیک H-6N مسلح به موشک بالستیک هواپرتاب JL-1 با قابلیت حمل کلاهک هسته‌ای منتشر کرد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T10:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148019_0_9a95b67f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148019_1_d1214278.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148019"
       }
     ],
     "maznet": [
@@ -16299,23 +16303,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T20:31:40.588300+00:00",
+  "last_update": "2026-08-15T20:55:37.334150+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 756,
-    "total_files": 756,
+    "total_media": 757,
+    "total_files": 757,
     "total_links": 277,
     "files_by_type": {
-      "image": 721,
-      "video": 27,
+      "image": 723,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 756,
-    "existing_media_files": 755,
-    "total_size_mb": 274.06,
-    "last_calculation": "2026-08-15T20:31:40.597694+00:00"
+    "referenced_files": 757,
+    "existing_media_files": 756,
+    "total_size_mb": 272.98,
+    "last_calculation": "2026-08-15T20:55:37.343335+00:00"
   }
 }
