@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148102,
+        "text": "🇾🇪\n👀\n| یک پدر یمنی داره به بچه‌اش تیراندازی یاد می‌ده\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T14:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148102_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148102_1_a7800646.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148102"
+      },
+      {
+        "id": 148101,
+        "text": "💢\nپست اینستاگرام نوید محمدزاده با لباسی با طرح پرچم فلسطین\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-08-15T14:33:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148101_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148101_1_fafd4f6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148101"
+      },
+      {
         "id": 148100,
         "text": "🇮🇷\n👀\n| استاد خوش چشم:\n🟠\nشروع مجدد درگیری محتمل است\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T14:30:52+00:00",
@@ -14738,36 +14776,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147987"
-      },
-      {
-        "id": 147986,
-        "text": "هگست: آمریکا بر خلاف بقیه، وارد هرجا میشه باعث رشد اون کشور میشه\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T18:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147986_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147986"
-      },
-      {
-        "id": 147985,
-        "text": "🔻\n🔹\nکانال ۱۳ اسرائیل: برد کوپر، فرمانده سنتکام، به مقامات اسرائیلی گفته است که او برای حملات مجدد به داخل ایران تلاش می‌کند و معتقد است که از سرگیری جنگ می‌تواند موضع تهران را در مذاکرات تغییر دهد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T17:52:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147985_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147985"
       }
     ],
     "maznet": [
@@ -16309,23 +16317,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T14:31:45.168450+00:00",
+  "last_update": "2026-08-15T14:55:58.275757+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 760,
-    "total_files": 760,
+    "total_media": 762,
+    "total_files": 762,
     "total_links": 276,
     "files_by_type": {
-      "image": 722,
-      "video": 30,
+      "image": 723,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
-    "total_size_mb": 300.94,
-    "last_calculation": "2026-08-15T14:31:45.177933+00:00"
+    "referenced_files": 762,
+    "existing_media_files": 761,
+    "total_size_mb": 301.8,
+    "last_calculation": "2026-08-15T14:55:58.285089+00:00"
   }
 }
