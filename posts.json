@@ -12946,6 +12946,33 @@
     ],
     "bg_ae": [
       {
+        "id": 148064,
+        "text": "🇮🇷\n👀\n|\nسرکار خانم دکتر فاطمه مهاجرانی سخنگوی محترم و باسواد دولت چندتا\n🔥\n🔥\n(\n🤣\n)\nداره\n⁉️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T00:11:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148064_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148064_1_126ad5cf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148064_2_947b2259.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148064_3_bc73214b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148064"
+      },
+      {
         "id": 148063,
         "text": "🇺🇸\n👀\n| ترامپ:\nما نماینده کل جهان هستیم، هیچ کشوری مثل ایالات متحده وجود نداره\nوقتی کشورها به کمک نیاز دارن، با آمریکا تماس می‌گیرند\nمن همیشه بهشون کمک نمی‌کنم، چون بعضی وقت‌ها رفتار خوبی با ما نداشتند\n💢\n@Baga_News\n| Король",
         "date": "2026-08-14T23:34:20+00:00",
@@ -14753,21 +14780,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147947"
-      },
-      {
-        "id": 147946,
-        "text": "🇮🇱\n👀\n|\nکانال ۱۲ اسرائیل:\n🟠\nقحطی بنزین در این با محاصره امریکا شدت گرفته است\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T07:30:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147946_0_118e8db8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147946"
       }
     ],
     "maznet": [
@@ -16309,23 +16321,23 @@
       }
     ]
   },
-  "last_update": "2026-08-14T23:56:09.320212+00:00",
+  "last_update": "2026-08-15T01:19:49.610678+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 760,
-    "total_files": 760,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 276,
     "files_by_type": {
-      "image": 719,
+      "image": 722,
       "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
-    "total_size_mb": 335.84,
-    "last_calculation": "2026-08-14T23:56:09.329349+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 335.96,
+    "last_calculation": "2026-08-15T01:19:49.618306+00:00"
   }
 }
