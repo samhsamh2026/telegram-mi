@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148100,
+        "text": "🇮🇷\n👀\n| استاد خوش چشم:\n🟠\nشروع مجدد درگیری محتمل است\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T14:30:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148100_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148100_1_03d9971e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148100"
+      },
+      {
+        "id": 148099,
+        "text": "🔵\nیکی‌از دلایل اینکه نتانیاهو بریتانیا رو \"جمهوری‌اسلامی بریتانیا\" خطاب کرد اینه که اسلام به شدت تو بریتانیا درحال افزایشه\n‼️\nنقشه سمت چپ تعداد مساجد در بریتانیا در ۱۹۵۰ و تصویر سمت راست تعداد مساجد در بریتانیا در سال ۲۰۲۶ هستش:\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T14:10:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148099_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148099_1_fdc95980.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148099"
+      },
+      {
+        "id": 148098,
+        "text": "🇮🇷\n👀\n|\nآخوند جمعه کرمان:\nزنان و دختران ملزم به رعایت حجاب اسلامی هستند.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T13:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148098_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148098"
+      },
+      {
         "id": 148097,
         "text": "🚨\nتو سیستان و بلوچستان اتفاق افتاد :\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T13:33:49+00:00",
@@ -14715,59 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147985"
-      },
-      {
-        "id": 147984,
-        "text": "💢\n🇮🇱\nنتانیاهو:\nشاید بتوانید بریتانیا را «جمهوری اسلامی بریتانیا» نامید ، یکی گفت که اولین جمهوری اسلامیِ دارای سلاح هسته‌ای، جمهوری اسلامی بریتانیا خواهد بود.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T17:33:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147984_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147984_1_217100f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147984"
-      },
-      {
-        "id": 147983,
-        "text": "🇳🇴\nنروژ: جنگ علیه ایران نقض قوانین بین المللی است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T17:10:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147983_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147983"
-      },
-      {
-        "id": 147982,
-        "text": "اسرائیل همچنان در حال ترور سران حماس!\n🇮🇱\nبه گزارش منابع محلی، مردی که در حمله به یک خودرو در شهر غزه کشته شد، ابوریاد کامل، فرمانده پلیس حماس در منطقه شهر غزه بود\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T16:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147982_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147982_1_e387e773.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147982"
       }
     ],
     "maznet": [
@@ -16309,7 +16309,7 @@
       }
     ]
   },
-  "last_update": "2026-08-15T13:38:05.313273+00:00",
+  "last_update": "2026-08-15T14:31:45.168450+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16325,7 +16325,7 @@
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 300.88,
-    "last_calculation": "2026-08-15T13:38:05.322431+00:00"
+    "total_size_mb": 300.94,
+    "last_calculation": "2026-08-15T14:31:45.177933+00:00"
   }
 }
