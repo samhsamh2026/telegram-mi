@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148119,
+        "text": "🔴\nدزدای مملکت جدیدا طی یه حرکت کاملا منطقی واسه دزدی میرن سراغ امامزاده‌ها؛\nیه دزد محترمی دو تا از کولرهای امامزاده میرمحمد رو دزدیده و حالا این خانوم هم داره تهدیدش می‌کنه که با زبون خوش بیاد این کولرهارو تحویل بده وگرنه همین امامزاده یا کورش میکنه یا یه کاری می‌کنه که شَل بشه.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T18:34:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148119_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148119_1_4cb5879d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148119"
+      },
+      {
         "id": 148118,
         "text": "🇮🇷\n👀\n|\nعراقچی:\n🟠\nآتش‌بسی وجود ندارد که بخواهیم آن را تمدید کنیم\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T18:10:18+00:00",
@@ -14727,29 +14746,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148009"
-      },
-      {
-        "id": 148006,
-        "text": "🚨\nترامپ اعلام کرد سخنگوی کاخ سفید قراره از سمتش کنار شده و قراره به جاش یکی از این دو خانم جایگزینش بشه :\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T06:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148006_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148006_1_f4d17a84.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148006_2_fa155d87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148006"
       }
     ],
     "maznet": [
@@ -16291,23 +16287,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T18:33:02.602586+00:00",
+  "last_update": "2026-08-15T18:40:04.714187+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 753,
+    "total_files": 753,
     "total_links": 277,
     "files_by_type": {
-      "image": 721,
-      "video": 25,
+      "image": 719,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 277.01,
-    "last_calculation": "2026-08-15T18:33:02.611885+00:00"
+    "referenced_files": 753,
+    "existing_media_files": 752,
+    "total_size_mb": 278.5,
+    "last_calculation": "2026-08-15T18:40:04.720584+00:00"
   }
 }
