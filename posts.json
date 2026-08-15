@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148080,
+        "text": "⏺\nپراید صفر فقط ۱ میلیارد و ۳۵۰ میلیون تومن :\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-15T10:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148080_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148080_1_9e0059c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148080"
+      },
+      {
+        "id": 148079,
+        "text": "💢\nیه فرد طرفدار حکومت اومده در محل دفن ایت الله سید علی خامنه‌ای به ترامپ فحش بده، حراست زد دهنشو بست:\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-15T09:50:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148079_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148079_1_4d4358f1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148079"
+      },
+      {
         "id": 148078,
         "text": "🔻\nابوالفظل اقبالی از نزدیکان جلیلی: انقدر وضع حجاب خرابه همه مردها تحریک میشن حتی خود من\n🚬\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-15T09:30:52+00:00",
@@ -14730,40 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147967"
-      },
-      {
-        "id": 147966,
-        "text": "⚪️\n👀\n|\nجروزالم پست:\n🔵\nعربستان درحال بررسی حمایت از یک عملیات زمینی یمنی علیه حوثی‌ها برای بازپس‌گیری ساحل دریای سرخ است.\nریاض در صورت اجرای این طرح، بیشتر روی نیروهای یمنیِ ضدحوثی حساب می‌کند و احتمال اعزام گسترده نیروهای سعودی کم است\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T11:50:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147966_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147966"
-      },
-      {
-        "id": 147965,
-        "text": "‏\n🔹\nمردم ایران با میانگین درآمد ماهیانه ۸۵ دلار در در بین کشورهایی که پایین ترین دستمزد ماهیانه رو میگیرن رتبه ی سوم رو بدست آوردن.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T11:32:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147965_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147965_1_9dae13d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147965"
       }
     ],
     "maznet": [
@@ -16305,23 +16309,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T09:33:26.659760+00:00",
+  "last_update": "2026-08-15T10:31:19.746519+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 759,
-    "total_files": 759,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 276,
     "files_by_type": {
       "image": 723,
-      "video": 28,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 759,
-    "existing_media_files": 758,
-    "total_size_mb": 300.03,
-    "last_calculation": "2026-08-15T09:33:26.666982+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 302.49,
+    "last_calculation": "2026-08-15T10:31:19.755413+00:00"
   }
 }
