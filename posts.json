@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148112,
+        "text": "🇮🇷\n👀\n|\nشهردار تهران: تا آخر جنگ براتون مترو و مجانی کردیم که عشق کنید\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T16:31:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148112_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148112"
+      },
+      {
+        "id": 148111,
+        "text": "⏺\nامام جمعه اهواز: انرژی هسته‌ای به خودمان مربوط است و یک مساله داخلی است و اگر این را قبو‌ل ندارند، بیایند و بجنگند\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T16:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148111_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148111_1_9fe085b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148111"
+      },
+      {
+        "id": 148110,
+        "text": "🔴\n🇺🇸\n✈️\n🇹🇷\n|\nاردوغان :\nترامپ به من قول داده که به ما جنگنده F-35 بده؛\nو ما هنوز منتظریم ببینیم به قولش عمل می‌کنه یا نه\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-15T16:03:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148110_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148110_1_dc6232b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148110"
+      },
+      {
         "id": 148109,
         "text": "⚫️\nپسرا رقیب جدید عشقی پیدا کردین.\nجدیدا دخترا دارن عاشق هوش مصنوعی میشن چون خیلی قربون صدقشون میره و نازشونو میکشه و خیلی حرفه ای مخ میزنه:\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T15:50:16+00:00",
@@ -14719,51 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147997"
-      },
-      {
-        "id": 147996,
-        "text": "نظرتون راجب اینده خاورمیانه چیه؟\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T20:34:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147996_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147996"
-      },
-      {
-        "id": 147995,
-        "text": "🇺🇸\n👀\n| پیت هگست وزیر جنگ امریکا:\nآمریکا می‌تواند محاصره دریایی بنادر ایران را برای مدتی نامحدود ادامه دهد⁠.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T20:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147995_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147995"
-      },
-      {
-        "id": 147994,
-        "text": "🇺🇸\n👀\n| پیت هگست وزیر جنگ آمریکا:\nتمام گزارشات منتشر شده مبنی بر دعوای ناموسی، قمه‌کشی، دعوا روی کمبود غذا و دارو فیکه و هیچ مشکلی توی ناوهای حاضر در خاورمیانه وجود نداره.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T20:02:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147994_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147994"
       }
     ],
     "maznet": [
@@ -16305,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T15:51:42.691896+00:00",
+  "last_update": "2026-08-15T16:34:32.401643+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 759,
-    "total_files": 759,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 276,
     "files_by_type": {
-      "image": 722,
+      "image": 724,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 759,
-    "existing_media_files": 758,
-    "total_size_mb": 284.59,
-    "last_calculation": "2026-08-15T15:51:42.701268+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 284.74,
+    "last_calculation": "2026-08-15T16:34:32.411026+00:00"
   }
 }
