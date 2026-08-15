@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 148131,
+        "text": "🇵🇱\n👀\n|\nدونالد توسک، نخست‌وزیر لهستان: ارتش ما به زودی بزرگ‌ترین ارتش اروپا خواهد بود\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T20:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148131_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148131_1_7755233e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148131"
+      },
+      {
+        "id": 148130,
+        "text": "انیشتین مملکت رو ببین.\n🔴\nرئیس سازمان بهینه‌سازی: به دلیل شرایط جنگی و محدودیت‌هایی که در اون قرار داریم باید به اندازه تولید بنزین مصرف کنیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-15T20:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148130_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148130"
+      },
+      {
+        "id": 148128,
+        "text": "⚪️\n👀\n| استوری جدید نوید محمدزاده با لباس فلسطین :\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T19:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148128_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148128_1_6d940c36.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148128_2_86a79de8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148128"
+      },
+      {
         "id": 148127,
         "text": "🔴\nپست جدید اسرائیل به فارسی:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-15T19:40:26+00:00",
@@ -14701,59 +14758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148019"
-      },
-      {
-        "id": 148018,
-        "text": "💢\n🇸🇪\nدولت سوئد رسماً اعلام کرد به‌جای دلار آمریکا از ارز یوان در مبادلات خود با کشور چین استفاده خواهد کرد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T09:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148018_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148018"
-      },
-      {
-        "id": 148017,
-        "text": "🔹\nرائفی پور: ماهم باید یه ارز دیجیتال مخصوص کشور های اسلامی بسازیم\nاسلام‌کوین\n😁\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T09:33:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148017_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148017_1_e60cca32.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148017"
-      },
-      {
-        "id": 148016,
-        "text": "🇺🇸\nبسنت، وزیر خزانه‌داری آمریکا در مورد جمهوری اسلامی:\nبه زودی اخبار بیشتری منتشر خواهد شد، زیرا ما قصد داریم اقداماتی را انجام دهیم که بی‌سابقه بوده و در تاریخ تحریم‌های اقتصادی علیه یک کشور، نظیر آن دیده نشده است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T09:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148016_0_9a95b67f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148016_1_4343da47.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148016"
       }
     ],
     "maznet": [
@@ -16295,23 +16299,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T19:49:59.683936+00:00",
+  "last_update": "2026-08-15T20:31:40.588300+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 755,
-    "total_files": 755,
+    "total_media": 756,
+    "total_files": 756,
     "total_links": 277,
     "files_by_type": {
-      "image": 720,
+      "image": 721,
       "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 755,
-    "existing_media_files": 754,
-    "total_size_mb": 279.29,
-    "last_calculation": "2026-08-15T19:49:59.693038+00:00"
+    "referenced_files": 756,
+    "existing_media_files": 755,
+    "total_size_mb": 274.06,
+    "last_calculation": "2026-08-15T20:31:40.597694+00:00"
   }
 }
