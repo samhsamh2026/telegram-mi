@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148095,
+        "text": "🔻\n۸۰ میلیون در ۱۰ دقیقه! پاداش برای سر ترامپ در شبکه قرآن\nشبکه قرآن پویشی برگزار کرده که به قاتل ترامپ پاداش بدهد. در ده دقیقه اول این پویش ۸۰ میلیون تومن جمع شده‌است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-15T12:50:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148095_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148095_1_0a89b802.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148095"
+      },
+      {
         "id": 148094,
         "text": "🆕\nمعاون دریایی بنادر هرمزگان: تاکنون بخش عمده‌ای از آلودگی نفتی سواحل قشم مهار شد\nعملیات جمع‌آوری پس‌مانده‌های نفتی تا رفع کامل آثار آلودگی، ادامه خواهد داشت\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-15T12:35:11+00:00",
@@ -14753,25 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147979"
-      },
-      {
-        "id": 147978,
-        "text": "🔸\nرئیس سازمان حفاظت محیط‌زیست اعلام کرد که عملیات پاکسازی آلودگی نفتی در سواحل قشم و جزیره ادامه دارد\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T15:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147978_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147978_1_451841f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147978"
       }
     ],
     "maznet": [
@@ -16313,7 +16313,7 @@
       }
     ]
   },
-  "last_update": "2026-08-15T12:41:51.015974+00:00",
+  "last_update": "2026-08-15T12:53:31.341580+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16321,15 +16321,15 @@
     "total_files": 761,
     "total_links": 276,
     "files_by_type": {
-      "image": 722,
-      "video": 31,
+      "image": 721,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 761,
     "existing_media_files": 760,
-    "total_size_mb": 308.6,
-    "last_calculation": "2026-08-15T12:41:51.025142+00:00"
+    "total_size_mb": 309.81,
+    "last_calculation": "2026-08-15T12:53:31.350781+00:00"
   }
 }
