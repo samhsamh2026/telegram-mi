@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148127,
+        "text": "🔴\nپست جدید اسرائیل به فارسی:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-15T19:40:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148127_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148127_1_eb5bbd88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148127"
+      },
+      {
+        "id": 148126,
+        "text": "🇮🇷\n👀\n|\nفرمانده کل سپاه: مسلح‌ترین ارتش تاریخ جهان را به زانو در آوردیم\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T19:34:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148126_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148126"
+      },
+      {
         "id": 148125,
         "text": "🔴\n🇱🇧\nحزب‌الله اسرائیل را به نقض آتش‌بس متهم و اعلام کرد در صورت افزایش حملات به جنوب لبنان وارد نبرد خواهد شد.\n!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-15T19:20:27+00:00",
@@ -14720,36 +14754,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148016"
-      },
-      {
-        "id": 148015,
-        "text": "🚨\nیک تانکر در حال عبور از تنگه هرمز مورد اصابت یک پهپاد بدون سرنشین قرار گرفت.\nاین کشتی آسیب جزئی دید، در حالی که تمام خدمه سالم هستند و وضعیت آن‌ها مشخص است\n. هیچگونه اثرات زیست‌محیطی گزارش نشده است. این حادثه در نزدیکی شهر خصب، عمان رخ داد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T08:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148015_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148015"
-      },
-      {
-        "id": 148014,
-        "text": "🔹\nرسانه‌های عبری: واشنگتن قصد دارد هفته آینده، اقداماتی بی‌سابقه برای تحریم اقتصادی ایران اعلام کند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T08:31:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148014_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148014"
       }
     ],
     "maznet": [
@@ -16291,23 +16295,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T19:29:30.080448+00:00",
+  "last_update": "2026-08-15T19:49:59.683936+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 755,
+    "total_files": 755,
     "total_links": 277,
     "files_by_type": {
-      "image": 719,
+      "image": 720,
       "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 279.21,
-    "last_calculation": "2026-08-15T19:29:30.089423+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 279.29,
+    "last_calculation": "2026-08-15T19:49:59.693038+00:00"
   }
 }
