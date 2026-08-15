@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 148071,
+        "text": "خورشیدگرفتگی دیروز از نگاه فضا\n😏\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T06:31:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148071_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148071_1_fa27e3b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148071"
+      },
+      {
+        "id": 148070,
+        "text": "‏\n🇮🇷\n👀\n|\nخاتمی، امام جمعه تهران: آمریکا بیچاره و بدبخت شده،  جمهوری اسلامی به یک ابرقدرت در جهان تبدیل شده\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T06:00:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148070_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148070_1_f42fd0dc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148070"
+      },
+      {
+        "id": 148069,
+        "text": "🇮🇷\n👀\n|\nعلم الهدی: دشمنان جمهوری اسلامی مفت خور و شکم باره هستند\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T05:34:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148069_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148069_1_d3365cd5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148069"
+      },
+      {
         "id": 148068,
         "text": "🇺🇸\n👀\n| رو خانا، نماینده مجلس کنگره آمریکا: اگر روزی رئیس‌جمهور آمریکا بشم، بلافاصله حمایت‌ها از اسرائیل رو متوقف میکنم و کشور فلسطین رو به رسمیت میشناسم.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T05:04:51+00:00",
@@ -14711,63 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147957"
-      },
-      {
-        "id": 147955,
-        "text": "یه قایق ایرانی رفته تو تنگه هرمز برای ماهگیری که یهو هلیکوپتر آمریکایی میوفته دنبالشون، واکنششون خداست؛\n😂\nبنده خداها اصلا جرئت نمیکنن نگاش کنن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T09:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147955_0_53a4021a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147955_1_278a5a5d.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147955_2_07f500d8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147955"
-      },
-      {
-        "id": 147954,
-        "text": "🇮🇷\n👀\n|\nفرشاد مومنی، اقتصاددان: ابرتورم در ایران رخ داده و وارد مرحله فلاکت شدیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T08:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147954_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147954"
-      },
-      {
-        "id": 147953,
-        "text": "🚨\nویدیو وایرال شده از رانندگی عجیب یه جوونِ بی‌عقلِ جوگیر که هرلحظه می‌تونست یه خانواده رو داغدار کنه:\n👩‍💻\nـ ری اکشن مناسبت\n🍌\nفراموش نشه\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-13T08:29:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147953_0_118e8db8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_147953_1_b7cb4b9a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147953"
       }
     ],
     "maznet": [
@@ -16309,7 +16309,7 @@
       }
     ]
   },
-  "last_update": "2026-08-15T05:33:05.541282+00:00",
+  "last_update": "2026-08-15T06:41:34.585385+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16317,15 +16317,15 @@
     "total_files": 760,
     "total_links": 276,
     "files_by_type": {
-      "image": 721,
-      "video": 31,
+      "image": 724,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 321.61,
-    "last_calculation": "2026-08-15T05:33:05.550422+00:00"
+    "total_size_mb": 300.2,
+    "last_calculation": "2026-08-15T06:41:34.592582+00:00"
   }
 }
