@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148073,
+        "text": "🇮🇷\n👀\n|\nپزشکیان: دغدغۀ من معیشت مردم است و نمی‌توانم نسبت به آن بی‌تفاوت باشم\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T07:34:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148073_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148073_1_67a5b667.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148073"
+      },
+      {
+        "id": 148072,
+        "text": "⚪️\nعجب فکر‌ بکری\n😂\n🇮🇷\n👀\n| جلیل محبی معاون حقوقی مجلس:\nتو مصرف بنزین صرفه جویی کنید تا گرون نشه!\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T07:01:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148072_0_9a95b67f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148072_1_d1804e43.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148072"
+      },
+      {
         "id": 148071,
         "text": "خورشیدگرفتگی دیروز از نگاه فضا\n😏\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T06:31:58+00:00",
@@ -14734,40 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147959"
-      },
-      {
-        "id": 147958,
-        "text": "🔹\nوزارت دفاع ترکیه:\nتوافقنامه مکه با هدف ایجاد روابط پایدار بین ترکیه، عربستان سعودی و پاکستان امضا شد. ما به دنبال انجام رزمایش‌های نظامی مشترک با متحدان خود تحت این توافق‌نامه هستیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T09:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147958_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147958"
-      },
-      {
-        "id": 147957,
-        "text": "💢\nرسایی:  مردم نترسید من هواتونو دارم نمیزارم بنزین گرون بشه\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T09:33:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147957_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147957_1_f9767a41.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147957"
       }
     ],
     "maznet": [
@@ -16309,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T06:51:27.407633+00:00",
+  "last_update": "2026-08-15T07:37:39.974543+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 760,
-    "total_files": 760,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 276,
     "files_by_type": {
-      "image": 724,
+      "image": 725,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
+    "referenced_files": 761,
+    "existing_media_files": 760,
     "total_size_mb": 300.2,
-    "last_calculation": "2026-08-15T06:51:27.417218+00:00"
+    "last_calculation": "2026-08-15T07:37:39.983726+00:00"
   }
 }
