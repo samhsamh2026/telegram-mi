@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148094,
+        "text": "🆕\nمعاون دریایی بنادر هرمزگان: تاکنون بخش عمده‌ای از آلودگی نفتی سواحل قشم مهار شد\nعملیات جمع‌آوری پس‌مانده‌های نفتی تا رفع کامل آثار آلودگی، ادامه خواهد داشت\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-15T12:35:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148094_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148094"
+      },
+      {
+        "id": 148093,
+        "text": "🔹\nسردار باقرزاده :\n3 خلبان ایرانی پس از سقوط جنگنده‌های سوخو-۲۴ در جریان حملات اسفندماه، زنده توسط نیروهای قطری اسیر شده‌اند!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-15T12:10:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148093_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148093_1_9d521b94.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148093"
+      },
+      {
         "id": 148092,
         "text": "🚨\nپروازهای فرودگاه بندرعباس شروع شد.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-15T11:50:01+00:00",
@@ -14738,40 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147978"
-      },
-      {
-        "id": 147977,
-        "text": "🇮🇷\nعضو کمیسیون انرژی مجلس: هزینه تولید و واردات بنزین به 50 هزار تومان رسیده و من صحبت هایی از هزینه بنزین 70 هزار تومانی هم شنیدم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T15:31:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147977_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147977"
-      },
-      {
-        "id": 147976,
-        "text": "⏺\n🇮🇱\nنتانیاهو: شاید بتونید بریتانیا رو «جمهوری اسلامی بریتانیا» نام ببرین\n😂\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T15:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147976_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147976_1_8050eb53.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147976"
       }
     ],
     "maznet": [
@@ -16313,7 +16313,7 @@
       }
     ]
   },
-  "last_update": "2026-08-15T11:50:07.593007+00:00",
+  "last_update": "2026-08-15T12:41:51.015974+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16330,6 +16330,6 @@
     "referenced_files": 761,
     "existing_media_files": 760,
     "total_size_mb": 308.6,
-    "last_calculation": "2026-08-15T11:50:07.602072+00:00"
+    "last_calculation": "2026-08-15T12:41:51.025142+00:00"
   }
 }
