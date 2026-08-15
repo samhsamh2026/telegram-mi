@@ -14766,6 +14766,21 @@
     ],
     "maznet": [
       {
+        "id": 9311,
+        "text": "کانفیگ مناسب همه نت ها\n- سرعت خوب\n🔑\nاپ\nاندروید\nو\nآیفون\n:  Npv tunnel\n📍\nرو فایل بزن وارد اپ میشه ، انتخاب کن از بخش Configs و در Home استارتو بزن و تمام\n🛍\nخرید وی‌پی‌ان(تانل-آیپی ثابت)\n@Maznet",
+        "date": "2026-08-15T21:21:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "maznet_9311_0_96b9634d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/maznet/9311"
+      },
+      {
         "id": 9310,
         "text": "🎵\n@Maznet",
         "date": "2026-08-05T19:01:01+00:00",
@@ -16285,25 +16300,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/maznet/9203"
-      },
-      {
-        "id": 9202,
-        "text": "SNI-Spoofing_by_patterniha_v1.rar",
-        "date": "2026-05-20T11:40:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "maznet_9202_0_c4982873.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/maznet/9202"
       }
     ]
   },
-  "last_update": "2026-08-15T20:55:37.334150+00:00",
+  "last_update": "2026-08-15T21:28:57.281442+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16320,6 +16320,6 @@
     "referenced_files": 757,
     "existing_media_files": 756,
     "total_size_mb": 272.98,
-    "last_calculation": "2026-08-15T20:55:37.343335+00:00"
+    "last_calculation": "2026-08-15T21:28:57.290950+00:00"
   }
 }
