@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148075,
+        "text": "⚪️\nسم آلتمن مدیرعامل OpenAi:\nاحتمالا تا ۶ ماه آینده، Chat gpt بتونه صفحه نمایش موبایل شمارو ببینه و بخونه!\nبه این صورته که کارایی که در طول روز با موبایل انجام میدین رو میتونه تحلیل کنه، مثلا وسط چت با پارتنر یا رفیقتون، کمک میکنه چی جواب بدین.\nیا اینکه سر کلاس آنلاین، جواب معلم رو چی بدین؟ حتی می‌تونه تماساتونم ضبط کنه و وسط مکالمه کمک‌تون کنه!\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T08:37:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148075_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148075_1_6c0e8488.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148075"
+      },
+      {
+        "id": 148074,
+        "text": "🇺🇸\n👀\n| ترامپ : کسی اینجا هست که طرفدار قطع بودجه پلیس باشه؟ اگه هم باشه، جرئت نمی‌کنه بگه\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-15T08:00:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148074_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148074"
+      },
+      {
         "id": 148073,
         "text": "🇮🇷\n👀\n|\nپزشکیان: دغدغۀ من معیشت مردم است و نمی‌توانم نسبت به آن بی‌تفاوت باشم\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-15T07:34:05+00:00",
@@ -14734,44 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147961"
-      },
-      {
-        "id": 147960,
-        "text": "🚨\nپرواز یک هواپیمای باری ایرانی از فرودگاه تیانجین چین به تهران\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T10:12:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147960_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147960_1_b9b888b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147960"
-      },
-      {
-        "id": 147959,
-        "text": "⭕️\nعراقچی:\nایالات متحده مدت‌هاست که به دلیل شکست‌های اطلاعاتی، دچار اشتباه محاسباتی شده است. نمونه بارز آن: جنگ علیه ایران. اکنون، یک اشتباه محاسباتی حتی بزرگتر در تنگه هرمز.\nبدتر از اخبار جعلی، اطلاعات جعلی است. مراقب باشید.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T10:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147959_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147959_1_0c314c11.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147959"
       }
     ],
     "maznet": [
@@ -16313,23 +16309,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T07:37:39.974543+00:00",
+  "last_update": "2026-08-15T08:38:41.815733+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 761,
-    "total_files": 761,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 276,
     "files_by_type": {
-      "image": 725,
+      "image": 724,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 761,
-    "existing_media_files": 760,
-    "total_size_mb": 300.2,
-    "last_calculation": "2026-08-15T07:37:39.983726+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 300.12,
+    "last_calculation": "2026-08-15T08:38:41.825146+00:00"
   }
 }
