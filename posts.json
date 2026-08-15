@@ -12946,6 +12946,52 @@
     ],
     "bg_ae": [
       {
+        "id": 148092,
+        "text": "🚨\nپروازهای فرودگاه بندرعباس شروع شد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-15T11:50:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148092_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148092"
+      },
+      {
+        "id": 148088,
+        "text": "⭕️\nوضعیت عجیب جنوب لبنان در پی حملات امروز اسراییل\nلبنانیا دارن از جنوب لبنان به سمت شمال فرار میکنند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-15T11:31:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148088_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148088_1_35387d58.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148088_2_e2517f35.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148088_3_a0af3fb3.mp4"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148088_4_a38b82a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148088"
+      },
+      {
         "id": 148087,
         "text": "🔻\nمجیدرضا خاکی، دبیر انجمن وارد کنندگان برنج ایران: از ابتدای سال تا کنون حدود ۷۰۰ تن برنج آمریکایی بدون ثبت سفارش و توسط اشخاص حقیقی از مرز عراق به ایران وارد شده است\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-15T11:10:47+00:00",
@@ -14726,40 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/147976"
-      },
-      {
-        "id": 147975,
-        "text": "⏺\nتراز آبی دریای خزر به پایین‌ترین میزان خود طی حدود 200 سال اخیر رسیده\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T14:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147975_0_53a4021a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147975"
-      },
-      {
-        "id": 147974,
-        "text": "🇮🇱\nکانال ۱۴ اسرائیل:\n\"رئیس ستاد کل نیروهای مسلح اسرائیل (IDF)، ایال زمیر، به وزرای کابینه اعلام کرد که محاصره دریایی ایران بسیار موثر بوده است.\nطبق ارزیابی‌های اولیه ایالات متحده، مقامات ارشد اکنون بر این باورند که تداوم این فشار شدید اقتصادی—هم‌زمان با وخامت سریع بحران مالی داخلی در تهران— مؤثرترین راهبرد برای وادار کردن رژیم به تسلیم یا زمینه‌سازی برای فروپاشی آن است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-13T14:34:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_147974_0_53a4021a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_147974_1_3cf068af.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147974"
       }
     ],
     "maznet": [
@@ -16301,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-08-15T11:28:11.088501+00:00",
+  "last_update": "2026-08-15T11:50:07.593007+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 758,
-    "total_files": 758,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 276,
     "files_by_type": {
       "image": 722,
-      "video": 28,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
-    "total_size_mb": 303.64,
-    "last_calculation": "2026-08-15T11:28:11.097917+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 308.6,
+    "last_calculation": "2026-08-15T11:50:07.602072+00:00"
   }
 }
