@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 148151,
+        "text": "‏\n🔹\nیکی از اعضای طالبان بخاطر این که زمان صدر اسلام تلویزیون وجود نداشت زد تلویزیونشو شکست\nاونموقعه دوربین و اینترنتم وجود نداشت پس اینارو هم زندگیت محو کن دیگه عقل کل\n🙁\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T09:34:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148151_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148151_1_4927ff9c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148151"
+      },
+      {
+        "id": 148150,
+        "text": "‏\n💠\n💢\nکارمزد کارت‌به‌کارتِ تا یک میلیون تومان از ۹۰۰ رسید به ۱۱۰۰ تومان؛ حدود ۲۲٪ افزایش !\nبرای هر یک میلیون تومان بیشتر نیز ۳۵۰ تومان به کارمزد اضافه میشود.\n‎\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T09:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148150_0_0f6a2ca2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148150"
+      },
+      {
+        "id": 148149,
+        "text": "⭕️\nکاخ سفید:\nبه اندازه کافی و بالا موشک برای ادامه جنگ با ایران داریم!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T08:50:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148149_0_0f6a2ca2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148149"
+      },
+      {
         "id": 148148,
         "text": "‏\n🔹\nقوه قضاییه: «شهرام صادقی» به جرم زیرگرفتن مأموران با خودرو در حوالی چهارراه گلزار کرج و مصدوم شدن مأموران نیروی انتظامی، سحرگاه امروز اعدام شد\n‎\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-16T08:31:56+00:00",
@@ -14753,59 +14802,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148035"
-      },
-      {
-        "id": 148034,
-        "text": "🔻\nصداوسیما: همه چیز دوباره گران خواهد شد\n‌‌\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T14:32:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148034_0_9a95b67f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148034_1_ac7237e0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148034"
-      },
-      {
-        "id": 148033,
-        "text": "💢\nحسین طاهری مداح :\nخون آقا مارو ۶ماه آواره خیابون‌ها کرده\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T14:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148033_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148033"
-      },
-      {
-        "id": 148032,
-        "text": "🔹\nعلم‌الهدی :\nآسایش و زندگی راحت بدون داشتن انرژی هسته‌ای محقق نمی‌شه.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T13:50:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148032_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148032_1_537afc04.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148032"
       }
     ],
     "maznet": [
@@ -16347,23 +16343,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T08:40:42.041061+00:00",
+  "last_update": "2026-08-16T09:35:14.122223+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 768,
-    "total_files": 768,
+    "total_media": 767,
+    "total_files": 767,
     "total_links": 277,
     "files_by_type": {
-      "image": 729,
+      "image": 728,
       "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 768,
-    "existing_media_files": 767,
-    "total_size_mb": 298.55,
-    "last_calculation": "2026-08-16T08:40:42.050219+00:00"
+    "referenced_files": 767,
+    "existing_media_files": 766,
+    "total_size_mb": 296.58,
+    "last_calculation": "2026-08-16T09:35:14.129266+00:00"
   }
 }
