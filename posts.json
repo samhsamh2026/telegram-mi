@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148156,
+        "text": "⭕️\nکانال ۱۴ اسرائیل:\n\" ثانیه‌ها به شماره افتاده‌اند:\nکمتر از ۲۴ ساعت تا پایان مهلت ۶۰ روزه اولیه صلح و مذاکره میان آمریکا و رژیم ایران که در یادداشت تفاهم ژوئن آمده بود، باقی مانده است.\nتوافق موقت متزلزل بوده است؛ با مواردی از نقض توافق، تنش‌ها، و ادعای قبلی هر دو طرف مبنی بر پایان یا تعلیق آن.\nهیچ تمدیدی هم تأیید نشده است.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T10:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148156_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148156_1_2e3982cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148156"
+      },
+      {
+        "id": 148155,
+        "text": "🆕\nشبکه سی‌ان‌بی‌سی به نقل از وزارت انرژی آمریکا :\nمیزان ذخایر استراتژیک نفت به کمتر از 300 میلیون بشکه کاهش پیدا کرده\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T10:31:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148155_0_0f6a2ca2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148155"
+      },
+      {
         "id": 148154,
         "text": "‏\n🔹\nفرمانده ارتش :\nهر ایرانی ای که یه سرباز آمریکایی رو اسیر کنه یا بکشه بهش ۳۰ هزار دلار جایزه میدیم\n‎\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-16T10:10:47+00:00",
@@ -14752,44 +14786,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148040"
-      },
-      {
-        "id": 148039,
-        "text": "‏\n🟠\nویدیو وایرال شده از یه مسلمون افراطی در آلمان درحال تخریب شیشه های مشروب یک فروشگاه!\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T15:50:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148039_0_9a95b67f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148039_1_c6219752.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148039"
-      },
-      {
-        "id": 148038,
-        "text": "‏\n🔵\nویدیو وایرال شده از یه عراقی که با ماشینش اومده ایران، و همه با حسرت بهش نگاه میکنن و فیلم میگیرن. اونم می‌خنده و این ویدیو رو منتشر کرده و حالا احتمالا در سطح جهان همه میگن ایرانیا ماشین ندیده‌ان!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T15:30:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148038_0_9a95b67f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148038_1_c091ab94.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148038"
       }
     ],
     "maznet": [
@@ -16331,23 +16327,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T10:31:00.825426+00:00",
+  "last_update": "2026-08-16T10:57:17.153712+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 764,
-    "total_files": 764,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 277,
     "files_by_type": {
-      "image": 725,
-      "video": 31,
+      "image": 726,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
-    "total_size_mb": 296.35,
-    "last_calculation": "2026-08-16T10:31:00.830220+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 288.53,
+    "last_calculation": "2026-08-16T10:57:17.162830+00:00"
   }
 }
