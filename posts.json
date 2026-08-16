@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148164,
+        "text": "💢\nمرادویسی؛ تحلیلگر اینترنشنال:\nتوی ایران هرکسی از کار بیکار میشه؛ میره با قرض و وام یه ماشین میخره و مسافرکشی میکنه. حالا اگه بنزین رو گرون کنن همین مسافرکش ها اعتراضات جدید رو استارت میزنن که جمعیتشونم خیلی زیاده.\nطبق برآورده بیش از ۵ میلیون نفر مسافرکش تو ایران داریم که از این راه دارن زندگی میکنن.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T13:31:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148164_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148164_1_7a0b1b9e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148164"
+      },
+      {
+        "id": 148163,
+        "text": "💢\n‏نرخ دلار در عربستان ۴۰ سال است که ثابت مانده\n💢\nدر امارات حدود ۳۰ سال است که تغییر نکرده\n💢\nدر قطر هم بیش از ۲۵ سال بدون تغییر بوده\n💢\nدر ایران، طی ۵ دهه سال، ۲۷ هزار برابر شده است!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T13:10:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148163_0_0f6a2ca2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148163"
+      },
+      {
         "id": 148162,
         "text": "عزادارای این دو هیئت بعد از اینکه چند روز پیش با چوب همدیگه رو زدن، دیشب با گل رفتن عزاداری کردن و آشتی شدن:\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-16T12:38:02+00:00",
@@ -14724,44 +14758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148054"
-      },
-      {
-        "id": 148053,
-        "text": "🇮🇷\n👀\n| تسنیم:\n🇷🇺\n🤝\n🇮🇷\n| تیم ملی فوتبال ایران قراره 7 مهر تو شهر \"کازان روسیه\"، یه بازی دوستانه مقابل تیم ملی روسیه داشته باشه؛\nطبق اعلام فدراسیون فوتبال روسیه، این بازی فقط یه دیدار دوستانه معمولی نیست و نتیجه‌ش تو رنکینگ فیفا هم حساب میشه.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T18:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148053_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148053_1_6aa5e7db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148053"
-      },
-      {
-        "id": 148051,
-        "text": "🚨\nداعش اسپانیا رو تهدید کرد\n‼️\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T17:50:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148051_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148051_1_99f6a66f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148051"
       }
     ],
     "maznet": [
@@ -16303,23 +16299,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T12:54:22.187674+00:00",
+  "last_update": "2026-08-16T13:38:30.953478+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 757,
-    "total_files": 757,
+    "total_media": 756,
+    "total_files": 756,
     "total_links": 277,
     "files_by_type": {
-      "image": 718,
+      "image": 717,
       "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 757,
-    "existing_media_files": 756,
-    "total_size_mb": 291.78,
-    "last_calculation": "2026-08-16T12:54:22.197043+00:00"
+    "referenced_files": 756,
+    "existing_media_files": 755,
+    "total_size_mb": 291.59,
+    "last_calculation": "2026-08-16T13:38:30.962503+00:00"
   }
 }
