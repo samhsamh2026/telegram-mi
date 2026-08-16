@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148159,
+        "text": "🔹\nآرش اعلایی، خبرنگار سابق اینترنشنال : اسرائیل به دنبال تجزیه ایران هست\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T11:50:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148159_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148159_1_b26d0053.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148159"
+      },
+      {
+        "id": 148158,
+        "text": "⭕️\nویدیویی که طرفداران حکومت با عنوان «اولین ویدیو از دیدار پزشکیان با مجتبی خامنه‌ای» دارن تو فضای مجازی وایرال می‌کنن:\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T11:33:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148158_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148158_1_fe446407.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148158"
+      },
+      {
         "id": 148157,
         "text": "دیگه وقت رفع فیلتره\n🔻\nمعاون پزشکیان :\nگزارش مقامات امنیتی نشان می‌دهد که استفاده از فیلترشکن‌ها، راه نفوذ دشمن را آسان‌تر کرده\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-16T11:10:19+00:00",
@@ -14740,44 +14778,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148044"
-      },
-      {
-        "id": 148043,
-        "text": "نسخه افغانی دیجیکالا، با نام «افغان بازار» رونمایی شد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T16:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148043_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148043_1_da2a913c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148043"
-      },
-      {
-        "id": 148042,
-        "text": "یک\nرسانه چینی رندوم :\nدر طول ۲۶ سال، این چهار مرد به بیش از ۱۰ کشور مسلمان حمله کردند و ۱۱ میلیون مسلمان را کشتند، اما هرگز تروریست نامیده نمی‌شوند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T16:30:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148042_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148042_1_828787fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148042"
       }
     ],
     "maznet": [
@@ -16319,7 +16319,7 @@
       }
     ]
   },
-  "last_update": "2026-08-16T11:28:01.675270+00:00",
+  "last_update": "2026-08-16T11:51:27.110363+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16327,15 +16327,15 @@
     "total_files": 761,
     "total_links": 277,
     "files_by_type": {
-      "image": 725,
-      "video": 28,
+      "image": 723,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 761,
     "existing_media_files": 760,
-    "total_size_mb": 286.17,
-    "last_calculation": "2026-08-16T11:28:01.684716+00:00"
+    "total_size_mb": 288.55,
+    "last_calculation": "2026-08-16T11:51:27.119502+00:00"
   }
 }
