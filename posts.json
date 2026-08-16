@@ -12946,6 +12946,52 @@
     ],
     "bg_ae": [
       {
+        "id": 148148,
+        "text": "‏\n🔹\nقوه قضاییه: «شهرام صادقی» به جرم زیرگرفتن مأموران با خودرو در حوالی چهارراه گلزار کرج و مصدوم شدن مأموران نیروی انتظامی، سحرگاه امروز اعدام شد\n‎\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T08:31:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148148_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148148_1_a2f43651.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148148"
+      },
+      {
+        "id": 148145,
+        "text": "🔴\nویدیو وایرال شده از عروسی لاکچری خواهر زاده بهنوش طباطبائی عروسی تو عمارت ۲۱ بود همونجایی که گلزار عروسی برگزار کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T08:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148145_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148145_1_0ca24a44.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148145_2_0b6d0925.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148145_3_b3843246.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148145"
+      },
+      {
         "id": 148144,
         "text": "⏺\nدیشب امیر علی اکبری مبارز ایرانی با ی مبارزی که اصالتا چچنی بود سر کمربند قهرمانی مسابقه داشت که تو ثانیه ی اول با ضربه ی اول ناک اوت شد و بازیو باخت.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-16T07:33:22+00:00",
@@ -14760,40 +14806,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148032"
-      },
-      {
-        "id": 148031,
-        "text": "🇺🇸\n👀\n| وزارت جنگ ایالات متحده با شرکت‌های \"بوئینگ\" و \"آر‌تی‌اکس\" قرارداد بست تا تولید قطعات یدکی موشک‌های SM-3 را افزایش دهد. این موشک‌ها برای رهگیری موشک‌های بالیستیک در خارج از جو زمین طراحی شده‌اند.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T13:32:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148031_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148031"
-      },
-      {
-        "id": 148030,
-        "text": "🔹\nامام جمعه قم: آمریکا و اروپا و اسرائیلی ها می‌خواهند از قم انتقام بگیرند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T13:10:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148030_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148030_1_60d2c233.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148030"
       }
     ],
     "maznet": [
@@ -16335,23 +16347,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T07:38:55.089646+00:00",
+  "last_update": "2026-08-16T08:40:42.041061+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 765,
-    "total_files": 765,
+    "total_media": 768,
+    "total_files": 768,
     "total_links": 277,
     "files_by_type": {
       "image": 729,
-      "video": 28,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 765,
-    "existing_media_files": 764,
-    "total_size_mb": 276.0,
-    "last_calculation": "2026-08-16T07:38:55.098782+00:00"
+    "referenced_files": 768,
+    "existing_media_files": 767,
+    "total_size_mb": 298.55,
+    "last_calculation": "2026-08-16T08:40:42.050219+00:00"
   }
 }
