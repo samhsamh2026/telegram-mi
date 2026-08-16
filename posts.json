@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148166,
+        "text": "🔻\n💢\nرئیس ستاد ارتش اسرائیل:\nآماده بازگشت فوری به جنگ تمام‌ عیار هستیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T14:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148166_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148166_1_577a398f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148166"
+      },
+      {
+        "id": 148165,
+        "text": "🚨\nیسرائیل کاتز، وزیر دفاع اسرائیل در شبکه ایکس نوشت:\nهیچ حسابی در هیچ جبهه‌ای تسویه‌نشده باقی نخواهد ماند و به خاطر سربازان و غیرنظامیان خود به هر اقدامی با قدرت پاسخ خواهیم داد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T13:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148165_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148165_1_4ac0c221.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148165"
+      },
+      {
         "id": 148164,
         "text": "💢\nمرادویسی؛ تحلیلگر اینترنشنال:\nتوی ایران هرکسی از کار بیکار میشه؛ میره با قرض و وام یه ماشین میخره و مسافرکشی میکنه. حالا اگه بنزین رو گرون کنن همین مسافرکش ها اعتراضات جدید رو استارت میزنن که جمعیتشونم خیلی زیاده.\nطبق برآورده بیش از ۵ میلیون نفر مسافرکش تو ایران داریم که از این راه دارن زندگی میکنن.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-16T13:31:45+00:00",
@@ -14720,44 +14758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148056"
-      },
-      {
-        "id": 148055,
-        "text": "🚨\nویدیویی که رسانه‌های وابسته به حکومت آمریکا\n🇺🇸\nدرباره کمک ارتش آمریکا به مردم ایران درست و وایرال کردن:\n👩‍💻\n- نظرتون چیه\n⁉️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T18:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148055_0_9a95b67f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148055_1_a98fd975.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148055"
-      },
-      {
-        "id": 148054,
-        "text": "💢\nبا پول یه ماست پرچربِ امروز،\n۱۰ سال پیش میشد خرج خورد و خوراک خونواده رو برای یه ماه داد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T18:34:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148054_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148054_1_5705acb4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148054"
       }
     ],
     "maznet": [
@@ -16299,7 +16299,7 @@
       }
     ]
   },
-  "last_update": "2026-08-16T13:38:30.953478+00:00",
+  "last_update": "2026-08-16T14:31:20.254254+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16307,15 +16307,15 @@
     "total_files": 756,
     "total_links": 277,
     "files_by_type": {
-      "image": 717,
-      "video": 31,
+      "image": 718,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 756,
     "existing_media_files": 755,
-    "total_size_mb": 291.59,
-    "last_calculation": "2026-08-16T13:38:30.962503+00:00"
+    "total_size_mb": 277.68,
+    "last_calculation": "2026-08-16T14:31:20.263650+00:00"
   }
 }
