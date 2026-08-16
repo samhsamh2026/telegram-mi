@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148138,
+        "text": "🔴\nوضعیت پاکستانی‌ها توی جشن استقلال کشورشون رو ببینید. بعد فکر کن اینا بین جمهوری اسلامی و آمریکا واسطه شده بودن که جنگ نشه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T05:03:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148138_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148138_1_89466973.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148138"
+      },
+      {
+        "id": 148137,
+        "text": "شجاع خلیل‌زاده: گلم تو جام جهانی درست بود و ترامپ با دستکاری وار اون رو مردود اعلام کرد\n😂\n😂\n😂\nعکس ترامپ تو اتاق وار رو باور کرده\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T04:31:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148137_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148137_1_fae321ef.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148137"
+      },
+      {
         "id": 148134,
         "text": "🔴\n🇺🇸\nپست های جدید ترامپ\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-16T04:01:01+00:00",
@@ -14740,40 +14778,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148024"
-      },
-      {
-        "id": 148023,
-        "text": "تو کنارک که گزارش صدای انفجار میدید مربوط به خنثی سازی مهمات عمل نکرده هست نگران نباشید.\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-08-14T11:29:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148023_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148023"
-      },
-      {
-        "id": 148022,
-        "text": "⭕️\nمحسن رضایی:\nامریکا به‌زودی خواهد فهمید قدرت سلاح های ما را که قرار است ناوهایشان را به قعر دریا بفرستیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T11:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148022_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148022_1_0be6702c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148022"
       }
     ],
     "maznet": [
@@ -16315,23 +16319,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T04:11:03.317098+00:00",
+  "last_update": "2026-08-16T05:03:43.774348+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 760,
-    "total_files": 760,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 277,
     "files_by_type": {
-      "image": 726,
-      "video": 26,
+      "image": 725,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
-    "total_size_mb": 273.22,
-    "last_calculation": "2026-08-16T04:11:03.323845+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 276.67,
+    "last_calculation": "2026-08-16T05:03:43.780073+00:00"
   }
 }
