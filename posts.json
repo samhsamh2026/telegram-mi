@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148168,
+        "text": "🔴\nخودمونم نمیدونستیم اینا کتاب دارن بعد اینا خوندنش.\nارتش یمن بعد از اینکه یکی از مقرهای حوثی‌ها رو تصرف کرد، برای تفتیش تجهیزات داخل مقر به کتابی برخورده بود که مال وزارت فرهنگ و ارشاد اسلامی جمهوری اسلامی بوده.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T14:50:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148168_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148168_1_7ca40853.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148168"
+      },
+      {
+        "id": 148167,
+        "text": "🇮🇷\nقالیباف :\nبا همۀ وجودم می‌گم که ما در این جنگ هم در بُعد نظامی و هم بعد سیاسی به معنای واقعی پیروز شدیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-16T14:32:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148167_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148167_1_0dd2d390.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148167"
+      },
+      {
         "id": 148166,
         "text": "🔻\n💢\nرئیس ستاد ارتش اسرائیل:\nآماده بازگشت فوری به جنگ تمام‌ عیار هستیم.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-16T14:10:21+00:00",
@@ -14724,40 +14762,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148058"
-      },
-      {
-        "id": 148057,
-        "text": "این عکس اخیراً توی مترو تهران گرفته شده.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T19:32:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148057_0_9a95b67f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148057_1_fa6939be.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148057"
-      },
-      {
-        "id": 148056,
-        "text": "🇮🇷\n👀\n|\nسردار کوثری: «طهرانی مقدم هنگام ساخت موشک قاره‌پیما به شهادت رسید\n»\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-14T19:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148056_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148056"
       }
     ],
     "maznet": [
@@ -16299,23 +16303,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T14:31:20.254254+00:00",
+  "last_update": "2026-08-16T14:56:38.716477+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 756,
-    "total_files": 756,
+    "total_media": 757,
+    "total_files": 757,
     "total_links": 277,
     "files_by_type": {
       "image": 718,
-      "video": 30,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 756,
-    "existing_media_files": 755,
-    "total_size_mb": 277.68,
-    "last_calculation": "2026-08-16T14:31:20.263650+00:00"
+    "referenced_files": 757,
+    "existing_media_files": 756,
+    "total_size_mb": 280.56,
+    "last_calculation": "2026-08-16T14:56:38.725626+00:00"
   }
 }
