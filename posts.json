@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148198,
+        "text": "🇺🇸\n👀\n|\nترامپ: وقتی فهمیدم کارولین لیویت (سخنگوی کاخ سفید که قراره استعفا بده) بچه‌هاشو بیشتر از من دوست داره خیلی ناراحت شدم\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-16T20:35:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148198_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148198_1_454ff65e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148198"
+      },
+      {
         "id": 148196,
         "text": "🚨\nاین خانم که توی نمایشگاه ماشین کار میکنه؛ به خاطر نوع صحبت کردنش این روزا سوژه فضای مجازی شده.\nگویا هرچقدر‌ «ر» رو بد تلفظ کنی و صداتو تو گلویی کنی یعنی با کلاس تری.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-16T20:10:20+00:00",
@@ -14735,21 +14754,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148088"
-      },
-      {
-        "id": 148087,
-        "text": "🔻\nمجیدرضا خاکی، دبیر انجمن وارد کنندگان برنج ایران: از ابتدای سال تا کنون حدود ۷۰۰ تن برنج آمریکایی بدون ثبت سفارش و توسط اشخاص حقیقی از مرز عراق به ایران وارد شده است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-15T11:10:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148087_0_8c0e4b47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148087"
       }
     ],
     "maznet": [
@@ -16291,23 +16295,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T20:32:08.969136+00:00",
+  "last_update": "2026-08-16T21:28:42.467305+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 755,
+    "total_files": 755,
     "total_links": 277,
     "files_by_type": {
       "image": 713,
-      "video": 33,
+      "video": 34,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 287.76,
-    "last_calculation": "2026-08-16T20:32:08.976028+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 290.61,
+    "last_calculation": "2026-08-16T21:28:42.476619+00:00"
   }
 }
