@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148142,
+        "text": "🔴\nابراهیم عزیزی، رئیس کمیسیون امنیت ملی مجلس: رئیس‌جمهور ایالات متحده باید نگران امنیت خود باشد، نه اینکه به تهدیدهای بی‌پایان خود در مورد تنگه هرمز ادامه دهد؛ قبل از اینکه خودش مجبور شود در یک کامیون حمل مواد غذایی پناه بگیرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T06:32:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148142_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148142_1_24d6db75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148142"
+      },
+      {
+        "id": 148141,
+        "text": "🔴\nساشا سبحانی، پسر سفیر سابق تو ونزوئلا: حالا که انقدر بهم هِیت میدید اصلا خوب کاری کردم پول مردم رو خوردم و نوش جونم همینه که هست\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T06:01:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148141_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148141_1_b29686fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148141"
+      },
+      {
         "id": 148140,
         "text": "🔴\nعلم الهدی: بعد شهادت آقا دیگه نباید برنامه شادی رو اجرا کنیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-16T05:15:58+00:00",
@@ -14752,36 +14790,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148028"
-      },
-      {
-        "id": 148027,
-        "text": "🚨\nیک فروند پهپاد MQ9 توسط سامانه نوین پدافند پیشرفته سپاه در آسمان استان هرمزگان رهگیری و منهدم شد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T12:14:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148027_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148027"
-      },
-      {
-        "id": 148026,
-        "text": "🔹\nخبرگزاری فارس به نقل از یک منبع دولتی:\nافزایش قیمت بنزین فعلاً منتفی شد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T11:50:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148026_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148026"
       }
     ],
     "maznet": [
@@ -16323,23 +16331,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T05:58:10.305520+00:00",
+  "last_update": "2026-08-16T06:42:35.027223+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 764,
+    "total_files": 764,
     "total_links": 277,
     "files_by_type": {
-      "image": 726,
+      "image": 728,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 276.75,
-    "last_calculation": "2026-08-16T05:58:10.314555+00:00"
+    "referenced_files": 764,
+    "existing_media_files": 763,
+    "total_size_mb": 276.9,
+    "last_calculation": "2026-08-16T06:42:35.032702+00:00"
   }
 }
