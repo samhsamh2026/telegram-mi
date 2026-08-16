@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148194,
+        "text": "ببینید این راننده اسنپ چه روشی برای زدن مخ دخترا استفاده کرده.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-16T19:31:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148194_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148194_1_7502ecf9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148194"
+      },
+      {
         "id": 148193,
         "text": "💢\nتوصیه‌های قالیباف به جوانان\n+ الان یسریا میگن هوش مصنوعیه . بخدا میدونیم واس فان گذاشتیم\n💢\n@Baga_News\n|\nArT",
         "date": "2026-08-16T19:17:09+00:00",
@@ -14723,21 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148085"
-      },
-      {
-        "id": 148084,
-        "text": "⚪️\n👀\n| به گفته برخی منابع عبری و عربی:\n🟠\nانفجارات شدید در یمن گزارش شده\n‼️\n💢\n@Baga_News | Король",
-        "date": "2026-08-15T10:54:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148084_0_8c0e4b47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148084"
       }
     ],
     "maznet": [
@@ -16279,23 +16283,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T19:27:50.422133+00:00",
+  "last_update": "2026-08-16T19:49:34.559460+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 277,
     "files_by_type": {
       "image": 713,
-      "video": 30,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 273.06,
-    "last_calculation": "2026-08-16T19:27:50.431400+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 279.66,
+    "last_calculation": "2026-08-16T19:49:34.568534+00:00"
   }
 }
