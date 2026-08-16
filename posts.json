@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148196,
+        "text": "🚨\nاین خانم که توی نمایشگاه ماشین کار میکنه؛ به خاطر نوع صحبت کردنش این روزا سوژه فضای مجازی شده.\nگویا هرچقدر‌ «ر» رو بد تلفظ کنی و صداتو تو گلویی کنی یعنی با کلاس تری.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-16T20:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148196_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148196_1_d20b1123.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148196_2_10a28d96.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148196"
+      },
+      {
+        "id": 148195,
+        "text": "🇮🇷\n👀\n|\nابوترابی؛نماینده مجلس:\nگرانی بنزین در این شرایط اسم رمز اغتشاش داخلی است و آشوب داخلی؛\nمقدمه تحمیل جنگ سنگین توسط دشمن خارجی است.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-16T19:50:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148195_0_0f6a2ca2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148195"
+      },
+      {
         "id": 148194,
         "text": "ببینید این راننده اسنپ چه روشی برای زدن مخ دخترا استفاده کرده.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-16T19:31:45+00:00",
@@ -14712,36 +14750,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148087"
-      },
-      {
-        "id": 148086,
-        "text": "⭕️\n⭕️\n🚨\n|\nفوووووری\n‼️\nتلگراف: ناو هواپیمابر جورج واشنگتن برای جایگزینی با ناو آبراهام لینکلن عازم خاورمیانه می‌شود\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-15T11:10:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148086_0_8c0e4b47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148086"
-      },
-      {
-        "id": 148085,
-        "text": "🇦🇪\n👀\n|\nهدف قرار گرفتن کشتی اماراتی در تنگه هرمز\n‼️\nوزارت خارجه امارات رسما از هدف قرار گرفتن یک فروند کشتی متعلق به شرکت «ادنوک» امارات در هنگام عبور از تنگه هرمز خبر داد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-15T11:07:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148085_0_8c0e4b47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148085"
       }
     ],
     "maznet": [
@@ -16283,23 +16291,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T19:49:34.559460+00:00",
+  "last_update": "2026-08-16T20:32:08.969136+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 752,
-    "total_files": 752,
+    "total_media": 754,
+    "total_files": 754,
     "total_links": 277,
     "files_by_type": {
       "image": 713,
-      "video": 31,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 279.66,
-    "last_calculation": "2026-08-16T19:49:34.568534+00:00"
+    "referenced_files": 754,
+    "existing_media_files": 753,
+    "total_size_mb": 287.76,
+    "last_calculation": "2026-08-16T20:32:08.976028+00:00"
   }
 }
