@@ -12946,6 +12946,33 @@
     ],
     "bg_ae": [
       {
+        "id": 148134,
+        "text": "🔴\n🇺🇸\nپست های جدید ترامپ\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T04:01:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148134_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148134_1_7d9ae52c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148134_2_75cf459b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148134_3_33b4d96c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148134"
+      },
+      {
         "id": 148133,
         "text": "🔴\nپست جدید ترامپ: پیروز خواهیم شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-15T20:47:02+00:00",
@@ -14747,21 +14774,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148022"
-      },
-      {
-        "id": 148021,
-        "text": "🇮🇷\nسخنگوی هیئت رئیسه مجلس: فرایند قانونی استیضاح وزیر کار انجام شده و عملاً باید در دستور کار قرار می‌گرفت، اما بنا به هر ملاحظه‌ای این اتفاق نیفتاد\nبا این حال، فرایندی که طی شده همچنان به قوت خود باقی است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T10:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148021_0_9a95b67f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148021"
       }
     ],
     "maznet": [
@@ -16303,23 +16315,23 @@
       }
     ]
   },
-  "last_update": "2026-08-16T03:08:52.488922+00:00",
+  "last_update": "2026-08-16T04:11:03.317098+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 757,
-    "total_files": 757,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 277,
     "files_by_type": {
-      "image": 723,
+      "image": 726,
       "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 757,
-    "existing_media_files": 756,
-    "total_size_mb": 272.98,
-    "last_calculation": "2026-08-16T03:08:52.498041+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 273.22,
+    "last_calculation": "2026-08-16T04:11:03.323845+00:00"
   }
 }
