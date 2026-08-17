@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 148199,
+        "text": "⏺\n🇺🇸\nترامپ:\nاخیراً از رئیس جمهور کره جنوبی پرسیدم که آیا مایلند به ما در زمینه خلع سلاح هسته‌ای جمهوری اسلامی ایران بپیوندند، و آنها پاسخ دادند: \"نه، متشکرم.\"\nمن از این موضوع ناراضی هستم که ایالات متحده، سال‌ها پیش، توافق کرده است در تمرینات نظامی مشترک با کره جنوبی شرکت کند.\nبه آقای پیت هگست، وزیر جنگ، دستور داده‌ام که به طور قابل توجهی حجم تمرینات نظامی مشترک را کاهش دهد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-17T04:01:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148199_0_0f6a2ca2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148199"
+      },
+      {
         "id": 148198,
         "text": "🇺🇸\n👀\n|\nترامپ: وقتی فهمیدم کارولین لیویت (سخنگوی کاخ سفید که قراره استعفا بده) بچه‌هاشو بیشتر از من دوست داره خیلی ناراحت شدم\n💢\n@Baga_News\n| Король",
         "date": "2026-08-16T20:35:03+00:00",
@@ -14723,37 +14738,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148092"
-      },
-      {
-        "id": 148088,
-        "text": "⭕️\nوضعیت عجیب جنوب لبنان در پی حملات امروز اسراییل\nلبنانیا دارن از جنوب لبنان به سمت شمال فرار میکنند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-15T11:31:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148088_0_8c0e4b47.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148088_1_35387d58.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148088_2_e2517f35.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148088_3_a0af3fb3.mp4"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148088_4_a38b82a4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148088"
       }
     ],
     "maznet": [
@@ -16295,23 +16279,23 @@
       }
     ]
   },
-  "last_update": "2026-08-17T03:08:15.113116+00:00",
+  "last_update": "2026-08-17T04:22:20.508918+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 755,
-    "total_files": 755,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 277,
     "files_by_type": {
-      "image": 713,
-      "video": 34,
+      "image": 712,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 755,
-    "existing_media_files": 754,
-    "total_size_mb": 290.61,
-    "last_calculation": "2026-08-17T03:08:15.122221+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 285.55,
+    "last_calculation": "2026-08-17T04:22:20.518288+00:00"
   }
 }
