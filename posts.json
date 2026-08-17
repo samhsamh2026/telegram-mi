@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 148252,
+        "text": "🔴\n🇺🇸\nترامپ:\nبه توافق با ایران پایان می‌دهیم،\nآمریکا دیگر به دنبال تمدید آتش بس و توافق با ایران نیست.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-17T18:50:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148252_0_7f4dc1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148252"
+      },
+      {
+        "id": 148251,
+        "text": "⏺\n🇺🇸\nترامپ در مورد ایران:\nایران یک دردسر بزرگ است. کشورشان یک فاجعه است.\nارتش آن‌ها کاملاً شکست خورده است.\n‌‌‌\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-17T18:47:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148251_0_7f4dc1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148251"
+      },
+      {
         "id": 148250,
         "text": "🇮🇷\n👀\n|\nشهردار الیگودرز: کف رودخونه رو که آسفالت کردیم قراره پارکینگ بشه تا مردم عشق کنن\n💢\n@Baga_News\n| Король",
         "date": "2026-08-17T18:33:58+00:00",
@@ -14674,36 +14704,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148151"
-      },
-      {
-        "id": 148150,
-        "text": "‏\n💠\n💢\nکارمزد کارت‌به‌کارتِ تا یک میلیون تومان از ۹۰۰ رسید به ۱۱۰۰ تومان؛ حدود ۲۲٪ افزایش !\nبرای هر یک میلیون تومان بیشتر نیز ۳۵۰ تومان به کارمزد اضافه میشود.\n‎\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-16T09:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148150_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148150"
-      },
-      {
-        "id": 148149,
-        "text": "⭕️\nکاخ سفید:\nبه اندازه کافی و بالا موشک برای ادامه جنگ با ایران داریم!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-16T08:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148149_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148149"
       }
     ],
     "maznet": [
@@ -16245,7 +16245,7 @@
       }
     ]
   },
-  "last_update": "2026-08-17T18:42:28.394239+00:00",
+  "last_update": "2026-08-17T18:52:35.364801+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16262,6 +16262,6 @@
     "referenced_files": 744,
     "existing_media_files": 743,
     "total_size_mb": 326.65,
-    "last_calculation": "2026-08-17T18:42:28.403483+00:00"
+    "last_calculation": "2026-08-17T18:52:35.373540+00:00"
   }
 }
