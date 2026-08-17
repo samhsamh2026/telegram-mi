@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148205,
+        "text": "🔴\nفوری، مارجوری تیلور نماینده سابق کنگره آمریکا:\nآمریکا توی جلسات راهبردی خودش، درباره استفاده از بمب اتم علیه ایران صحبت میکنه! آره این موضوع کاملا واقعیه و حدس نمیزنم!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-17T06:31:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148205_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148205_1_bc8308e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148205"
+      },
+      {
+        "id": 148204,
+        "text": "🔴\nنیروهای روسی پنل‌های آینه‌ای را به یک ون نصب کردند تا در برابر پهپادهایی که از سیستم‌های هدف‌یابی اپتیکی یا مبتنی بر هوش مصنوعی استفاده می‌کنند، از آن محافظت کنند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-17T06:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148204_0_0f6a2ca2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148204_1_84dcc185.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148204"
+      },
+      {
         "id": 148203,
         "text": "🔴\nدولت هند یک جاده رو در هند آسفالت می کنه، یه روز بعدش مردم میان آسفالت رو می کنن می دزدن!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-17T05:30:43+00:00",
@@ -14700,44 +14738,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148098"
-      },
-      {
-        "id": 148097,
-        "text": "🚨\nتو سیستان و بلوچستان اتفاق افتاد :\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-15T13:33:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148097_0_8c0e4b47.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148097_1_b97bbaf3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148097"
-      },
-      {
-        "id": 148096,
-        "text": "⏺\nاین پست تو اینستاگرام از یه خانوم کناف‌کار در کمتر از\n6 ساعت\nبیش از\nیک میلیون\nویو خورد\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-15T13:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148096_0_8c0e4b47.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148096_1_1bf7f512.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148096"
       }
     ],
     "maznet": [
@@ -16279,7 +16279,7 @@
       }
     ]
   },
-  "last_update": "2026-08-17T06:03:44.445522+00:00",
+  "last_update": "2026-08-17T06:59:26.100715+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16295,7 +16295,7 @@
     },
     "referenced_files": 751,
     "existing_media_files": 750,
-    "total_size_mb": 287.06,
-    "last_calculation": "2026-08-17T06:03:44.454322+00:00"
+    "total_size_mb": 285.87,
+    "last_calculation": "2026-08-17T06:59:26.109852+00:00"
   }
 }
