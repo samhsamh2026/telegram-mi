@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 148261,
+        "text": "🇮🇷\n👀\n|\nغلامحسین محسنی اژه‌ای، رئیس قوه قضاییه:\nاحتمال کودتا و فتنه و حمله نظامی دوباره وجود دارد. دشمن می خواهد با توطئه خارجی انسجام و هماهنگی را از بین ببرد و ما را از ارزش های اسلامی دور کند نباید غفلت کنیم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-17T20:10:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148261_0_7f4dc1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148261"
+      },
+      {
+        "id": 148260,
+        "text": "🚨\nمقام ایرانی به رویترز :  ایران سیاست خودشو از دفاعی به هجومی تغییر داده، واسه همین چند هفته به آمریکا ضرب‌الاجل میدیم که توافق نامه رو کامل اجرا کنه وگرنه بهش حمله میکنیم !!!\n💢\n@Baga_News | areZo",
+        "date": "2026-08-17T19:50:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148260_0_7f4dc1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148260"
+      },
+      {
         "id": 148258,
         "text": "🚨\nاطلاعیه رادر کلودفلر :\nترافیک اینترنت بین الملل ایران از ۹۰ درصد به ۵۹ درصد رسیده ،وضعیت الان اینترنت ایران دقیقا مثل روزای قبل از قطعی ۸۸ روزه ی اینترنته و با اختلالات بسیار سنگین همراه شده.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-17T19:31:08+00:00",
@@ -14674,40 +14704,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148159"
-      },
-      {
-        "id": 148158,
-        "text": "⭕️\nویدیویی که طرفداران حکومت با عنوان «اولین ویدیو از دیدار پزشکیان با مجتبی خامنه‌ای» دارن تو فضای مجازی وایرال می‌کنن:\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-16T11:33:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148158_0_0f6a2ca2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148158_1_fe446407.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148158"
-      },
-      {
-        "id": 148157,
-        "text": "دیگه وقت رفع فیلتره\n🔻\nمعاون پزشکیان :\nگزارش مقامات امنیتی نشان می‌دهد که استفاده از فیلترشکن‌ها، راه نفوذ دشمن را آسان‌تر کرده\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-16T11:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148157_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148157"
       }
     ],
     "maznet": [
@@ -16249,23 +16245,23 @@
       }
     ]
   },
-  "last_update": "2026-08-17T19:35:21.506999+00:00",
+  "last_update": "2026-08-17T20:36:07.484950+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 745,
-    "total_files": 745,
+    "total_media": 744,
+    "total_files": 744,
     "total_links": 276,
     "files_by_type": {
       "image": 700,
-      "video": 37,
+      "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 745,
-    "existing_media_files": 744,
-    "total_size_mb": 339.96,
-    "last_calculation": "2026-08-17T19:35:21.514152+00:00"
+    "referenced_files": 744,
+    "existing_media_files": 743,
+    "total_size_mb": 339.5,
+    "last_calculation": "2026-08-17T20:36:07.493933+00:00"
   }
 }
