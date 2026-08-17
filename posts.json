@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148216,
+        "text": "‏\n🔻\nخداداد عزیزی :\nاولین کسی بودم که جان فدا ثبت نام کردم؛ حکومتی نیستم اگه بودم که سرمربی تیم ملی بودم\n‎\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-17T10:34:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148216_0_7f4dc1c5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148216_1_15a6d30b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148216"
+      },
+      {
+        "id": 148215,
+        "text": "صداسیما بدون اینکه خندش بگیره :\nزمان شاه امید به زندگی ۵۰-۶۰ سال بود ولی الان شده ۸۰ سال\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-17T10:10:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148215_0_7f4dc1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148215"
+      },
+      {
         "id": 148214,
         "text": "💠\nقائم پناه؛ معاون اجرایی پزشکیان :\nما چون تحریمیم مجبوریم نفت رو قاچاقی بفروشیم. برای همین مجبوریم بدیم دست دلال ها تا نفت رو برامون بفروشن. وقتیم اونا بفروشن معلوم نیست پولشو کی بیارن یا اصلا پولی بیارن یا نه.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-17T09:50:19+00:00",
@@ -14704,44 +14738,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148109"
-      },
-      {
-        "id": 148108,
-        "text": "🔴\nبعد از مسدود شدن صفحه توییتر تسنیم توسط ایلان ماسک، حالا شرکت متا که متعلق به مارک زاکربرگ هست پیج رسمی فارس رو مسدود کرده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-15T15:40:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148108_0_8c0e4b47.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148108_1_08e174ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148108"
-      },
-      {
-        "id": 148107,
-        "text": "🇯🇵\n👀\n| نشریه ژاپنی :\nپزشکیان در تماس با نخست وزیر ژاپن به وی اطمینان داده است ایران از کشتی های ژاپنی عبوری از تنگه هرمز هرگز عوارض نخواهد گرفت.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-15T15:32:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148107_0_8c0e4b47.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148107_1_b4c88696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148107"
       }
     ],
     "maznet": [
@@ -16283,23 +16279,23 @@
       }
     ]
   },
-  "last_update": "2026-08-17T09:52:50.018194+00:00",
+  "last_update": "2026-08-17T10:40:07.322155+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 752,
-    "total_files": 752,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 277,
     "files_by_type": {
-      "image": 711,
-      "video": 33,
+      "image": 709,
+      "video": 34,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 297.53,
-    "last_calculation": "2026-08-17T09:52:50.027116+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 301.26,
+    "last_calculation": "2026-08-17T10:40:07.331108+00:00"
   }
 }
