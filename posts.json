@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 148230,
+        "text": "🚨\nمقام ایرانی به رویترز :\nایران سیاست خودشو از دفاعی به هجومی تغییر داده، واسه همین چند هفته به آمریکا ضرب‌الاجل میدیم که توافق نامه رو کامل اجرا کنه وگرنه بهش حمله میکنیم !!!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-17T13:33:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148230_0_7f4dc1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148230"
+      },
+      {
+        "id": 148229,
+        "text": "🔻\nترامپ: ما یک کانال ارتباطی مخفی با سپاه پاسداران داریم ما مستقیماً با مقامات سپاه پاسداران در ایران در ارتباط هستیم\n💢\n@Baga_News | areZo",
+        "date": "2026-08-17T13:13:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148229_0_7f4dc1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148229"
+      },
+      {
         "id": 148228,
         "text": "🔻\nمدیرعامل آسیاتک: مردم بی‌رویه اینترنت مصرف می‌کنند چون قیمت هر گیگ اینترنت ناچیز است!\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-17T12:54:09+00:00",
@@ -14706,40 +14736,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148123"
-      },
-      {
-        "id": 148122,
-        "text": "🔴\nدر ساعات اخیر انصارالله یمن حملاتی به دو پایگاه نظامی صحن الجن و تداوین در استان مارب انجام داده است\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-15T19:03:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148122_0_8c0e4b47.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148122_1_8fbd5d08.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148122"
-      },
-      {
-        "id": 148121,
-        "text": "🔴\n🔴\nتلگراف :\nانتظار می‌رود ناو هواپیمابر جرج واشنگتن تا ۹ روز دیگر به خاورمیانه برسد تا جایگزین ناو هواپیمابر آبراهام لینکلن شود.\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-15T18:55:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148121_0_8c0e4b47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148121"
       }
     ],
     "maznet": [
@@ -16281,23 +16277,23 @@
       }
     ]
   },
-  "last_update": "2026-08-17T12:58:48.855562+00:00",
+  "last_update": "2026-08-17T13:47:29.630914+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 753,
-    "total_files": 753,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 276,
     "files_by_type": {
-      "image": 710,
+      "image": 709,
       "video": 35,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 753,
-    "existing_media_files": 752,
-    "total_size_mb": 321.5,
-    "last_calculation": "2026-08-17T12:58:48.864851+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 321.48,
+    "last_calculation": "2026-08-17T13:47:29.640233+00:00"
   }
 }
