@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148335,
+        "text": "🚨\n‏\nیه روز عادی تو ایران\nواسه سگشون تولد گرفتن و لباس عروس بچه‌کوچیکارو کردن تنش و به زبون سگ دارن میگن تولد تولد تولدت مبارک\n😂\nخود سگه پشماش ریخته\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-18T20:50:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148335_0_430c0a4a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148335_1_1597dd13.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148335"
+      },
+      {
         "id": 148333,
         "text": "⚪️\nفیلمای وایرال شده از بازار پروانه تهران و پوشش آزادانه بانوان سرزمین:\n💢\n@Baga_News\n| Король",
         "date": "2026-08-18T20:31:41+00:00",
@@ -14705,21 +14724,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148231"
-      },
-      {
-        "id": 148230,
-        "text": "🚨\nمقام ایرانی به رویترز :\nایران سیاست خودشو از دفاعی به هجومی تغییر داده، واسه همین چند هفته به آمریکا ضرب‌الاجل میدیم که توافق نامه رو کامل اجرا کنه وگرنه بهش حمله میکنیم !!!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-17T13:33:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148230_0_7f4dc1c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148230"
       }
     ],
     "maznet": [
@@ -16261,23 +16265,23 @@
       }
     ]
   },
-  "last_update": "2026-08-18T20:34:02.846977+00:00",
+  "last_update": "2026-08-18T21:35:08.273850+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 276,
     "files_by_type": {
       "image": 703,
-      "video": 37,
+      "video": 38,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 333.92,
-    "last_calculation": "2026-08-18T20:34:02.856648+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 334.93,
+    "last_calculation": "2026-08-18T21:35:08.280954+00:00"
   }
 }
