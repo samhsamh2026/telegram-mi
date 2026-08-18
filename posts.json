@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148340,
+        "text": "🇮🇱\n👀\n|\nبن سبطی، سخنگوی سابق اسرائیل:\nخوش به حال مردم بندرعباس و قشم و غیره که قراره تابع آمریکا شن و پاسپورت آمریکایی بگیرن\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-18T23:19:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148340_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148340"
+      },
+      {
+        "id": 148338,
+        "text": "🔴\nحمله هوایی اسرائیل علیه تپه علی الطاهر\nدر جنوب لبنان\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-18T22:33:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148338_0_430c0a4a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148338_1_40730934.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148338_2_c2ed93e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148338"
+      },
+      {
         "id": 148337,
         "text": "کسی میدونه خوشید تو لبنان چرا اینوقت شب طلوع کرده؟\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-18T22:17:27+00:00",
@@ -14690,40 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148235"
-      },
-      {
-        "id": 148234,
-        "text": "عارف :\nسهمیه اول بنزین کاهش نمی‌یابد، اما سهمیهٔ دوم به‌تدریج و در راستای آزادسازی قیمت‌ها کاهش می‌یابد.\nپ.ن :خلاصه اینکه قراره کم کم کار خودشونو انجام بدن\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-17T14:33:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148234_0_7f4dc1c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148234"
-      },
-      {
-        "id": 148233,
-        "text": "🔻\n🇺🇸\nشرکت ریتئون از گروه RTX قراردادی به ارزش ۲۲.۹ میلیارد دلار و به مدت هفت سال با نیروی دریایی ایالات متحده برای افزایش تولید موشک‌های کروز تامهاوک به بیش از ۱۰۰۰ موشک در سال به دست آورده است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-17T14:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148233_0_7f4dc1c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148233_1_4a17a030.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148233"
       }
     ],
     "maznet": [
@@ -16265,23 +16269,23 @@
       }
     ]
   },
-  "last_update": "2026-08-18T22:32:58.357012+00:00",
+  "last_update": "2026-08-18T23:30:09.887477+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 276,
     "files_by_type": {
-      "image": 703,
+      "image": 704,
       "video": 38,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 334.93,
-    "last_calculation": "2026-08-18T22:32:58.366142+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 334.96,
+    "last_calculation": "2026-08-18T23:30:09.896550+00:00"
   }
 }
