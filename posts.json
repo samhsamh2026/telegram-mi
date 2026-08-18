@@ -12946,6 +12946,67 @@
     ],
     "bg_ae": [
       {
+        "id": 148289,
+        "text": "حکومت ما؛ به خودروی مدل ۱۳۸۵ میگه فرسوده؛ ولی به جنتی‌ ۱۰۰ ساله میگه کارآمد، بهش حقوق میده و بازنشسته‌اش نمیکنه\n‎\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-18T11:31:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148289_0_430c0a4a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148289_1_a890fa9c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148289_2_f63bc94e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148289"
+      },
+      {
+        "id": 148288,
+        "text": "🆕\nبه گزارش خبرگزاری ایلنا :\nهر خانواده باید ماهانه حداقل ۹۰ میلیون\nتومن درآمد داشته باشن تا بتونن حداقل هزینه‌های زندگی رو بپردازن درحالی که دستمزد اکثر کارگرا به ۴۵ میلیون تومن هم نمیرسه!\n💔\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-18T11:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148288_0_430c0a4a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148288_1_ed73a041.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148288"
+      },
+      {
+        "id": 148287,
+        "text": "🔻\n👀\nعراقچی :\nدر دنیای وحشی حاضر قدرت سخت حرف اول را می زند. در جنگ این موشک های\n🚀\nما بودند که محور قدرت ما بودند!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-18T10:50:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148287_0_430c0a4a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148287_1_0bb9cde7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148287"
+      },
+      {
         "id": 148286,
         "text": "🔹\nبلومبرگ: با رد ترامپ برای تمدید دوباره آتش بس دیگر امیدی برای صلح ایران و آمریکا نیست\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-18T10:34:19+00:00",
@@ -14643,55 +14704,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148188"
-      },
-      {
-        "id": 148187,
-        "text": "🟠\nشبکه قران:\nمردم نماز باران بخوانند تا باران فراوان ببارد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T17:50:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148187_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148187"
-      },
-      {
-        "id": 148186,
-        "text": "🇮🇷\n👀\n|\nامیر حاتمی،فرمانده ارتش:\nاخراج آمریکا انجام شده است و دیگر اجازه ورود به خلیج فارس، دریای عمان و تنگه هرمز را نخواهند داشت.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T17:35:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148186_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148186"
-      },
-      {
-        "id": 148185,
-        "text": "🇮🇷\n👀\n| ریحانه قاسمی زاده مجری صداوسیما:\nجنوب ایران،فدای جنوب لبنان،اینو یادتون باشه.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T17:35:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148185_0_0f6a2ca2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148185_1_66e4039a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148185"
       }
     ],
     "maznet": [
@@ -16233,23 +16245,23 @@
       }
     ]
   },
-  "last_update": "2026-08-18T10:37:31.110368+00:00",
+  "last_update": "2026-08-18T11:33:50.400613+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 741,
-    "total_files": 741,
+    "total_media": 744,
+    "total_files": 744,
     "total_links": 276,
     "files_by_type": {
-      "image": 697,
+      "image": 700,
       "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 741,
-    "existing_media_files": 740,
-    "total_size_mb": 346.24,
-    "last_calculation": "2026-08-18T10:37:31.117537+00:00"
+    "referenced_files": 744,
+    "existing_media_files": 743,
+    "total_size_mb": 348.89,
+    "last_calculation": "2026-08-18T11:33:50.409525+00:00"
   }
 }
