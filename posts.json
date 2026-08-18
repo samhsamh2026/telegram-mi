@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 148276,
+        "text": "🔴\nحمله پهپادی یمن(حوثی ها) به پالایشگاه آرامکو عربستان در جیزان\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-18T07:47:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148276_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148276"
+      },
+      {
+        "id": 148275,
+        "text": "تو دورانی که همه از احتمال حمله اتمی صحبت میکنن تو محسن رضایی باش.\n🔴\nگیگا چد فیلد مارشال سناتور محسن رضایی : تا حالا زیادی صبر کرده ایم ، لازم شود از NPT خارج میشویم\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-18T07:31:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148275_0_430c0a4a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148275_1_aefed01a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148275"
+      },
+      {
+        "id": 148274,
+        "text": "⏺\nسایت جانفدا : شرکت در جانفدا اجباری نیست و کسایی که میخوان از جانفدا انصراف بدن عدد ۱۱ رو ارسال کنن.\n+\nبه کجا آخه؟\n😍\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-18T07:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148274_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148274"
+      },
+      {
         "id": 148273,
         "text": "🔴\nویدیویی از یک پیرمرد که تو بازار کار میکنه و داره نون خشک و آب ناهار میخوره. لعنت به باعث و بانی این وضعیت.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-18T06:32:03+00:00",
@@ -14659,59 +14708,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148174"
-      },
-      {
-        "id": 148173,
-        "text": "⏺\n🇮🇱\nوب‌سایت اسرائیلی والا:\nتخمین‌ها در اسرائیل نشان می‌دهد که حزب‌الله و حماس در هماهنگی با ایران تلاش می‌کنند تا تنش‌ها را افزایش دهند.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-16T16:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148173_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148173"
-      },
-      {
-        "id": 148172,
-        "text": "چه میم تلخی\n😂\n💔\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-08-16T16:06:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148172_0_0f6a2ca2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148172_1_c352167a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148172"
-      },
-      {
-        "id": 148171,
-        "text": "🇮🇱\n👀\n| بن‌گویر؛وزیر امنیت ملی اسرائیل از بی‌بی نتانیاهو خواست حملات به بیروت را فوراً آغاز کند\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T15:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148171_0_0f6a2ca2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148171_1_e519d12c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148171"
       }
     ],
     "maznet": [
@@ -16253,23 +16249,23 @@
       }
     ]
   },
-  "last_update": "2026-08-18T06:58:32.773026+00:00",
+  "last_update": "2026-08-18T07:48:53.713379+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 746,
-    "total_files": 746,
+    "total_media": 745,
+    "total_files": 745,
     "total_links": 276,
     "files_by_type": {
-      "image": 702,
+      "image": 701,
       "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 342.18,
-    "last_calculation": "2026-08-18T06:58:32.782523+00:00"
+    "referenced_files": 745,
+    "existing_media_files": 744,
+    "total_size_mb": 342.11,
+    "last_calculation": "2026-08-18T07:48:53.722671+00:00"
   }
 }
