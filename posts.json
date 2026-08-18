@@ -12946,6 +12946,51 @@
     ],
     "bg_ae": [
       {
+        "id": 148279,
+        "text": "🇮🇷\n👀\n|\nسپهوند، نماینده مجلس:\nبرای فصل سرما قطعی برق کمتر خواهد بود اما قطعی گاز بیشتر خواهد شد به دلیل جنگ و تبعاتی که داشته است\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-18T08:34:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148279_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148279"
+      },
+      {
+        "id": 148278,
+        "text": "💢\nالان که داریم وارد ششمین ماه سال می‌شیم\nتازه گفتن مجوز ثبت سفارش واردات گوشی دادن\nامسال هیچ ثبت سفارشی برای واردات موبایل انجام نشده\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-08-18T08:05:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148278_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148278"
+      },
+      {
+        "id": 148277,
+        "text": "تو بوشهر مهمات عمل نکرده خنثی میکنن نگورخید\n💢\n@Baga_News\n|\nArT",
+        "date": "2026-08-18T08:01:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148277_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148277"
+      },
+      {
         "id": 148276,
         "text": "🔴\nحمله پهپادی یمن(حوثی ها) به پالایشگاه آرامکو عربستان در جیزان\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-18T07:47:23+00:00",
@@ -14651,63 +14696,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148178"
-      },
-      {
-        "id": 148176,
-        "text": "🇮🇷\n👀\n| مجری تلوزیون: وقتی آقا میگه عملیات تهاجمی دیگه حرفی نباید زد و فقط باید فکر مقاومت و جنگ باشیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T16:59:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148176_0_0f6a2ca2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148176_1_79353766.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148176"
-      },
-      {
-        "id": 148175,
-        "text": "💢\nعادی ترین مجری صداسیما:\nریحانه قاسمی زاده مجری صداوسیما:\nجنوب ایران، فدای جنوب لبنان، اینو یادتون باشه!!\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-08-16T16:49:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148175_0_0f6a2ca2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148175_1_932eacd4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148175"
-      },
-      {
-        "id": 148174,
-        "text": "🇵🇸\n‼️\n| یک شهروند تو غزه:\nایران عامل بدبختی ما و خاورمیانه هست\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T16:30:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148174_0_0f6a2ca2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148174_1_dffc1fd3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148174"
       }
     ],
     "maznet": [
@@ -16249,23 +16237,23 @@
       }
     ]
   },
-  "last_update": "2026-08-18T07:48:53.713379+00:00",
+  "last_update": "2026-08-18T08:47:25.433051+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 745,
-    "total_files": 745,
+    "total_media": 742,
+    "total_files": 742,
     "total_links": 276,
     "files_by_type": {
-      "image": 701,
-      "video": 36,
+      "image": 700,
+      "video": 34,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 745,
-    "existing_media_files": 744,
-    "total_size_mb": 342.11,
-    "last_calculation": "2026-08-18T07:48:53.722671+00:00"
+    "referenced_files": 742,
+    "existing_media_files": 741,
+    "total_size_mb": 332.47,
+    "last_calculation": "2026-08-18T08:47:25.440203+00:00"
   }
 }
