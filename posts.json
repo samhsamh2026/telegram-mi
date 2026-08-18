@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 148293,
+        "text": "🔹\nتروث جدید ترامپ و اعلام تنگه هرمز به‌عنوان قلمرو آمریکا.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-18T12:33:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148293_0_430c0a4a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148293_1_1bcf852b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148293"
+      },
+      {
+        "id": 148292,
+        "text": "⭕️\nمحمدباقر خرازی برادر همسر مسعود خامنه ای به اتهام اقدام علیه امنیت ملی بازداشت شد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-18T12:26:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148292_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148292"
+      },
+      {
+        "id": 148291,
+        "text": "💢\nقالیباف :\nما ازخون قائد شهید وکودکان بی‌گناه میناب و سایر شهیدان دفاع مقدس دوم وسوم نمی‌گذریم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-18T11:54:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148291_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148291"
+      },
+      {
         "id": 148289,
         "text": "حکومت ما؛ به خودروی مدل ۱۳۸۵ میگه فرسوده؛ ولی به جنتی‌ ۱۰۰ ساله میگه کارآمد، بهش حقوق میده و بازنشسته‌اش نمیکنه\n‎\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-18T11:31:05+00:00",
@@ -14659,51 +14708,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148191"
-      },
-      {
-        "id": 148190,
-        "text": "⚪️\n‼️\n|\nفاکس نیوز: تفاهم‌نامه ۶٠ روزه بین آمریکا و ایران تا چند لحظاتی دیگر منقضی می‌شود\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T18:30:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148190_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148190"
-      },
-      {
-        "id": 148189,
-        "text": "💢\nگزارش‌ها از تشدید دوباره اختلال اینترنت در ایران\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-08-16T18:24:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148189_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148189"
-      },
-      {
-        "id": 148188,
-        "text": "🇵🇹\n👀\n|\nکریستیانو رونالدو:\nاحتمالاً این آخرین سال من در فوتبال خواهد بود\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-16T18:10:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148188_0_0f6a2ca2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148188"
       }
     ],
     "maznet": [
@@ -16245,23 +16249,23 @@
       }
     ]
   },
-  "last_update": "2026-08-18T11:33:50.400613+00:00",
+  "last_update": "2026-08-18T12:50:37.887823+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 744,
-    "total_files": 744,
+    "total_media": 745,
+    "total_files": 745,
     "total_links": 276,
     "files_by_type": {
-      "image": 700,
+      "image": 701,
       "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 744,
-    "existing_media_files": 743,
-    "total_size_mb": 348.89,
-    "last_calculation": "2026-08-18T11:33:50.409525+00:00"
+    "referenced_files": 745,
+    "existing_media_files": 744,
+    "total_size_mb": 348.98,
+    "last_calculation": "2026-08-18T12:50:37.896844+00:00"
   }
 }
