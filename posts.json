@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 148344,
+        "text": "🔴\nخبرگزاری CNN:\nترامپ به ارشدین خود دستور داده است تا مذاکرات با ایران را متوقف کنند، که نشان‌دهنده یک تغییر اساسی در استراتژی است.\nدولت در حال فاصله گرفتن از تلاش برای \"فشار حداکثری فوری بر ایران\" و حرکت به سمت یک تلاش بلندمدت برای \"تحمیل فشار\" بر تهران از طریق فشار اقتصادی و نظامی مداوم است.\nبه نظر می‌رسد هدف، افزایش تدریجی فشار بر ایران است تا زمانی که این کشور تمایل بیشتری برای پذیرش شرایط ترامپ پیدا کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-19T05:00:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148344_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148344"
+      },
+      {
+        "id": 148343,
+        "text": "🔴\nکاتز، وزیر دفاع اسرائیل:\nسیاست ما در غزه، کشتن تروریست‌ها و انتقام از عاملان هفتم اکتبره.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-19T04:31:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148343_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148343"
+      },
+      {
         "id": 148342,
         "text": "🔴\nتوی یک امامزاده روی یه سنگ یه شکلی وجود داره که مردم فکر میکنن امامه و میرن بوسش میکنن\n😳\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-19T04:00:33+00:00",
@@ -14690,44 +14720,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148239"
-      },
-      {
-        "id": 148238,
-        "text": "🇫🇷\n👀\n|\nویدیو وایرال شده از فروشگاه لیدل فرانسه\nروی گوشتای حلال دزدگیر زده ولی رو گوشت‌‌هایی مثل گوشت خوک که توی اسلام حرام اعلام شدن دزدگیر نذاشته.\n🟠\nدلیل؟\nمهاجرین مسلمون گوشتای حلال رو میدزدن\n😂\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-17T15:30:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148238_0_7f4dc1c5.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148238_1_46b55a70.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148238"
-      },
-      {
-        "id": 148237,
-        "text": "💢\n@Baga_News\n|\nArT",
-        "date": "2026-08-17T15:25:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148237_0_7f4dc1c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148237_1_69115235.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148237"
       }
     ],
     "maznet": [
@@ -16269,23 +16261,23 @@
       }
     ]
   },
-  "last_update": "2026-08-19T04:11:43.287571+00:00",
+  "last_update": "2026-08-19T05:05:42.422357+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 276,
     "files_by_type": {
-      "image": 704,
-      "video": 38,
+      "image": 703,
+      "video": 37,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 326.91,
-    "last_calculation": "2026-08-19T04:11:43.296495+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 318.66,
+    "last_calculation": "2026-08-19T05:05:42.431764+00:00"
   }
 }
