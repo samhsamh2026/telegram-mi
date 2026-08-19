@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148362,
+        "text": "وضعیت گرانی که حتی فروشنده هم پشمی براش نمونده\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-19T10:32:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148362_0_2fe6f5e0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148362_1_cfe224ff.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148362"
+      },
+      {
+        "id": 148361,
+        "text": "🔻\nوال استریت ژورنال:\nمقام‌های عرب می‌گویند ما «بین ایران و آمریکا گیر افتاده‌ایم»\nآن‌ها معتقدند ایران در نهایت به افزایش فشار اقتصادی، واکنش نظامی نشان خواهد داد، در نتیجه، جنگ دوباره می‌تواند شدت بگیرد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-19T10:10:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148361_0_2fe6f5e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148361"
+      },
+      {
+        "id": 148360,
+        "text": "🔹\nزاکانی : مردم عزیزمون بالاخره طعم ناب مدیریت انقلابی را خواهند چشید\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-19T09:50:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148360_0_2fe6f5e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148360_1_a30a8ae9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148360"
+      },
+      {
         "id": 148359,
         "text": "امروز تولد مهرداد مشتاقی از جانباختگان دی ماهه که ی رئالی دو آتیشه بود و اگه زنده بود امشب ۲۸ ساله میشد.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-19T09:33:22+00:00",
@@ -14675,55 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148255"
-      },
-      {
-        "id": 148254,
-        "text": "🇮🇷\n👀\n|\nمتکی: ما اگر یک پایگاه آمریکا را در یک کشور دیگر بگیریم می‌توانیم جنگ را تمام کنیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-17T19:03:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148254_0_7f4dc1c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148254"
-      },
-      {
-        "id": 148253,
-        "text": "🔴\nاینم از صحنه دعوای ترامپ با خبرنگار سی‌ان‌ان:\nساکت باش؛ خیلی بی‌احترامی می‌کنی. تو خبرنگار جعلی هستی و فقط سروصدا می‌کنی.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-17T18:55:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148253_0_7f4dc1c5.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148253_1_5d4045d1.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148253"
-      },
-      {
-        "id": 148252,
-        "text": "🔴\n🇺🇸\nترامپ:\nبه توافق با ایران پایان می‌دهیم،\nآمریکا دیگر به دنبال تمدید آتش بس و توافق با ایران نیست.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-17T18:50:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148252_0_7f4dc1c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148252"
       }
     ],
     "maznet": [
@@ -16265,23 +16269,23 @@
       }
     ]
   },
-  "last_update": "2026-08-19T09:42:08.375563+00:00",
+  "last_update": "2026-08-19T10:47:03.719450+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 276,
     "files_by_type": {
-      "image": 709,
+      "image": 710,
       "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 301.18,
-    "last_calculation": "2026-08-19T09:42:08.384741+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 297.61,
+    "last_calculation": "2026-08-19T10:47:03.725031+00:00"
   }
 }
