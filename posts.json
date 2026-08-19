@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148342,
+        "text": "🔴\nتوی یک امامزاده روی یه سنگ یه شکلی وجود داره که مردم فکر میکنن امامه و میرن بوسش میکنن\n😳\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-19T04:00:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148342_0_430c0a4a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148342_1_00a42163.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148342"
+      },
+      {
         "id": 148341,
         "text": "🇮🇷\n👀\n|\nعلم الهدی:\nما باید برای حفظ اسلام از دیدن رهبر جلوگیری کنیم تا مبادا رهبر اسلام یعنی ایت‌الله مجتبی خامنه‌ای صدمه‌ ای به ایشان وارد شود\n💢\n@Baga_News\n| Король",
         "date": "2026-08-18T23:32:21+00:00",
@@ -14709,21 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148237"
-      },
-      {
-        "id": 148236,
-        "text": "⏺\nلومر خبرنگار ترامپ: اسم سگم مکه‌س\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-17T15:10:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148236_0_7f4dc1c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148236"
       }
     ],
     "maznet": [
@@ -16265,23 +16269,23 @@
       }
     ]
   },
-  "last_update": "2026-08-19T03:06:05.788277+00:00",
+  "last_update": "2026-08-19T04:11:43.287571+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 276,
     "files_by_type": {
       "image": 704,
-      "video": 37,
+      "video": 38,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 323.78,
-    "last_calculation": "2026-08-19T03:06:05.797264+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 326.91,
+    "last_calculation": "2026-08-19T04:11:43.296495+00:00"
   }
 }
