@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148356,
+        "text": "کانال 12 عبری: پروازها بین تل‌آویو و مراکش، بعد از سه سال وقفه، امروز از سر گرفته میشه\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-19T08:48:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148356_0_2fe6f5e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148356"
+      },
+      {
+        "id": 148355,
+        "text": "⭕️\nهشدار رئیس ستاد کل نیروهای مسلح: هرگونه کمک و تسهیل‌گری به ارتش متجاوز آمریکا به منزله مشارکت با نیروهای نظامی آمریکاست\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-19T08:16:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148355_0_2fe6f5e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148355_1_ed060f5f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148355"
+      },
+      {
         "id": 148353,
         "text": "🔴\nنرخ های جدید کارمزد خدمات بانکی برای سال ۱۴۰۵:\nبه طور خاص دولت ماهانه ۱۰ میلیون دلار از این کارمزد ها سود میبرد. ( به جز کارمزد کالا )\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-19T08:00:33+00:00",
@@ -14690,44 +14724,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148249"
-      },
-      {
-        "id": 148248,
-        "text": "این فیلم راه رفتن ترامپ بعد از سخنرانی اخیرش خیلی وایرال شده و توجه مردمو به باسن خودش جلب کرده.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-17T18:21:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148248_0_7f4dc1c5.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148248_1_111367b8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148248"
-      },
-      {
-        "id": 148247,
-        "text": "🚀\nبا\nOneVnet اتصال بی دردسرو پرسرعت\nرو تجربه کن\n⚡️\nباورت میشه با\nگیگی فقط 2 هزارتومان\nبتونی وی پی ان بخری\n💵\n💸\nسه پلن\nمتنوع مطابق هر استفاده ای:\n✨\nVIP\n( نت ملی)\n| سرعت پایدار و پینگ پایین مخصوص حرفه‌ای‌ها\n🌎\nمولتی لوکیشن |ارائه چند لوکیشن تانل شده و مستقیم\n♾\nنامحدود منصفانه | مصرف سنگین با مبلغ ناچیز\n‼️\nنامحدود یکماهه فقط و فقط با 105 تومان بخر\n‼️\n🎁\n1 گیگ تست 24 ساعته کاملا رایگان\n😊\n👨‍💻\nپشتیبانی 24 ساعته  و بدون قطعی\nوقتشه حرفه‌ای وصل شی و\nوصل بمونی\n☄️\nاستارت کن و تست\nرایگان ۲۴ ساعته تو بگیر بعد بخر\n😉\n!\n@OneVnetbot",
-        "date": "2026-08-17T18:13:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148247_0_7f4dc1c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148247_1_098343ee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148247"
       }
     ],
     "maznet": [
@@ -16269,23 +16265,23 @@
       }
     ]
   },
-  "last_update": "2026-08-19T08:10:44.607055+00:00",
+  "last_update": "2026-08-19T08:48:10.774765+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 276,
     "files_by_type": {
       "image": 709,
-      "video": 33,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 305.23,
-    "last_calculation": "2026-08-19T08:10:44.616141+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 301.24,
+    "last_calculation": "2026-08-19T08:48:10.784355+00:00"
   }
 }
