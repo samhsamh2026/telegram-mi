@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 148412,
+        "text": "🎙\nخبرنگار:\nجوابتون به صحبتای ترامپ درباره تنگه هرمز چیه؟\n🔴\nحداد عادل:\nباید بگیم تنگه، تنگه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-19T21:34:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148412_0_2fe6f5e0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148412_1_7b702756.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148412"
+      },
+      {
+        "id": 148411,
+        "text": "💢\nاز امروز در فرانسه، آدم‌ها به‌صورت قانونی می‌تونن زندگی خودشون رو تموم کنن  + غیرقانونی تموم کنن چیمیشه؟\n💢\n@Baga_News  |    ArT",
+        "date": "2026-08-19T20:58:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148411_0_2fe6f5e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148411_1_ccf5edde.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148411_2_62b71928.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148411"
+      },
+      {
         "id": 148410,
         "text": "🇮🇱\n👀\n|\nنفتالی بنت: اگر حزب‌الله به ما شلیک کند، ما به ایران حمله می‌کنیم\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-19T20:10:20+00:00",
@@ -14698,40 +14740,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148304"
-      },
-      {
-        "id": 148303,
-        "text": "امارات هشدار موشکی اومده\n🤣\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-18T14:59:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148303_0_430c0a4a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148303"
-      },
-      {
-        "id": 148302,
-        "text": "🔻\nسردار نقدی:\nبعد فتح اسرائیل، کلاهک‌هاشون رو برمیداریم و سر اونا با غرب مذاکره میکنیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-18T14:50:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148302_0_430c0a4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148302_1_a0e29b8c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148302"
       }
     ],
     "maznet": [
@@ -16273,23 +16281,23 @@
       }
     ]
   },
-  "last_update": "2026-08-19T20:37:42.390679+00:00",
+  "last_update": "2026-08-19T21:35:08.071849+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 753,
+    "total_files": 753,
     "total_links": 276,
     "files_by_type": {
-      "image": 712,
-      "video": 31,
+      "image": 713,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 287.95,
-    "last_calculation": "2026-08-19T20:37:42.399641+00:00"
+    "referenced_files": 753,
+    "existing_media_files": 752,
+    "total_size_mb": 289.11,
+    "last_calculation": "2026-08-19T21:35:08.077672+00:00"
   }
 }
