@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148491,
+        "text": "چه مثالی.\n🇮🇷\n👀\n| ضرغامی:\nاز اول انقلاب تحریم بودیم ولی کشور رشد کرده، پیرزن رو از تاکسی خالی نترسونین.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-20T20:50:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148491_0_991c325c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148491_1_a49de5bf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148491"
+      },
+      {
         "id": 148490,
         "text": "🚨\nفیلم وایرال شده از درگیری عجیب و غریب یک مرد یا یک زن بر سر حجاب کنار ساحل بندرکیاشهر استان گیلان\n😕\nمرده گیر داده به زنه برای حجاب بعد خودش یه مایوی زننده پوشیده\n.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-20T20:33:22+00:00",
@@ -14779,25 +14798,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148383"
-      },
-      {
-        "id": 148381,
-        "text": "بعضیا ادعا میکنن یاران امام حسین تو آسمون مشهد دیده شده\n😕\nجالبه برا فان نزاشتن ها خیلی جدی زیرش الله اکبر اینا نوشته بودن\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-19T15:34:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148381_0_2fe6f5e0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148381_1_21906db1.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148381"
       }
     ],
     "maznet": [
@@ -16339,7 +16339,7 @@
       }
     ]
   },
-  "last_update": "2026-08-20T20:38:58.346111+00:00",
+  "last_update": "2026-08-20T21:37:16.316537+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16347,15 +16347,15 @@
     "total_files": 766,
     "total_links": 277,
     "files_by_type": {
-      "image": 731,
-      "video": 27,
+      "image": 732,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 766,
     "existing_media_files": 765,
-    "total_size_mb": 262.96,
-    "last_calculation": "2026-08-20T20:38:58.355267+00:00"
+    "total_size_mb": 262.2,
+    "last_calculation": "2026-08-20T21:37:16.322345+00:00"
   }
 }
