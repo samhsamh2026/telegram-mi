@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148483,
+        "text": "🚨\nکریم بنزما اسطوره ی رئال مادرید،تو تبلیغ جدید بستنی میهن شرکت کرد :\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-20T18:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148483_0_991c325c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148483_1_eb3402ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148483"
+      },
+      {
         "id": 148482,
         "text": "🇮🇷\n👀\n|\nحداد عادل : آیت الله مجتبی خامنه‌ای بعضی اوقات فقط سه ساعت می خوابید و بقیه روز رو به مطالعه و عبادت می پرداخت.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-20T18:31:30+00:00",
@@ -14779,21 +14798,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148374"
-      },
-      {
-        "id": 148373,
-        "text": "💢\nاگه برید تو چت جی‌پی‌تی و متن زیر رو بفرستید طبق چت های گذشتتون شخصیت شمارو آنالیز میکنه بعد تخریبتون میکنه\n😂\n:\nRoast me, no filter, no mercy.\nتو کامنتا بگید ببینم به شما چیا گفت\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-08-19T12:50:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148373_0_2fe6f5e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148373"
       }
     ],
     "maznet": [
@@ -16335,23 +16339,23 @@
       }
     ]
   },
-  "last_update": "2026-08-20T18:41:46.201953+00:00",
+  "last_update": "2026-08-20T18:54:32.079747+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 765,
-    "total_files": 765,
+    "total_media": 766,
+    "total_files": 766,
     "total_links": 277,
     "files_by_type": {
-      "image": 729,
+      "image": 730,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 765,
-    "existing_media_files": 764,
-    "total_size_mb": 269.89,
-    "last_calculation": "2026-08-20T18:41:46.210966+00:00"
+    "referenced_files": 766,
+    "existing_media_files": 765,
+    "total_size_mb": 269.96,
+    "last_calculation": "2026-08-20T18:54:32.089220+00:00"
   }
 }
