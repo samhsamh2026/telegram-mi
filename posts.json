@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148512,
+        "text": "💢\nاختلاس مدرن مسئولان نظام و آقا زاده هایشان\n🆕\n30 میلیارد دلار ارز از بیت‌المال به چند شرکت داده‌اند تا خودروی چینی وارد و با ۲ برابر نرخ جهانی به مردم بفروشند؛ با همین پول میشد کل شرکت bmw المان رو خرید!\n🆕\nفقط مدیران خودرو ۶ میلیارد دلار گرفته؛ تا از شرکت چری که کل ارزشش ۷ میلیارد دلاره خودرو وارد کنه و سوبله توی ملت فرو کنه.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-21T10:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148512_0_9481c2fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148512"
+      },
+      {
+        "id": 148511,
+        "text": "💢\nمجید شاکری: پاسخ نظامی ایران به حمله اقتصادی آمریکا ضروری است، هم معقول است؛ هم به موقع!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-21T10:31:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148511_0_9481c2fa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148511_1_e54ca4a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148511"
+      },
+      {
         "id": 148510,
         "text": "🔹\nخبرگزاری فارس : این چه وضعیه تو شبکه نمایش خانگی تو بازی نون بیار کباب ببر زن و مردا دارن نامحرمارو میمالنو لمس میکنن.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-21T10:10:21+00:00",
@@ -14748,44 +14782,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148404"
-      },
-      {
-        "id": 148403,
-        "text": "🔴\nمارک لوین، برنامه‌گذار فاکس‌نیوز و از نزدیکان ترامپ: دولت در تبعید به رهبری ولیعهد رضا پهلوی را به رسمیت بشناسید و مردم ایران را مسلح کنید.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-19T19:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148403_0_2fe6f5e0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148403_1_b47cccce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148403"
-      },
-      {
-        "id": 148402,
-        "text": "⭕️\nزیر قیمت بازار VPN بخر!\n⭕️\n💎\nفقط با ۱۰۵,۰۰۰ تومان\n👍\nاکانت نامحدود\nبا بهترین کیفیت!\n⚡️\nسرعت فوق‌العاده\n🌎\nمناسب تمامی اینترنت ها\n🛜\n🛜\n🛜\n🛜\n🛜\n🛜\n🛜\n🛜\n🛜\n🛜\n🛡\nامنیت بالا\n📣\nدسترسی آزاد به اینترنت\n🔭\nسازگار با تمام دستگاه‌ها\n⏱️\nفعال‌سازی فوری\n💬\nپشتیبانی سریع و پاسخگو 24/7\n🔥\nکیفیت عالی + قیمت استثنایی\n🔖\nوان‌وی‌نت\n= بهترین انتخاب برای همیشه\n👇🏻\n@OneVnetBot",
-        "date": "2026-08-19T19:01:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148402_0_2fe6f5e0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148402_1_4504b696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148402"
       }
     ],
     "maznet": [
@@ -16327,23 +16323,23 @@
       }
     ]
   },
-  "last_update": "2026-08-21T10:10:42.242343+00:00",
+  "last_update": "2026-08-21T11:00:56.892892+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 763,
-    "total_files": 763,
+    "total_media": 762,
+    "total_files": 762,
     "total_links": 277,
     "files_by_type": {
-      "image": 726,
+      "image": 725,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 763,
-    "existing_media_files": 762,
-    "total_size_mb": 267.78,
-    "last_calculation": "2026-08-21T10:10:42.249771+00:00"
+    "referenced_files": 762,
+    "existing_media_files": 761,
+    "total_size_mb": 267.62,
+    "last_calculation": "2026-08-21T11:00:56.902106+00:00"
   }
 }
