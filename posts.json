@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148514,
+        "text": "🔹\nخطیب جمعه تهران:\nتحریم‌ها و تهاجم نظامی به سکوی افزایش اقتدار ایران تبدیل\nشد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-21T11:33:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148514_0_9481c2fa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148514_1_368b0336.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148514"
+      },
+      {
+        "id": 148513,
+        "text": "📊\n| عضو کمیسیون برنامه و بودجه :\nمشکل بازار کمبود کالا نیست، بلکه گرانی است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-21T11:10:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148513_0_9481c2fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148513"
+      },
+      {
         "id": 148512,
         "text": "💢\nاختلاس مدرن مسئولان نظام و آقا زاده هایشان\n🆕\n30 میلیارد دلار ارز از بیت‌المال به چند شرکت داده‌اند تا خودروی چینی وارد و با ۲ برابر نرخ جهانی به مردم بفروشند؛ با همین پول میشد کل شرکت bmw المان رو خرید!\n🆕\nفقط مدیران خودرو ۶ میلیارد دلار گرفته؛ تا از شرکت چری که کل ارزشش ۷ میلیارد دلاره خودرو وارد کنه و سوبله توی ملت فرو کنه.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-21T10:50:17+00:00",
@@ -14752,36 +14786,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148406"
-      },
-      {
-        "id": 148405,
-        "text": "⏺\nبر اساس آمار سازمان سنجش تو کنکور امسال ۶۵ درصد دخترا و ۳۵ درصد پسرا شرکت کردن!\nپسرا هرسال تعدادشون کمتر میشه و دارن درسو ول میکنن...\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-19T19:12:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148405_0_2fe6f5e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148405"
-      },
-      {
-        "id": 148404,
-        "text": "🇮🇱\n👀\n⏺\nنفتالی بنت\n:\nروابط با عربستان سعودی، اندونزی و دیگر کشورها را عادی‌سازی خواهیم کرد و ائتلافی از نیروهای «میانه‌رو» در منطقه علیه نیروهای «اسلام‌گرا» تشکیل می‌دهیم؛ ائتلافی علیه ج ا ، قطر، ترکیه و تمام نیروهای «تندرو»\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-19T19:11:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148404_0_2fe6f5e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148404"
       }
     ],
     "maznet": [
@@ -16323,23 +16327,23 @@
       }
     ]
   },
-  "last_update": "2026-08-21T11:00:56.892892+00:00",
+  "last_update": "2026-08-21T11:43:44.894913+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 277,
     "files_by_type": {
-      "image": 725,
+      "image": 726,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 267.62,
-    "last_calculation": "2026-08-21T11:00:56.902106+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 267.74,
+    "last_calculation": "2026-08-21T11:43:44.904197+00:00"
   }
 }
