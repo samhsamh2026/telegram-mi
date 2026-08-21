@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 148548,
+        "text": "🇮🇷\n👀\n| فرماندهٔ نیروی دریایی ارتش: به‌زودی در پهنهٔ دریا درس تاریخی به دشمن می‌دهیم\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-21T20:10:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148548_0_9481c2fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148548"
+      },
+      {
         "id": 148547,
         "text": "🇮🇷\n👀\n|\nاستوری سامان ویلسون از سردار وحید فرمانده کل سپاه پاسداران.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-21T19:50:25+00:00",
@@ -14757,25 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148441"
-      },
-      {
-        "id": 148440,
-        "text": "⭕️\nپست جدید سنتکام: ناو هواپیمابر جورج واشنگتن به منطقه عملیاتی سنتکام رسید.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-20T12:10:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148440_0_991c325c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148440_1_8659c4e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148440"
       }
     ],
     "maznet": [
@@ -16317,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-08-21T19:54:04.549762+00:00",
+  "last_update": "2026-08-21T20:33:55.253740+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 276,
     "files_by_type": {
-      "image": 726,
+      "image": 725,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 286.26,
-    "last_calculation": "2026-08-21T19:54:04.559067+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 286.16,
+    "last_calculation": "2026-08-21T20:33:55.261057+00:00"
   }
 }
