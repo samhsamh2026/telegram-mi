@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148497,
+        "text": "🔴\nمحمد مرندی در واکنش به پست ترامپ: جمهوری اسلامی فرعون را به زانو در خواهد آورد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-21T06:34:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148497_0_991c325c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148497_1_cc9252a1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148497"
+      },
+      {
         "id": 148496,
         "text": "🔴\n❤️\n🇮🇱\nکانال 14 اسرائیل:\nمجتبی خامنه‌ای «ایزوله» شده و سپاه کشور را اداره می‌کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-21T06:00:31+00:00",
@@ -14779,25 +14798,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148389"
-      },
-      {
-        "id": 148388,
-        "text": "🇮🇷\n👀\n| خاتمی: مردم گرسنه هستن ولی کمبودی تو زندگیشون ندارن\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-19T17:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148388_0_2fe6f5e0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148388_1_d05d22b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148388"
       }
     ],
     "maznet": [
@@ -16339,7 +16339,7 @@
       }
     ]
   },
-  "last_update": "2026-08-21T06:01:58.708594+00:00",
+  "last_update": "2026-08-21T06:51:14.937366+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16355,7 +16355,7 @@
     },
     "referenced_files": 766,
     "existing_media_files": 765,
-    "total_size_mb": 262.66,
-    "last_calculation": "2026-08-21T06:01:58.717783+00:00"
+    "total_size_mb": 262.68,
+    "last_calculation": "2026-08-21T06:51:14.946691+00:00"
   }
 }
