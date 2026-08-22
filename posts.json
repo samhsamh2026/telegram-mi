@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148619,
+        "text": "🔴\n😂\nفیلد مارشال\nمحسن رضایی: مردم در خانه‌ها و محلات شروع به تولید محصولات مورد نیاز جامعه کنند\nهر خانه یک لانچر جنگ اقتصادی است و هر محله یک پایگاه موشکی/جوانان وارد اقتصاد شوند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-22T21:00:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148619_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148619_1_7256de99.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148619"
+      },
+      {
         "id": 148618,
         "text": "🇮🇱\n👀\n| نتانیاهو:\nمی‌توانید فرار کنید، می‌توانید پنهان شوید، اما اسرائیل در نهایت شما را پیدا خواهد کرد!\n💢\n@Baga_News\n| Король",
         "date": "2026-08-22T20:10:23+00:00",
@@ -14751,25 +14770,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148509"
-      },
-      {
-        "id": 148508,
-        "text": "🔻\nکارشناس صداوسیما: نتانیاهو خیلی مرده؛ نه خسته شده از جنگ با ما، نه پشیمونه و هرآن ممکنه بهمون حمله کنه و بنظرم خیلی مرده.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T09:30:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148508_0_9481c2fa.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148508_1_ca1bc121.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148508"
       }
     ],
     "maznet": [
@@ -16311,7 +16311,7 @@
       }
     ]
   },
-  "last_update": "2026-08-22T20:32:29.096454+00:00",
+  "last_update": "2026-08-22T21:29:44.325858+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16319,15 +16319,15 @@
     "total_files": 759,
     "total_links": 277,
     "files_by_type": {
-      "image": 720,
-      "video": 31,
+      "image": 721,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 308.87,
-    "last_calculation": "2026-08-22T20:32:29.105642+00:00"
+    "total_size_mb": 306.77,
+    "last_calculation": "2026-08-22T21:29:44.335276+00:00"
   }
 }
