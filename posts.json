@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148559,
+        "text": "🚨\nرقص و آواز این دو تا دختر دهه هشتادی تو اکباتان حسابی وایرال شده و سر و صدا به پا کرده.\n⚪️\n@Baga_Tweet",
+        "date": "2026-08-22T07:32:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148559_0_61751b54.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148559_1_15a0ffe8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148559"
+      },
+      {
+        "id": 148558,
+        "text": "🔴\n😂\nعمو پزشکیان:\nدرباره هزینه تأمین سوخت، چه کسی گفته دولت باید بنزین ۱۳۰ هزار تومانی بخرد و بعد آن را ۱۵۰۰ تومان بفروشد؟\nادامه این روند، منابع دولت برای افزایش اعتبار کالابرگ و پرداخت تعهدات مربوط به گندم‌کاران، بیمه‌ها و معیشت کارگران، بازنشستگان و کارمندان را محدود می‌کند\n.\n﻿\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-22T07:00:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148558_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148558_1_bf8cad9e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148558"
+      },
+      {
         "id": 148557,
         "text": "🔴\n🇺🇸\n🇺🇸\n- ترامپ:\nتورم در ایران خیلی بالاست و به ۳۰۰ درصد رسیده.\nاونا مشتاق توافق هستن، اما هنوز برای امضای یک توافق مناسب آماده نیستن.\nمن فقط توافق‌های خوب انجام می‌دم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-22T06:34:23+00:00",
@@ -14730,52 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148454"
-      },
-      {
-        "id": 148451,
-        "text": "🔴\nتوی کنکور امروز تو بالاشهر تهران، جای صندلی چوبی، صندلیای نرم، تهویه هوای خوب و خوراکی‌های خفن داده بودن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-20T14:31:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148451_0_991c325c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148451_1_b6d8bffd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148451_2_8cce645c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148451_3_003ab0b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148451"
-      },
-      {
-        "id": 148450,
-        "text": "💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-20T14:23:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148450_0_991c325c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148450_1_9607f978.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148450"
       }
     ],
     "maznet": [
@@ -16317,23 +16309,23 @@
       }
     ]
   },
-  "last_update": "2026-08-22T06:52:18.237429+00:00",
+  "last_update": "2026-08-22T07:38:40.001522+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 276,
     "files_by_type": {
-      "image": 726,
+      "image": 724,
       "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 292.62,
-    "last_calculation": "2026-08-22T06:52:18.242687+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 292.04,
+    "last_calculation": "2026-08-22T07:38:40.010497+00:00"
   }
 }
