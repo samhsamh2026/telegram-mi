@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148596,
+        "text": "دیده شدن ماه پیشونی در کنکور امسال:\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T16:30:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148596_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148596_1_b4253b83.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148596"
+      },
+      {
+        "id": 148595,
+        "text": "استوری جدید علی کریمی که با انتقادات زیادی همراه شده :\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-22T16:10:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148595_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148595_1_60ad7bde.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148595"
+      },
+      {
         "id": 148593,
         "text": "این عکس پزشکیان اخیراً خیلی وایرال شده.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-22T15:50:15+00:00",
@@ -14696,44 +14734,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148489"
-      },
-      {
-        "id": 148488,
-        "text": "⭕️\n🇺🇸\nجی‌دی ونس درباره ایران\n:\nما اکنون تا حدی در مرحله جدیدی قرار داریم که در آن مؤثرترین ابزاری که در اختیار داریم، فشار اقتصادی است که می‌توانیم بر آن‌ها وارد کنیم.\nو این یک رقص ظریف است، زیرا ما فشار اقتصادی بر آن‌ها وارد می‌کنیم. آن‌ها نیز سعی خواهند کرد فشار اقتصادی بر ما وارد کنند.\nاما آنچه در چند هفته گذشته صادق بوده است این است که آن‌ها فشار بسیار بیشتری نسبت به ما احساس کرده‌اند.\nما این روند را ادامه خواهیم داد، زیرا معتقدیم این بهترین راه است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-20T19:53:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148488_0_991c325c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148488_1_ee24a880.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148488"
-      },
-      {
-        "id": 148487,
-        "text": "به این دختر غواص گیر دادن گفتن لباس غواصیت تحریک کنندس،این خانمم در جوابشون با چادر رفت تو دریا شنا کرد :\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-20T19:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148487_0_991c325c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148487_1_f4508002.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148487"
       }
     ],
     "maznet": [
@@ -16275,7 +16275,7 @@
       }
     ]
   },
-  "last_update": "2026-08-22T15:53:25.622897+00:00",
+  "last_update": "2026-08-22T16:33:53.885292+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16283,15 +16283,15 @@
     "total_files": 750,
     "total_links": 277,
     "files_by_type": {
-      "image": 712,
-      "video": 30,
+      "image": 714,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 750,
     "existing_media_files": 749,
-    "total_size_mb": 307.03,
-    "last_calculation": "2026-08-22T15:53:25.632757+00:00"
+    "total_size_mb": 300.11,
+    "last_calculation": "2026-08-22T16:33:53.895080+00:00"
   }
 }
