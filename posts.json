@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148573,
+        "text": "💢\nیک مقام سپاه : خلبانان بازداشتی ایرانی در قطر وضعیت جسمانی نامساعدی دارند از قطر می‌خواهیم آن‌ها را به بیمارستان منتقل کند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-22T11:10:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148573_0_61751b54.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148573"
+      },
+      {
+        "id": 148571,
+        "text": "بابک زنجانی بعد از تاسیس شرکت؛ تاکسی اینترنتی و.... حالا کافه هم زده.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-22T10:50:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148571_0_61751b54.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148571_1_74e7d2ba.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148571_2_09a1b79f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148571"
+      },
+      {
         "id": 148570,
         "text": "🔻\nوزارت بهداشت: ما ملزم شدیم بدون وجود گنجایش و امکانات، جمع انبوهی از داوطلبان کنکورو به عنوان پزشکان آینده این کشور وارد دانشگاه‌ها کنیم\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-22T10:30:15+00:00",
@@ -14710,44 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148468"
-      },
-      {
-        "id": 148467,
-        "text": "یه کافه تو آمریکا جلوی در ورودیش تابلو \"ورود سگ و مسلمون ها ممنوع\" گذاشته بوده، مایک تایسون (بوکسور معروف) هم از لج رفته داخل کافه و شروع کرده به نماز خوندن\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-20T16:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148467_0_991c325c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148467_1_c8c0cf99.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148467"
-      },
-      {
-        "id": 148466,
-        "text": "🔴\n‏\nکوچک زاده نماینده مجلس:\nعراقچی اولین وزیریه که بعد از باز شدن مجلس مورد بازخواست قرار میگیرد!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-20T16:05:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148466_0_991c325c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148466_1_86906066.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148466"
       }
     ],
     "maznet": [
@@ -16289,7 +16289,7 @@
       }
     ]
   },
-  "last_update": "2026-08-22T10:31:53.016822+00:00",
+  "last_update": "2026-08-22T11:28:09.784667+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16297,15 +16297,15 @@
     "total_files": 755,
     "total_links": 276,
     "files_by_type": {
-      "image": 720,
-      "video": 27,
+      "image": 719,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 755,
     "existing_media_files": 754,
-    "total_size_mb": 293.77,
-    "last_calculation": "2026-08-22T10:31:53.022434+00:00"
+    "total_size_mb": 302.56,
+    "last_calculation": "2026-08-22T11:28:09.794255+00:00"
   }
 }
