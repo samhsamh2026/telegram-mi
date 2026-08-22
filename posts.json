@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148575,
+        "text": "🇮🇷\nحمید رسایی با انتشار این تصویر نوشت: ترامپ روی این حرف‌ها حساب ویژه‌ای باز کرده!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-22T11:50:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148575_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148575_1_98aa5e7d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148575"
+      },
+      {
+        "id": 148574,
+        "text": "💢\nبیشتر مقامات و اصول‌گراها و یا اصلاح‌طلبا توی چند هفته‌ی اخیر گفتن که در صورت اعمال تحریم اقتصادی شدید و همچنین ادامه دار بودن آن و محاصره دریایی میتوان گفت حکومت سقوط میکند‌.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-22T11:33:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148574_0_61751b54.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148574"
+      },
+      {
         "id": 148573,
         "text": "💢\nیک مقام سپاه : خلبانان بازداشتی ایرانی در قطر وضعیت جسمانی نامساعدی دارند از قطر می‌خواهیم آن‌ها را به بیمارستان منتقل کند.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-22T11:10:41+00:00",
@@ -14714,40 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148470"
-      },
-      {
-        "id": 148469,
-        "text": "قالیباف اوایل تیرماه: اگر به سوئیس نمی‌رفتم، ١٢میلیارد دلار ایران آزاد نمی‌شد.\nهمتی، دیشب: یک دلار هم از پول‌های بلوکه‌ شده ایران آزاد نشد\n.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-20T16:32:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148469_0_991c325c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148469_1_5acb5c4b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148469"
-      },
-      {
-        "id": 148468,
-        "text": "🔴\nهاآرتص: ۹۴ درصد ساکنان غزه در چادر، پناهگاه موقت یا ساختمان‌های آسیب‌دیده زندگی می‌کنند!\n😢\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-20T16:20:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148468_0_991c325c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148468"
       }
     ],
     "maznet": [
@@ -16289,7 +16289,7 @@
       }
     ]
   },
-  "last_update": "2026-08-22T11:28:09.784667+00:00",
+  "last_update": "2026-08-22T11:52:29.971281+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16297,15 +16297,15 @@
     "total_files": 755,
     "total_links": 276,
     "files_by_type": {
-      "image": 719,
-      "video": 28,
+      "image": 720,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 755,
     "existing_media_files": 754,
-    "total_size_mb": 302.56,
-    "last_calculation": "2026-08-22T11:28:09.794255+00:00"
+    "total_size_mb": 300.37,
+    "last_calculation": "2026-08-22T11:52:29.980489+00:00"
   }
 }
