@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148618,
+        "text": "🇮🇱\n👀\n| نتانیاهو:\nمی‌توانید فرار کنید، می‌توانید پنهان شوید، اما اسرائیل در نهایت شما را پیدا خواهد کرد!\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T20:10:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148618_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148618_1_e61497e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148618"
+      },
+      {
         "id": 148617,
         "text": "🚨\nبعد از ۱۰ سال ایموجیِ گریه (\n😭\n) جای ایموجی خنده (\n🤣\n) رو گرفت و پر استفاده‌ترین ایموجی توسط مردم در سال ۲۰۲۵ شد\n‼️\n💢\n@Baga_News\n| Король",
         "date": "2026-08-22T19:50:25+00:00",
@@ -14751,21 +14770,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148508"
-      },
-      {
-        "id": 148507,
-        "text": "🆕\n👀\n| الجزیره :\nچین احتمالاً واردات نفت ایران را با وجود خطر تحریم‌های ترامپ به صفر نمی‌رساند\nپکن توانایی واکنش متقابل، از جمله محدود کردن صادرات عناصر خاکی کمیاب را دارد\nدر زنجیره انتقال نفت ایران به چین، هر بار که تحریم جدیدی اعلام می‌شود، طرف‌های درگیر معمولاً راهی برای دور زدن آن پیدا می‌کنند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T09:20:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148507_0_9481c2fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148507"
       }
     ],
     "maznet": [
@@ -16307,23 +16311,23 @@
       }
     ]
   },
-  "last_update": "2026-08-22T19:51:27.035268+00:00",
+  "last_update": "2026-08-22T20:32:29.096454+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 758,
-    "total_files": 758,
+    "total_media": 759,
+    "total_files": 759,
     "total_links": 277,
     "files_by_type": {
-      "image": 719,
+      "image": 720,
       "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
-    "total_size_mb": 308.83,
-    "last_calculation": "2026-08-22T19:51:27.041640+00:00"
+    "referenced_files": 759,
+    "existing_media_files": 758,
+    "total_size_mb": 308.87,
+    "last_calculation": "2026-08-22T20:32:29.105642+00:00"
   }
 }
