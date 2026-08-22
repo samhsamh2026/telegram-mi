@@ -12946,6 +12946,33 @@
     ],
     "bg_ae": [
       {
+        "id": 148589,
+        "text": "برند «Chanel» اومده از صندل های جدیدش رونمایی کرده، تولید کرده که بسیار ترند شده.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T15:10:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148589_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148589_1_b366ff49.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148589_2_36bbfad5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148589_3_9481dffe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148589"
+      },
+      {
         "id": 148588,
         "text": "⭕️\nطبق گزارشات این هفته نمرات امتحان نهایی دانش آموزا میاد.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-22T14:50:21+00:00",
@@ -14699,25 +14726,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148485"
-      },
-      {
-        "id": 148484,
-        "text": "🟠\nبعد از اینکه رئیس مجلس عراق به جای خلیج همیشه فارس از کلمه ی جعلی خلیج عربی استفاده مردم عراق ریختن زیر توییتش و تا تونستن بهش فحش دادنو ازش انتقاد کردن و گفتن هدفت ایجاد تفرقس\n‼️\n🔵\nکاربرای عربستانی از دیدن این حرکت مردم عراق تعجب کردن و میگن شما عربید چرا بخاطر گفتن خلیج عربی دارید به مسئولتون فحش میدید؟\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-20T19:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148484_0_991c325c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148484_1_9ba3a67a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148484"
       }
     ],
     "maznet": [
@@ -16259,23 +16267,23 @@
       }
     ]
   },
-  "last_update": "2026-08-22T14:54:05.692272+00:00",
+  "last_update": "2026-08-22T15:29:44.798122+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 746,
-    "total_files": 746,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 277,
     "files_by_type": {
-      "image": 708,
+      "image": 710,
       "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 306.72,
-    "last_calculation": "2026-08-22T14:54:05.701182+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 306.92,
+    "last_calculation": "2026-08-22T15:29:44.807304+00:00"
   }
 }
