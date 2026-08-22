@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148578,
+        "text": "🔹\nشاهکاری از شرکت های خودرو سازی ایرانی :\nرفته شاهین صفر خریده ، 10 میلیون هم پول اضاف داده که ماشین با مانیتور تحویل بگیره ، بعد از تحویل دیدن اصلا مانیتوری درکار نیست و یه صفحه نمایش گذاشتن و پشتش هم کارتن و به هیچی وصل نیست\n🫪\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-22T12:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148578_0_61751b54.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148578_1_10d68f0c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148578"
+      },
+      {
         "id": 148577,
         "text": "🇾🇪\nارتش یمن تحت حمایت عربستان سعودی اعلام کرد:\nدر روز های اخیر یک کشتی بزرگ باری\nکه حامل موشک های دوش پرتاب و\nموشک های کروز و پهپاد های نظامی از سمت ایران برای حوثی ها بود را توقیف کرده است\n.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-22T12:34:00+00:00",
@@ -14717,29 +14736,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148474"
-      },
-      {
-        "id": 148472,
-        "text": "🔴\nتصاویر ماهواره‌ای جدید از حضور یک ناوهواپیمابر آمریکا در دریای عمان.\nاین ناو که مشخص نیست جرج واشنگتن است یا آبراهام لینکلن به همراه یک ناوشکن موشک‌انداز هدایت‌شونده از کلاس Arleigh Burke در حال حرکت در دریای عمان دیده شده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-20T17:02:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148472_0_991c325c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148472_1_c27a6f76.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148472_2_6e22fed4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148472"
       }
     ],
     "maznet": [
@@ -16281,23 +16277,23 @@
       }
     ]
   },
-  "last_update": "2026-08-22T12:43:22.147622+00:00",
+  "last_update": "2026-08-22T12:53:33.511900+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 753,
-    "total_files": 753,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 276,
     "files_by_type": {
-      "image": 719,
-      "video": 26,
+      "image": 717,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 753,
-    "existing_media_files": 752,
-    "total_size_mb": 299.48,
-    "last_calculation": "2026-08-22T12:43:22.156715+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 304.29,
+    "last_calculation": "2026-08-22T12:53:33.518842+00:00"
   }
 }
