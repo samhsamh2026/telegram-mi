@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 148593,
+        "text": "این عکس پزشکیان اخیراً خیلی وایرال شده.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T15:50:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148593_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148593_1_b5df44ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148593_2_70af484a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148593"
+      },
+      {
+        "id": 148592,
+        "text": "⏺\nامروز 22 August، روز جهانی فرشته‌هاست.\nبفرس برا فرشته ی زندگیت\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T15:30:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148592_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148592_1_fc8746bd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148592"
+      },
+      {
         "id": 148589,
         "text": "برند «Chanel» اومده از صندل های جدیدش رونمایی کرده، تولید کرده که بسیار ترند شده.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-22T15:10:16+00:00",
@@ -14692,40 +14734,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148487"
-      },
-      {
-        "id": 148486,
-        "text": "👑\nپلتفرم X زیر توییت رئیس پارلمان عراق با عنوانی جعلی برای خلیج فارس، یادآوری کرده که خلیج فارس درسته\n🔥\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-20T19:32:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148486_0_991c325c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148486_1_8b1a6006.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148486"
-      },
-      {
-        "id": 148485,
-        "text": "🔴\nحملات سپاه به کشتی ها در تنگه هرمز\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-20T19:32:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148485_0_991c325c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148485"
       }
     ],
     "maznet": [
@@ -16267,23 +16275,23 @@
       }
     ]
   },
-  "last_update": "2026-08-22T15:29:44.798122+00:00",
+  "last_update": "2026-08-22T15:53:25.622897+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 277,
     "files_by_type": {
-      "image": 710,
+      "image": 712,
       "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 306.92,
-    "last_calculation": "2026-08-22T15:29:44.807304+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 307.03,
+    "last_calculation": "2026-08-22T15:53:25.632757+00:00"
   }
 }
