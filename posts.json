@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148561,
+        "text": "🔹\nرویترز: ایران به درخواست بغداد، اجازه عبور شماری از نفتکش‌های عراقی را از تنگه هرمز داده است.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-22T08:34:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148561_0_61751b54.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148561"
+      },
+      {
+        "id": 148560,
+        "text": "هندی ها به ماشین هایی ک حامل گوشت گاو بود حمله کردن و گزارش ها حاکی از کشته شدن چند راننده هستش\n😂\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T08:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148560_0_61751b54.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148560_1_bdfaf92e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148560"
+      },
+      {
         "id": 148559,
         "text": "🚨\nرقص و آواز این دو تا دختر دهه هشتادی تو اکباتان حسابی وایرال شده و سر و صدا به پا کرده.\n⚪️\n@Baga_Tweet",
         "date": "2026-08-22T07:32:25+00:00",
@@ -14734,40 +14768,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148456"
-      },
-      {
-        "id": 148455,
-        "text": "🇮🇷\n👀\n| شهبازی :\nنوید محمدزاده یه پست گذاشت زامبی ها ریختن سرش\nفحش و ناسزا و تهدید و انفالو که چی ؟ حق نداری با این زامبی ها اختلاف نظر داشته باشی\nاین وضعیت زامبی هاست\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-20T15:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148455_0_991c325c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148455_1_b0ebfca5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148455"
-      },
-      {
-        "id": 148454,
-        "text": "🔴\n🇾🇪\n🇾🇪\n|\nجنبش انصارالله اعلام کرد که فرودگاه نجران و تاسیسات نفتی شرکت آرامکو در نجران، واقع در جنوب عربستان سعودی، مورد هدف قرار گرفته‌اند.\n❗️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-20T14:55:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148454_0_991c325c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148454"
       }
     ],
     "maznet": [
@@ -16309,7 +16309,7 @@
       }
     ]
   },
-  "last_update": "2026-08-22T07:38:40.001522+00:00",
+  "last_update": "2026-08-22T08:39:27.791151+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16325,7 +16325,7 @@
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 292.04,
-    "last_calculation": "2026-08-22T07:38:40.010497+00:00"
+    "total_size_mb": 290.11,
+    "last_calculation": "2026-08-22T08:39:27.800678+00:00"
   }
 }
