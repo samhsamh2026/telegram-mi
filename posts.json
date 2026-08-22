@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148553,
+        "text": "🔴\n🎤\nخبرنگار:\nآیا تغییر رویکرد در مسئله ایران به جنگ اقتصادی نشان‌دهنده این است که گزینه‌های نظامی ایالات متحده محدود هستند؟\n🔴\n🇺🇸\nترامپ:\nنه، به هیچ وجه. این به این معناست که ما داریم می‌بینیم چه اتفاقی می‌افتد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-22T04:31:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148553_0_9481c2fa.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148553_1_c9aa2057.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148553"
+      },
+      {
         "id": 148552,
         "text": "🔴\nمشاور سقاب اصفهانی:\nدر یک سری از بنزین‌ها نفت سفید قاطی می‌شود.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-22T04:02:52+00:00",
@@ -14757,21 +14776,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148446"
-      },
-      {
-        "id": 148445,
-        "text": "💢\nحاجی‌بابایی، نایب‌رئیس دوم مجلس: وقتی قیمت نفت داره میره بالا یعنی ما جنگ رو بردیم.\n😂\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-20T13:50:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148445_0_991c325c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148445"
       }
     ],
     "maznet": [
@@ -16313,23 +16317,23 @@
       }
     ]
   },
-  "last_update": "2026-08-22T04:09:02.152300+00:00",
+  "last_update": "2026-08-22T05:02:32.891328+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 761,
-    "total_files": 761,
+    "total_media": 762,
+    "total_files": 762,
     "total_links": 276,
     "files_by_type": {
       "image": 725,
-      "video": 28,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 761,
-    "existing_media_files": 760,
-    "total_size_mb": 288.85,
-    "last_calculation": "2026-08-22T04:09:02.161833+00:00"
+    "referenced_files": 762,
+    "existing_media_files": 761,
+    "total_size_mb": 294.34,
+    "last_calculation": "2026-08-22T05:02:32.900737+00:00"
   }
 }
