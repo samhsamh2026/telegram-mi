@@ -1,7 +1,7 @@
-Last run: 2026-08-22 09:34:25 UTC
-Workflow: 32565236276
+Last run: 2026-08-22 10:31:53 UTC
+Workflow: 32567766144
 Repository: samhsamh2026/telegram-mi
 Validation: success
 Mirror success: true
-Media files: 757
-Media size: 290M
+Media files: 754
+Media size: 296M
