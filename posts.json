@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 148603,
+        "text": "ولاگ اجازه گرفتن از زن اول برای گرفتن زن دوم توسط بلاگر وطنی\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T17:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148603_0_61751b54.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148603_1_6a6abd73.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148603"
+      },
+      {
+        "id": 148602,
+        "text": "⏺\nبرای اولین بار، یک افغانی وارد کنگره آمریکا شد.\nعایشه وهاب ۳۹ ساله و مسلمان، به عنوان سناتور کالیفرنیا راهی کنگره آمریکا شد\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-22T17:40:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148602_0_61751b54.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148602_1_032a2b2a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148602"
+      },
+      {
+        "id": 148601,
+        "text": "فوبیا جدید آوردم براتون\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-22T17:31:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148601_0_61751b54.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148601_1_37f3281d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148601"
+      },
+      {
         "id": 148600,
         "text": "🔴\nنماینده مجلس:\nدر صورت ادامه محاصره دریایی،\nقطر، کویت و امارات هدف بعدی موشک‌های ایران است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-22T17:25:02+00:00",
@@ -14685,55 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148496"
-      },
-      {
-        "id": 148495,
-        "text": "🔴\nواشنگتن پست به نقل از یک مقام دولت ترامپ:\nایران «کاملاً ورشکسته» است و ترامپ ابزارهای متعددی در اختیار دارد که می‌تواند طی هفته‌ها و ماه‌های آینده با شدت بیشتری از آن‌ها استفاده کند\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-21T05:35:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148495_0_991c325c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148495"
-      },
-      {
-        "id": 148494,
-        "text": "🔴\nهمتی :\nمیخوام بشم بدمن دولت،البته نه بتمن، بلکه بدمن دولت،هر کسی میاد میگه پول میخوام میگم شرمنده پول نداریم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-21T05:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148494_0_991c325c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148494_1_25d040f6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148494"
-      },
-      {
-        "id": 148493,
-        "text": "🔴\nرییس کمیسیون کشاورزی مجلس:\nبخشی از ۲۰ هزار تن مرغ تاریخ‌مصرف‌گذشته وارد بازار شده!\n‌\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-21T04:32:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148493_0_991c325c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148493"
       }
     ],
     "maznet": [
@@ -16275,23 +16283,23 @@
       }
     ]
   },
-  "last_update": "2026-08-22T17:28:22.177397+00:00",
+  "last_update": "2026-08-22T17:51:48.060736+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 277,
     "files_by_type": {
-      "image": 714,
-      "video": 28,
+      "image": 715,
+      "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 294.15,
-    "last_calculation": "2026-08-22T17:28:22.187009+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 304.08,
+    "last_calculation": "2026-08-22T17:51:48.069912+00:00"
   }
 }
