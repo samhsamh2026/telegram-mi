@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148652,
+        "text": "⭕️\nبامداد امروز یک شهریور، کارخانه‌ نوشابه‌سازی ایرانشهر طی حادثه‌ای در آتش سوخت.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-23T14:10:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148652_0_45be3b42.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148652_1_91ef9227.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148652"
+      },
+      {
+        "id": 148651,
+        "text": "🔵\nتلگراف:\nهکرهای وابسته به جمهوری اسلامی یک نیروگاه برق بریتانیا را هک کردند و فعالیت آن به مدت ۴ روز مختل شده بود.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-23T13:50:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148651_0_45be3b42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148651"
+      },
+      {
         "id": 148649,
         "text": "جواد آدینه، از معترضان بازداشت‌شده دی‌ماه ۱۴۰۵، امروز یکشنبه یکم شهریور در استان البرز اعدام شد.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T13:33:58+00:00",
@@ -14760,40 +14794,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148537"
-      },
-      {
-        "id": 148536,
-        "text": "🇮🇷\n👀\n|\nایزدی: آمریکا میخواد با سلاح‌های هسته‌ای تاکتیکی به شهرک‌های گوشکی ما حمله کنه!\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-21T17:10:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148536_0_9481c2fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148536"
-      },
-      {
-        "id": 148535,
-        "text": "🔴\n👏\nاسعد الشیبانی وزیر خارجه سوریه:   ایران باید به آن چه علیه مردم سوریه مرتکب شده است اقرار کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-21T17:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148535_0_9481c2fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148535_1_faffce99.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148535"
       }
     ],
     "maznet": [
@@ -16335,7 +16335,7 @@
       }
     ]
   },
-  "last_update": "2026-08-23T13:38:41.751751+00:00",
+  "last_update": "2026-08-23T14:31:13.206055+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16351,7 +16351,7 @@
     },
     "referenced_files": 765,
     "existing_media_files": 764,
-    "total_size_mb": 307.13,
-    "last_calculation": "2026-08-23T13:38:41.757647+00:00"
+    "total_size_mb": 307.18,
+    "last_calculation": "2026-08-23T14:31:13.214970+00:00"
   }
 }
