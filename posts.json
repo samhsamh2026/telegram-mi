@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148662,
+        "text": "⚪️\nایران اینترنشنال:\n«مردم ایران پوستری مشترک از شاهزاده رضا پهلوی و دخترش نور پهلوی را در خیابانی در تهران نصب کردند.»\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T16:32:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148662_0_45be3b42.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148662_1_38c34c18.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148662"
+      },
+      {
+        "id": 148661,
+        "text": "🚨\nاین ویدیو از وضعیت پوشش یه خانم تو گوهردشتِ کرج حسابی تو فضای مجازی وایرال شده و واکنش‌ها و انتقادهای زیادی رو به همراه داشته :\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T16:10:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148661_0_45be3b42.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148661_1_aa9e8497.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148661"
+      },
+      {
         "id": 148657,
         "text": "این دختر بچه خوشگل که میبینید یه بیماری داره که هیچ مویی تو صورت یا بدنش رشد نمیکنه، یه ویدیو از خودش گذاشته که ماسک صورت زده به صورتش و مردم مهربون ایران اینجوری تو کامنت قربون صدقش رفتن.\nاین دختر بچه یه آنلاین شاپم داره که چون مدرسه نرفته تو بیوش نوشته من مدرسه نرفتم برام ویس بفرستید.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-23T15:50:13+00:00",
@@ -14776,40 +14814,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148545"
-      },
-      {
-        "id": 148544,
-        "text": "امام جمعه خرم‌آباد:\nبدحجاب‌ها و بی‌حجاب‌ها سرباز دشمن هستند\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-21T19:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148544_0_9481c2fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148544"
-      },
-      {
-        "id": 148543,
-        "text": "🇩🇰\n👀\n| تو کشور دانمارک یه رسمی هست اگه تا 25 سالگی پسرا ازدواج نکنند، اونارو میبندن به صندلی و با پودر دارچین بهشون حمله ور میشن\n😕\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-21T18:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148543_0_9481c2fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148543_1_bb0cf707.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148543"
       }
     ],
     "maznet": [
@@ -16351,23 +16355,23 @@
       }
     ]
   },
-  "last_update": "2026-08-23T15:54:33.348639+00:00",
+  "last_update": "2026-08-23T16:35:22.570922+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 769,
-    "total_files": 769,
+    "total_media": 770,
+    "total_files": 770,
     "total_links": 277,
     "files_by_type": {
-      "image": 729,
-      "video": 32,
+      "image": 728,
+      "video": 34,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 769,
-    "existing_media_files": 768,
-    "total_size_mb": 306.13,
-    "last_calculation": "2026-08-23T15:54:33.358149+00:00"
+    "referenced_files": 770,
+    "existing_media_files": 769,
+    "total_size_mb": 309.15,
+    "last_calculation": "2026-08-23T16:35:22.580870+00:00"
   }
 }
