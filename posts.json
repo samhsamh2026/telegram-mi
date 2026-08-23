@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 148649,
+        "text": "جواد آدینه، از معترضان بازداشت‌شده دی‌ماه ۱۴۰۵، امروز یکشنبه یکم شهریور در استان البرز اعدام شد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-23T13:33:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148649_0_45be3b42.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148649_1_ae655b24.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148649_2_9aae8be9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148649"
+      },
+      {
+        "id": 148648,
+        "text": "⏺\nهاینتس فون فورستر فیزیکدان اتریشی ـ آمریکایی در سال ۱۹۶۰ پیش بینی کرد که دنیا در روز ۱۳ نوامبر ۲۰۲۶ تمام خواهد شد!\n۱۳ نوامبر میشه ۲۲ آبان ماه؛ دقیقا ۱۰ روز بعد از انتخابات کنگره و سنای آمریکا.\nاین دانشمندان خودش در سال ۲۰۰۲ فوت کرد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-23T13:10:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148648_0_45be3b42.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148648_1_ffa8bbd2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148648"
+      },
+      {
         "id": 148647,
         "text": "🔹\nایلان ماسک:\nما درحال راه اندازی یه شبکه گسترده هستیم که با استفاده از اون اینترنت بصورت مستقیم از ماهواره به گوشی شما بدون هیچ واسطه ای ارسال میشه.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T12:50:23+00:00",
@@ -14752,40 +14794,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148535"
-      },
-      {
-        "id": 148534,
-        "text": "دخترا یاد بگیرید؛ دوست پسرش قهر کرده دختره براش بنز خریده.\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-21T16:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148534_0_9481c2fa.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148534_1_9c51a411.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148534"
-      },
-      {
-        "id": 148533,
-        "text": "🔴\nرئیس کمیسیون امنیت ملی مجلس:\nبه زودی با قدرت به محاصره دریایی آمریکا علیه ایران پاسخ خواهیم داد و آمریکا منطقه را ترک خواهد کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-21T16:40:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148533_0_9481c2fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148533"
       }
     ],
     "maznet": [
@@ -16327,23 +16335,23 @@
       }
     ]
   },
-  "last_update": "2026-08-23T12:55:00.503974+00:00",
+  "last_update": "2026-08-23T13:38:41.751751+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 763,
-    "total_files": 763,
+    "total_media": 765,
+    "total_files": 765,
     "total_links": 277,
     "files_by_type": {
-      "image": 723,
-      "video": 32,
+      "image": 726,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 763,
-    "existing_media_files": 762,
-    "total_size_mb": 310.55,
-    "last_calculation": "2026-08-23T12:55:00.513320+00:00"
+    "referenced_files": 765,
+    "existing_media_files": 764,
+    "total_size_mb": 307.13,
+    "last_calculation": "2026-08-23T13:38:41.757647+00:00"
   }
 }
