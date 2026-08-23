@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148627,
+        "text": "🔴\nعلی هاشم خبرنگار الجزیره:\nفرمانده ارتش پاکستان به ایران می‌آید\n.\nمنابع بسیار مطلع به من گفته‌اند که انتظار می‌رود فیلد مارشال عاصم منیر، فرمانده ارتش پاکستان، طی یکی دو روز آینده بار دیگر به تهران سفر کند.\nبه گفته منابع من، هدف از این سفر فعال‌سازی مجدد میانجیگری میان آمریکا و ایران است\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-23T06:34:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148627_0_45be3b42.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148627_1_c154a304.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148627"
+      },
+      {
+        "id": 148626,
+        "text": "🔴\nخاندوزی، وزیر سابق اقتصاد ایران:\nتمام نشانه‌ها حاکی از آن است که ماه آینده هم شاهد یک شورش مردمی و هم یک جنگ خواهیم بود\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-23T06:03:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148626_0_45be3b42.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148626_1_36b1b82f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148626"
+      },
+      {
         "id": 148625,
         "text": "🔴\n🔰\n🇺🇦\n|\nزنان اوکراینی و خارجی از گردان تهاجمی ۲۳، متعلق به تیپ خارتیا.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-23T05:33:31+00:00",
@@ -14748,40 +14786,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148516"
-      },
-      {
-        "id": 148514,
-        "text": "🔹\nخطیب جمعه تهران:\nتحریم‌ها و تهاجم نظامی به سکوی افزایش اقتدار ایران تبدیل\nشد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T11:33:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148514_0_9481c2fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148514_1_368b0336.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148514"
-      },
-      {
-        "id": 148513,
-        "text": "📊\n| عضو کمیسیون برنامه و بودجه :\nمشکل بازار کمبود کالا نیست، بلکه گرانی است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T11:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148513_0_9481c2fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148513"
       }
     ],
     "maznet": [
@@ -16323,23 +16327,23 @@
       }
     ]
   },
-  "last_update": "2026-08-23T05:58:23.285213+00:00",
+  "last_update": "2026-08-23T06:44:04.908750+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 277,
     "files_by_type": {
-      "image": 723,
+      "image": 724,
       "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 312.15,
-    "last_calculation": "2026-08-23T05:58:23.294461+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 312.11,
+    "last_calculation": "2026-08-23T06:44:04.918383+00:00"
   }
 }
