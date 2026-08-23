@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148654,
+        "text": "🇮🇷\n👀\n|\nثابتی:\n🟠\nمقصر گرونیا دولت هست نه نظام مقدس\n😂\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T14:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148654_0_45be3b42.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148654_1_48b18e0b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148654"
+      },
+      {
+        "id": 148653,
+        "text": "اخوندی که بی دلیل و بی اجازه از یک زن ایرانی عکس گرفت !\nزن ایرانی هم با  شجاعت بهش حمله کرد و چند تا مرد دیگه هم رفتن بزننش.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-23T14:32:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148653_0_45be3b42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148653"
+      },
+      {
         "id": 148652,
         "text": "⭕️\nبامداد امروز یک شهریور، کارخانه‌ نوشابه‌سازی ایرانشهر طی حادثه‌ای در آتش سوخت.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T14:10:14+00:00",
@@ -14760,40 +14794,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148540"
-      },
-      {
-        "id": 148539,
-        "text": "🟠\nقالی بافته شده در عراق در سال ۱۹۷۰ که خلیج فارس در آن حک شده است, ۱۲ سال بعد از دوخت این قالی، \"هیبت الحلبوسی\"، رئیس  پارلمان عراق به دنیا آمد!\n😏\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-21T17:33:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148539_0_9481c2fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148539_1_b6fd40f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148539"
-      },
-      {
-        "id": 148537,
-        "text": "🔴\n🪖\n—\nارتش اسرائیل:\nیک تروریست حماس مسلح به چاقو که خط مرزی (خط زرد) را در مرکز نوار غزه عبور کرده بود، توسط نیروهای تیپ 99 دستگیر شد و به منظور بازجویی به اسرائیل منتقل گردید.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-21T17:20:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148537_0_9481c2fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148537"
       }
     ],
     "maznet": [
@@ -16335,7 +16335,7 @@
       }
     ]
   },
-  "last_update": "2026-08-23T14:31:13.206055+00:00",
+  "last_update": "2026-08-23T14:56:32.387418+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16351,7 +16351,7 @@
     },
     "referenced_files": 765,
     "existing_media_files": 764,
-    "total_size_mb": 307.18,
-    "last_calculation": "2026-08-23T14:31:13.214970+00:00"
+    "total_size_mb": 307.23,
+    "last_calculation": "2026-08-23T14:56:32.394405+00:00"
   }
 }
