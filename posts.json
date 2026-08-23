@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 148683,
+        "text": "🇮🇱\n👀\n| روزنامه اسرائیلی هاآرتص: نتانیاهو «اسرائیل» را به جنگی دیگر و بی‌نتیجه کشانده است؛ این بار با ترکیه\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T20:31:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148683_0_45be3b42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148683"
+      },
+      {
+        "id": 148682,
+        "text": "جمهوری اسلامی ایران\n🇮🇷\nاعلام کرد از امشب هر نفتکشی از مسیر جنوبی تنگه ی هرمز(متعلق به عمان و آمریکا) عبور کنه جریمه میشه و یا خود کشتی توقیف میشه و یا اموال کشتی مصادره میشه\n‼️\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T20:15:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148682_0_45be3b42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148682"
+      },
+      {
+        "id": 148680,
+        "text": "🇮🇷\n👀\n| رئیس سازمان بهینه‌سازی: به رئیس‌جمهور گفتم باید کارهایی کنیم که در کوتاه‌مدت فحش بخوریم اما در بلندمدت از ما تشکر شود\n🔴\nآقای پزشکیان به من گفتند حتما این‌کار را بکن زیرا ما باید مسائل را حل کنیم\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T19:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148680_0_45be3b42.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148680_1_b972d151.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148680"
+      },
+      {
         "id": 148679,
         "text": "🚨\nبیشتر از یک سال قبل، سایپا پیش‌فروش \"سهند\" همراه تحویل 90 روزه میذاره؛\nحالا بعد از گذشت این همه وقت، هیچ ماشینی تحویل نداده و مردمِ شاکی اینطوری ریختن دم یکی از نمایندگی‌هاش و منتظرن حقشون رو بگیرن.\n💢\n@Baga_News\n| Король",
         "date": "2026-08-23T19:33:28+00:00",
@@ -14773,51 +14822,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148564"
-      },
-      {
-        "id": 148563,
-        "text": "⭕️\nرویترز: آمریکا روز دوشنبه تحریم‌های اقتصادی جدیدی علیه ایران اعلام می‌کند که احتمالاً خریداران بزرگ نفت ایران، از جمله شرکت‌های چینی، را نیز هدف قرار خواهد داد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T09:10:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148563_0_61751b54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148563"
-      },
-      {
-        "id": 148562,
-        "text": "🆕\nوزیر علوم: آموزش دانشگاه‌ها در سال تحصیلی آینده حضوری است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T08:50:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148562_0_61751b54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148562"
-      },
-      {
-        "id": 148561,
-        "text": "🔹\nرویترز: ایران به درخواست بغداد، اجازه عبور شماری از نفتکش‌های عراقی را از تنگه هرمز داده است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T08:34:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148561_0_61751b54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148561"
       }
     ],
     "maznet": [
@@ -16359,23 +16363,23 @@
       }
     ]
   },
-  "last_update": "2026-08-23T19:50:19.645999+00:00",
+  "last_update": "2026-08-23T20:32:59.176903+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 771,
-    "total_files": 771,
+    "total_media": 772,
+    "total_files": 772,
     "total_links": 277,
     "files_by_type": {
       "image": 726,
-      "video": 37,
+      "video": 38,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 771,
-    "existing_media_files": 770,
-    "total_size_mb": 329.93,
-    "last_calculation": "2026-08-23T19:50:19.655074+00:00"
+    "referenced_files": 772,
+    "existing_media_files": 771,
+    "total_size_mb": 334.43,
+    "last_calculation": "2026-08-23T20:32:59.186119+00:00"
   }
 }
