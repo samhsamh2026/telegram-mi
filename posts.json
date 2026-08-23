@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 148631,
+        "text": "🔹\nرئیس کمیسیون فناوری اطلاعات و ارتباطات اتاق بازرگانی ایران :\nارزیابی معماری زیرساختی شبکه پس از تجربه قطعی اینترنت بین‌الملل ضروری است.\nدولت انگیزه رفع فیلترینگ را دارد، اما این موضوع باید با بررسی همه جوانب و رعایت شرایط موجود دنبال شود.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-23T08:32:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148631_0_45be3b42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148631"
+      },
+      {
+        "id": 148630,
+        "text": "🔴\nتلگراف:\nهکرهایی که به جمهوری اسلامی مرتبط هستند، یک نیروگاه کوچک در بریتانیا را به مدت چهار روز از کار انداختند. این اولین حمله از نوع خود در بریتانیا است که تاکنون گزارش شده است.\nاین قطعی برق، شبکه برق سراسری را تحت تأثیر قرار نداد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-23T08:02:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148630_0_45be3b42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148630"
+      },
+      {
         "id": 148629,
         "text": "⏺\nوضعیت گمرک شهید رجایی بندرعباس، ۲۹ مرداد ۱۴۰۵:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-23T07:31:56+00:00",
@@ -14748,44 +14778,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148520"
-      },
-      {
-        "id": 148519,
-        "text": "🔹\nحمله هندی‌ها به کامیون‌هایی که گمان می‌کنند حامل گوشت گاو\n🐄\nاست !\nده‌ها راننده کامیون تاکنون جان باخته‌اند\nپ.ن : امان از جماعت نادان\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T12:30:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148519_0_9481c2fa.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148519_1_10cf9e93.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148519"
-      },
-      {
-        "id": 148518,
-        "text": "🔻\n🇺🇸\nترامپ :\nدستور دادم قیمت گوشت چرخ شده برا خانواده های کارگر آمریکایی ارزون بشه، این در حالیه که تو دوران بایدن قیمت گوشت خیلی سریع بالا میرفت\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T12:12:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148518_0_9481c2fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148518_1_7cc4f805.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148518"
       }
     ],
     "maznet": [
@@ -16327,23 +16319,23 @@
       }
     ]
   },
-  "last_update": "2026-08-23T07:41:58.847436+00:00",
+  "last_update": "2026-08-23T08:40:09.235667+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 763,
-    "total_files": 763,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 277,
     "files_by_type": {
-      "image": 723,
-      "video": 32,
+      "image": 722,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 763,
-    "existing_media_files": 762,
-    "total_size_mb": 315.82,
-    "last_calculation": "2026-08-23T07:41:58.856964+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 314.08,
+    "last_calculation": "2026-08-23T08:40:09.241814+00:00"
   }
 }
