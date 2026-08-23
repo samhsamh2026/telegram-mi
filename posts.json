@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148629,
+        "text": "⏺\nوضعیت گمرک شهید رجایی بندرعباس، ۲۹ مرداد ۱۴۰۵:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-23T07:31:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148629_0_45be3b42.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148629_1_1fec5581.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148629"
+      },
+      {
+        "id": 148628,
+        "text": "🔴\nنیویورک پست:\nبر اساس داده‌های مرکز عملیات تجارت دریایی بریتانیا (UKMTO)، هفته گذشته نزدیک به ۲۰۰ کشتی از تنگه هرمز عبور کردند؛ این رقم در هفته پیش از آن ۱۵۰ کشتی و دو هفته قبل‌تر تنها ۴۰ کشتی بود.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-23T07:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148628_0_45be3b42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148628"
+      },
+      {
         "id": 148627,
         "text": "🔴\nعلی هاشم خبرنگار الجزیره:\nفرمانده ارتش پاکستان به ایران می‌آید\n.\nمنابع بسیار مطلع به من گفته‌اند که انتظار می‌رود فیلد مارشال عاصم منیر، فرمانده ارتش پاکستان، طی یکی دو روز آینده بار دیگر به تهران سفر کند.\nبه گفته منابع من، هدف از این سفر فعال‌سازی مجدد میانجیگری میان آمریکا و ایران است\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-23T06:34:51+00:00",
@@ -14752,40 +14786,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148518"
-      },
-      {
-        "id": 148517,
-        "text": "🗣️\n🇮🇷\n|سخنگوی دولت: درباره قیمت‌های جدید بنزین هنوز تصمیم نهایی اتخاذ نشده است\n.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T12:01:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148517_0_9481c2fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148517_1_d12bee1c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148517"
-      },
-      {
-        "id": 148516,
-        "text": "🚨\nچین و امارات بزودی یک رزمایش مشترک هوایی برگزار خواهند کرد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-21T11:55:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148516_0_9481c2fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148516"
       }
     ],
     "maznet": [
@@ -16327,7 +16327,7 @@
       }
     ]
   },
-  "last_update": "2026-08-23T06:56:07.060983+00:00",
+  "last_update": "2026-08-23T07:41:58.847436+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16335,15 +16335,15 @@
     "total_files": 763,
     "total_links": 277,
     "files_by_type": {
-      "image": 724,
-      "video": 31,
+      "image": 723,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 763,
     "existing_media_files": 762,
-    "total_size_mb": 312.11,
-    "last_calculation": "2026-08-23T06:56:07.070922+00:00"
+    "total_size_mb": 315.82,
+    "last_calculation": "2026-08-23T07:41:58.856964+00:00"
   }
 }
