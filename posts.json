@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148698,
+        "text": "‏\n🇮🇶\n👀\n|\nالزیدی، نخست‌وزیر عراق:\nدولت ما به یاری خدا عاری از فساد خواهد بود... چرا که به‌هرحال پولی در کار نیست\n😂\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-24T08:52:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148698_0_a1072421.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148698_1_4396bc64.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148698"
+      },
+      {
+        "id": 148697,
+        "text": "🔴\nتو یکی از عروسی عربا آر پی چی اوردن شلیک کردن\n🫪\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-24T08:03:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148697_0_a1072421.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148697_1_fe99a024.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148697"
+      },
+      {
         "id": 148696,
         "text": "🔴\nیه پسر هندی رفته بود آیفون خریده بود قسط هاش نتونست بده خواست خودکشی بکنه حین پریدن پدرشم باهاش پرید\n😳\n😳\nتازه از پشت مادرشونم دید چاره نیست اونم پرید.\n😳\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-24T07:35:10+00:00",
@@ -14796,40 +14834,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148581"
-      },
-      {
-        "id": 148580,
-        "text": "🚨\nانفجاری در یکی از پالایشگاه‌های منطقه دارمان در جاده منتهی به استان کرکوک عراق رخ داد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T13:15:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148580_0_61751b54.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148580_1_bcaad694.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148580"
-      },
-      {
-        "id": 148579,
-        "text": "🔹\n💢\nطبق اعلام وزارت کشور، در حملات آمریکا، ۲۳۰ میلیون مترمکعب از ظرفیت گاز پارس جنوبی آسیب دیده و از دست رفته ‌است که احتمالا محدودیت هایی در عرضه گاز به دنبال خواهد داشت\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T13:11:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148579_0_61751b54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148579"
       }
     ],
     "maznet": [
@@ -16371,23 +16375,23 @@
       }
     ]
   },
-  "last_update": "2026-08-24T07:41:13.155128+00:00",
+  "last_update": "2026-08-24T08:57:53.027635+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 774,
-    "total_files": 774,
+    "total_media": 775,
+    "total_files": 775,
     "total_links": 277,
     "files_by_type": {
       "image": 728,
-      "video": 38,
+      "video": 39,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 774,
-    "existing_media_files": 773,
-    "total_size_mb": 329.48,
-    "last_calculation": "2026-08-24T07:41:13.164465+00:00"
+    "referenced_files": 775,
+    "existing_media_files": 774,
+    "total_size_mb": 333.31,
+    "last_calculation": "2026-08-24T08:57:53.036887+00:00"
   }
 }
