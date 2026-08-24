@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148705,
+        "text": "🆕\n| حاجی میرزایی رئیس دفتر رئیس جمهور :\nتفاوت قیمت بنزین با کشورهای اطراف زیاد شده است وکاهش سهمیه های بنزین قطعی است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-24T10:34:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148705_0_a1072421.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148705"
+      },
+      {
+        "id": 148704,
+        "text": "💢\nخوش‌چشم، کارشناس صدا و سیما:\nارتش آمریکا به زودی بخش‌هایی از عمان را اشغال می‌کند!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-24T10:10:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148704_0_a1072421.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148704_1_0aa51fb8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148704"
+      },
+      {
         "id": 148703,
         "text": "⭕️\nترامپ به نقل از قالیباف بازنشر کرد:\nما گرسنه‌ایم و دوام نمی‌آوریم.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-24T09:50:20+00:00",
@@ -14782,50 +14816,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148588"
-      },
-      {
-        "id": 148587,
-        "text": "🎉\nگردونه شانس میلی گلد\nفقط با یک چرخش شانس خودت رو امتحان کن!\n🎁\nجایزه نقدی از ۲۰۰ هزار تومان تا ۳ میلیون تومان\n💸\nبرداشت آنی و بدون معطلی\nهمین حالا گردونه رو بچرخون و جایزه‌ات رو درجا دریافت کن!\n👇\n👇\nhttps://milli.gold/app/sign-up?referralCode=milli-bvbz8\nhttps://milli.gold/app/sign-up?referralCode=milli-bvbz8",
-        "date": "2026-08-22T14:45:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148587_0_61751b54.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148587_1_b341d9fb.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://milli.gold/app/sign-up?referralCode=milli-bvbz8",
-            "type": "external",
-            "display_text": "https://milli.gold/app/sign-up?referralCode=milli-bvbz8"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/bg_ae/148587"
-      },
-      {
-        "id": 148586,
-        "text": "🚨\nشهردار تهران: ۵۱ درصد تهرانی‌ها اجاره نشین هستند که این مساله یک معضل است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T14:34:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148586_0_61751b54.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148586_1_856ca5c9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148586"
       }
     ],
     "maznet": [
@@ -16367,23 +16357,23 @@
       }
     ]
   },
-  "last_update": "2026-08-24T09:58:04.166295+00:00",
+  "last_update": "2026-08-24T10:46:30.307854+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 773,
-    "total_files": 773,
-    "total_links": 277,
+    "total_media": 772,
+    "total_files": 772,
+    "total_links": 276,
     "files_by_type": {
-      "image": 728,
+      "image": 727,
       "video": 37,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 773,
-    "existing_media_files": 772,
-    "total_size_mb": 333.48,
-    "last_calculation": "2026-08-24T09:58:04.175462+00:00"
+    "referenced_files": 772,
+    "existing_media_files": 771,
+    "total_size_mb": 333.47,
+    "last_calculation": "2026-08-24T10:46:30.317259+00:00"
   }
 }
