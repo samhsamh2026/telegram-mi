@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148693,
+        "text": "🔴\nدیده شده در ایتا؛ سبحان الله\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-24T07:00:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148693_0_a1072421.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148693_1_dd510ffd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148693"
+      },
+      {
+        "id": 148692,
+        "text": "🔴\nابوطالب چند ماه پیش : بخدا دلتون برای دلار 78 تومنی هم تنگ میشه\n+\nبخدا دلتون برای دلار 200 تومنی هم تنگ میشه مردم\n😭\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-24T06:31:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148692_0_a1072421.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148692_1_4928d184.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148692"
+      },
+      {
         "id": 148691,
         "text": "🔴\nنتانیاهو‌ این ویدیو رو منتشر کرد و شماره تلفن خودش رو برای همه نوشت و گفت هرکسی دوس داره میتونه باهام تماس بگیره و حتی تروریستا اگه خا\n(جیگرشو)\nدارن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-24T06:04:03+00:00",
@@ -14792,40 +14830,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148576"
-      },
-      {
-        "id": 148575,
-        "text": "🇮🇷\nحمید رسایی با انتشار این تصویر نوشت: ترامپ روی این حرف‌ها حساب ویژه‌ای باز کرده!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T11:50:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148575_0_61751b54.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148575_1_98aa5e7d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148575"
-      },
-      {
-        "id": 148574,
-        "text": "💢\nبیشتر مقامات و اصول‌گراها و یا اصلاح‌طلبا توی چند هفته‌ی اخیر گفتن که در صورت اعمال تحریم اقتصادی شدید و همچنین ادامه دار بودن آن و محاصره دریایی میتوان گفت حکومت سقوط میکند‌.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T11:33:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148574_0_61751b54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148574"
       }
     ],
     "maznet": [
@@ -16367,23 +16371,23 @@
       }
     ]
   },
-  "last_update": "2026-08-24T06:09:42.040255+00:00",
+  "last_update": "2026-08-24T07:01:58.481621+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 773,
-    "total_files": 773,
+    "total_media": 774,
+    "total_files": 774,
     "total_links": 277,
     "files_by_type": {
       "image": 728,
-      "video": 37,
+      "video": 38,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 773,
-    "existing_media_files": 772,
-    "total_size_mb": 329.08,
-    "last_calculation": "2026-08-24T06:09:42.049630+00:00"
+    "referenced_files": 774,
+    "existing_media_files": 773,
+    "total_size_mb": 329.49,
+    "last_calculation": "2026-08-24T07:01:58.487327+00:00"
   }
 }
