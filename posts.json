@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148787,
+        "text": "🔻\n🇺🇸\nکلینتون: وقتی می‌شنوم ترامپ و اطرافیانش درباره سوسیالیسم و کمونیسم حرف می‌زنند، واقعاً برایم خنده‌دار است.\nرفتاری که او دارد، در واقع سوسیالیسم برای ثروتمندان است.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-25T12:31:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148787_0_c9ca8723.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148787_1_f3a4c95f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148787"
+      },
+      {
+        "id": 148786,
+        "text": "⭕️\nگزارش مردم از\nقحطی بنزین در تهران\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-25T12:10:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148786_0_c9ca8723.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148786_1_95e5ae91.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148786"
+      },
+      {
         "id": 148785,
         "text": "🔹\nچین :\nدر همکاری ما با ایران نباید مداخله یا مانع تراشی صورت بگیرد، زیرا در چارچوب قوانین بین‌المللی انجام می‌شود\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-25T11:50:20+00:00",
@@ -14758,44 +14796,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148676"
-      },
-      {
-        "id": 148675,
-        "text": "🚨\nشما دارید غمگین‌ترین ویدیوی این ماه رو مشاهده میکنید؛\nپدری که خرج عمل بچه‌‌اش رو نداره به بیمارستان پرداخت کنه و دنبال اینه که گوشیِ تو دستش رو بفروشه...\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-23T18:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148675_0_45be3b42.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148675_1_e81c1d5c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148675"
-      },
-      {
-        "id": 148674,
-        "text": "🔴\n📰\nکارشناس ایران اینترنشنال: آخوند اومد نفتو بکنه ۲۰۰ دلار، دلار شد ۲۰۰ هزار\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-23T18:40:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148674_0_45be3b42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148674_1_42608e07.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148674"
       }
     ],
     "maznet": [
@@ -16337,7 +16337,7 @@
       }
     ]
   },
-  "last_update": "2026-08-25T11:57:47.332217+00:00",
+  "last_update": "2026-08-25T12:51:18.702693+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16345,15 +16345,15 @@
     "total_files": 761,
     "total_links": 280,
     "files_by_type": {
-      "image": 721,
-      "video": 32,
+      "image": 720,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 761,
     "existing_media_files": 760,
-    "total_size_mb": 326.85,
-    "last_calculation": "2026-08-25T11:57:47.339053+00:00"
+    "total_size_mb": 329.79,
+    "last_calculation": "2026-08-25T12:51:18.709962+00:00"
   }
 }
