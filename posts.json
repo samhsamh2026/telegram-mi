@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 148814,
+        "text": "نتانیاهو: جمهوری اسلامی اقدام به ترور یکی از اعزای خانواده من رو کرده بود که شکست خورد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-25T21:05:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148814_0_c9ca8723.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148814"
+      },
+      {
         "id": 148813,
         "text": "🇮🇷\n👀\n|\nحرفای یه آخوند حامی حکومت راجب وضعیت حجاب :\nاگه شما آزادی پوشش داری، ما هم آزادی تجاوز به شما رو داریم!\nچرا اون کسی که میخواد به زن ها تجاوز کنه آزادی بهش نمیدید؟ آزادی باید بهش بدیم دیگه خودش انتخاب کرده که مزاحم همه بشه.\nاگه مردم آزاد باشن که هرجور دلشون خواست بیان بیرون پس باید متجاوز ها هم آزاد باشن!\nچطور میگی قانون باید جلوی متجاوز رو بگیره اما قانونی که باعث بشه لخت و پتی نیای بیرون نباید جلوتو بگیره؟\nچطور تو آزاد باشی اون آزاد نباشه ؟\n💢\n@Baga_News\n| Король",
         "date": "2026-08-25T20:10:19+00:00",
@@ -14777,25 +14792,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148704"
-      },
-      {
-        "id": 148703,
-        "text": "⭕️\nترامپ به نقل از قالیباف بازنشر کرد:\nما گرسنه‌ایم و دوام نمی‌آوریم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T09:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148703_0_a1072421.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148703_1_c29999e9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148703"
       }
     ],
     "maznet": [
@@ -16337,23 +16333,23 @@
       }
     ]
   },
-  "last_update": "2026-08-25T20:37:43.888388+00:00",
+  "last_update": "2026-08-25T21:36:51.948134+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 761,
-    "total_files": 761,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 280,
     "files_by_type": {
-      "image": 726,
+      "image": 725,
       "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 761,
-    "existing_media_files": 760,
-    "total_size_mb": 297.17,
-    "last_calculation": "2026-08-25T20:37:43.897584+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 297.08,
+    "last_calculation": "2026-08-25T21:36:51.957457+00:00"
   }
 }
