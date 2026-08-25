@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148764,
+        "text": "⏺\nپیت هگست:\n«امروز دیدن اسکات بسنت، وزیر خزانه‌داری، عالی است—ما در مورد عملیات «خشم اقتصادی» و تمام فشارهایی که او می‌تواند وارد کند، کاملاً با او هماهنگ بوده‌ایم.»\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-25T05:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148764_0_a1072421.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148764"
+      },
+      {
+        "id": 148763,
+        "text": "⏺\nپیت هگست:\nدر دوره اول ریاست‌جمهوری ترامپ، او ارتش آمریکا را بازسازی کرد. حالا در دوره دوم ریاست‌جمهوری‌اش، بار دیگر در حال بازسازی آن است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-25T04:30:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148763_0_a1072421.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148763_1_83dea5b9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148763"
+      },
+      {
         "id": 148762,
         "text": "🔴\nوزارت خارجه آمریکا اعلام کرد هر فردی که اطلاعاتی منجر به شناسایی محل حضور سرلشکر احمد وحیدی، فرمانده کل سپاه و علی‌ عبداللهی، رئیس ستاد کل نیروهای مسلح و چندتن از دیگر فرماندهان سپاه ارائه بده، ۱۰ میلیون دلار پاداش میگیره!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-25T04:01:27+00:00",
@@ -14764,44 +14798,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148652"
-      },
-      {
-        "id": 148651,
-        "text": "🔵\nتلگراف:\nهکرهای وابسته به جمهوری اسلامی یک نیروگاه برق بریتانیا را هک کردند و فعالیت آن به مدت ۴ روز مختل شده بود.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-23T13:50:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148651_0_45be3b42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148651"
-      },
-      {
-        "id": 148649,
-        "text": "جواد آدینه، از معترضان بازداشت‌شده دی‌ماه ۱۴۰۵، امروز یکشنبه یکم شهریور در استان البرز اعدام شد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-23T13:33:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148649_0_45be3b42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148649_1_ae655b24.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148649_2_9aae8be9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148649"
       }
     ],
     "maznet": [
@@ -16343,23 +16339,23 @@
       }
     ]
   },
-  "last_update": "2026-08-25T04:17:13.873474+00:00",
+  "last_update": "2026-08-25T05:08:53.908841+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 764,
-    "total_files": 764,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 279,
     "files_by_type": {
-      "image": 721,
-      "video": 35,
+      "image": 719,
+      "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
-    "total_size_mb": 324.57,
-    "last_calculation": "2026-08-25T04:17:13.880737+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 327.95,
+    "last_calculation": "2026-08-25T05:08:53.918041+00:00"
   }
 }
