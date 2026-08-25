@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148807,
+        "text": "‏\n🇮🇷\n👀\n|\nدبیر شورای‌عالی امنیت ملی: به آمریکا بی‌اعتمادیم و باید رفتارش را تغییر دهد\nسرلشکر رضایی: در دیدار با فرمانده ارتش پاکستان: آمریکا باید رفتارش را تغییر دهد و اقدامات عملی درخصوص اجرای شروط تفاهم‌نامه انجام دهد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-25T18:50:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148807_0_c9ca8723.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148807_1_f229810d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148807"
+      },
+      {
         "id": 148806,
         "text": "🔹\nخط فقر به ۱۶۰میلیون تومان رسید\n💔\n💢\n@Baga_News\n| Король",
         "date": "2026-08-25T18:31:26+00:00",
@@ -14769,25 +14788,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148697"
-      },
-      {
-        "id": 148696,
-        "text": "🔴\nیه پسر هندی رفته بود آیفون خریده بود قسط هاش نتونست بده خواست خودکشی بکنه حین پریدن پدرشم باهاش پرید\n😳\n😳\nتازه از پشت مادرشونم دید چاره نیست اونم پرید.\n😳\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-24T07:35:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148696_0_a1072421.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148696_1_ee6c540a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148696"
       }
     ],
     "maznet": [
@@ -16329,7 +16329,7 @@
       }
     ]
   },
-  "last_update": "2026-08-25T18:44:24.857354+00:00",
+  "last_update": "2026-08-25T18:54:36.144788+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16337,15 +16337,15 @@
     "total_files": 759,
     "total_links": 280,
     "files_by_type": {
-      "image": 724,
-      "video": 27,
+      "image": 725,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 759,
     "existing_media_files": 758,
-    "total_size_mb": 304.53,
-    "last_calculation": "2026-08-25T18:44:24.866422+00:00"
+    "total_size_mb": 299.76,
+    "last_calculation": "2026-08-25T18:54:36.153911+00:00"
   }
 }
