@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 148806,
+        "text": "🔹\nخط فقر به ۱۶۰میلیون تومان رسید\n💔\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-25T18:31:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148806_0_c9ca8723.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148806"
+      },
+      {
         "id": 148805,
         "text": "🇮🇹\n👀\n| تو ایتالیا یک مرد پاکستانی از ازدواج با دخترای ۹ ساله حمایت کرده درست روز بعد نخست وزیر جورجیاملونی شخصا دستور اخراج این پاکستانی صادر کرده\n😂\n💢\n@Baga_News\n| Король",
         "date": "2026-08-25T18:10:19+00:00",
@@ -14773,21 +14788,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148696"
-      },
-      {
-        "id": 148695,
-        "text": "🇵🇰\nعاصم منیر راهی ایران شد.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-08-24T07:20:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148695_0_a1072421.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148695"
       }
     ],
     "maznet": [
@@ -16329,7 +16329,7 @@
       }
     ]
   },
-  "last_update": "2026-08-25T18:22:50.350330+00:00",
+  "last_update": "2026-08-25T18:44:24.857354+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16346,6 +16346,6 @@
     "referenced_files": 759,
     "existing_media_files": 758,
     "total_size_mb": 304.53,
-    "last_calculation": "2026-08-25T18:22:50.359333+00:00"
+    "last_calculation": "2026-08-25T18:44:24.866422+00:00"
   }
 }
