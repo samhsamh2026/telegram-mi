@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148795,
+        "text": "🔻\nعارف: ما برنامه اقتصاد جنگی را ترسیم کرده ایم، اما برای جلوگیری از تنش در اذهان جامعه رسما آن را اعلام نکردیم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-25T15:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148795_0_c9ca8723.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148795_1_462c007c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148795"
+      },
+      {
+        "id": 148794,
+        "text": "💢\nواکنش پزشکیان به افتتاح پروژه نیروگاه خورشیدی: یه کف محمدی صلوات\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-25T14:52:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148794_0_c9ca8723.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148794_1_bbe58554.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148794"
+      },
+      {
+        "id": 148793,
+        "text": "💢\nترامپ :\nنیروی دریایی آمریکا به من اطلاع داد که تمام مین‌های کار گذاشته شده در آب‌های بین‌المللی تنگه هرمز خنثی شده‌اند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-25T14:43:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148793_0_c9ca8723.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148793"
+      },
+      {
         "id": 148792,
         "text": "⭕️\nبابک زنجانی: با نون زحمت کشی به اینجا رسیدم.\nجدی میفرمایید\n🙁\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-25T14:11:02+00:00",
@@ -14739,55 +14792,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148685"
-      },
-      {
-        "id": 148684,
-        "text": "⚪️\nفهرست ۱۰ ثروتمندترین میلیاردر جهان که همگی آمریکایی\n🇺🇸\nهستند\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-23T20:50:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148684_0_45be3b42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148684_1_d17a75cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148684"
-      },
-      {
-        "id": 148683,
-        "text": "🇮🇱\n👀\n| روزنامه اسرائیلی هاآرتص: نتانیاهو «اسرائیل» را به جنگی دیگر و بی‌نتیجه کشانده است؛ این بار با ترکیه\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-23T20:31:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148683_0_45be3b42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148683"
-      },
-      {
-        "id": 148682,
-        "text": "جمهوری اسلامی ایران\n🇮🇷\nاعلام کرد از امشب هر نفتکشی از مسیر جنوبی تنگه ی هرمز(متعلق به عمان و آمریکا) عبور کنه جریمه میشه و یا خود کشتی توقیف میشه و یا اموال کشتی مصادره میشه\n‼️\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-23T20:15:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148682_0_45be3b42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148682"
       }
     ],
     "maznet": [
@@ -16329,23 +16333,23 @@
       }
     ]
   },
-  "last_update": "2026-08-25T14:26:10.683056+00:00",
+  "last_update": "2026-08-25T15:24:51.361866+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 759,
-    "total_files": 759,
+    "total_media": 760,
+    "total_files": 760,
     "total_links": 280,
     "files_by_type": {
       "image": 722,
-      "video": 29,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 759,
-    "existing_media_files": 758,
-    "total_size_mb": 309.45,
-    "last_calculation": "2026-08-25T14:26:10.690159+00:00"
+    "referenced_files": 760,
+    "existing_media_files": 759,
+    "total_size_mb": 311.64,
+    "last_calculation": "2026-08-25T15:24:51.370865+00:00"
   }
 }
