@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148824,
+        "text": "⏺\nیه دوچرخه سوار ۶۵ ساله با دوچرخه به ۱۲ کشور دنیا سفر کرد اما وقتی برگشت ایران ماشین بهش زد و فوت کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-26T07:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148824_0_37d4f19d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148824_1_c9abf2f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148824"
+      },
+      {
         "id": 148821,
         "text": "🔴\nاین پیشی کوچولو داشت بازی میکرد که یه دفعه صندلی افتاد روش و دست و پاهاش شکست!\n😽\nحالا داستانش حسابی در سراسر دنیا وایرال شده و مردم نگران حالشن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-26T06:34:11+00:00",
@@ -14787,21 +14806,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148713"
-      },
-      {
-        "id": 148712,
-        "text": "💢\nرئیس ستاد نیروی هوایی اسرائیل :\nما در تمام جبهه‌ها در حالت آماده‌باش و آمادگی بالا باقی خواهیم ماند\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T12:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148712_0_a1072421.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148712"
       }
     ],
     "maznet": [
@@ -16343,23 +16347,23 @@
       }
     ]
   },
-  "last_update": "2026-08-26T06:53:01.166419+00:00",
+  "last_update": "2026-08-26T07:29:26.993894+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 764,
-    "total_files": 764,
+    "total_media": 765,
+    "total_files": 765,
     "total_links": 279,
     "files_by_type": {
-      "image": 727,
+      "image": 728,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
-    "total_size_mb": 299.22,
-    "last_calculation": "2026-08-26T06:53:01.173718+00:00"
+    "referenced_files": 765,
+    "existing_media_files": 764,
+    "total_size_mb": 299.34,
+    "last_calculation": "2026-08-26T07:29:27.003189+00:00"
   }
 }
