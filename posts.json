@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 148842,
+        "text": "💢\nسخنگوی دولت :‌\nمردم منتظر بهتر شدن وضع اقتصاد در سال آینده نباشند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-26T12:52:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148842_0_37d4f19d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148842"
+      },
+      {
+        "id": 148841,
+        "text": "🔹\nوزیر نیرو: در جریان جنگ ۴۰ روزه، ۴۲۰۰ مگاوات از ظرفیت نیروگاهی کشور رو از دست دادیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-26T12:46:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148841_0_37d4f19d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148841"
+      },
+      {
         "id": 148838,
         "text": "علی کریمی به رضا پهلوی ۲۴ ساعت فرصت داده بیاد درمورد این شرایط شفاف سازی کنه وگرنه طور دیگه برخورد میکنه\n‼️\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-26T11:50:23+00:00",
@@ -14766,40 +14796,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148731"
-      },
-      {
-        "id": 148730,
-        "text": "🚨\nاینترنشنال:\nنشانه‌های قحطی نمایان شده\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-24T15:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148730_0_a1072421.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148730"
-      },
-      {
-        "id": 148729,
-        "text": "🔴\nحمله شدید اسرائیل به نوار غزه\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-24T15:00:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148729_0_a1072421.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148729_1_cced4295.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148729"
       }
     ],
     "maznet": [
@@ -16341,23 +16337,23 @@
       }
     ]
   },
-  "last_update": "2026-08-26T11:59:36.726465+00:00",
+  "last_update": "2026-08-26T12:57:20.414914+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 765,
-    "total_files": 765,
+    "total_media": 764,
+    "total_files": 764,
     "total_links": 278,
     "files_by_type": {
-      "image": 724,
+      "image": 723,
       "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 765,
-    "existing_media_files": 764,
-    "total_size_mb": 299.42,
-    "last_calculation": "2026-08-26T11:59:36.735944+00:00"
+    "referenced_files": 764,
+    "existing_media_files": 763,
+    "total_size_mb": 299.37,
+    "last_calculation": "2026-08-26T12:57:20.424137+00:00"
   }
 }
