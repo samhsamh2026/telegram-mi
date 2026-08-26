@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148816,
+        "text": "🔴\nکارولین لویت:\nبسنت: رهبران ایران در برابر فشار اقتصادی ترامپ «دچار وحشت شده‌اند» — او وعده داد «تمام راه‌های حیاتی اقتصادی» ایران را قطع کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-26T04:00:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148816_0_c9ca8723.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148816_1_e7bbd365.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148816"
+      },
+      {
+        "id": 148815,
+        "text": "گویا از دیشب اینستا رفع فیلتر شده\n🙁\nبرای شما هم همینطوریه ؟\n💢\n@Baga_News\n| ari",
+        "date": "2026-08-26T03:29:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148815_0_c9ca8723.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148815"
+      },
+      {
         "id": 148814,
         "text": "نتانیاهو: جمهوری اسلامی اقدام به ترور یکی از اعزای خانواده من رو کرده بود که شکست خورد.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-25T21:05:20+00:00",
@@ -14758,40 +14792,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148707"
-      },
-      {
-        "id": 148705,
-        "text": "🆕\n| حاجی میرزایی رئیس دفتر رئیس جمهور :\nتفاوت قیمت بنزین با کشورهای اطراف زیاد شده است وکاهش سهمیه های بنزین قطعی است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T10:34:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148705_0_a1072421.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148705"
-      },
-      {
-        "id": 148704,
-        "text": "💢\nخوش‌چشم، کارشناس صدا و سیما:\nارتش آمریکا به زودی بخش‌هایی از عمان را اشغال می‌کند!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T10:10:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148704_0_a1072421.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148704_1_0aa51fb8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148704"
       }
     ],
     "maznet": [
@@ -16333,7 +16333,7 @@
       }
     ]
   },
-  "last_update": "2026-08-26T03:14:11.886759+00:00",
+  "last_update": "2026-08-26T04:13:50.637921+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16349,7 +16349,7 @@
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 297.08,
-    "last_calculation": "2026-08-26T03:14:11.895870+00:00"
+    "total_size_mb": 297.11,
+    "last_calculation": "2026-08-26T04:13:50.647112+00:00"
   }
 }
