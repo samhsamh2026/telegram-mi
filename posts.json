@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148818,
+        "text": "🔴\nملونی نخست وزیر ایتالیا بعد از اینکه یه تابعه پاکستانی در اظهاراتش به ازدواج با دختر ۹ ساله اشاره کرده بود اونو از ایتالیا فورا اخراج کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-26T05:02:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148818_0_c9ca8723.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148818_1_59b47b1a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148818"
+      },
+      {
+        "id": 148817,
+        "text": "🔴\nغریب آبادی معاون وزیر امورخارجه جمهوری اسلامی:\nچرا باید همیشه ما منتظر بمانیم آمریکا حمله کند؟ ما می‌توانیم دست به اقدام پیش‌دستانه بزنیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-26T04:32:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148817_0_c9ca8723.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148817_1_9b4b343d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148817"
+      },
+      {
         "id": 148816,
         "text": "🔴\nکارولین لویت:\nبسنت: رهبران ایران در برابر فشار اقتصادی ترامپ «دچار وحشت شده‌اند» — او وعده داد «تمام راه‌های حیاتی اقتصادی» ایران را قطع کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-26T04:00:39+00:00",
@@ -14758,40 +14796,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/bg_ae/148709"
-      },
-      {
-        "id": 148708,
-        "text": "🆕\nاسکات بسنت :\nهر کشوری با هر روشی که به جمهوری اسلامی کمک کنه زود شناسایی میشه و اون هم مورد تنبیه شدیدی قرار میگیره!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T11:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148708_0_a1072421.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148708"
-      },
-      {
-        "id": 148707,
-        "text": "🔻\n🇮🇱\nکانال 14 اسرائیل این خبرو پوشش داد و گفت:\nرژیم ایران وعده داده هرکس بارون ترامپ را ترور کند، ۱۰ میلیون دلار جایزه خواهد گرفت.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T10:50:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148707_0_a1072421.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148707_1_4a3ee4ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148707"
       }
     ],
     "maznet": [
@@ -16333,23 +16337,23 @@
       }
     ]
   },
-  "last_update": "2026-08-26T04:13:50.637921+00:00",
+  "last_update": "2026-08-26T05:08:45.048664+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 760,
-    "total_files": 760,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 280,
     "files_by_type": {
       "image": 725,
-      "video": 27,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
-    "total_size_mb": 297.11,
-    "last_calculation": "2026-08-26T04:13:50.647112+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 298.65,
+    "last_calculation": "2026-08-26T05:08:45.057558+00:00"
   }
 }
