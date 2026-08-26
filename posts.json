@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 148830,
+        "text": "🔻\nفلاحت‌پیشه: هیئت پاکستانی بیش از اینکه به دنبال احیای تفاهم باشد، حامل تهدیدهای جدید آمریکا بود\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-26T08:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148830_0_37d4f19d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148830"
+      },
+      {
+        "id": 148829,
+        "text": "🔹\nسخنگوی دولت: انتشار اطلاعات میزان فقر مردم، نیاز به مجوز شورای عالی امنیت ملی دارد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-08-26T08:31:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148829_0_37d4f19d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148829_1_eb7236b3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148829"
+      },
+      {
         "id": 148828,
         "text": "🔴\n🪖\n🇮🇱\n❌\n🇱🇧\nدر ۲۴ ساعت گذشته، ارتش اسرائیل ۳۷ حمله در مناطق مختلف جنوب لبنان انجام داده است:\n•\nسربین\n• مرکبا\n• المنصوری\n• کفر رمان\n• زبقین\n• طیر حرفا\n• خیام\n• بنی حیان\n• بیت لیف\n• قنطارہ\n• برعشیت\n• نبطیه الفوقا\n• علی الطاهر\n﻿\n◀️\nهمچنین ارتش اسرائیل ۱۶ مورد انفجار کنترل‌شده یا انفجار در چندین شهرک و منطقه را انجام داده است:\n• مرکبا\n• خیام\n• میس الجبل\n• زوطر الشرقیه\n• طیر حرفا\n• مجدل زون\n• سربین\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-26T08:01:13+00:00",
@@ -14770,50 +14804,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148718"
-      },
-      {
-        "id": 148716,
-        "text": "Emperial\n.انواع پوشاک تک و عمده به قیمت\n.شومیز\n.مانتو\n.تیشرت\n.شلوار جین پارچه ای جاگر\nhttps://t.me/emperialtak\nزنونه دخترونه\nلباسی جذاب میپوشی عضوشو\nکارای عمده رو گذاشتم تو کانال\nتند تند کارا اضافه میشه\n۳۴۰۰ مدل هست\nممنون میشم دیدن کنید\nادمین\n@emirshahbazi\n09981258928",
-        "date": "2026-08-24T13:11:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148716_0_a1072421.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148716_1_4c75fe11.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/emperialtak",
-            "type": "telegram",
-            "display_text": "https://t.me/emperialtak"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/bg_ae/148716"
-      },
-      {
-        "id": 148715,
-        "text": "‼️\nیک فروند نفتکش با مالکیت نامشخص در غرب بندر ینبع در فاصله بیش از ۱۰۰۰ کیلو متری از یمن هدف اصابت پرتابه انصار الله قرار گرفته است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T12:52:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148715_0_a1072421.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148715_1_019ed6dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148715"
       }
     ],
     "maznet": [
@@ -16355,23 +16345,23 @@
       }
     ]
   },
-  "last_update": "2026-08-26T08:21:51.215774+00:00",
+  "last_update": "2026-08-26T09:21:55.347602+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 767,
-    "total_files": 767,
-    "total_links": 279,
+    "total_media": 766,
+    "total_files": 766,
+    "total_links": 278,
     "files_by_type": {
-      "image": 727,
-      "video": 32,
+      "image": 725,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 767,
-    "existing_media_files": 766,
-    "total_size_mb": 304.61,
-    "last_calculation": "2026-08-26T08:21:51.222978+00:00"
+    "referenced_files": 766,
+    "existing_media_files": 765,
+    "total_size_mb": 309.59,
+    "last_calculation": "2026-08-26T09:21:55.354400+00:00"
   }
 }
