@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 148828,
+        "text": "🔴\n🪖\n🇮🇱\n❌\n🇱🇧\nدر ۲۴ ساعت گذشته، ارتش اسرائیل ۳۷ حمله در مناطق مختلف جنوب لبنان انجام داده است:\n•\nسربین\n• مرکبا\n• المنصوری\n• کفر رمان\n• زبقین\n• طیر حرفا\n• خیام\n• بنی حیان\n• بیت لیف\n• قنطارہ\n• برعشیت\n• نبطیه الفوقا\n• علی الطاهر\n﻿\n◀️\nهمچنین ارتش اسرائیل ۱۶ مورد انفجار کنترل‌شده یا انفجار در چندین شهرک و منطقه را انجام داده است:\n• مرکبا\n• خیام\n• میس الجبل\n• زوطر الشرقیه\n• طیر حرفا\n• مجدل زون\n• سربین\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-26T08:01:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148828_0_37d4f19d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148828"
+      },
+      {
+        "id": 148825,
+        "text": "🔴\nدادگاه محاکمه اندروتیت اعلام کرد ماشین های بوگاتی و استون مارتین اندروتیت اجاره ای هستن(یعنی مال خودش نبودن)\n🤣\nاندروتیت یه مدت بخاطر ویدیوهای انگیزشی و سیگما طور که میداد بیرون؛ حسابی بین پسرا معروف شده بود.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-26T07:32:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148825_0_37d4f19d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148825_1_a1507ac6.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148825_2_bb25a7be.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148825_3_869e29ac.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148825"
+      },
+      {
         "id": 148824,
         "text": "⏺\nیه دوچرخه سوار ۶۵ ساله با دوچرخه به ۱۲ کشور دنیا سفر کرد اما وقتی برگشت ایران ماشین بهش زد و فوت کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-26T07:03:47+00:00",
@@ -14772,40 +14814,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148715"
-      },
-      {
-        "id": 148714,
-        "text": "🚨\nهر گرم طلای ۱۸عیار 22,300,000\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T12:47:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148714_0_a1072421.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148714"
-      },
-      {
-        "id": 148713,
-        "text": "🔹\nامروز اداره برق، برق کمیسیون انرژی مجلسو هنگام بررسی علت خاموشی‌ های اخیر قطع کرد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T12:42:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148713_0_a1072421.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148713_1_44cd46d3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148713"
       }
     ],
     "maznet": [
@@ -16347,23 +16355,23 @@
       }
     ]
   },
-  "last_update": "2026-08-26T07:29:26.993894+00:00",
+  "last_update": "2026-08-26T08:21:51.215774+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 765,
-    "total_files": 765,
+    "total_media": 767,
+    "total_files": 767,
     "total_links": 279,
     "files_by_type": {
-      "image": 728,
-      "video": 29,
+      "image": 727,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 765,
-    "existing_media_files": 764,
-    "total_size_mb": 299.34,
-    "last_calculation": "2026-08-26T07:29:27.003189+00:00"
+    "referenced_files": 767,
+    "existing_media_files": 766,
+    "total_size_mb": 304.61,
+    "last_calculation": "2026-08-26T08:21:51.222978+00:00"
   }
 }
