@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 149080,
+        "text": "🚨\nاین فرصت رو از دست نده!\n🎁\nفقط با دعوت از ۵ نفر از دوستات،\n۲۰ گیگ اشتراک یک‌ماهه کاملاً رایگان هدیه بگیر\n!\n🌎\nاینترنت امن و پرسرعت، هر گیگ فقط ۱,۰۰۰ تومان\n⭕️\nاشتراک نامحدود فقط ۱۰۵,۰۰۰ تومان\n⚡️\nسرعت فوق‌العاده\n✅\nسازگار با تمام اپراتورها و اینترنت‌ها\n💎\nقابل استفاده روی همه دستگاه‌ها\n⏱\nفعال‌سازی فوری\n💬\nپشتیبانی سریع و ۲۴ ساعته\n🔥\nکیفیت عالی + قیمت استثنایی\n🔖\nوان‌وی‌نت = بهترین انتخاب برای همیشه\n👇\n@OneVnetBot\n✅\nتایید شده توسط تیم بگانیوز\n💢",
+        "date": "2026-08-29T23:34:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_149080_0_4cfd75ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_149080_1_9c9f9ee2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/149080"
+      },
+      {
         "id": 149079,
         "text": "🔴\n🚀\nلحظه آزمایش موفقیت آمیز پهپاد انتحاری شاهد کره جنوبی\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-29T20:10:25+00:00",
@@ -14745,21 +14764,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148971"
-      },
-      {
-        "id": 148970,
-        "text": "💢\nکوثری: سپاه از سال 66 برای بسته شدن تنگه هرمز برنامه داشت.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-28T09:32:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148970_0_1e18e4f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148970"
       }
     ],
     "maznet": [
@@ -16301,23 +16305,23 @@
       }
     ]
   },
-  "last_update": "2026-08-29T23:13:32.649723+00:00",
+  "last_update": "2026-08-30T01:36:21.410943+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 752,
-    "total_files": 752,
+    "total_media": 753,
+    "total_files": 753,
     "total_links": 280,
     "files_by_type": {
-      "image": 718,
+      "image": 719,
       "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 287.34,
-    "last_calculation": "2026-08-29T23:13:32.659456+00:00"
+    "referenced_files": 753,
+    "existing_media_files": 752,
+    "total_size_mb": 287.45,
+    "last_calculation": "2026-08-30T01:36:21.420204+00:00"
   }
 }
