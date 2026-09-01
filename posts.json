@@ -12946,6 +12946,33 @@
     ],
     "bg_ae": [
       {
+        "id": 149286,
+        "text": "🔴\nیه پسر بخاطر نمرات خوبش توی امتحانات نهایی، جایزه گرفت و بهش زن دادن.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-01T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_149286_0_0dbcbb60.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_149286_1_117882ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_149286_2_38898eda.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_149286_3_d813abd2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/149286"
+      },
+      {
         "id": 149285,
         "text": "شاهد آرامش قبل طوفان هستیم\n💢\n@Baga_News\n| Король",
         "date": "2026-09-01T00:49:01+00:00",
@@ -14643,21 +14670,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/149153"
-      },
-      {
-        "id": 149152,
-        "text": "💢\nبرخی منابع خبر شلیک موشک، از نواحی مرکزی ایران را دادند\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-08-30T20:22:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149152_0_5fddf74e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149152"
       }
     ],
     "maznet": [
@@ -16199,23 +16211,23 @@
       }
     ]
   },
-  "last_update": "2026-09-01T02:05:00.973300+00:00",
+  "last_update": "2026-09-01T04:05:25.315477+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 731,
-    "total_files": 731,
+    "total_media": 734,
+    "total_files": 734,
     "total_links": 277,
     "files_by_type": {
-      "image": 701,
+      "image": 704,
       "video": 22,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 731,
-    "existing_media_files": 730,
-    "total_size_mb": 266.25,
-    "last_calculation": "2026-09-01T02:05:00.982150+00:00"
+    "referenced_files": 734,
+    "existing_media_files": 733,
+    "total_size_mb": 266.46,
+    "last_calculation": "2026-09-01T04:05:25.324495+00:00"
   }
 }
