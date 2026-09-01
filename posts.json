@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 149295,
+        "text": "🟣\nاستاد به صورت عملی برامون گوز رو به شقیقه ربط دادن\n⚪️\n@Baga_Tweet",
+        "date": "2026-09-01T07:31:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_149295_0_85ff37bb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_149295_1_5ac48770.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/149295"
+      },
+      {
+        "id": 149294,
+        "text": "🔴\nایشون رکورد دار عمل زیبایی بین آقایونه و تا حالا بیش از 300 عمل زیبایی انجام داده!\nپسری که عمل زیبایی نکنه اسکله، تا حالا 200 میلیون خرج ابروم کردم، 150 میلیون خرج لبام شده.\nاستایلم فقط 400 میلیونه، 500 میلیون دادم که خط سینه بندازم. پسر باید به خودش برسه.\nهزینه روزمره‌ام روزی 100-150 میلیونه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-01T07:01:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_149294_0_85ff37bb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_149294_1_1446842e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/149294"
+      },
+      {
         "id": 149293,
         "text": "🔴\nخبرگزاری فارس :\nایت الله مجتبی خامنه ای دستور عفو ۲۵۰۰ زندانی رو صادر کرد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-09-01T06:31:38+00:00",
@@ -14644,40 +14682,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/149160"
-      },
-      {
-        "id": 149159,
-        "text": "🔴\nسرهنگ انتظامی محمد خدایاری، در ویدیویی با اشاره به اعتراض مردم به وضعیت بد معیشتی، خطاب به مسئولان نظام گفت: «بخدا گرانی بیداد می‌کند».\n◀️\nاین افسر انتظامی می‌گوید\"کاری از دست ما ساخته نیست\" اما پاسخ روشن است، ملتی را که برای نان و کرامت و سفره و آزادی اعتراض می‌کنند سرکوب نکنید.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-08-30T20:48:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149159_0_5fddf74e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149159"
-      },
-      {
-        "id": 149158,
-        "text": "🔹\nنتانیاهو: من جمهوری اسلامی رو شکست میدم.  من روی این هدف متمرکزم و این امر ممکنه. اونا خیلی ضعیف شدن. الان روی زمین لغزنده‌ان.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-30T20:46:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149158_0_5fddf74e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_149158_1_cc70154d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149158"
       }
     ],
     "maznet": [
@@ -16219,23 +16223,23 @@
       }
     ]
   },
-  "last_update": "2026-09-01T06:53:40.160952+00:00",
+  "last_update": "2026-09-01T07:46:38.395850+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 736,
-    "total_files": 736,
+    "total_media": 737,
+    "total_files": 737,
     "total_links": 277,
     "files_by_type": {
       "image": 705,
-      "video": 23,
+      "video": 24,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 736,
-    "existing_media_files": 735,
-    "total_size_mb": 270.11,
-    "last_calculation": "2026-09-01T06:53:40.165494+00:00"
+    "referenced_files": 737,
+    "existing_media_files": 736,
+    "total_size_mb": 274.98,
+    "last_calculation": "2026-09-01T07:46:38.402922+00:00"
   }
 }
