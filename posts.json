@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 149710,
+        "text": "🇷🇺\nمسکو: همکاری با ما به پکن کمک کرد از بحران انرژی ناشی از بسته شدن هرمز عبور کند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-04T11:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_149710_0_2ff569c7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/149710"
+      },
+      {
         "id": 149709,
         "text": "🇮🇷\nکارشناس صداسیما:\nدرسته حزب الله شکست خورد و اسرائیل خیلی از مناطق رو اشغال کرده اما حزب الله در اصل پیروز شده\n💢\n@Baga_News\n| areZo",
         "date": "2026-09-04T10:50:17+00:00",
@@ -14727,25 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/149598"
-      },
-      {
-        "id": 149597,
-        "text": "🟠\nسلفی همسر عراقچی، دختر پزشکیان و فاطمه مهاجرانی در نمایشگاه خیریه انجمن دیپلماتیک بانوان\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-02T20:50:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149597_0_f22ecfba.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_149597_1_bcddef05.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149597"
       }
     ],
     "maznet": [
@@ -16287,23 +16283,23 @@
       }
     ]
   },
-  "last_update": "2026-09-04T10:50:42.812491+00:00",
+  "last_update": "2026-09-04T11:43:07.786683+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 279,
     "files_by_type": {
-      "image": 717,
+      "image": 716,
       "video": 25,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 276.16,
-    "last_calculation": "2026-09-04T10:50:42.819635+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 276.1,
+    "last_calculation": "2026-09-04T11:43:07.795803+00:00"
   }
 }
