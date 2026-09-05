@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 149764,
+        "text": "💢\nاین زن به اسم لیندزی کلنسی، سه تا بچه  کوچیکشو که 3 و 5 سال داشتن و یکیشونم 8 ماهش بود با کش‌ ورزشی تک‌تک خفه کرده و کشته، تو دادگاه گفت من دچار روانپریشی بعد از زایمان شدم و باید بی گناه شناخته بشم.\n+الان کلی از زنایی که خودشون بچه دارن طرفدارش شدن تو آمریکا و میگن بی گناهه و ما درکش میکنیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-05T04:03:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_149764_0_fdf3b277.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_149764_1_bb98d91c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/149764"
+      },
+      {
         "id": 149763,
         "text": "نتانیاهو: جمهوری اسلامی سقوط میکنه\n💢\n@Baga_News\n| Noll",
         "date": "2026-09-04T23:40:01+00:00",
@@ -14719,37 +14738,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/149662"
-      },
-      {
-        "id": 149658,
-        "text": "🚨\nطبق گزارشات، ارزش مجموعه‌ها و دارایی‌های مرتبط با ساعدی‌نیا حدود 2700 میلیارد تومن برآورد شده؛\nشامل مجموعه مهر و ماه، چندین کافه، کارخانه و شرکت‌های صنایع غذایی و ...\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-03T18:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149658_0_8b007948.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_149658_1_46f594c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_149658_2_b4e6d730.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_149658_3_a9ee4ace.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_149658_4_c27d4f55.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149658"
       }
     ],
     "maznet": [
@@ -16291,23 +16279,23 @@
       }
     ]
   },
-  "last_update": "2026-09-05T03:29:40.608381+00:00",
+  "last_update": "2026-09-05T04:07:02.772742+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 279,
     "files_by_type": {
-      "image": 711,
+      "image": 708,
       "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 292.33,
-    "last_calculation": "2026-09-05T03:29:40.617454+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 292.09,
+    "last_calculation": "2026-09-05T04:07:02.781865+00:00"
   }
 }
