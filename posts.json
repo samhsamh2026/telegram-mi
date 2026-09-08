@@ -12946,6 +12946,84 @@
     ],
     "bg_ae": [
       {
+        "id": 150059,
+        "text": "🎉\nگردونه شانس میلی گلد\nفقط با یک چرخش شانس خودت رو امتحان کن!\n🎁\nجایزه نقدی از ۲۰۰ هزار تومان تا ۳ میلیون تومان\n💸\nبرداشت آنی و بدون معطلی\nهمین حالا گردونه رو بچرخون و جایزه‌ات رو درجا دریافت کن!\n👇\n👇\nhttps://milli.gold/app/sign-up?referralCode=milli-bvbz8\nhttps://milli.gold/app/sign-up?referralCode=milli-bvbz8",
+        "date": "2026-09-08T11:47:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150059_0_f115dff4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150059_1_cf1f9907.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://milli.gold/app/sign-up?referralCode=milli-bvbz8",
+            "type": "external",
+            "display_text": "https://milli.gold/app/sign-up?referralCode=milli-bvbz8"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/bg_ae/150059"
+      },
+      {
+        "id": 150058,
+        "text": "🚨\n| دیشب تو تجمعات برای مجتبی خامنه ای تولد گرفتن\n😂\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-08T11:33:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150058_0_f115dff4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_150058_1_ef5b2af5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150058"
+      },
+      {
+        "id": 150057,
+        "text": "دیدار وزرای خارجه روسیه و عربستان درباره ایران و تنگه هرمز\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-08T11:10:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150057_0_f115dff4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150057_1_33f18bf2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150057"
+      },
+      {
+        "id": 150056,
+        "text": "مدیرکل فرودگاه‌های استان بوشهر: پرواز در مسیر بوشهر به دبی از بیستم شهریور راه‌اندازی می‌شود\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-08T10:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150056_0_f115dff4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150056"
+      },
+      {
         "id": 150055,
         "text": "🇮🇷\nقوه قضاییه: محمدباقر خرازی در بازداشت به‌سر می‌برد\n💢\n@Baga_News\n| areZo",
         "date": "2026-09-08T10:31:23+00:00",
@@ -14720,82 +14798,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/149935"
-      },
-      {
-        "id": 149934,
-        "text": "⚪️\nمحمدرضا گلزار: قدردان شجاعت، فداکاری عزیزانی هستیم که در روزهای سخت جنگ برای دفاع از ایران ایستادن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-07T08:31:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149934_0_b76e5447.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_149934_1_78aa32a1.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149934"
-      },
-      {
-        "id": 149933,
-        "text": "🔹\nصحبت‌های انتخاباتی پزشکیان درباره بنزین\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-07T08:02:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149933_0_b76e5447.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_149933_1_b994da9c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149933"
-      },
-      {
-        "id": 149932,
-        "text": "پست پرمفهوم ترامپ\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-07T07:33:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149932_0_b76e5447.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_149932_1_bd289333.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149932"
-      },
-      {
-        "id": 149931,
-        "text": "ترامپ: ایران ملتی شکست‌خورده است\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-07T07:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149931_0_b76e5447.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_149931_1_92d70f9a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149931"
       }
     ],
     "maznet": [
@@ -16337,23 +16339,23 @@
       }
     ]
   },
-  "last_update": "2026-09-08T10:49:32.038864+00:00",
+  "last_update": "2026-09-08T11:49:35.441370+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 767,
-    "total_files": 767,
-    "total_links": 276,
+    "total_media": 766,
+    "total_files": 766,
+    "total_links": 277,
     "files_by_type": {
       "image": 715,
-      "video": 44,
+      "video": 43,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 767,
-    "existing_media_files": 766,
-    "total_size_mb": 327.13,
-    "last_calculation": "2026-09-08T10:49:32.048095+00:00"
+    "referenced_files": 766,
+    "existing_media_files": 765,
+    "total_size_mb": 324.14,
+    "last_calculation": "2026-09-08T11:49:35.450485+00:00"
   }
 }
