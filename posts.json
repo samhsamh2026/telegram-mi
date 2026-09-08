@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 150043,
+        "text": "🇺🇸\n👀\n| ترامپ :\nسیاستمداران ایرانی خواهان پایان جنگ هستند.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-08T06:34:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150043_0_f115dff4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150043_1_e17b174a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150043"
+      },
+      {
         "id": 150042,
         "text": "⚫️\nصفحه وزارت خارجه اسرائیل این عکس رو گذاشت و نوشت :\nقلب ما با خانواده‌های جاویدنامان است\n🕯\n💢\n@Baga_News\n| Король",
         "date": "2026-09-08T06:02:03+00:00",
@@ -14775,21 +14794,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/149921"
-      },
-      {
-        "id": 149920,
-        "text": "🔵\nجان بولتون: تنها راه ایجاد صلح و ثبات در خاورمیانه، سرنگون کردن جمهوری اسلامیه.\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-06T19:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_149920_0_288bfd66.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/149920"
       }
     ],
     "maznet": [
@@ -16331,23 +16335,23 @@
       }
     ]
   },
-  "last_update": "2026-09-08T06:29:30.013413+00:00",
+  "last_update": "2026-09-08T06:40:11.185815+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 764,
-    "total_files": 764,
+    "total_media": 765,
+    "total_files": 765,
     "total_links": 277,
     "files_by_type": {
-      "image": 711,
+      "image": 712,
       "video": 45,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
-    "total_size_mb": 346.09,
-    "last_calculation": "2026-09-08T06:29:30.022881+00:00"
+    "referenced_files": 765,
+    "existing_media_files": 764,
+    "total_size_mb": 346.15,
+    "last_calculation": "2026-09-08T06:40:11.195447+00:00"
   }
 }
