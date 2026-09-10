@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 150292,
+        "text": "🇮🇱\nنتانیاهو: کار نیمه تموم رو حتما تموم میکنیم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-10T10:50:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150292_0_3ab8ec9e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150292_1_01ef3a1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150292"
+      },
+      {
+        "id": 150291,
+        "text": "🔴\nمن میگم ایرانیا تو کامنت گزاشتن رقیب ندارن شما هی انکار کن؛\nعادی ترین کامنت زیر پیج یه آرایشگر :\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-10T10:33:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150291_0_3ab8ec9e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150291_1_716da50c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150291"
+      },
+      {
+        "id": 150290,
+        "text": "🚨\nیسری از حامیان حکومت اومدن یه کارزار زدن که حسن روحانی رو محاکمه کنن و تا الان 350 هزار رأی گرفته !\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-10T10:10:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150290_0_3ab8ec9e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150290_1_07b2d572.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150290"
+      },
+      {
         "id": 150289,
         "text": "ویدیو وایرال شده از عروسی اسرائیلی ها با اهنگ ایرانی :\n💢\n@Baga_News\n| areZo",
         "date": "2026-09-10T09:50:19+00:00",
@@ -14635,51 +14692,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150188"
-      },
-      {
-        "id": 150187,
-        "text": "🚨\nگزارشات از شلوغی در پمپ بنزین های ایران\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-08T22:04:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150187_0_f115dff4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150187"
-      },
-      {
-        "id": 150186,
-        "text": "🔴\nنایا به نقل از یک مقام ارشد ایرانی:\nما تازه شروع کرده‌ایم... هیچ کس نمی‌تواند با ما بازی کند. ما از آمریکا نمی‌ترسیم.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-09-08T22:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150186_0_f115dff4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150186"
-      },
-      {
-        "id": 150185,
-        "text": "شلیک موشک از خمین\n‼️\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-08T22:03:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150185_0_f115dff4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150185"
       }
     ],
     "maznet": [
@@ -16221,23 +16233,23 @@
       }
     ]
   },
-  "last_update": "2026-09-10T10:02:20.814918+00:00",
+  "last_update": "2026-09-10T10:54:23.465750+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 738,
-    "total_files": 738,
+    "total_media": 741,
+    "total_files": 741,
     "total_links": 276,
     "files_by_type": {
-      "image": 688,
+      "image": 691,
       "video": 42,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 738,
-    "existing_media_files": 737,
-    "total_size_mb": 352.2,
-    "last_calculation": "2026-09-10T10:02:20.823656+00:00"
+    "referenced_files": 741,
+    "existing_media_files": 740,
+    "total_size_mb": 352.33,
+    "last_calculation": "2026-09-10T10:54:23.474617+00:00"
   }
 }
