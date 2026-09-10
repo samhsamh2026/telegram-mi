@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 150357,
+        "text": "🔴\n🛢\n📈\nقیمت نفت برنت به نزدیکی ۱۱۰ دلار  رسید!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-10T22:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150357_0_3ab8ec9e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150357"
+      },
+      {
+        "id": 150356,
+        "text": "🔴\nدو کشتی با استفاده از ۴ موشک غربی در منطقه خصب، در عمان، مورد هدف قرار گرفتند.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-10T21:20:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150356_0_3ab8ec9e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150356_1_ecb25e8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150356"
+      },
+      {
+        "id": 150355,
+        "text": "🔴\nیک نیرو نظامی در جنوب کشور در اثر حملات آمریکا کشته شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-10T21:02:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150355_0_3ab8ec9e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150355_1_597a39dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150355"
+      },
+      {
         "id": 150354,
         "text": "🔴\n🇮🇱\nنتانیاهو، نخست وزیر اسرائیل:\nامشب، بزرگترین پایگاه نظامی جمهوری اسلامی خارج از ایران، یعنی تونل‌های علی طاهر در لبنان، منهدم شد.\nماموریت به پایان رسید. سال نو مبارک!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-09-10T20:20:24+00:00",
@@ -14655,59 +14708,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150235"
-      },
-      {
-        "id": 150234,
-        "text": "🔴\nخبرنگار تبیان : این روزا کافه های از ساعت ۸ به بعد درو روی مشتریای عادی میبندن و کافه ها به کلاب تبدیل میشن و توشون پارتی برگزار میشه، فقط هم با بلیط میشه واردشون شد و در حالی که بلیط ورود دخترا ۳۰۰ هزار تومنه از پسرا برای بلیط ۱ میلیون و ۲۰۰ هزارتومن میگیرن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-09T14:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150234_0_7686d0fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150234_1_d2b47dcd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150234"
-      },
-      {
-        "id": 150233,
-        "text": "🇶🇦\nوزارت امور خارجه قطر: ما حملات مجدد ایران به اردن را محکوم می‌کنیم و آن را نقض حاکمیت ملی و نقض قوانین بین‌المللی می‌دانیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-09T14:31:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150233_0_7686d0fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150233"
-      },
-      {
-        "id": 150232,
-        "text": "🇮🇷\nعباسی معاون وزیر راه و شهرسازی دولت سیزدهم:\nآقای رئیس‌جمهور!\nمگه نمی‌گید هرکی می‌تونه کار کنه بیاد؟\nمن می‌تونم\nکجا بیام؟\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-09T14:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150232_0_7686d0fa.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150232_1_e40496ce.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150232"
       }
     ],
     "maznet": [
@@ -16249,7 +16249,7 @@
       }
     ]
   },
-  "last_update": "2026-09-10T20:46:46.207846+00:00",
+  "last_update": "2026-09-10T23:05:08.890700+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16257,15 +16257,15 @@
     "total_files": 745,
     "total_links": 276,
     "files_by_type": {
-      "image": 704,
-      "video": 33,
+      "image": 705,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 745,
     "existing_media_files": 744,
-    "total_size_mb": 319.97,
-    "last_calculation": "2026-09-10T20:46:46.217206+00:00"
+    "total_size_mb": 315.69,
+    "last_calculation": "2026-09-10T23:05:08.899623+00:00"
   }
 }
