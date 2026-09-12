@@ -12946,6 +12946,51 @@
     ],
     "bg_ae": [
       {
+        "id": 150504,
+        "text": "🇸🇦\n🇾🇪\n🚨\nگزارش‌هایی از حملات هوایی عربستان سعودی در غرب شهر تعز، یمن، منتشر شده است\n‼️\n💢\n@Baga_News\n| Noll",
+        "date": "2026-09-12T22:34:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150504_0_a6ee29a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150504"
+      },
+      {
+        "id": 150503,
+        "text": "💢\nگزارشات تأیید نشده از شنیده شدن صدای انفجار در بندرعباس\n‼️\n‼️\n💢\n@Baga_News | Noll",
+        "date": "2026-09-12T22:17:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150503_0_a6ee29a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150503"
+      },
+      {
+        "id": 150502,
+        "text": "💢\nگزارشات تأیید نشده از شنیده شدن صدای انفجار در بندرعباس\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
+        "date": "2026-09-12T22:15:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150502_0_a6ee29a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150502"
+      },
+      {
         "id": 150499,
         "text": "🇮🇷\n👀\n|\nتوهین به پزشکیان در پخش زنده صدا و سیما: شما خودتون لیاقت ندارید صدا و سیما ببینید\n💢\n@Baga_News\n| Король",
         "date": "2026-09-12T20:10:23+00:00",
@@ -14715,59 +14760,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150390"
-      },
-      {
-        "id": 150389,
-        "text": "🇮🇷\nصادق محصولی رئیس جبهه پایداری درباره مفقود شدن ۱۶۰میلیارد دلار پول در زمان وزارتش:\n🔴\nاون سهم امام زمانه که دست من امانته\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-11T12:10:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150389_0_808c6358.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150389_1_fb789c6d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150389"
-      },
-      {
-        "id": 150388,
-        "text": "🇮🇷\nپزشکیان: موافق ادامه جنگ نیستم؛ اما باید تاب‌آوری کشور را افزایش دهیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-11T11:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150388_0_808c6358.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150388"
-      },
-      {
-        "id": 150387,
-        "text": "‏\nآکسیوس: بن سلمان، ولیعهد عربستان، روز گذشته دو بار با ترامپ تماس گرفت و از او خواست حوثی‌ها را هدف قرار دهد\nترامپ این درخواست را رد کرد\n؛\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-11T11:32:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150387_0_808c6358.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150387_1_5ba7b9eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150387"
       }
     ],
     "maznet": [
@@ -16309,23 +16301,23 @@
       }
     ]
   },
-  "last_update": "2026-09-12T21:36:45.763219+00:00",
+  "last_update": "2026-09-12T23:55:38.608151+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 757,
-    "total_files": 757,
+    "total_media": 755,
+    "total_files": 755,
     "total_links": 278,
     "files_by_type": {
-      "image": 714,
+      "image": 712,
       "video": 35,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 757,
-    "existing_media_files": 756,
-    "total_size_mb": 338.44,
-    "last_calculation": "2026-09-12T21:36:45.772549+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 338.35,
+    "last_calculation": "2026-09-12T23:55:38.615436+00:00"
   }
 }
