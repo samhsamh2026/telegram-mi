@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 150444,
+        "text": "🔴\nسناتور تد کروز درباره اسرائیل: می‌توانید دولت اسرائیل را نقد کنید و ضدیهودی نباشید.\nاما به شما می‌گویم: صددرصد ضدیهودیان، ضداسرائیل هستند\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-12T06:30:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150444_0_a6ee29a4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_150444_1_42dcf58e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150444"
+      },
+      {
+        "id": 150443,
+        "text": "🔴\nپاکستان رسما درخواست عربستان رو برای حمله به یمن رد کرد و اعلام کرد جنگ با یمن از قبل بوده و توافق مکه برای جنگاییه که از الان شروع بشه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-12T06:01:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150443_0_a6ee29a4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150443_1_d81cf7a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150443"
+      },
+      {
         "id": 150442,
         "text": "⏺\nسلیمان الأسد، پسرعموی بشار الأسد، رئیس‌جمهور سابق سوریه، توسط نیروهای امنیتی لبنان در جریان عملیات ضد مواد مخدر در دره بعلبک دستگیر شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-09-12T05:31:42+00:00",
@@ -14734,40 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150312"
-      },
-      {
-        "id": 150311,
-        "text": "💢\nدختره باباش براش یه مرسدس بنز به عنوان هدیه گرفته و پشتش نوشته خواسته هایی که شما بخاطرش تن به ازدواج میدین رو، من توی خونه بابام داشتم:\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-10T16:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150311_0_3ab8ec9e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150311_1_6dfdbf3c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150311"
-      },
-      {
-        "id": 150310,
-        "text": "🔴\n🛢\n📈\nپس از تحولات اخیر در مناطق باب المندب و هرمز: قیمت نفت به 106 دلار افزایش یافت.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-09-10T16:05:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150310_0_3ab8ec9e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150310"
       }
     ],
     "maznet": [
@@ -16309,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-09-12T05:36:19.790611+00:00",
+  "last_update": "2026-09-12T06:37:35.149329+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 757,
-    "total_files": 757,
+    "total_media": 758,
+    "total_files": 758,
     "total_links": 278,
     "files_by_type": {
-      "image": 706,
+      "image": 707,
       "video": 43,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 757,
-    "existing_media_files": 756,
-    "total_size_mb": 352.64,
-    "last_calculation": "2026-09-12T05:36:19.799880+00:00"
+    "referenced_files": 758,
+    "existing_media_files": 757,
+    "total_size_mb": 356.67,
+    "last_calculation": "2026-09-12T06:37:35.156561+00:00"
   }
 }
