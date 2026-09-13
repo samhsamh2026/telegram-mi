@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 150566,
+        "text": "🔴\n👀\n🟨\n🟧\n🟥\nشلیک موشک از ایران به سمت تنگه هرمز\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-13T22:03:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150566_0_1045d19d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150566"
+      },
+      {
+        "id": 150565,
+        "text": "قیمت اولیه آیفون 18 از 665 میلیون شروع میشه و تا یک میلیارد هم‌میرسه.\n🔴\nآیفون تاشو هم از یک میلیارد شروع میشه\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-13T21:43:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150565_0_1045d19d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150565"
+      },
+      {
         "id": 150564,
         "text": "🔴\nگزارشگر:\nآقای ونس، آیا شما آماده‌اید که در سال 2028 از او حمایت کنید؟\n🇺🇸\nترامپ:\nبه نظر من، الان خیلی زود است. من فکر می‌کنم او فرد بسیار خوبی است. ما افراد فوق‌العاده زیادی داریم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-09-13T20:00:28+00:00",
@@ -14750,44 +14780,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150446"
-      },
-      {
-        "id": 150445,
-        "text": "🔴\nخبرگزاری آسوشیتدپرس:\nیک مقام وزارت امور خارجه آمریکا مجدداً تأکید کرد که ایالات متحده به دفاع از آزادی تردد در دریای سرخ و مقابله با عوامل نفوذی جمهوری اسلامی متعهد است.\n﻿\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-09-12T07:01:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150445_0_a6ee29a4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150445_1_3429e059.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150445"
-      },
-      {
-        "id": 150444,
-        "text": "🔴\nسناتور تد کروز درباره اسرائیل: می‌توانید دولت اسرائیل را نقد کنید و ضدیهودی نباشید.\nاما به شما می‌گویم: صددرصد ضدیهودیان، ضداسرائیل هستند\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-09-12T06:30:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150444_0_a6ee29a4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150444_1_42dcf58e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150444"
       }
     ],
     "maznet": [
@@ -16329,23 +16321,23 @@
       }
     ]
   },
-  "last_update": "2026-09-13T20:40:49.449710+00:00",
+  "last_update": "2026-09-13T23:07:09.246909+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 765,
-    "total_files": 765,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 276,
     "files_by_type": {
-      "image": 716,
-      "video": 41,
+      "image": 715,
+      "video": 40,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 765,
-    "existing_media_files": 764,
-    "total_size_mb": 366.4,
-    "last_calculation": "2026-09-13T20:40:49.459501+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 361.67,
+    "last_calculation": "2026-09-13T23:07:09.256300+00:00"
   }
 }
