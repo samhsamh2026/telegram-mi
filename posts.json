@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 150505,
+        "text": "🔴\nلاله مرزبان با بازی در فیلم «مراقب» برنده جایزه بهترین بازیگر زن جشنواره ونیز در بخش افق‌ها شد.\nتو سخنرانیش هم با بغض از ایران یاد کرد و ارزو کرد روزی بیاد که وضع ایران و مردمش خوب بشه....\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-13T04:02:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150505_0_1045d19d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_150505_1_65160ca1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150505"
+      },
+      {
         "id": 150504,
         "text": "🇸🇦\n🇾🇪\n🚨\nگزارش‌هایی از حملات هوایی عربستان سعودی در غرب شهر تعز، یمن، منتشر شده است\n‼️\n💢\n@Baga_News\n| Noll",
         "date": "2026-09-12T22:34:44+00:00",
@@ -14741,25 +14760,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150391"
-      },
-      {
-        "id": 150390,
-        "text": "🇮🇷\nباز هم شعار علیه حسن روحانی\n🔴\nنهپاد: نفوذی هدایت پذیر از راه دور\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-11T12:31:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150390_0_808c6358.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150390_1_952bdbed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150390"
       }
     ],
     "maznet": [
@@ -16301,7 +16301,7 @@
       }
     ]
   },
-  "last_update": "2026-09-13T03:46:07.823713+00:00",
+  "last_update": "2026-09-13T04:29:44.883995+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16309,15 +16309,15 @@
     "total_files": 755,
     "total_links": 278,
     "files_by_type": {
-      "image": 712,
-      "video": 35,
+      "image": 711,
+      "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 755,
     "existing_media_files": 754,
-    "total_size_mb": 338.35,
-    "last_calculation": "2026-09-13T03:46:07.832957+00:00"
+    "total_size_mb": 342.7,
+    "last_calculation": "2026-09-13T04:29:44.893280+00:00"
   }
 }
