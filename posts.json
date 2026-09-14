@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 150575,
+        "text": "🔴\n👀\nگویا قالیباف از سمت مسئول ویژه جمهوری اسلامی در امور چین برکنار و مخبر جایگزین وی شده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-14T07:04:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150575_0_e25d7dd7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150575_1_b452661b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150575"
+      },
+      {
         "id": 150574,
         "text": "🔴\nسطح برگزاری اجلاس بریکس رو ببینید ۲:\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-09-14T06:35:14+00:00",
@@ -14757,29 +14776,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150456"
-      },
-      {
-        "id": 150454,
-        "text": "🇺🇸\nوال‌استریت ژورنال به نقل از یک مقام آمریکایی:\nحمله ایران که در ماه ژوئیه منجر به کشته شدن 3 سرباز آمریکایی شد، ایران از تصاویر ماهواره‌ای چینی با وضوح بالا استفاده کرد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-12T09:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150454_0_a6ee29a4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150454_1_6c2405e1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150454_2_d27394ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150454"
       }
     ],
     "maznet": [
@@ -16321,23 +16317,23 @@
       }
     ]
   },
-  "last_update": "2026-09-14T07:02:38.934077+00:00",
+  "last_update": "2026-09-14T07:17:55.842427+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 763,
-    "total_files": 763,
+    "total_media": 762,
+    "total_files": 762,
     "total_links": 276,
     "files_by_type": {
-      "image": 714,
+      "image": 713,
       "video": 41,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 763,
-    "existing_media_files": 762,
-    "total_size_mb": 352.74,
-    "last_calculation": "2026-09-14T07:02:38.943946+00:00"
+    "referenced_files": 762,
+    "existing_media_files": 761,
+    "total_size_mb": 352.66,
+    "last_calculation": "2026-09-14T07:17:55.851800+00:00"
   }
 }
