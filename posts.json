@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 150711,
+        "text": "🇮🇷\n👀\n|\nمنبع داخلی:\nدقایقی پیش مادر \"شهید ابراهیم رئیسی\" بعد از گذشت دو سال از مرگ فرزندش، فوت کرد\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-15T21:04:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150711_0_28a6ee5a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150711_1_a5dfaf40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150711"
+      },
+      {
+        "id": 150710,
+        "text": "🇮🇷\n👀\n| علیرضا تقوی نیا تحلیلگر نزدیک به حکومت: آمریکا بخاطر مسائل مختلف از جمله وحدت تنگه هرمز و باب المندب تحت فشاره نتانیاهو هم نقش تحریک کننده داره دشمن میخاد مسئولان عالی رتبه مارو ترور بکنه\n💢\n@Baga_News | Король",
+        "date": "2026-09-15T21:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150710_0_28a6ee5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150710"
+      },
+      {
         "id": 150709,
         "text": "🚨\nبلینکن:\n🔻\nکشورهای حوزه\nخلیج( همیشه ) فارس\nهمگی به دنبال مذاکره با تهران و شاید رسیدن به یک توافق با ایران هستند\n💢\n@Baga_News\n| Король",
         "date": "2026-09-15T20:59:19+00:00",
@@ -14674,40 +14708,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150587"
-      },
-      {
-        "id": 150586,
-        "text": "🚨\n🇷🇺\nصف‌های ناشی از کمبود بنزین در روسیه به شهر سنت پترزبورگ رسیده است\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-14T10:51:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150586_0_e25d7dd7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150586_1_88bf25cd.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150586"
-      },
-      {
-        "id": 150585,
-        "text": "💢\n👀\n| مدیر سامانه هوشمند سوخت :\nخودروهای نوشماره‌ ای (صفر کارخانه ای) که بالای 1 میلیارد تومن هستن سهمیه بنزین 1500 و 3000 تومنی ندارن و ماهانه فقط 110 لیتر بنزین 10,000 تومنی بهشون تعلق میگیره !!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-14T10:37:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150585_0_e25d7dd7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150585"
       }
     ],
     "maznet": [
@@ -16249,7 +16249,7 @@
       }
     ]
   },
-  "last_update": "2026-09-15T20:59:40.629939+00:00",
+  "last_update": "2026-09-15T21:10:49.985352+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16257,15 +16257,15 @@
     "total_files": 745,
     "total_links": 276,
     "files_by_type": {
-      "image": 704,
-      "video": 33,
+      "image": 705,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 745,
     "existing_media_files": 744,
-    "total_size_mb": 316.73,
-    "last_calculation": "2026-09-15T20:59:40.639268+00:00"
+    "total_size_mb": 315.06,
+    "last_calculation": "2026-09-15T21:10:49.994297+00:00"
   }
 }
