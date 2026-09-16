@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 150717,
+        "text": "🇮🇱\n👀\n| ارتش اسرائیل:\nیکی دیگه از فرمانده های حماس رو حذف کردیم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-16T04:01:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150717_0_a63ab2ef.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150717_1_38186c88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150717"
+      },
+      {
         "id": 150716,
         "text": "امیر قلعه نویی سرمربی تیم ملی فوتبال ایران ماهی ۱۵ میلیارد تومن ناقابل دریافت میکنه!!\n💢\n@Baga_News\n| Король",
         "date": "2026-09-15T22:34:20+00:00",
@@ -14689,29 +14708,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150595"
-      },
-      {
-        "id": 150593,
-        "text": "⭕️\n👀\nقوه قضاییه رستوران «بی بی» که فقط کتلت درست میکرد رو پلمب کرد و برای صاحبشم پرونده قضایی تشکیل داد.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-14T13:10:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150593_0_e25d7dd7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150593_1_41acb45c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150593_2_44908ced.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150593"
       }
     ],
     "maznet": [
@@ -16253,23 +16249,23 @@
       }
     ]
   },
-  "last_update": "2026-09-16T03:54:27.540249+00:00",
+  "last_update": "2026-09-16T04:31:39.114098+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 746,
-    "total_files": 746,
+    "total_media": 745,
+    "total_files": 745,
     "total_links": 276,
     "files_by_type": {
-      "image": 706,
+      "image": 705,
       "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 315.17,
-    "last_calculation": "2026-09-16T03:54:27.544913+00:00"
+    "referenced_files": 745,
+    "existing_media_files": 744,
+    "total_size_mb": 315.09,
+    "last_calculation": "2026-09-16T04:31:39.121159+00:00"
   }
 }
