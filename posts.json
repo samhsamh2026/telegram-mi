@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 150835,
+        "text": "⏺\nامروز سالگرد عملیات پیجر هاست که اسرائیل بطور گسترده، روی حزب الله انجام داد.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-17T16:10:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150835_0_2c59fe38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150835"
+      },
+      {
+        "id": 150834,
+        "text": "⏺\nقلعه‌نویی:\nاونایی که به من حمله میکنن مشکلشون من نیستم بلکه تیم ملی عزیزمونه، اونایی که حمله میکنن یه مشت وطن فروش خائن هستن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-17T15:50:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150834_0_2c59fe38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150834"
+      },
+      {
+        "id": 150833,
+        "text": "⏺\n7 میلیون دارن برا نظامیا و فراجا واریز میکنن تا اگه اعتراضاتی شد بدونن چیکار کنن\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-17T15:34:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150833_0_2c59fe38.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150833_1_8890bc5e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150833"
+      },
+      {
         "id": 150832,
         "text": "🔻\nالجزیره: روسیه و چین با استفاده از حق وتو در شورای امنیت، پیش‌نویس قطعنامه پیشنهادی آمریکا برای تمدید مأموریت تیم کمیته تحریم‌های ایران را رد کردند.\n💢\n@Baga_News\n| areZo",
         "date": "2026-09-17T15:10:19+00:00",
@@ -14731,59 +14780,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150713"
-      },
-      {
-        "id": 150712,
-        "text": "🔴\n👀\n🚨\nفوری\n🔴\nجنگنده های اسرائیلی امروز چندین بار تمرین‌های شبیه‌سازی‌شده‌ای را بر فراز ایران انجام دادند، و در برخی مواقع حتی وارد فضای هوایی شمال غربی ایران شدند.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-09-15T22:07:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150712_0_28a6ee5a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150712_1_5594b40d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150712"
-      },
-      {
-        "id": 150711,
-        "text": "🇮🇷\n👀\n|\nمنبع داخلی:\nدقایقی پیش مادر \"شهید ابراهیم رئیسی\" بعد از گذشت دو سال از مرگ فرزندش، فوت کرد\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-15T21:04:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150711_0_28a6ee5a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150711_1_a5dfaf40.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150711"
-      },
-      {
-        "id": 150710,
-        "text": "🇮🇷\n👀\n| علیرضا تقوی نیا تحلیلگر نزدیک به حکومت: آمریکا بخاطر مسائل مختلف از جمله وحدت تنگه هرمز و باب المندب تحت فشاره نتانیاهو هم نقش تحریک کننده داره دشمن میخاد مسئولان عالی رتبه مارو ترور بکنه\n💢\n@Baga_News | Король",
-        "date": "2026-09-15T21:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150710_0_28a6ee5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150710"
       }
     ],
     "maznet": [
@@ -16325,23 +16321,23 @@
       }
     ]
   },
-  "last_update": "2026-09-17T15:18:04.370528+00:00",
+  "last_update": "2026-09-17T16:29:56.289711+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 764,
-    "total_files": 764,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 276,
     "files_by_type": {
-      "image": 721,
+      "image": 720,
       "video": 35,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
-    "total_size_mb": 319.09,
-    "last_calculation": "2026-09-17T15:18:04.379628+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 318.99,
+    "last_calculation": "2026-09-17T16:29:56.298847+00:00"
   }
 }
