@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 150805,
+        "text": "🔴\nتصویر ثبت شده از یک پهپاد رهگیر اوکراینی که در پی شکار یک پهپاد شاهد  روسی است ، اما قبل از رسیدن به آن ، پهپاد روسی هدف یک موشک پدافندی قرار گرفته  و منهدم میشود.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-17T06:35:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150805_0_2c59fe38.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_150805_1_d60c54c3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150805"
+      },
+      {
+        "id": 150804,
+        "text": "🔴\n‌ چند نفر میخواستن دیسک کمر یه نفرو با موتور درمان کنن که دیسکش از عقب زد بیرون!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-17T06:01:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150804_0_2c59fe38.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_150804_1_08800df7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150804"
+      },
+      {
+        "id": 150803,
+        "text": "🔴\nحسین الله‌کرم : پزشکیان عامل جنگ است، اگر جلیلی رئیس‌جمهور بود جنگ اتفاق نمی‌افتاد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-17T05:34:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150803_0_2c59fe38.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150803_1_413c7aff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150803"
+      },
+      {
         "id": 150802,
         "text": "⏺\nیه ایرانی مقیم آمریکا در حرکتی پشم ریزون تو عروسیش اسنوپ داگ رپر معروفو آورده براش بخونه :\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-09-17T05:02:08+00:00",
@@ -14687,55 +14744,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150682"
-      },
-      {
-        "id": 150680,
-        "text": "یکی از عشایر میخواست گوسفنداشو از رودخونه رد کنه و تصمیم گرفت این حرکت شاهکارو بزنه\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-15T15:58:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150680_0_28a6ee5a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150680_1_33bda401.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150680"
-      },
-      {
-        "id": 150679,
-        "text": "⏺\nنگین فضلی بلاگری که تو جنگ برگشت ایران، امروز فتا پیجشو بست\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-15T15:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150679_0_28a6ee5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150679"
-      },
-      {
-        "id": 150678,
-        "text": "⏺\nسخنگوی دولت : شاید تونستیم در آینده کالابرگه قشر پایین جامعه رو افزایش بدیم\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-15T15:33:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150678_0_28a6ee5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150678"
       }
     ],
     "maznet": [
@@ -16277,23 +16285,23 @@
       }
     ]
   },
-  "last_update": "2026-09-17T05:17:23.061767+00:00",
+  "last_update": "2026-09-17T06:52:35.284045+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 752,
-    "total_files": 752,
+    "total_media": 754,
+    "total_files": 754,
     "total_links": 276,
     "files_by_type": {
-      "image": 712,
-      "video": 32,
+      "image": 713,
+      "video": 33,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 328.97,
-    "last_calculation": "2026-09-17T05:17:23.069065+00:00"
+    "referenced_files": 754,
+    "existing_media_files": 753,
+    "total_size_mb": 327.6,
+    "last_calculation": "2026-09-17T06:52:35.293066+00:00"
   }
 }
