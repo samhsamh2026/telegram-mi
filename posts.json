@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 150871,
+        "text": "🚨\nتابوت ترامپ و نتانیاهو در تجمع جانفداها در تهران:\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-18T10:50:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150871_0_238d69df.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150871_1_f19d787b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150871"
+      },
+      {
         "id": 150870,
         "text": "🔻\nواکنش شهبازی مجری صداوسیما به توئیت اخیر پسر پزشکیان درباره مردم:\nاگر اجازه میدین یه خیار بخوریم\n💢\n@Baga_News\n| areZo",
         "date": "2026-09-18T10:34:41+00:00",
@@ -14769,25 +14788,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150759"
-      },
-      {
-        "id": 150758,
-        "text": "🚨\nپروازهای ماهان به استانبول، آنکارا و مسقط تا اطلاع ثانوی متوقف شد.\nپرواز تهران-مسقط از 26 شهریور و پروازهای تهران-استانبول و تهران-آنکارا از 30 شهریور لغو می‌شن.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-16T13:56:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150758_0_a63ab2ef.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150758_1_54554a9e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150758"
       }
     ],
     "maznet": [
@@ -16329,7 +16329,7 @@
       }
     ]
   },
-  "last_update": "2026-09-18T10:47:39.487020+00:00",
+  "last_update": "2026-09-18T11:03:05.076206+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16345,7 +16345,7 @@
     },
     "referenced_files": 765,
     "existing_media_files": 764,
-    "total_size_mb": 334.83,
-    "last_calculation": "2026-09-18T10:47:39.496101+00:00"
+    "total_size_mb": 334.96,
+    "last_calculation": "2026-09-18T11:03:05.085311+00:00"
   }
 }
