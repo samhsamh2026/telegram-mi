@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 150859,
+        "text": "🚨\nاتاق جنگ اسرائیل در واکنش به خبر نیویورک‌پست درباره «تصمیم بزرگ» ترامپ برای ایران، این خبر رو با ایموجی ساعت شنی\n⏳\nمنتشر کرد.\nنیویورک‌پست: ترامپ گفته یک «تصمیم بزرگ» درباره ایران پیش رو داره و باید تصمیم بگیره «وارد عمل بشم و اون‌ها رو نابود کنم یا نه».\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-18T06:34:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150859_0_238d69df.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150859_1_a2e8fc55.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150859"
+      },
+      {
+        "id": 150858,
+        "text": "🚨\nاین دختربچه کوچولو رفته واکسن زده و داره برای باباش تعریف میکنه که چقد درد داشته.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-18T06:01:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150858_0_238d69df.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_150858_1_ad982939.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150858"
+      },
+      {
         "id": 150857,
         "text": "🔹\nقیمت آیفون ۱۸ پرو تو کشورهای مختلف چقدر خواهد بود؟\n💢\n@Baga_News\n| Король",
         "date": "2026-09-18T05:32:26+00:00",
@@ -14742,60 +14780,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150745"
-      },
-      {
-        "id": 150739,
-        "text": "🇺🇸\n👀\n| سی‌بی‌اس نیوز خسارات وارده بر پایگاه اردنی در آخرین حملات موشکی سپاه رو منتشر کرد\nاردن مدعی بود همش رهگیری شده\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-16T09:40:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150739_0_a63ab2ef.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150739_1_36a57ff2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150739_2_30af346c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150739_3_c600ac1e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150739_4_d5077fd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150739_5_def34877.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150739_6_a02a189d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150739"
-      },
-      {
-        "id": 150738,
-        "text": "🔥\nفروش ویژه کانفیگ های تضمینی و پرسرعت\n🔥\nسرویس حجمی فقط گیگی 2 تومان\n😍\n🌊\nسرویس نامحدود قیمت استثنایی\n🎁\n🎁\nکد تخفیف امروز  1466\n🎁\n🎁\nبالاترین کیفیت سرویس کانفیگ ایران\n🇮🇷\n⭐️\nپنج سال سابقه فروش\n⭐️\nهزاران رضایت کاربران\n🚀\nهمچنین اتصال سریع و آسان\n📤\nتحویل آنی (ضمانت عودت وجه)\n🌎\nمتصل در اختلالت گسترده و نت ملی\n💰\nقیمت  فوق اقتصادی\n🛍\nShop BOT  :\n@onev2vpn_bot\nآیدی ادمین و کانال در ربات ثبت شده\n🌟\nIran server\n🚀",
-        "date": "2026-09-16T09:31:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150738_0_a63ab2ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150738"
       }
     ],
     "maznet": [
@@ -16337,23 +16321,23 @@
       }
     ]
   },
-  "last_update": "2026-09-18T05:46:54.837067+00:00",
+  "last_update": "2026-09-18T06:49:21.394284+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 767,
-    "total_files": 767,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 276,
     "files_by_type": {
-      "image": 723,
-      "video": 36,
+      "image": 718,
+      "video": 37,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 767,
-    "existing_media_files": 766,
-    "total_size_mb": 320.11,
-    "last_calculation": "2026-09-18T05:46:54.846211+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 324.96,
+    "last_calculation": "2026-09-18T06:49:21.403655+00:00"
   }
 }
