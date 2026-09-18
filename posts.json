@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 150900,
+        "text": "🚨\nفلوریدای آمریکا در حال تصویب قانونی هست که کسایی که قدشون زیر ۱.۵۷ هست، باید از صندلی کودک استفاده کنن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-18T15:50:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150900_0_238d69df.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_150900_1_d81ea5de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150900"
+      },
+      {
+        "id": 150899,
+        "text": "🇮🇹\n👀\n| وزیر دفاع ایتالیا:\n🟠\nما کشتی‌های جنگی را برای تضمین عبور امن از تنگه باب المندب مستقر خواهیم کرد\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-18T15:32:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_150899_0_238d69df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/150899"
+      },
+      {
         "id": 150898,
         "text": "🚨\nسخنگوی قوه قضاییه جمهوری اسلامی: برای 152مقام ارشد سیاسی و نظامی آمریکا و اسرائیل کیفرخواست صادر شده؛ 92 نفر آمریکایی و 67 نفر اسرائیلی هستن\n💢\n@Baga_News\n| Король",
         "date": "2026-09-18T15:10:14+00:00",
@@ -14762,56 +14796,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150787"
-      },
-      {
-        "id": 150786,
-        "text": "یه خبرنگار رفته تا از ۹ تن حشیش و گل که در حال سوختن هستن گزارش بگیره و این شاهکار رو خلق میکنه.\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-16T18:31:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150786_0_a63ab2ef.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150786_1_2e554970.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150786"
-      },
-      {
-        "id": 150782,
-        "text": "🔴\nحملات ارتش یمن به نفربر BMP و خودرو ها حوثی ها.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-09-16T18:20:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150782_0_a63ab2ef.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150782_1_b06b465b.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150782_2_bc9ba0a5.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150782_3_7327d8c2.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150782_4_9f7ed0bc.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150782"
       }
     ],
     "maznet": [
@@ -16353,23 +16337,23 @@
       }
     ]
   },
-  "last_update": "2026-09-18T15:25:43.568463+00:00",
+  "last_update": "2026-09-18T16:03:14.160033+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 771,
-    "total_files": 771,
+    "total_media": 767,
+    "total_files": 767,
     "total_links": 276,
     "files_by_type": {
-      "image": 724,
-      "video": 39,
+      "image": 725,
+      "video": 34,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 771,
-    "existing_media_files": 770,
-    "total_size_mb": 343.05,
-    "last_calculation": "2026-09-18T15:25:43.577639+00:00"
+    "referenced_files": 767,
+    "existing_media_files": 766,
+    "total_size_mb": 325.85,
+    "last_calculation": "2026-09-18T16:03:14.165930+00:00"
   }
 }
