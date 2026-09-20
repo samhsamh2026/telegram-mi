@@ -12946,6 +12946,99 @@
     ],
     "bg_ae": [
       {
+        "id": 151051,
+        "text": "🚨\nارتش اسرائیل:\nمحسن رضایی بهتر است خودکشی کند زیرا ما مهمات خود را صرف کار های مهم میکنیم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-20T15:30:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151051_0_c34bd26a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151051"
+      },
+      {
+        "id": 151050,
+        "text": "🟤\nدبیر شورای عالی امنیت ملی در گفتگو با الجزیره:\nبه نفع واشنگتن است که شرایط ما را برای پایان جنگ بپذیرد\nما برای یک جنگ سرنوشت‌ساز آماده‌ایم\nما نقاط ضعف ارتش آمریکا را می‌دانیم و بیش از هر زمان دیگری برای مقابله با حملات هوایی آن آماده‌ایم.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-20T15:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151050_0_c34bd26a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151050_1_e4c79c3d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151050"
+      },
+      {
+        "id": 151049,
+        "text": "🇺🇸\n👀\n| ترامپ: مایلم با پزشکیان در حاشیه اجلاس سازمان ملل دیدار کنم\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-20T14:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151049_0_c34bd26a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151049"
+      },
+      {
+        "id": 151048,
+        "text": "🎉\nگردونه شانس ملی گلد\nفقط با یک چرخش شانس خودت رو امتحان کن!\n🎁\nجایزه نقدی از ۲۰۰ هزار تومان تا ۳ میلیون تومان\n💸\nبرداشت آنی و بدون معطلی\nهمین حالا گردونه رو بچرخون و جایزه‌ات رو درجا دریافت کن!\n👇\n👇\nhttps://melligold.com/pwa/account/?ref=MG7p7H77eI9g\nhttps://melligold.com/pwa/account/?ref=MG7p7H77eI9g",
+        "date": "2026-09-20T14:44:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151048_0_c34bd26a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151048_1_92dca9d1.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://melligold.com/pwa/account/?ref=MG7p7H77eI9g",
+            "type": "external",
+            "display_text": "https://melligold.com/pwa/account/?ref=MG7p7H77eI9g"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/bg_ae/151048"
+      },
+      {
+        "id": 151047,
+        "text": "🔻\nحسن روزی‌طلب، معاون سابق صداوسیما: در ۱۸ دی‌ماه صداوسیمای شهر کیش سقوط کرد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-20T14:34:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151047_0_c34bd26a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_151047_1_a93a7136.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151047"
+      },
+      {
         "id": 151046,
         "text": "🔴\nهمزمان که صدا و سیما گفته جنگ قطعیه و رسانه های حکومتی جنگ رو قطعی کردن، ترامپ پست زده یه ساختمون جدید تو کاخ سفید میخوایم بسازیم خیلی خوشحالم.\n💢\n@Baga_News\n| areZo",
         "date": "2026-09-20T14:10:21+00:00",
@@ -14685,89 +14778,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150935"
-      },
-      {
-        "id": 150934,
-        "text": "💢\nترامپ اعلام کرد که کانال‌های CNN، MSNBC و نشریه Politico از این لحظه به بعد از ورود به کاخ سفید منع می‌شوند. او این رسانه‌ها را به انتشار مکرر \"اخبار دروغ\" متهم کرد.\nاو گفت که سازمان‌های رسانه‌ای نباید بتوانند به طور مکرر آنچه را که او \"خرافات و دروغ\" درباره دولت خود یا ایالات متحده می‌داند، منتشر کنند، و هشدار داد که \"سایر رسانه‌های خبری منتشرکننده اخبار دروغ\" نیز ممکن است با اقدامات مشابهی روبرو شوند.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-09-18T23:50:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150934_0_99cbbd42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150934_1_1ae619cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150934"
-      },
-      {
-        "id": 150933,
-        "text": "🚨\nسیمین کاظمی، جامعه شناس : طی روزای گذشته مشخص شده تو یک مرکز نگهداری معلولان ذهنی در تهران به ۶۶ درصد دخترای معلول تجاوز شده و ۳۴ درصد از این دخترا باردار شدن!!!!!!!!!\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-18T23:30:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150933_0_99cbbd42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150933"
-      },
-      {
-        "id": 150932,
-        "text": "💢\n🇸🇦\n❌\n🇾🇪\n🇾🇪\nبمباران شدید توپخانه‌ای توسط عربستان، مناطق شمالی صعدا در شمال یمن را هدف قرار داده است، منطقه‌ای که تحت کنترل جنبش انصارالله قرار دارد.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-09-18T22:46:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150932_0_99cbbd42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150932"
-      },
-      {
-        "id": 150931,
-        "text": "💢\nحملهٔ یمنی علیه جزیرهٔ فرسان در عربستان سعودی\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-09-18T22:43:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150931_0_99cbbd42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150931"
-      },
-      {
-        "id": 150929,
-        "text": "💢\nطبق اعلام رسمی کاخ سفید؛\nترامپ لایحه 5334 R. با عنوان «قانون تحریم روسیه و ایران - لیندسی گراهام 2026» رو امضا و اون رو به قانون تبدیل کرد!\n🇷🇺\nروسیه :\n— تحریم‌های جدید علیه پوتین، الیگارش‌های روس، بانک‌ها، شرکت‌های انرژی و دفاعی و ناوگان سایه نفتکش‌های روسیه.\n— امکان اعمال تعرفه تا 100 درصد روی کالاهای کشورهایی که بزرگ‌ترین خریداران نفت و گاز روسیه هستن؛ مشخصاً چین\n🇨🇳\nو هند\n🇮🇳\n— امکان اعمال تعرفه تا 500 درصدی به‌طور مستقیم روی واردات از روسیه.\n🇮🇷\nایران :\n— تمدید 5 ساله تحریم‌های مرتبط با بخش انرژی و تسلیحات ایران.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-09-18T22:38:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150929_0_99cbbd42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_150929_1_d4051d82.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150929"
       }
     ],
     "maznet": [
@@ -16309,23 +16319,23 @@
       }
     ]
   },
-  "last_update": "2026-09-20T14:22:48.986340+00:00",
+  "last_update": "2026-09-20T15:39:56.474576+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
-    "total_links": 280,
+    "total_media": 755,
+    "total_files": 755,
+    "total_links": 281,
     "files_by_type": {
       "image": 722,
-      "video": 24,
+      "video": 25,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 257.77,
-    "last_calculation": "2026-09-20T14:22:48.991369+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 259.57,
+    "last_calculation": "2026-09-20T15:39:56.483546+00:00"
   }
 }
