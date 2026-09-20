@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 151010,
+        "text": "🚨\nمایک هاکبی؛سفیر آمریکا در اسرائیل؛درباره ایران:\nدر مقطعی واقعاً معتقدم که شاهد یک خیزش دیگر در ایران خواهیم بود.\nشاید راهی وجود داشته باشد که مردم بتوانند آمادگی بیشتری داشته باشند، مسلح شوند و واقعاً در برابر رژیم جنایتکار  مقاومت کنند.\nرژیمی که در آن زمان، حتی بیش از پیش تضعیف شده خواهد بود.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-20T05:03:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151010_0_c34bd26a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_151010_1_37356867.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151010"
+      },
+      {
+        "id": 151009,
+        "text": "🔴\nمحسن رضایی:\nما خواهان پایان جنگ بین عربستان سعودی و یمن هستیم و من معتقدم یمنی‌ها نیز خواهان توافق با عربستان هستند.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-20T04:34:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151009_0_c34bd26a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151009"
+      },
+      {
+        "id": 151008,
+        "text": "ایران عالیه اصلا ، چراغای دم در خونشو قفل زده یهو کسی نیاد بدزده …\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-20T04:03:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151008_0_c34bd26a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151008_1_e7c6058d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151008"
+      },
+      {
         "id": 151007,
         "text": "یه درصد فکر کنید\nسفارت ایران بزودی توییت بزنه : شهروندان ایرانی  لطفاً هرچه زودتر اروپا رو ترک کنید\n💢\n@Baga_News\n| Король",
         "date": "2026-09-19T20:55:22+00:00",
@@ -14723,59 +14776,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/150894"
-      },
-      {
-        "id": 150893,
-        "text": "چین از ایران خواست با نفوذ بر انصارالله یمن، مانع از گسترش درگیری‌ها در دریای سرخ شود\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-18T13:59:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150893_0_238d69df.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150893"
-      },
-      {
-        "id": 150892,
-        "text": "💢\nیک‌سال پیش تو همچین روزی استاد شهرام طی یه حرکت تاریخی میخواست از شمال تا تخت‌جمشید رو پیاده بره،\nولی خب تا وسطای راه هم نرسید و برگشت خونشون.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-18T13:32:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150892_0_238d69df.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150892_1_888ed4e6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150892"
-      },
-      {
-        "id": 150891,
-        "text": "🇮🇷\nابی تو کنسرت ترکیه پرچم شیروخورشیدو به اهتزاز درآورد و شعار جاویدشاه سر داد :\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-18T13:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150891_0_238d69df.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150891_1_450f2188.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150891"
       }
     ],
     "maznet": [
@@ -16317,7 +16317,7 @@
       }
     ]
   },
-  "last_update": "2026-09-20T03:56:41.967659+00:00",
+  "last_update": "2026-09-20T05:19:34.204650+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16325,15 +16325,15 @@
     "total_files": 756,
     "total_links": 280,
     "files_by_type": {
-      "image": 720,
-      "video": 28,
+      "image": 721,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 756,
     "existing_media_files": 755,
-    "total_size_mb": 271.91,
-    "last_calculation": "2026-09-20T03:56:41.975260+00:00"
+    "total_size_mb": 275.21,
+    "last_calculation": "2026-09-20T05:19:34.213797+00:00"
   }
 }
