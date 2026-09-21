@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 151073,
+        "text": "امروز ۳۰ شهریور تولد ۳۹ سالگی امیر تتلوعه که ۳ ساله تو زندان هستش و آینده اش مشخص نیست.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-21T00:40:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151073_0_e76c871e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151073_1_4208f28d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151073"
+      },
+      {
+        "id": 151072,
+        "text": "📱\nApple ID شخصی خودت رو داشته باش!\n📱\nاپل آیدی با\nجیمیل شخصی خودت\n🍀\nگارانتی مادام‌العمر\n🔒\nبدون نگرانی بابت قفل شدن و از دست رفتن اپل آیدی\n⚡️\nفعال‌سازی سریع و بدون دردسر\n☁️\nدسترسی کامل به iCloud و App Store\n🤌\nپشتیبانی قبل و بعد از خرید\nنگران اپل آیدیت نباش؛\nیه بار درست بساز، با خیال راحت استفاده کن\n✅\nرفع نات اکتیو و لاک شدن اپل ایدی رفع مشکل اپل ایدی شما با کمترین قیمت\n😎\n📲\nسفارش و دریافت:\n@appleidservices_bot\n👩‍💻\n09109069740\n☄️\n@flw3c",
+        "date": "2026-09-21T00:31:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151072_0_e76c871e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151072_1_36bbc8c8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151072"
+      },
+      {
         "id": 151071,
         "text": "یه عده به صورت خیلی جدی اومدن میگن این تکنولوژی جدید ایرانه\n😕\n💢\n@Baga_News\n| Король",
         "date": "2026-09-20T22:49:42+00:00",
@@ -14718,40 +14756,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/bg_ae/150963"
-      },
-      {
-        "id": 150962,
-        "text": "🔴\nالجزیره:\nقانون جدید تحریم‌های ترامپ، اختیارات کلیدی تحریمی علیه ایران را تا سال ۲۰۳۱ حفظ می‌کند.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-19T10:30:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150962_0_99cbbd42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150962"
-      },
-      {
-        "id": 150961,
-        "text": "📌\n🇺🇸\n| ترامپ: هرکس پلیس بکُشد باید اعـدام شود\nـ ترامپ: \"مدت کوتاهی پس از آغاز به کارم، یک فرمان اجرایی تاریخی امضا کردم که بر اساس آن، هر کسی که به جرم کشتن یک افسر پلیس محکوم شود باید با مجازات اعدام روبه‌رو شود.\nو سال گذشته، کشته های پلیس حین خدمت به پایین‌ترین سطح در ۸٠ سال گذشته رسید.\"\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-19T10:10:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_150961_0_99cbbd42.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_150961_1_6e8df2aa.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/150961"
       }
     ],
     "maznet": [
@@ -16293,23 +16297,23 @@
       }
     ]
   },
-  "last_update": "2026-09-20T23:11:07.747904+00:00",
+  "last_update": "2026-09-21T01:31:30.157210+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 280,
     "files_by_type": {
-      "image": 713,
-      "video": 29,
+      "image": 715,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 289.97,
-    "last_calculation": "2026-09-20T23:11:07.758004+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 287.17,
+    "last_calculation": "2026-09-21T01:31:30.166505+00:00"
   }
 }
