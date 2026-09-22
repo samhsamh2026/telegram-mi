@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 151167,
+        "text": "خانوم کریمی اولین آیفون ۱۸ ایران رو انباکس کرد و بخاطر اینکه اولین نفر تو ایران باشه ۲۰۰ میلیون پول بیشتر داده و در مجموع یک میلیارد بابت پولش پرداخت کرده.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-22T07:32:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151167_0_1ace9cf0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_151167_1_75ba0f52.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151167"
+      },
+      {
+        "id": 151166,
+        "text": "یه نفر رو توی خوزستان دستگیر کردن که گوشت خر و اسب رو به کلی رستوران معروف توی سطح استان میفروخته.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-22T07:01:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151166_0_1ace9cf0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151166_1_939fa825.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151166"
+      },
+      {
         "id": 151165,
         "text": "تو کشور جمهوری‌چک هر سال جشن برداشت انگور برگزار میشه .\nدر این جشن از یه جوی به‌جای آب، شراب جاری میشه و مردم بغل پلکان وایمیسن و شاتاشون رو پر میکنن و به سلامتی همدیگه میزنن، میخورن و میرقصن.\n💢\n@Baga_News\n| Король",
         "date": "2026-09-22T06:33:07+00:00",
@@ -14674,46 +14712,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/151050"
-      },
-      {
-        "id": 151049,
-        "text": "🇺🇸\n👀\n| ترامپ: مایلم با پزشکیان در حاشیه اجلاس سازمان ملل دیدار کنم\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-20T14:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151049_0_c34bd26a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/151049"
-      },
-      {
-        "id": 151048,
-        "text": "🎉\nگردونه شانس ملی گلد\nفقط با یک چرخش شانس خودت رو امتحان کن!\n🎁\nجایزه نقدی از ۲۰۰ هزار تومان تا ۳ میلیون تومان\n💸\nبرداشت آنی و بدون معطلی\nهمین حالا گردونه رو بچرخون و جایزه‌ات رو درجا دریافت کن!\n👇\n👇\nhttps://melligold.com/pwa/account/?ref=MG7p7H77eI9g\nhttps://melligold.com/pwa/account/?ref=MG7p7H77eI9g",
-        "date": "2026-09-20T14:44:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151048_0_c34bd26a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_151048_1_92dca9d1.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://melligold.com/pwa/account/?ref=MG7p7H77eI9g",
-            "type": "external",
-            "display_text": "https://melligold.com/pwa/account/?ref=MG7p7H77eI9g"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/bg_ae/151048"
       }
     ],
     "maznet": [
@@ -16255,23 +16253,23 @@
       }
     ]
   },
-  "last_update": "2026-09-22T06:57:20.394945+00:00",
+  "last_update": "2026-09-22T07:38:31.201004+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 742,
-    "total_files": 742,
-    "total_links": 279,
+    "total_media": 743,
+    "total_files": 743,
+    "total_links": 278,
     "files_by_type": {
       "image": 708,
-      "video": 26,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 742,
-    "existing_media_files": 741,
-    "total_size_mb": 285.43,
-    "last_calculation": "2026-09-22T06:57:20.403780+00:00"
+    "referenced_files": 743,
+    "existing_media_files": 742,
+    "total_size_mb": 289.4,
+    "last_calculation": "2026-09-22T07:38:31.209988+00:00"
   }
 }
