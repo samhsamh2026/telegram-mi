@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 151252,
+        "text": "🔴\n🇺🇸\n🇺🇸\nترامپ:\nروزی فرا خواهد رسید که مارکو روبیو را در وسط کوبا پیاده خواهیم کرد. در مسیر بازگشت از ایران، یکی از آن ناوهای هواپیمابر بزرگ و باشکوه را خواهیم داشت که او را در آنجا پیاده کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-09-23T04:00:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151252_0_a77ecae2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_151252_1_8cb6233e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151252"
+      },
+      {
         "id": 151251,
         "text": "‌\nبگیر بخواب بااین چیزا مدرسه غیرحضوری نمیشه بچه‌جون\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-09-22T22:42:35+00:00",
@@ -14701,21 +14720,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/151134"
-      },
-      {
-        "id": 151133,
-        "text": "🚨\nهند به محاصره هوایی آمریکا علیه ایران پیوست\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-21T18:07:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151133_0_e76c871e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/151133"
       }
     ],
     "maznet": [
@@ -16257,23 +16261,23 @@
       }
     ]
   },
-  "last_update": "2026-09-23T03:50:14.528479+00:00",
+  "last_update": "2026-09-23T04:29:05.754827+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 747,
-    "total_files": 747,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 276,
     "files_by_type": {
       "image": 708,
-      "video": 31,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 747,
-    "existing_media_files": 746,
-    "total_size_mb": 311.45,
-    "last_calculation": "2026-09-23T03:50:14.534187+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 316.64,
+    "last_calculation": "2026-09-23T04:29:05.763724+00:00"
   }
 }
