@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 151608,
+        "text": "لاوروف، وزیر امور خارجه روسیه: ترور رهبر ایران و خونوادش برای ما غیرقابل قبول بود.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-26T20:10:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151608_0_50dadc0a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151608"
+      },
+      {
+        "id": 151607,
+        "text": "🟠\nپزشکیان: نتانیاهو نتوانسته غزه را وادار به تسلیم کند، حالا می‌خواهد حکومت ایران را تغییر دهد؟\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-26T19:50:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151607_0_50dadc0a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151607_1_44bdb04f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151607"
+      },
+      {
         "id": 151606,
         "text": "باز اینا اینترنتو دارن خراب میکنن\n🔴\nوضعیت: ناپایدار / همراه با اختلال\n🔴\nاینترنت بین‌الملل: دارای اختلال در برخی مسیرها\n💢\n@Baga_News\n| Король",
         "date": "2026-09-26T19:41:02+00:00",
@@ -14678,40 +14712,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/151496"
-      },
-      {
-        "id": 151495,
-        "text": "🇺🇦\n👀\n| وزیر خارجه اوکراین: دیدار با عراقچی مفید بود\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-25T15:34:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151495_0_9dbd68b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/151495"
-      },
-      {
-        "id": 151494,
-        "text": "👀\n‼️\nیه توده برف و یخبندان همراه با سرمای شدید که تو بعضی مناطق تا ۲۰ درجه کاهش دما رو قراره شاهد باشیم از مشهد هفته آینده وارد کشور میشه\nسرتاسر کشور جز نوار ساحلی خلیج فارس دچار سرمای شدید میشن\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-25T15:10:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151494_0_9dbd68b6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_151494_1_8bf6d3ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/151494"
       }
     ],
     "maznet": [
@@ -16253,7 +16253,7 @@
       }
     ]
   },
-  "last_update": "2026-09-26T19:41:50.510033+00:00",
+  "last_update": "2026-09-26T20:47:05.857521+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16269,7 +16269,7 @@
     },
     "referenced_files": 743,
     "existing_media_files": 742,
-    "total_size_mb": 346.81,
-    "last_calculation": "2026-09-26T19:41:50.517219+00:00"
+    "total_size_mb": 346.68,
+    "last_calculation": "2026-09-26T20:47:05.862203+00:00"
   }
 }
