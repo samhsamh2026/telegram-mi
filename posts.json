@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 151847,
+        "text": "🆕\nآکسیوس: مذاکرات جمهوری اسلامی و آمریکا نتیجه‌ی چندانی نداشت و احتمال از سرگیری درگیری‌ها افزایش پیدا کرده.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-09-30T04:31:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151847_0_f493ba5a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151847_1_fbc6507a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151847"
+      },
+      {
+        "id": 151846,
+        "text": "✨\n1.00 USDT\n💸\nIRT 260,578\n⏰\n1405/07/08 | 06:13:52\nصبح بخیر ایرانی، دلار از مرز 260,000 تومان عبور کرد!\n💢\n@Baga_News\n| Noll",
+        "date": "2026-09-30T03:44:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151846_0_f493ba5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151846"
+      },
+      {
         "id": 151845,
         "text": "🇮🇷\nتصویری که تسنیم از آموزش دخترای جانفدا منتشر کرد :\n💢\n@Baga_News\n| Король",
         "date": "2026-09-29T20:34:41+00:00",
@@ -14753,40 +14787,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/151697"
-      },
-      {
-        "id": 151696,
-        "text": "💢\nتتر برای اولین بار از مرز 240,000 رد شد.\n💢\n@Baga_News\n| Noll",
-        "date": "2026-09-28T06:56:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151696_0_fc5f8978.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/151696"
-      },
-      {
-        "id": 151695,
-        "text": "⭕️\nدرحالی که پزشکیان تو مصاحبه با فاکس نیوز گفت ما اصلا نگفتیم میخواییم ترامپ و خانوادش رو بکشیم و قصد همچین کاریو نداریم ، طرفداران نظام تو میدون انقلاب بنر زدن که  ترامپ و نتانیاهو، خودتون و زن بچه‌تون رو میکشیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-09-28T06:31:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151695_0_fc5f8978.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_151695_1_aab8dc5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/151695"
       }
     ],
     "maznet": [
@@ -16324,7 +16324,7 @@
       }
     ]
   },
-  "last_update": "2026-09-30T02:00:01.014942+00:00",
+  "last_update": "2026-09-30T04:33:25.514410+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16340,7 +16340,7 @@
     },
     "referenced_files": 761,
     "existing_media_files": 760,
-    "total_size_mb": 315.65,
-    "last_calculation": "2026-09-30T02:00:01.024345+00:00"
+    "total_size_mb": 315.64,
+    "last_calculation": "2026-09-30T04:33:25.523742+00:00"
   }
 }
