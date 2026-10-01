@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 151934,
+        "text": "🔴\n😂\n🇮🇷\n|\nعراقچی:\nایران اکنون در موقعیت ممتازی است\n.\n💢\n@Baga_News\n| Король",
+        "date": "2026-09-30T22:19:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151934_0_1956a789.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151934_1_86c712b3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151934"
+      },
+      {
         "id": 151933,
         "text": "🚨\nبلاگر یونانی در تهران: میگن حجاب تو ایران اجباریه، ولی این ادعا دروغه؛ من الان اینجام و می‌بینم که خیلی‌ها حجاب ندارن.\n💢\n@Baga_News\n| Король",
         "date": "2026-09-30T21:45:06+00:00",
@@ -14723,32 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/151823"
-      },
-      {
-        "id": 151822,
-        "text": "🔥\nاینترنت پرسرعت و بدون محدودیت با «وی‌پی‌ان تراکتور»!\n🔥\nدیگر نگران قطعی و کندی اینترنت نباشید. با سرورهای قدرتمند و فوق‌العاده پرسرعت ما، آزادانه در وب گشت‌وگذار کنید.\n🎉\nویژه کاربران جدید:\n۵۰ گیگابایت کانفیگ تست رایگان!\n(همین حالا امتحان کنید و کیفیت را خودتان بسنجید)\n🧠\nشروع تست رایگان از طریق ربات:\n@vpn_traktor_bot\n📢\nبرای دیدن آموزش‌ها و اخبار، عضو کانال ما شوید:\nhttps://t.me/speedo_traktor\n💬\nخرید و پشتیبانی 24 ساعته:\nhttps://t.me/Filtertrahktor",
-        "date": "2026-09-29T15:52:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151822_0_47bab0b6.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/speedo_traktor",
-            "type": "telegram",
-            "display_text": "https://t.me/speedo_traktor"
-          },
-          {
-            "url": "https://t.me/Filtertrahktor",
-            "type": "telegram",
-            "display_text": "https://t.me/Filtertrahktor"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/bg_ae/151822"
       }
     ],
     "maznet": [
@@ -16286,23 +16279,23 @@
       }
     ]
   },
-  "last_update": "2026-09-30T22:00:14.136967+00:00",
+  "last_update": "2026-10-01T00:09:45.439777+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
-    "total_links": 279,
+    "total_media": 751,
+    "total_files": 751,
+    "total_links": 277,
     "files_by_type": {
-      "image": 713,
+      "image": 714,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 307.54,
-    "last_calculation": "2026-09-30T22:00:14.145970+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 307.62,
+    "last_calculation": "2026-10-01T00:09:45.444446+00:00"
   }
 }
