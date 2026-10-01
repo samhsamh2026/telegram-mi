@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 151935,
+        "text": "🔴\nحکیمی، معاون وزیر ارتباطات :\nاگه استارلینک بین مردم فراگیر بشه تو شرایط اضطراری برای قطع اینترنت مجبوریم برق کشورو قطع کنیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-01T04:37:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_151935_0_1956a789.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_151935_1_59edcd4b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/151935"
+      },
+      {
         "id": 151934,
         "text": "🔴\n😂\n🇮🇷\n|\nعراقچی:\nایران اکنون در موقعیت ممتازی است\n.\n💢\n@Baga_News\n| Король",
         "date": "2026-09-30T22:19:01+00:00",
@@ -14719,29 +14738,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/151826"
-      },
-      {
-        "id": 151823,
-        "text": "🚨\nطبق گزارشات همونطور که تو آمریکا وقتی کارمندای پنتاگون پیتزا زیاد سفارش بدن یعنی جنگ نزدیکه، تو ایران هروقت تو پادگانا غذای خوب به سربازا بدن یعنی جنگ نزدیکه، حالا طی چند روز اخیر کیفیت غذای پادگانا خیلی بالا رفته و سربازا میگن جنگ نزدیکه\n😂\n💢\n@Baga_News\n| Король",
-        "date": "2026-09-29T16:10:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_151823_0_47bab0b6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_151823_1_e27a5660.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_151823_2_ab45fdb0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/151823"
       }
     ],
     "maznet": [
@@ -16279,23 +16275,23 @@
       }
     ]
   },
-  "last_update": "2026-10-01T00:09:45.439777+00:00",
+  "last_update": "2026-10-01T04:45:50.892337+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 750,
+    "total_files": 750,
     "total_links": 277,
     "files_by_type": {
-      "image": 714,
+      "image": 713,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 307.62,
-    "last_calculation": "2026-10-01T00:09:45.444446+00:00"
+    "referenced_files": 750,
+    "existing_media_files": 749,
+    "total_size_mb": 307.47,
+    "last_calculation": "2026-10-01T04:45:50.901257+00:00"
   }
 }
