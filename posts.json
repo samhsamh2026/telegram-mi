@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 152149,
+        "text": "🚨\nتلگراف: خاورمیانه در آستانه دور جدید درگیری نظامی گسترده است.\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-03T15:50:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152149_0_183b7d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152149"
+      },
+      {
+        "id": 152148,
+        "text": "🔹\nتابناک: گلشیفته فراهانی قصد داره به‌زودی به ایران برگرده و اقدامات اداری لازم برای این موضوع هم انجام شده.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-03T15:36:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152148_0_183b7d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152148"
+      },
+      {
+        "id": 152146,
+        "text": "⏺\nوضعیت ابو هوای امروزه قم رو ببینید\nاخوندای قم اعلام کردن بخاطر بی حجابیه\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-03T15:33:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152146_0_183b7d6e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152146_1_f03bdfd2.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152146_2_bfe8084f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152146"
+      },
+      {
         "id": 152145,
         "text": "⭕️\n💵\nدلار = 263 هزار تومن\n💢\n@Baga_News | Король",
         "date": "2026-10-03T15:11:19+00:00",
@@ -14677,55 +14730,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152028"
-      },
-      {
-        "id": 152027,
-        "text": "🚨\nکانال 14 اسرائیل:\nاحتمال دخالت جمهوری اسلامی در پرواز فلای دوبی وجود داره.\nاین عملیات برای دستیابی به سه هدف طراحی شده بود:\nکشتن تعداد زیادی از اسرائیلی‌ها.\nآسیب رساندن به روابط ما با امارات.\nآسیب رساندن به خود امارات.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-10-02T08:02:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152027_0_dd665d20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152027"
-      },
-      {
-        "id": 152026,
-        "text": "💢\nحضور این پیر زن تو تمرینات نظامی جانفدا مورد توجه رسانه های خارجی قراره گرفته :\n💢\n@Baga_News\n| areZo",
-        "date": "2026-10-02T07:30:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152026_0_dd665d20.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152026_1_6e87fdb7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152026"
-      },
-      {
-        "id": 152025,
-        "text": "🔻\n📰\nبلومبرگ: جمهوری اسلامی پیشنهاد داده در ازای لغو تحریم‌ها، اجازه دسترسی بازرسان هسته‌ای به تأسیسات بمباران‌شده خودش رو بده.\nاین پیشنهاد می‌تونه به بن‌بست مذاکرات پایان بده و راه رو برای ادامه گفت‌وگوها باز کنه\n💢\n@Baga_News\n| areZo",
-        "date": "2026-10-02T07:00:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152025_0_dd665d20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152025"
       }
     ],
     "maznet": [
@@ -16263,23 +16267,23 @@
       }
     ]
   },
-  "last_update": "2026-10-03T15:15:44.854256+00:00",
+  "last_update": "2026-10-03T15:54:29.781882+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 747,
-    "total_files": 747,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 277,
     "files_by_type": {
       "image": 709,
-      "video": 30,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 747,
-    "existing_media_files": 746,
-    "total_size_mb": 314.72,
-    "last_calculation": "2026-10-03T15:15:44.861186+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 322.4,
+    "last_calculation": "2026-10-03T15:54:29.787895+00:00"
   }
 }
