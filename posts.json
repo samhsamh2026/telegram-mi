@@ -12946,6 +12946,52 @@
     ],
     "bg_ae": [
       {
+        "id": 152194,
+        "text": "💢\n🌧\nبارش باران و سیلاب شدیدی که توی شهر ایذه، واقع در استان خوزستان رخ داده رو ببینید.\nهمچنین مدارس ایذه بخاطر بارش باران تعطیل شدند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-04T08:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152194_0_d61ef91c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152194_1_8b6d613b.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152194_2_b887bf90.mp4"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152194_3_56437d93.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152194"
+      },
+      {
+        "id": 152193,
+        "text": "💢\n📕\nهدی ناصری رتبه 2 کنکور هنر : قطعی اینترنت تو دوران جنگ باعث شد تمرکزم رو درسام‌ بالا بره و راحت تر درس بخونم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-04T07:32:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152193_0_d61ef91c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_152193_1_e31c4e08.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152193"
+      },
+      {
         "id": 152192,
         "text": "🔹\nحساب صرافی‌های رمزارزی در آستان مسدودی.\n‼️\nطبق گزارش رسانه های داخلی بانک مرکزی قصد دارد حساب‌ها و درگاه‌های ریالی برخی صرافی‌های رمزارزی را به‌دلیل سفارش‌گذاری‌های مصنوعی در بازار تتر و ایجاد اختلال در قیمت‌گذاری تتر و بازار ارز مسدود کند.\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-04T07:02:21+00:00",
@@ -14710,40 +14756,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152087"
-      },
-      {
-        "id": 152086,
-        "text": "لطفا در تمامی کافه ها فرهنگ سازی بشه :\n⚪️\n@Baga_Tweet",
-        "date": "2026-10-02T18:40:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152086_0_183b7d6e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152086_1_5d3b3cff.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152086"
-      },
-      {
-        "id": 152085,
-        "text": "استراتژی حمله کماندویی به کوه کلنگ گزلا_قسمت اول",
-        "date": "2026-10-02T18:31:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152085_0_183b7d6e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152085"
       }
     ],
     "maznet": [
@@ -16281,23 +16293,23 @@
       }
     ]
   },
-  "last_update": "2026-10-04T07:31:53.271247+00:00",
+  "last_update": "2026-10-04T08:25:51.668025+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 753,
+    "total_files": 753,
     "total_links": 278,
     "files_by_type": {
-      "image": 707,
-      "video": 35,
+      "image": 708,
+      "video": 37,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 302.95,
-    "last_calculation": "2026-10-04T07:31:53.277143+00:00"
+    "referenced_files": 753,
+    "existing_media_files": 752,
+    "total_size_mb": 309.79,
+    "last_calculation": "2026-10-04T08:25:51.677634+00:00"
   }
 }
