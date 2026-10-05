@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 152275,
+        "text": "💠\nآغاز انتخاب رشتهٔ کنکور ۱۴۰۵ از امروز\nفرصت انتخاب رشتهٔ داوطلبان آزمون سراسری و دانشجو-معلم از امروز آغاز می‌شود و متقاضیان تا پنجشنبه ۱۶ مهرماه فرصت دارند حداکثر ۱۵۰ کد رشتهٔ محل را در سامانهٔ جامع آزمون سراسری ثبت کنند.\nهر داوطلب تنها یک‌بار می‌تواند انتخاب رشتهٔ خود را انجام دهد، اما پس از دریافت رسید، امکان ویرایش فرم انتخاب رشته در دفعات محدود فراهم خواهد بود.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-05T04:33:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152275_0_d284faa2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152275"
+      },
+      {
+        "id": 152274,
+        "text": "🔻\nوزیر آموزش و پرورش:\nحتی مدرسه یک نفره هم باید نماز جماعت داشته باشه؛ مهم‌ترین اولویت ما تو حوزه تربیتی توسعه فرهنگ اقامه نمازه\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-05T04:24:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152274_0_d284faa2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152274"
+      },
+      {
         "id": 152273,
         "text": "💢\n@Baga_News\n| Король",
         "date": "2026-10-05T00:31:14+00:00",
@@ -14704,44 +14734,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152165"
-      },
-      {
-        "id": 152164,
-        "text": "🇮🇷\n👀\n| وضعیت سیل امروز کرج!\n😕\nماشینارو اب برد\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-03T18:29:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152164_0_183b7d6e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152164_1_f65c236c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152164"
-      },
-      {
-        "id": 152163,
-        "text": "💢\n@Baga_News\n| Король",
-        "date": "2026-10-03T18:28:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152163_0_183b7d6e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152163_1_74247159.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152163"
       }
     ],
     "maznet": [
@@ -16279,23 +16271,23 @@
       }
     ]
   },
-  "last_update": "2026-10-05T00:42:37.693278+00:00",
+  "last_update": "2026-10-05T04:38:34.091988+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 751,
-    "total_files": 751,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 277,
     "files_by_type": {
       "image": 701,
-      "video": 42,
+      "video": 40,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 751,
-    "existing_media_files": 750,
-    "total_size_mb": 359.86,
-    "last_calculation": "2026-10-05T00:42:37.702495+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 351.5,
+    "last_calculation": "2026-10-05T04:38:34.101132+00:00"
   }
 }
