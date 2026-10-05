@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 152273,
+        "text": "💢\n@Baga_News\n| Король",
+        "date": "2026-10-05T00:31:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152273_0_d284faa2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152273_1_f74dce18.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152273"
+      },
+      {
+        "id": 152272,
+        "text": "⏺\n💀\n🇦🇷\n🇦🇷\nرویای تمام نشدنی  !\nلیونل مسی اسطوره دنیای فوتبال رسید به کمپ تمرینی آرژانتین تا آخرین تمریناشو با بازیکنای آرژانتین انجام بده برای آخرین بازی که فردا به عنوان اخرین بازی وی در تیم ملی آرژانتین انجام میشه\nدر همین بین گزارش شده بلیط بازی فردای آرژانتین تا ۱ میلیون دلار هم خریداری میشه به دلیل کمبود ظرفیت در استادیوم\nچهارشنبه 15 مهر 1405 ساعت دو نیم بامداد\n🇧🇯\nمقابل بنین\n⚽️\nاستادیوم مونومنتال\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-10-04T23:53:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152272_0_d284faa2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_152272_1_09dc52d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152272"
+      },
+      {
         "id": 152271,
         "text": "هواشناسی: بارش هایی که این چند روز دیدید یک درصد چیزی نیست قرار در آبان ماه اتفاق بیوفته، بارون های انفجاری قرار از آبان ماه شروع میشه تا هفته ها ادامه داشته باشه.\n💢\n@Baga_News\n| Король",
         "date": "2026-10-04T21:35:19+00:00",
@@ -14704,56 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152163"
-      },
-      {
-        "id": 152162,
-        "text": "بچها همونطور که قبلا هم اشاره کردیم  صرافی نقدینکس امن ترین و به روز ترین صرافی ایرانه که قیمتهاش از همه جا ارزون تره و داخل خود تلگرام هستش   میتونین به تضمین ما و  با خیال راحت معاملات و خرید اشتراک هاتون رو انجام بدین\n❤️\n🔥\n👇\nhttps://t.me/NaghdinexBot/ap…",
-        "date": "2026-10-03T18:18:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152162_0_183b7d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152162_1_63361b44.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/NaghdinexBot/ap…",
-            "type": "telegram",
-            "display_text": "https://t.me/NaghdinexBot/ap…"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/bg_ae/152162"
-      },
-      {
-        "id": 152161,
-        "text": "بچها همونطور که قبلا هم اشاره کردیم\nصرافی نقدینکس امن ترین و به روز ترین صرافی ایرانه که قیمتهاش از همه جا ارزون تره و داخل خود تلگرام هستش\nمیتونین به تضمین ما و  با خیال راحت معاملات و خرید اشتراک هاتون رو انجام بدین\n❤️\n🔥\n👇\nhttps://t.me/NaghdinexBot/app?startapp=BagaNews",
-        "date": "2026-10-03T18:18:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152161_0_183b7d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152161_1_b62db1bb.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/NaghdinexBot/app?startapp=BagaNews",
-            "type": "telegram",
-            "display_text": "https://t.me/NaghdinexBot/app?startapp=BagaNews"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/bg_ae/152161"
       }
     ],
     "maznet": [
@@ -16291,23 +16279,23 @@
       }
     ]
   },
-  "last_update": "2026-10-04T21:52:26.892129+00:00",
+  "last_update": "2026-10-05T00:42:37.693278+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
     "total_media": 751,
     "total_files": 751,
-    "total_links": 279,
+    "total_links": 277,
     "files_by_type": {
-      "image": 702,
-      "video": 41,
+      "image": 701,
+      "video": 42,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 751,
     "existing_media_files": 750,
-    "total_size_mb": 359.69,
-    "last_calculation": "2026-10-04T21:52:26.896792+00:00"
+    "total_size_mb": 359.86,
+    "last_calculation": "2026-10-05T00:42:37.702495+00:00"
   }
 }
