@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 152369,
+        "text": "رسانه های‌‌ خارجی‌ با انتشار این فیلم گفتن بعد از جنگ و تـرور رهبران ارشد حکومت؛ آزادی پوشش در ایران تقریبا به دست اومده و گویا تغییراتی در ایدئولوژی حکومت به وجود اومده.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-06T05:00:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152369_0_bb7a2a25.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152369_1_06bbb538.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152369"
+      },
+      {
+        "id": 152368,
+        "text": "🇮🇷\n👀\n|\nپزشکیان:\nآمریکایی‌ها پاسخ نمی‌دهند که به چه جرمی ۱۶۸ کودک مظلوم میناب را به شهادت رساندند و خجالت نمی‌کشند و همچنان ادعای حقوق‌بشر دارند\n.\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-06T04:10:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152368_0_bb7a2a25.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152368"
+      },
+      {
         "id": 152367,
         "text": "عالی شد.\n🔴\n🇺🇸\nترامپ: نمی‌تونیم جلوی شیوع طاعون از روسیه رو بگیریم!\nاین ویروس بسیار کشنده و خطرناک‌تر از قبل شده و مثل یه ارتش شدن!\nحتی با پیشرفت چشمگیر پزشکی هم نمیشه جلوشو گرفت، با این حال ما به روسیه کمک میکنیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-10-05T20:21:36+00:00",
@@ -14724,44 +14758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152223"
-      },
-      {
-        "id": 152222,
-        "text": "🔴\nاسم‌ میدان‌ نوبنیاد تهران رو به شهید شمخانی تغییر دادن !\nاسم جدید خیابون ها تو تهران:\nمیدان نوبنیاد = میدان شهید شمخانی\nبلوار دریا = بلوار شهید تنگسیری\nخیابان ارم = خیابان شهید خرازی\nبزرگراه جدید دوگاز = بزرگراه شهید موسوی\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-04T14:40:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152222_0_d61ef91c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152222_1_03284b89.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152222"
-      },
-      {
-        "id": 152221,
-        "text": "🚨\nامروز 4 October، روز جهانی حیواناته.\n+این روز رو به حیوونایِ اطرافت تبریک بگو\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-04T14:31:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152221_0_d61ef91c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152221_1_0daf5c60.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152221"
       }
     ],
     "maznet": [
@@ -16299,23 +16295,23 @@
       }
     ]
   },
-  "last_update": "2026-10-06T02:30:31.118714+00:00",
+  "last_update": "2026-10-06T05:24:48.546180+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 756,
-    "total_files": 756,
+    "total_media": 755,
+    "total_files": 755,
     "total_links": 277,
     "files_by_type": {
-      "image": 711,
-      "video": 37,
+      "image": 709,
+      "video": 38,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 756,
-    "existing_media_files": 755,
-    "total_size_mb": 347.51,
-    "last_calculation": "2026-10-06T02:30:31.125839+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 352.67,
+    "last_calculation": "2026-10-06T05:24:48.555561+00:00"
   }
 }
