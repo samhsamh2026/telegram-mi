@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 152468,
+        "text": "🔹\nبابک دزدجانی:\nبزودی سیم‌کارت با قابلیت درآمد زایی عرضه میکنم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-07T07:33:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152468_0_8ec15871.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_152468_1_1c1ca6d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152468"
+      },
+      {
         "id": 152467,
         "text": "🆕\nخلاصه‌ای از دستاوردهای هیمتی در بانک مرکزی :\n🚬\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-07T07:07:01+00:00",
@@ -14825,25 +14844,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152325"
-      },
-      {
-        "id": 152324,
-        "text": "🔴\n🇮🇱\n🇮🇱\n-\nنتانیاهو: اخلاق سربازان ما نظیر ندارد.\n«هر کسی که در حمله علیه ما دست داشته یا در نگهداری گروگان‌های ما نقش داشته است، زمان زیادی برایش باقی نمانده. به سراغشان خواهیم رفت؛ همان‌طور که سراغ دیگران رفتیم.»\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-05T14:20:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152324_0_d284faa2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152324_1_0b4e29d3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152324"
       }
     ],
     "maznet": [
@@ -16381,7 +16381,7 @@
       }
     ]
   },
-  "last_update": "2026-10-07T07:10:30.250705+00:00",
+  "last_update": "2026-10-07T07:49:59.241795+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16398,6 +16398,6 @@
     "referenced_files": 778,
     "existing_media_files": 777,
     "total_size_mb": 377.2,
-    "last_calculation": "2026-10-07T07:10:30.261803+00:00"
+    "last_calculation": "2026-10-07T07:49:59.251151+00:00"
   }
 }
