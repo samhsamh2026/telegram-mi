@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 152568,
+        "text": "🔻\n💢\nپزشکیان: من یه دانش آموز شلوغ و تنبل بودم که تو هنرستان درس خوندم و بعدشم رفتم سربازی ولی وقتی نامردی های جامعه رو دیدم رفتم دکتر شدم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-08T08:01:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152568_0_a2228ee7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152568_1_c806917a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152568"
+      },
+      {
+        "id": 152567,
+        "text": "⭕️\nپیت هگست،وزیر جنگ آمریکا:\nناو هواپیمابر لینکولن، 3693 پرواز جنگی علیه ایران انجام داد و 64 کشتی جنگی ایران را غرق کرد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-08T07:30:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152567_0_a2228ee7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152567"
+      },
+      {
         "id": 152566,
         "text": "🔹\nحداد عادل: خرج خونه با دخترم بود، ۳۵میلیون حقوق میگرفت که خرج خونه میکرد\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-08T07:02:58+00:00",
@@ -14770,40 +14804,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152431"
-      },
-      {
-        "id": 152430,
-        "text": "🇮🇱\n👀\n| آیزنکوت، رئیس سابق ستاد کل ارتش اسرائیل:\n🔵\nایرانی‌ها  قوی‌تر از چیزی‌ان که ما فکر می‌کنیم. اگه کسی فکر می‌کنه فقط با قدرت هوایی میشه باعث تغییر حکومت تو ایران بشه، اشتباه می‌کنه\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-06T18:35:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152430_0_8ec15871.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152430_1_d202079c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152430"
-      },
-      {
-        "id": 152429,
-        "text": "🇸🇦\n👀\n| مدیرعامل آرامکو: تا تنگۀ هرمز باز نشود، فشار بر بازار نفت ادامه دارد\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-06T18:13:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152429_0_8ec15871.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152429"
       }
     ],
     "maznet": [
@@ -16341,7 +16341,7 @@
       }
     ]
   },
-  "last_update": "2026-10-08T07:16:12.045170+00:00",
+  "last_update": "2026-10-08T08:23:56.960213+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16357,7 +16357,7 @@
     },
     "referenced_files": 768,
     "existing_media_files": 767,
-    "total_size_mb": 361.72,
-    "last_calculation": "2026-10-08T07:16:12.054451+00:00"
+    "total_size_mb": 366.83,
+    "last_calculation": "2026-10-08T08:23:56.966226+00:00"
   }
 }
