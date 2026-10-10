@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 152842,
+        "text": "🔴\nلحظه منفجر کردن ماشین نظامی هایلوکس",
+        "date": "2026-10-10T21:25:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152842_0_b2d826a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152842"
+      },
+      {
         "id": 152841,
         "text": "😬\nترامپ چیزی زده امشب؟\n💢\n@Baga_News\n| Noll",
         "date": "2026-10-10T20:56:26+00:00",
@@ -14713,25 +14728,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152709"
-      },
-      {
-        "id": 152708,
-        "text": "🚨\n👀\nوقوع حادثه برای یک کشتی در نزدیکی امارات.!\nسازمان عملیات تجارت دریایی انگلیس گزارش داده که یک فروند کشتی در نزدیکی امارات مورد اصابت یک موشک کروز / پهپاد قرار گرفته است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-09T14:05:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152708_0_bb1487b2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152708_1_c8d52323.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152708"
       }
     ],
     "maznet": [
@@ -16269,23 +16265,23 @@
       }
     ]
   },
-  "last_update": "2026-10-10T21:20:02.210301+00:00",
+  "last_update": "2026-10-10T21:30:09.419027+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 276,
     "files_by_type": {
-      "image": 713,
+      "image": 712,
       "video": 29,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 297.6,
-    "last_calculation": "2026-10-10T21:20:02.219284+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 297.49,
+    "last_calculation": "2026-10-10T21:30:09.423972+00:00"
   }
 }
