@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 152847,
+        "text": "🇮🇱\nخبرنگار اسرائیل: حملات به ایران توسط اسراییل بی سابقه خواهد بود\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-11T04:36:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152847_0_b2d826a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152847"
+      },
+      {
+        "id": 152846,
+        "text": "🚨\nسنتکام:\nیک کشتی تجاری با پرچم پاناما را پس از خروج از یک بندر ایرانی در آب‌ های سرزمینی هدف قرار دادیم.\n💢\n@Baga_News\n| Noll",
+        "date": "2026-10-11T04:14:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152846_0_b2d826a3.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152846_1_a30c6045.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152846"
+      },
+      {
         "id": 152845,
         "text": "🚨\nسازمان عملیات تجارت دریایی انگلیس: یک نفتکش در تنگه هرمز هدف قرار گرفت و آتش‌سوزی در آن رخ داد.\n💢\n@Baga_News\n| Noll",
         "date": "2026-10-10T22:42:41+00:00",
@@ -14682,48 +14716,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152715"
-      },
-      {
-        "id": 152713,
-        "text": "🚨\n👀\nیک پیج املاکی توی مازندران که ویلا اجاره میداده تصمیم گرفته همچین محتوایی رو پست کنه که به دو دلیل مشخص، حسابی وایرال شده و کارش گرفته:\n⚪️\n@Baga_Tweet",
-        "date": "2026-10-09T14:34:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152713_0_bb1487b2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152713_1_dd127aae.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152713_2_7c0a6506.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152713"
-      },
-      {
-        "id": 152712,
-        "text": "🔴\nعملیات نظامی نیروهای PLC در باب المندب با پشتیبانی هوایی گسترده عربستان سعودی در حال انجام است.\nدر حال حاضر، ده‌ها هواپیما در حال بمباران مواضع انصارالله هستند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-09T14:20:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152712_0_bb1487b2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152712_1_166a4509.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152712"
       }
     ],
     "maznet": [
@@ -16261,23 +16253,23 @@
       }
     ]
   },
-  "last_update": "2026-10-11T00:28:31.230949+00:00",
+  "last_update": "2026-10-11T04:39:02.526195+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 746,
+    "total_files": 746,
     "total_links": 276,
     "files_by_type": {
       "image": 711,
-      "video": 29,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 297.43,
-    "last_calculation": "2026-10-11T00:28:31.239848+00:00"
+    "referenced_files": 746,
+    "existing_media_files": 745,
+    "total_size_mb": 295.7,
+    "last_calculation": "2026-10-11T04:39:02.535123+00:00"
   }
 }
