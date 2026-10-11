@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 152874,
+        "text": "🇮🇷\nشرکت آب: قبض آب یه برج تهرانی شده ۳۰ میلیارد، مردم رعایت کنید\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-11T13:10:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152874_0_b2d826a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152874"
+      },
+      {
+        "id": 152873,
+        "text": "🚨\nطبق جدیدترین تحقیقات گربه‌ها خودشونو از آدما برتر می‌دونن، واسه همین اکثر مواقع به آدم محل نمیذارن.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-11T12:50:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152873_0_b2d826a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_152873_1_05f69966.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152873"
+      },
+      {
+        "id": 152872,
+        "text": "🚨\nاحمد رمضان، تحلیلگر معروف عرب:\nبه زودی آمریکا و اسرائیل به ایران حمله میکنند و انتخابات اسرائیل به تعویق میفته.\nایران با یک سلاح بی سابقه مورد حمله قرار میگیره!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-11T12:34:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152872_0_b2d826a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_152872_1_b02dcefb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152872"
+      },
+      {
         "id": 152869,
         "text": "هوای تهران امروز خیلی تمیز شده.\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-11T12:10:24+00:00",
@@ -14687,59 +14740,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152759"
-      },
-      {
-        "id": 152758,
-        "text": "این دیوار مهربانی در بیمارستان قلب کوثر شیراز هست هر کس در حد توان خود کارت می‌کشد و رسید واریز را به دیوار می‌چسباند هر کس برای مشکلات خود در بیمارستان احتیاج به پول داشته باشد از این رسید واریزی‌ها برمی‌دارند و مشکل خود را در بیمارستان حل می‌کنند.\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-09T20:26:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152758_0_15bba867.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152758_1_9cbb6c3b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152758"
-      },
-      {
-        "id": 152757,
-        "text": "⭕️\nصدای انفجار در تهران\n🔵\n@mobarezan_enqelab",
-        "date": "2026-10-09T20:16:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152757_0_15bba867.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152757"
-      },
-      {
-        "id": 152756,
-        "text": "🇮🇷\n👀\n| میرسلیم:\nنفت ایران مال مردم نیست و متعلق به خدا و پیامبره\nمردم  حکومتو انتخاب میکنن فقط و اون حکومته که تصمیم میگیره چطوری نفت استفاده بشه\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-09T20:03:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152756_0_15bba867.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_152756_1_3aa3756b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152756"
       }
     ],
     "maznet": [
@@ -16277,7 +16277,7 @@
       }
     ]
   },
-  "last_update": "2026-10-11T12:19:32.797927+00:00",
+  "last_update": "2026-10-11T13:24:21.041261+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16285,15 +16285,15 @@
     "total_files": 752,
     "total_links": 276,
     "files_by_type": {
-      "image": 715,
-      "video": 29,
+      "image": 716,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 752,
     "existing_media_files": 751,
-    "total_size_mb": 302.45,
-    "last_calculation": "2026-10-11T12:19:32.807053+00:00"
+    "total_size_mb": 300.35,
+    "last_calculation": "2026-10-11T13:24:21.050250+00:00"
   }
 }
