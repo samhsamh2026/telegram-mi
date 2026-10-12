@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 152921,
+        "text": "شعار یسری  الاف مقابل مجلس: خواسته ما عزل پزشکیان است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-12T08:51:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152921_0_47e349de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152921"
+      },
+      {
+        "id": 152920,
+        "text": "🔹\nویدیوی جدید از جنگ ۴۰روزه\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-12T08:35:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152920_0_47e349de.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152920_1_81cc4290.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152920"
+      },
+      {
         "id": 152919,
         "text": "🆕\nفاکس‌نیوز :\nارتش آمریکا راهنمای شناسایی نیروهای زمینی ارتش ایران را برای سربازان خود منتشر کرد. دلیلشم مشخص نیست؛ احتمالا جنگ پیشه رو داشته باشیم.\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-12T08:04:20+00:00",
@@ -14666,44 +14700,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152806"
-      },
-      {
-        "id": 152805,
-        "text": "یه استریمر به اسم Drake Cummings توی خونش یه سلول انفرادی ساخته و خودش رو توش زندانی کرده و تا وقتی مادرش اولین باس الدن رو نزده بیرون نیومده.\nمادرش بعد از 24 ساعت و 240 بار باختن، آخر سر تونسته Magrit رو بزنه.\nملت چه راه‌های عجیب و غریبی برای ویوو گرفتن اختراع می‌کنن!\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-10T16:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152805_0_15bba867.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152805_1_9a67e502.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152805"
-      },
-      {
-        "id": 152804,
-        "text": "🇮🇷\n👀\n| علم الهدی: مردم آمریکا میگن که آمریکا در مقابل ایران شدیدا شکست خورده\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-10T15:10:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152804_0_15bba867.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152804_1_190d0b39.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152804"
       }
     ],
     "maznet": [
@@ -16241,23 +16237,23 @@
       }
     ]
   },
-  "last_update": "2026-10-12T08:11:39.443138+00:00",
+  "last_update": "2026-10-12T09:02:43.576462+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 743,
-    "total_files": 743,
+    "total_media": 742,
+    "total_files": 742,
     "total_links": 276,
     "files_by_type": {
-      "image": 710,
-      "video": 25,
+      "image": 708,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 743,
-    "existing_media_files": 742,
-    "total_size_mb": 290.36,
-    "last_calculation": "2026-10-12T08:11:39.449178+00:00"
+    "referenced_files": 742,
+    "existing_media_files": 741,
+    "total_size_mb": 298.99,
+    "last_calculation": "2026-10-12T09:02:43.585604+00:00"
   }
 }
