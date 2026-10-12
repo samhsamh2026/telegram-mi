@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 152910,
+        "text": "🔹\nویدیویی  از هدف قرار دادن غیرنظامیان در فرودگاه ملک خالد ریاض توسط حوثی‌ها\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-12T04:35:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_152910_0_47e349de.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_152910_1_30a16e35.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/152910"
+      },
+      {
         "id": 152909,
         "text": "🚨\n👀\nگزارش درگیری در سیستان و بلوچستان\n‼️\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
         "date": "2026-10-11T22:42:31+00:00",
@@ -14673,25 +14692,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152795"
-      },
-      {
-        "id": 152791,
-        "text": "استوری نقی معمولی {محسن تنابنده }:\nیه افتابه ایرانی 10 برابر کشور امریکا قدمت داره\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-10T12:49:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152791_0_15bba867.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152791_1_10f89b74.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152791"
       }
     ],
     "maznet": [
@@ -16229,7 +16229,7 @@
       }
     ]
   },
-  "last_update": "2026-10-12T01:40:59.573212+00:00",
+  "last_update": "2026-10-12T04:55:21.853364+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16237,15 +16237,15 @@
     "total_files": 740,
     "total_links": 276,
     "files_by_type": {
-      "image": 707,
-      "video": 25,
+      "image": 706,
+      "video": 26,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 740,
     "existing_media_files": 739,
-    "total_size_mb": 283.14,
-    "last_calculation": "2026-10-12T01:40:59.578782+00:00"
+    "total_size_mb": 289.67,
+    "last_calculation": "2026-10-12T04:55:21.862332+00:00"
   }
 }
