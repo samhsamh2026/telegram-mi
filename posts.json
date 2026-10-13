@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 153023,
+        "text": "🔹\nشعارای  عده‌ای الاف و بیکار دم در خونه روحانی چند روز پیش:\nنخ عبات که ماله انگلیسه ؛اون عبا رو باید سگ بلیسه\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-13T08:34:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153023_0_7439a7aa.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153023_1_35bf1f1e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153023"
+      },
+      {
         "id": 153022,
         "text": "‼️\n🇮🇷\nوال استریت ژورنال: ایران هشدار داده است که در صورت از سرگیری جنگ آمریکا علیه این کشور، نیروهایش ممکن است عملیات نفوذ زمینی را در کشورهای همسایه انجام دهند\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-13T08:00:26+00:00",
@@ -14689,29 +14708,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152884"
-      },
-      {
-        "id": 152882,
-        "text": "🔴\nسایت همسریابی آدم و حوا دختر بچه های 13,14 ساله رو آورده برای ازدواج!\nاین سایت کاملا قانونیه و مجوز سازمان تبلیغات اسلامی رو داره\n.!!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-11T15:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152882_0_47e349de.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152882_1_004ad3f3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152882_2_5210450c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152882"
       }
     ],
     "maznet": [
@@ -16249,23 +16245,23 @@
       }
     ]
   },
-  "last_update": "2026-10-13T08:22:21.382951+00:00",
+  "last_update": "2026-10-13T08:37:41.399121+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 745,
-    "total_files": 745,
+    "total_media": 744,
+    "total_files": 744,
     "total_links": 276,
     "files_by_type": {
-      "image": 710,
-      "video": 27,
+      "image": 708,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 745,
-    "existing_media_files": 744,
-    "total_size_mb": 295.05,
-    "last_calculation": "2026-10-13T08:22:21.388975+00:00"
+    "referenced_files": 744,
+    "existing_media_files": 743,
+    "total_size_mb": 303.73,
+    "last_calculation": "2026-10-13T08:37:41.405902+00:00"
   }
 }
