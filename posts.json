@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 153102,
+        "text": "🔹\nخاتمی تو یه مراسمی دعوت شده بود و داشت با عصا به سختی راه میرفت یهو ملت تشویقش کردن شفا پیدا کرد عصارو گذاشت کنار راحت راه رفت :\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-14T06:31:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153102_0_a71e20bf.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153102_1_0cce777c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153102"
+      },
+      {
         "id": 153101,
         "text": "🔻\nفهیمه خضرحیدری: داریوش اقبالی توسط ساواک شکنجه شد»\nعرفان قانعی فرد در جوابش:\nداریوش اقبالی بخاطر تریاک دستگیر شد ساواک اصلا کاری باهاش نداشت\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-14T06:01:18+00:00",
@@ -14691,25 +14710,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152956"
-      },
-      {
-        "id": 152955,
-        "text": "🔒\nیه VPN خوب رو وقتی می‌فهمی که اینترنت خوب نیست.\n✅\nاتصال پایدار\n⚡️\nسرعت بالا\n🌎\nدسترسی بین‌المللی\n📈\nپرداخت تومانی و ارزی\n💸\n💻\nپشتیبانی از تمامی سیستم‌عامل‌ها\n📍\n10 لوکیشن واقعی\n🎁\nسه روز رایگان تستش کن، بعد تصمیم بگیر.\n🚀\nONEVNET | همیشه پایدار\n📶",
-        "date": "2026-10-12T17:45:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152955_0_7439a7aa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152955_1_4100fb60.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152955"
       }
     ],
     "maznet": [
@@ -16247,7 +16247,7 @@
       }
     ]
   },
-  "last_update": "2026-10-14T06:01:33.654664+00:00",
+  "last_update": "2026-10-14T06:51:03.796006+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16255,15 +16255,15 @@
     "total_files": 743,
     "total_links": 277,
     "files_by_type": {
-      "image": 705,
-      "video": 30,
+      "image": 704,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 743,
     "existing_media_files": 742,
-    "total_size_mb": 290.52,
-    "last_calculation": "2026-10-14T06:01:33.661753+00:00"
+    "total_size_mb": 291.78,
+    "last_calculation": "2026-10-14T06:51:03.803506+00:00"
   }
 }
