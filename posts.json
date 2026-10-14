@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 153123,
+        "text": "🔴\nدادستان کرمانشاه: در بازرسی از یک تریلی در مرز پرویزخان، ۹۹ سلاح کمری، ۱۰ کلاشینکف، ۱۷۰۰ فشنگ و ۱۹۸ خشاب کمری کشف شد که در بخش‌های مختلف خودرو جاسازی شده بودند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-10-14T11:29:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153123_0_a71e20bf.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153123_1_7e313e45.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153123"
+      },
+      {
         "id": 153122,
         "text": "💢\nخانوم آفریقایی ساکن ایران خطاب به طرفدارای پهلوی:\n«شما نمی‌تونید ببینید یه زن رنگین‌پوست از جمهوری اسلامی دفاع کنه! تنها کاری که بلدید اینه که برای حمله آمریکا به کشورتون التماس کنید تا مردم خودتون رو بکشه. من سیدعلی خامنه‌ای رو دوست دارم؛ زنده باد جمهوری اسلامی!»\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-14T11:24:01+00:00",
@@ -14687,29 +14706,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/152996"
-      },
-      {
-        "id": 152994,
-        "text": "ادامه تعليق پذیرش پروازها در تعدادی از فرودگاه‌های عربستان سعودی:\n🔴\nنجران و جازان: بیش از 155 ساعت\n🔴\nریاض: حدود 57 ساعت\n🔴\nینبع: بیش از 28 ساعت\n🔴\nعرعر: حدود 15 ساعت\n💢\n@Baga_News\n| Noll",
-        "date": "2026-10-12T20:46:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_152994_0_7439a7aa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152994_1_8026097d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_152994_2_cc3d8639.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/152994"
       }
     ],
     "maznet": [
@@ -16247,23 +16243,23 @@
       }
     ]
   },
-  "last_update": "2026-10-14T11:25:33.055062+00:00",
+  "last_update": "2026-10-14T11:44:28.183011+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 743,
-    "total_files": 743,
+    "total_media": 742,
+    "total_files": 742,
     "total_links": 277,
     "files_by_type": {
-      "image": 705,
-      "video": 30,
+      "image": 703,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 743,
-    "existing_media_files": 742,
-    "total_size_mb": 287.98,
-    "last_calculation": "2026-10-14T11:25:33.064155+00:00"
+    "referenced_files": 742,
+    "existing_media_files": 741,
+    "total_size_mb": 289.53,
+    "last_calculation": "2026-10-14T11:44:28.188536+00:00"
   }
 }
