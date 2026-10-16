@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 153295,
+        "text": "🚨\nخوش چشم: یادداشت کنید که من مصطفی خوش چشم میگم تا ۷روز آینده جنگ میشه\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-16T06:31:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153295_0_3b94d6c5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153295_1_1075ebfe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153295"
+      },
+      {
+        "id": 153294,
+        "text": "🔻\nپست جدید نتانیاهو در اینستاگرام:\nما اسرائیل رو از تهدید هسته‌ای ایران نجات دادیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-16T06:02:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153294_0_3b94d6c5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153294_1_2501b833.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153294"
+      },
+      {
         "id": 153293,
         "text": "🔹\nخبر کوتاه و تلخ: طبق آمار منتشرشده برای سال ۲۰۲۶، رتبه ایران از نظر میانگین IQ نسبت به سال قبل از چهارم به هفتم جهان رسیده!\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-16T05:33:08+00:00",
@@ -14766,44 +14804,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153173"
-      },
-      {
-        "id": 153172,
-        "text": "بیگ شگی تو تیک تاک این ویدیو از خودشو اپلود کرده که داره شایان یو مسخره میکنه\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-14T18:50:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153172_0_7f6abcbe.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153172_1_55731e87.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153172"
-      },
-      {
-        "id": 153171,
-        "text": "خب الحمدلله تکذیب شد‌.\n🙂\n🔴\nاپراتورها اعلام کردن خبر افزایش ۴۰ درصدی قیمت اینترنت دروغه؛\n👀\n◀️\nبلکه درخواست افزایش ۱۰۰ درصدی قیمت اینترنت رو دادن!!!\n😕\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-14T18:45:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153171_0_7f6abcbe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153171_1_d9bd7d91.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153171"
       }
     ],
     "maznet": [
@@ -16341,7 +16341,7 @@
       }
     ]
   },
-  "last_update": "2026-10-16T05:44:20.412648+00:00",
+  "last_update": "2026-10-16T06:32:03.705564+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16357,7 +16357,7 @@
     },
     "referenced_files": 768,
     "existing_media_files": 767,
-    "total_size_mb": 303.89,
-    "last_calculation": "2026-10-16T05:44:20.418693+00:00"
+    "total_size_mb": 306.07,
+    "last_calculation": "2026-10-16T06:32:03.714949+00:00"
   }
 }
