@@ -12946,6 +12946,37 @@
     ],
     "bg_ae": [
       {
+        "id": 153371,
+        "text": "🔴\n🇺🇸\n🇺🇸\n- سنتکام:\nنیروی هوایی ایالات متحده، هواپیمای تانکر هوایی KC-46 را برای پرواز از یک پایگاه در خاورمیانه آماده می‌کند.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-10-16T20:51:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153371_0_05e91774.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153371_1_9452f226.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153371_2_5031aef3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153371_3_1d94c479.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153371_4_5b036265.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153371"
+      },
+      {
         "id": 153370,
         "text": "🇮🇷\n👀\n| علم الهدی؛ امام جمعه مشهد:\nاینطور که شنیدم خوشبختانه تمام راه های معامله و سازش با قاتل امام شهید بسته شده و مذاکرات به بن بست خورده. الهی شکر‌.\n💢\n@Baga_News\n| Король",
         "date": "2026-10-16T20:40:01+00:00",
@@ -14761,21 +14792,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153250"
-      },
-      {
-        "id": 153249,
-        "text": "🔴\n🇮🇱\n🇮🇱\n-\nبی‌بی\nنتانیاهو:\nتحرکاتی را در سپاه پاسداران ایران مشاهده میکنم\n.\nبه هرگونه حمله پیشدستانه توسط رژیم به شدید ترین شکل ممکن پاسخ خواهیم داد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-15T17:41:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153249_0_3b94d6c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153249"
       }
     ],
     "maznet": [
@@ -16313,23 +16329,23 @@
       }
     ]
   },
-  "last_update": "2026-10-16T20:44:17.922149+00:00",
+  "last_update": "2026-10-16T22:04:45.454664+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 761,
-    "total_files": 761,
+    "total_media": 765,
+    "total_files": 765,
     "total_links": 276,
     "files_by_type": {
-      "image": 722,
+      "image": 726,
       "video": 30,
       "file": 3,
       "audio": 2,
       "document": 4
     },
-    "referenced_files": 761,
-    "existing_media_files": 760,
-    "total_size_mb": 309.22,
-    "last_calculation": "2026-10-16T20:44:17.931526+00:00"
+    "referenced_files": 765,
+    "existing_media_files": 764,
+    "total_size_mb": 309.45,
+    "last_calculation": "2026-10-16T22:04:45.460523+00:00"
   }
 }
