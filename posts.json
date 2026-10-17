@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 153470,
+        "text": "🇮🇷\n👀\n| احمد خاتمی، عضو مجلس خبرگان جمهوری اسلامی:\nبا انتخاب مجتبی خامنه‌ای به‌عنوان رهبر، ترامپ بیچاره شد!\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-17T22:03:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153470_0_f867b7cc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153470_1_e7069a04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153470"
+      },
+      {
         "id": 153468,
         "text": "🇮🇱\n👀\n|\nنتانیاهو: من جمهوری اسلامی رو نابود میکنم.\nمسئله این نیست که چگونه این کار را انجام دهیم، چون نمی‌توانم تمام جزئیات را بیان کنم. مسئله این است که چه کسی این کار را انجام خواهد داد؟ این پرسش اصلی در انتخابات پیش‌رو است. تنها کسی که این کار را انجام خواهد داد، من هستم.\n💢\n@Baga_News\n| Король",
         "date": "2026-10-17T20:34:42+00:00",
@@ -14765,29 +14784,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153349"
-      },
-      {
-        "id": 153348,
-        "text": "🚨\n🇮🇱\n👀\n| اسرائیل کلیر شد\n‼️\n‼️\n‼️\n💢\n@Baga_News | Король",
-        "date": "2026-10-16T17:46:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153348_0_05e91774.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153348_1_c6a69c05.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153348_2_7bc31081.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153348"
       }
     ],
     "maznet": [
@@ -16325,23 +16321,23 @@
       }
     ]
   },
-  "last_update": "2026-10-17T21:42:24.417766+00:00",
+  "last_update": "2026-10-17T23:57:40.220256+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 764,
-    "total_files": 764,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 276,
     "files_by_type": {
-      "image": 718,
+      "image": 717,
       "video": 37,
       "file": 3,
       "audio": 2,
       "document": 4
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
-    "total_size_mb": 325.68,
-    "last_calculation": "2026-10-17T21:42:24.426952+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 325.69,
+    "last_calculation": "2026-10-17T23:57:40.229292+00:00"
   }
 }
