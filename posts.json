@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 153389,
+        "text": "⭕️\n👀\nفرمانده سنتکام: مانع صادرات ۲۵ میلیارد دلار نفت ایران شده‌ایم\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-17T06:00:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153389_0_05e91774.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153389"
+      },
+      {
+        "id": 153388,
+        "text": "🆕\nجکسون هینکل : دبی و ریاض تا اول ژانویه ۲۰۲۸ از بین خواهند رفت\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-17T05:31:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153388_0_05e91774.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153388_1_0e877bee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153388"
+      },
+      {
         "id": 153387,
         "text": "🚨\nآکسیوس به نقل از یک مقام آمریکایی:\nکاخ سفید دستور تعلیق حملات به ایران را صادر کرد تا از تشدید جنگ در آستانه انتخابات میان‌دوره‌ای جلوگیری کند.\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-17T05:00:17+00:00",
@@ -14742,48 +14776,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153270"
-      },
-      {
-        "id": 153268,
-        "text": "🔴\n👀\nهم‌اکنون حملات سنگین اسرائیل به مواضع حماس در نوار غزه\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-15T20:43:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153268_0_3b94d6c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153268_1_0442a0f6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153268_2_022e941a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153268"
-      },
-      {
-        "id": 153267,
-        "text": "🔴\nبعضیا چون جایی برای سکونت ندارن و توانایی اجاره کردن خونه رو هم ندارن؛ حاضرن شبا رایگان نگهبانی بدن فقط جای خواب داشته باشن.\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-15T20:41:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153267_0_3b94d6c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153267_1_455ab96b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153267"
       }
     ],
     "maznet": [
@@ -16321,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-10-17T05:30:15.206938+00:00",
+  "last_update": "2026-10-17T06:21:12.896918+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 763,
-    "total_files": 763,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 276,
     "files_by_type": {
-      "image": 726,
+      "image": 724,
       "video": 28,
       "file": 3,
       "audio": 2,
       "document": 4
     },
-    "referenced_files": 763,
-    "existing_media_files": 762,
-    "total_size_mb": 295.49,
-    "last_calculation": "2026-10-17T05:30:15.216307+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 295.35,
+    "last_calculation": "2026-10-17T06:21:12.907180+00:00"
   }
 }
