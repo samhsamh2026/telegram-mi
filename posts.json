@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 153387,
+        "text": "🚨\nآکسیوس به نقل از یک مقام آمریکایی:\nکاخ سفید دستور تعلیق حملات به ایران را صادر کرد تا از تشدید جنگ در آستانه انتخابات میان‌دوره‌ای جلوگیری کند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-17T05:00:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153387_0_05e91774.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153387"
+      },
+      {
+        "id": 153386,
+        "text": "🔻\nترامپ: راستی می‌دونستین من آرایش میکنم\n😂\nاگه آرایش نکنم شبیه مُرده‌ها به نظر میام، پس آرایش میکنم تا خوشگل بشم\n🎀\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-17T04:32:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153386_0_05e91774.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153386_1_214ce940.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153386"
+      },
+      {
+        "id": 153385,
+        "text": "🔴\nساحل زیبای جزیره‌ی هنگام رو مشاهده میکنید که جون گرفته.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-17T04:00:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153385_0_05e91774.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153385_1_f98a6249.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153385"
+      },
+      {
         "id": 153384,
         "text": "🔴\nکیل مارک یحیی سنوار روی تانک مرکاوا ارتش اسرائیل\n.\nاین تانک مرکاوا در جریان یک درگیری شهری و تن به تن در تاریخ ۱۶ اکتبر ۲۰۲۴ در محله تل السلطان رفح دوبار به خانه ای که یحیی سنوار در آن سنگر گرفته بود شلیک کرد‌\nو او را کشت\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-10-16T23:03:22+00:00",
@@ -14731,59 +14784,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153267"
-      },
-      {
-        "id": 153266,
-        "text": "🚨\n🚨\nتحرکات خودروهای زرهی و تانک‌ها در جنوب غربی ایران، نزدیک مرز عراق.\n✍️\n𝑨𝒍𝒊 @be_moghee\n⏰",
-        "date": "2026-10-15T20:32:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153266_0_3b94d6c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153266_1_0e88ab02.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153266"
-      },
-      {
-        "id": 153265,
-        "text": "⏺\n🇺🇸\n🇺🇸\n-\nسنتکام از افزایش تلفات نظامی های آمریکایی توی جنگ با ایران خبر داد:\n‏3 سرباز آمریکایی در ماه جولای در اردن کشته شدن.\n⚰️\n⚰️\n⚰️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-15T20:20:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153265_0_3b94d6c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153265"
-      },
-      {
-        "id": 153264,
-        "text": "⏺\nحوزه علمیه اعلام کرد برای مشکلات اقتصادی کشور راهکار دارد.\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-15T20:10:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153264_0_3b94d6c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153264_1_5bf64e7d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153264"
       }
     ],
     "maznet": [
@@ -16321,7 +16321,7 @@
       }
     ]
   },
-  "last_update": "2026-10-17T03:30:19.350109+00:00",
+  "last_update": "2026-10-17T05:30:15.206938+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16329,15 +16329,15 @@
     "total_files": 763,
     "total_links": 276,
     "files_by_type": {
-      "image": 727,
-      "video": 27,
+      "image": 726,
+      "video": 28,
       "file": 3,
       "audio": 2,
       "document": 4
     },
     "referenced_files": 763,
     "existing_media_files": 762,
-    "total_size_mb": 293.74,
-    "last_calculation": "2026-10-17T03:30:19.359245+00:00"
+    "total_size_mb": 295.49,
+    "last_calculation": "2026-10-17T05:30:15.216307+00:00"
   }
 }
