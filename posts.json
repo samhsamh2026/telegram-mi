@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 153564,
+        "text": "🚨\nهشدار امنیتی سفارتخانه‌های آمریکا در کویت، بحرین و اردن درباره احتمال حملات علیه منافع واشنگتن\nسفارتخانه‌های آمریکا در کشورهای منطقه با صدور بیانیه‌های امنیتی، به شهروندان خود درباره خطرات ناشی از تشدید تنش‌های منطقه‌ای هشدار دادند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-19T04:39:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153564_0_61f5b531.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153564_1_f34860ac.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153564_2_d8fb1eab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153564"
+      },
+      {
+        "id": 153563,
+        "text": "💢\nعاصم منیر دو روز دیگه برای جلوگیری از اغاز جنگ میاد تهران\n💢\n@Baga_News\n| Noll",
+        "date": "2026-10-19T04:09:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153563_0_61f5b531.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153563_1_0d9b1bfc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153563"
+      },
+      {
         "id": 153561,
         "text": "🚨\n👀\nشلیک موشک کروز از چابهار\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
         "date": "2026-10-18T21:31:21+00:00",
@@ -14706,48 +14748,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153451"
-      },
-      {
-        "id": 153449,
-        "text": "🟣\nعادی‌ترین شوخی که پسرا با هم میکنن؛\nپسره به رفیقاش اعتماد میکنه و میزاره بنزین بریزه پشت شلوارش و آتیشش بزنه وقتی فندکو میزنه روشن میشه دیگه نمیتونن خاموشش کنن و کون پسره میسوزه.\n😂\n﻿\n⚪️\n@Baga_Tweet",
-        "date": "2026-10-17T18:40:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153449_0_f867b7cc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153449_1_eb10191f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153449"
-      },
-      {
-        "id": 153448,
-        "text": "🔴\nساختمان شهرداری شهر لموج که به قدمت آن معروف است در فرانسه توسط معترضان به آتش کشیده شد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-17T18:40:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153448_0_f867b7cc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153448_1_47be10cb.mp4"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153448_2_27810653.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153448"
       }
     ],
     "maznet": [
@@ -16285,7 +16285,7 @@
       }
     ]
   },
-  "last_update": "2026-10-19T03:44:09.416165+00:00",
+  "last_update": "2026-10-19T05:12:33.030739+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16293,15 +16293,15 @@
     "total_files": 754,
     "total_links": 276,
     "files_by_type": {
-      "image": 711,
-      "video": 35,
+      "image": 714,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 754,
     "existing_media_files": 753,
-    "total_size_mb": 330.32,
-    "last_calculation": "2026-10-19T03:44:09.421690+00:00"
+    "total_size_mb": 321.25,
+    "last_calculation": "2026-10-19T05:12:33.039739+00:00"
   }
 }
