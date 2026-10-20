@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 153631,
+        "text": "اما میشود نروید؟\nمیشود مارا تنها نگذارید؟؟\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-10-19T22:19:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153631_0_3bb7467e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153631_1_163e947f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153631"
+      },
+      {
         "id": 153630,
         "text": "کپشن با شما\n😕\n💢\n@Baga_News | Король",
         "date": "2026-10-19T22:01:10+00:00",
@@ -14753,25 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153516"
-      },
-      {
-        "id": 153515,
-        "text": "🇺🇸\n👀\n|\nترامپ :\nمن اصلا از گیاهخواری چیزی سر در نمیارم، ولی اصلا دوست ندارم واسه شام سالاد یا یه تیکه کرفس بخورم.\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-18T14:35:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153515_0_f867b7cc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153515_1_e717c45e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153515"
       }
     ],
     "maznet": [
@@ -16309,7 +16309,7 @@
       }
     ]
   },
-  "last_update": "2026-10-19T22:17:31.953351+00:00",
+  "last_update": "2026-10-20T01:13:55.513176+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16317,15 +16317,15 @@
     "total_files": 760,
     "total_links": 276,
     "files_by_type": {
-      "image": 724,
-      "video": 28,
+      "image": 725,
+      "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 260.94,
-    "last_calculation": "2026-10-19T22:17:31.962493+00:00"
+    "total_size_mb": 259.82,
+    "last_calculation": "2026-10-20T01:13:55.520462+00:00"
   }
 }
