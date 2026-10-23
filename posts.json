@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 153855,
+        "text": "💢\n🗣\nسخنگوی سپاه:\nدشمن میخواست ایرانو تجزیه کنه که ما نزاشتیم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-23T11:08:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153855_0_8ed625f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153855"
+      },
+      {
+        "id": 153854,
+        "text": "‼️\n🚨\nگاردین به نقل از منابع منطقه‌ای اعلام کرده است که به دیپلمات‌های اروپایی دستور تخلیه خاورمیانه داده شده\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-23T10:42:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153854_0_8ed625f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153854"
+      },
+      {
         "id": 153853,
         "text": "⚡️\nبازگشت هواپیمای نظارت هوایی و شناسایی مدل E-3 متعلق به ایالات متحده آمریکا به پایگاه هوایی سلطان در عربستان سعودی\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-23T10:21:12+00:00",
@@ -14746,44 +14776,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153730"
-      },
-      {
-        "id": 153729,
-        "text": "🇮🇷\n👀\n| سخنگوی وزارت کشور:\nاگه آمریکا\n🇺🇸\nبمب مامان داره\nما بمب مامان بزرگ داریم؛ نگران نباشید\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-21T15:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153729_0_2793a6a0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153729_1_ba631fce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153729"
-      },
-      {
-        "id": 153728,
-        "text": "🇮🇷\n👀\n| پزشکیان:\n🔵\nنمیشه که هم تهدید کنیم و هم انتظار مذاکره داشته باشیم\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-21T14:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153728_0_cf25848d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153728_1_f8fe8e4d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153728"
       }
     ],
     "maznet": [
@@ -16321,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-10-23T10:27:57.915313+00:00",
+  "last_update": "2026-10-23T11:12:46.472336+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 763,
-    "total_files": 763,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 276,
     "files_by_type": {
-      "image": 712,
+      "image": 710,
       "video": 43,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 763,
-    "existing_media_files": 762,
-    "total_size_mb": 315.05,
-    "last_calculation": "2026-10-23T10:27:57.922540+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 314.96,
+    "last_calculation": "2026-10-23T11:12:46.479548+00:00"
   }
 }
