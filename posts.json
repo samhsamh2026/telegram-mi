@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 153844,
+        "text": "📌\n🚨\nطبق گزارش‌ها، دو فرودگاه در ایران دستورات ویژه‌ای دریافت کرده‌اند تا برای آغاز جنگ در هفته‌های آینده آماده شوند.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-23T06:30:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153844_0_8ed625f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153844"
+      },
+      {
+        "id": 153843,
+        "text": "🔹\nپست جدید نتانیاهو به زبان فارسی :\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-23T06:00:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153843_0_8ed625f6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153843_1_c672b115.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153843"
+      },
+      {
+        "id": 153842,
+        "text": "🔻\n🚨\nبه نقل از خبرگزاری رکنا:\nدر راستای اجرای دستورالعمل‌های پرسنلی و یگانی، پلاک‌های شناسایی رسمی به سربازان پدافند هوایی مشهد اهدا شد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-23T05:34:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153842_0_8ed625f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153842"
+      },
+      {
         "id": 153840,
         "text": "🔹\nهمزمان با اعتراضات مردم فرانسه و اروپا، از دیروز اعتراضات مردمی تو آمریکای جنوبی هم آغاز شد و دیروز تو شیلی و دیروز کلمبیا و مکزیک هم به اعتراضات پیوستن :\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-23T05:03:24+00:00",
@@ -14735,59 +14784,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153720"
-      },
-      {
-        "id": 153719,
-        "text": "‏\n🚨\n👀\n|\nویدئو پربازدید از رهگیری یک پهپاد با دمپایی و شلوارک در روسیه\n🇷🇺\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-21T11:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153719_0_cf25848d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153719_1_f398158d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153719"
-      },
-      {
-        "id": 153718,
-        "text": "🚨\n👀\n| وقتی هندسه به شعر تبدیل می‌شود؛ شاهکاری از معماری ایرانی در قلب کاشان\n😍\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-21T11:32:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153718_0_cf25848d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153718_1_e1398c39.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153718"
-      },
-      {
-        "id": 153717,
-        "text": "🚨\nشعار حامیان حکومت در حرم امام رضا علیه حسن روحانی.\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-21T11:10:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153717_0_cf25848d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153717"
       }
     ],
     "maznet": [
@@ -16325,23 +16321,23 @@
       }
     ]
   },
-  "last_update": "2026-10-23T05:18:21.407798+00:00",
+  "last_update": "2026-10-23T06:40:20.800566+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 764,
-    "total_files": 764,
+    "total_media": 763,
+    "total_files": 763,
     "total_links": 276,
     "files_by_type": {
-      "image": 708,
-      "video": 48,
+      "image": 709,
+      "video": 46,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
-    "total_size_mb": 329.37,
-    "last_calculation": "2026-10-23T05:18:21.416968+00:00"
+    "referenced_files": 763,
+    "existing_media_files": 762,
+    "total_size_mb": 325.16,
+    "last_calculation": "2026-10-23T06:40:20.809798+00:00"
   }
 }
