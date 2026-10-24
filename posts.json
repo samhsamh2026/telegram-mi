@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 153946,
+        "text": "🔴\nاین پیرمرد رفته تو میدون تجریش و داره ترامپ تنظیم بازار رو تهدید میکنه و بهش میگه بیا پایین تا برات بگم.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-24T15:31:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153946_0_57d349dd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153946_1_3ef9328b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153946"
+      },
+      {
+        "id": 153945,
+        "text": "مواضع نامزدهای اسرائیل درباره ایران چیست؟\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-24T15:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153945_0_57d349dd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_153945_1_dfa73c57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153945"
+      },
+      {
+        "id": 153944,
+        "text": "🇮🇷\n👀\n| تو تهران پسرا جدیدا سالن زدن و دخترا میرن ناخناشونو اونجا ترمیم میکنن\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-24T14:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153944_0_57d349dd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153944_1_907b882e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153944"
+      },
+      {
         "id": 153943,
         "text": "راحت سه میلیون سال جلوییم.\n💢\n@Baga_News\n| Король",
         "date": "2026-10-24T14:30:52+00:00",
@@ -14709,55 +14766,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153835"
-      },
-      {
-        "id": 153834,
-        "text": "🇮🇱\n🚨\nرسانه های اسرائیلی:\nارتش قصد دارد در جنگ آتی تمامی سران نظام جمهوری اسلامی را ترور کند، نخست وزیر مجوز را از رئیس جمهور ترامپ گرفته و اکنون مسئله زمان آغاز آن است\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-10-22T20:02:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153834_0_8ed625f6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153834"
-      },
-      {
-        "id": 153833,
-        "text": "🟠\nهیلاری کلینتون، وزیر خارجه سابق آمریکا:\nپوتین از ترامپ فیلم و عکس داره.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-10-22T19:59:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153833_0_8ed625f6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153833_1_e404f387.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153833"
-      },
-      {
-        "id": 153832,
-        "text": "🚨\nجبهه مبارزین مردمی سیستان و بلوچستان تمام مردم ایران",
-        "date": "2026-10-22T19:29:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153832_0_8ed625f6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153832"
       }
     ],
     "maznet": [
@@ -16295,23 +16303,23 @@
       }
     ]
   },
-  "last_update": "2026-10-24T14:50:26.206054+00:00",
+  "last_update": "2026-10-24T15:34:52.567511+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 755,
-    "total_files": 755,
+    "total_media": 757,
+    "total_files": 757,
     "total_links": 277,
     "files_by_type": {
-      "image": 718,
-      "video": 29,
+      "image": 719,
+      "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 755,
-    "existing_media_files": 754,
-    "total_size_mb": 252.77,
-    "last_calculation": "2026-10-24T14:50:26.211216+00:00"
+    "referenced_files": 757,
+    "existing_media_files": 756,
+    "total_size_mb": 257.59,
+    "last_calculation": "2026-10-24T15:34:52.573726+00:00"
   }
 }
