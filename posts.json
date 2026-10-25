@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 153994,
+        "text": "🔴\nترامپ:\nعموی من رادار را اختراع کرد. باور می کنید؟ احتمالاً عصبانی خواهد شد، چون من رادار ایران را نابود کردم!\n!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-25T04:01:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_153994_0_57d349dd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_153994_1_c64523f6.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/153994"
+      },
+      {
         "id": 153993,
         "text": "👀\n🚨\nجزیره کیش دچار قطعی کامل برق شد.\nبرخی منابع علت را حملات سایبری اعلام کردند.\n‼️\n💢\n@Baga_News\n| Noll",
         "date": "2026-10-24T22:46:01+00:00",
@@ -14753,25 +14772,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153879"
-      },
-      {
-        "id": 153878,
-        "text": "🇮🇷\n👀\n| حاج خانوم جانفدا:\nمن اگه اعزام شم جبهه همه کار میکنم؛ سیب‌زمینی و پیاز پوست میکنم،تیراندازی میکنم.\nالحمدلله شجاعم.\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-23T15:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153878_0_85b48d25.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_153878_1_35739f61.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153878"
       }
     ],
     "maznet": [
@@ -16309,7 +16309,7 @@
       }
     ]
   },
-  "last_update": "2026-10-25T03:41:37.021025+00:00",
+  "last_update": "2026-10-25T04:20:46.260672+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16325,7 +16325,7 @@
     },
     "referenced_files": 757,
     "existing_media_files": 756,
-    "total_size_mb": 236.71,
-    "last_calculation": "2026-10-25T03:41:37.028137+00:00"
+    "total_size_mb": 237.53,
+    "last_calculation": "2026-10-25T04:20:46.269859+00:00"
   }
 }
