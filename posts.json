@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 154088,
+        "text": "🔻\nتحلیلگر معروف آمریکایی: اگر ترامپ به ایران حمله نکند، نتانیاهو در انتخابات روز سه‌شنبه شکست خواهد خورد\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-26T07:39:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154088_0_ebe06d2a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154088_1_b0e2b62d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154088"
+      },
+      {
         "id": 154087,
         "text": "🚨\n🇹🇷\n| ترکیه از ایران و آمریکا خواست به میز دیپلماسی برگردن و برای میانجیگری مذاکرات اعلام آمادگی کرد\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-26T07:05:29+00:00",
@@ -14779,25 +14798,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/153977"
-      },
-      {
-        "id": 153976,
-        "text": "رابین هود زمانه‌ات را بشناس\n🇮🇷\n👀\n| مسعود پزشکیان: از کسی که پول داره، باید بگیریم تا به کسی که نیازمنده کمک کنیم\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-24T19:17:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_153976_0_57d349dd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_153976_1_2919585a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/153976"
       }
     ],
     "maznet": [
@@ -16335,7 +16335,7 @@
       }
     ]
   },
-  "last_update": "2026-10-26T07:11:01.940174+00:00",
+  "last_update": "2026-10-26T07:42:31.120166+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16351,7 +16351,7 @@
     },
     "referenced_files": 762,
     "existing_media_files": 761,
-    "total_size_mb": 306.08,
-    "last_calculation": "2026-10-26T07:11:01.948994+00:00"
+    "total_size_mb": 306.1,
+    "last_calculation": "2026-10-26T07:42:31.128656+00:00"
   }
 }
