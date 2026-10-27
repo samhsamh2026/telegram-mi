@@ -12946,6 +12946,55 @@
     ],
     "bg_ae": [
       {
+        "id": 154164,
+        "text": "🔹\nبسنت: ایران، برای اولین بار، احتمالاً از زمان کشف نفت، هیچ نفتی روی آب ندارد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-27T05:02:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154164_0_6cb90a45.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154164_1_0640985e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154164"
+      },
+      {
+        "id": 154163,
+        "text": "🚨\nنیویورک‌تایمز: نتانیاهو پیش از انتخابات اسرائیل خواستار حمله جدید به ایران شد\n‎\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-27T04:31:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154163_0_6cb90a45.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154163"
+      },
+      {
+        "id": 154162,
+        "text": "🔴\nتا دقایقی دیگه، انتخابات تو اسرائیل شروع میشه.\n‎\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-27T04:22:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154162_0_6cb90a45.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154162"
+      },
+      {
         "id": 154161,
         "text": "🔴\n👀\n🇮🇱\nمنابع عبری:\nنتانیاهو\n💩\nدرصورت شکست تو انتخابات، میتونه به سرعت جنگ با ایران رو شروع کنه تا احزاب کوچکتر رقیب باهاش ائتلاف کنن و بتونه تا چند ماه دولت وحدت ملی تشکیل بده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-10-26T21:18:50+00:00",
@@ -14789,59 +14838,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154036"
-      },
-      {
-        "id": 154035,
-        "text": "با ی ثبت نام ساده تو بلو بانک 300 هزار تومن به جیب بزن\nفقط کافیه موقع ثبت نام کد معرفه\nQWNYKQ\nوارد کنی",
-        "date": "2026-10-25T13:10:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154035_0_57d349dd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_154035_1_4849212f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154035"
-      },
-      {
-        "id": 154034,
-        "text": "🇮🇷\n👀\n| سرتیپ محبی سخنگوی سپاه:\nاگه خدا بخواد، توی جنگِ آخر ما ابرقدرت مطلق جهان می‌شیم\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-25T12:32:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154034_0_57d349dd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_154034_1_699cca31.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154034"
-      },
-      {
-        "id": 154033,
-        "text": "تو تبریز صدا انفجار اومده\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-25T12:24:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154033_0_57d349dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154033"
       }
     ],
     "maznet": [
@@ -16379,23 +16375,23 @@
       }
     ]
   },
-  "last_update": "2026-10-27T04:08:14.057963+00:00",
+  "last_update": "2026-10-27T05:30:20.414945+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 776,
-    "total_files": 776,
+    "total_media": 775,
+    "total_files": 775,
     "total_links": 277,
     "files_by_type": {
-      "image": 741,
+      "image": 740,
       "video": 27,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 776,
-    "existing_media_files": 775,
-    "total_size_mb": 311.01,
-    "last_calculation": "2026-10-27T04:08:14.064942+00:00"
+    "referenced_files": 775,
+    "existing_media_files": 774,
+    "total_size_mb": 310.89,
+    "last_calculation": "2026-10-27T05:30:20.424173+00:00"
   }
 }
