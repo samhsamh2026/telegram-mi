@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 154381,
+        "text": "🔹\n⚡️\n|  اکسیوس به نقل از یه مقام آمریکایی: جی‌دی ونس تو نامه‌ای به محسن رضایی تأکید کرده هرگونه مذاکره برای جلوگیری از حملات نظامی آمریکا مستلزم گفت‌وگو درباره مسئله\nهسته‌ایه.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-29T04:30:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154381_0_fb147ef5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154381"
+      },
+      {
+        "id": 154380,
+        "text": "🔻\n🚨\nآتلانتیک: پیت هگست، وزیر جنگ آمریکا بدون هیچ توضیحی، سپهبد برت سیلوا، ارشدترین برنامه‌ریز پنتاگون رو برکنار کرد!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-29T04:00:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154380_0_fb147ef5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154380_1_faf65dc4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154380"
+      },
+      {
         "id": 154379,
         "text": "🇺🇸\n🇶🇦\nاستقرار هواپیماهای آمریکایی در پایگاه العدید قطر\n〰️\nگزارش‌ها حاکی از آن است که هواپیماهای نظامی آمریکا در حال حاضر در\nپایگاه هوایی العدید در قطر\nمستقر هستند.\n💢\n@Baga_News\n| Noll",
         "date": "2026-10-29T02:44:02+00:00",
@@ -14664,40 +14698,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154266"
-      },
-      {
-        "id": 154265,
-        "text": "🔴\n👀\nحزب لیکود در i24 و کانال ۱۴ اسراییل جلو است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-27T20:33:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154265_0_3217ccc9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_154265_1_d34f0de9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154265"
-      },
-      {
-        "id": 154264,
-        "text": "🔴\n👀\n🇮🇱\nگیدعون سار وزیرخارجه دولت نتانیاهو از حزب لیکود:\nما بزرگترین حزب در کشور هستیم چپ ها جشن را زود آغاز کردند\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-27T20:31:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154264_0_3217ccc9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154264"
       }
     ],
     "maznet": [
@@ -16235,7 +16235,7 @@
       }
     ]
   },
-  "last_update": "2026-10-29T02:47:01.025473+00:00",
+  "last_update": "2026-10-29T04:50:52.542183+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16251,7 +16251,7 @@
     },
     "referenced_files": 740,
     "existing_media_files": 739,
-    "total_size_mb": 284.48,
-    "last_calculation": "2026-10-29T02:47:01.033762+00:00"
+    "total_size_mb": 284.41,
+    "last_calculation": "2026-10-29T04:50:52.550852+00:00"
   }
 }
