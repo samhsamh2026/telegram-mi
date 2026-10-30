@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 154455,
+        "text": "🔹\nتد کروز، سناتور جمهوری‌خواه:\nدیروز تو دیدارم با ترامپ ازش خواستم مردم ایران رو مسلح کنه تا جمهوری‌اسلامی رو سرنگون کنن!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-30T08:00:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154455_0_6adeac73.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154455_1_6952978a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154455"
+      },
+      {
         "id": 154454,
         "text": "🚨\nخبرنگاران عرب مدعین اگه ایران تسلیم نشه؛ بعد از انتخابات آمریکا تمام نیروگاه های برقش هدف قرار میگیره.\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-30T07:42:09+00:00",
@@ -14711,21 +14730,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154344"
-      },
-      {
-        "id": 154343,
-        "text": "🇮🇷\n👀\n| شرکت گاز: در زمستان امسال احتمال بروز مشکل در تأمین گاز ۱۱ استان کشور وجود دارد\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-28T16:40:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154343_0_fb147ef5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154343"
       }
     ],
     "maznet": [
@@ -16263,23 +16267,23 @@
       }
     ]
   },
-  "last_update": "2026-10-30T07:50:58.958347+00:00",
+  "last_update": "2026-10-30T08:28:05.665892+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 744,
-    "total_files": 744,
+    "total_media": 745,
+    "total_files": 745,
     "total_links": 279,
     "files_by_type": {
-      "image": 704,
+      "image": 705,
       "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 744,
-    "existing_media_files": 743,
-    "total_size_mb": 271.61,
-    "last_calculation": "2026-10-30T07:50:58.964745+00:00"
+    "referenced_files": 745,
+    "existing_media_files": 744,
+    "total_size_mb": 271.65,
+    "last_calculation": "2026-10-30T08:28:05.671392+00:00"
   }
 }
