@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 154532,
+        "text": "🔹\nیک تحلیلگر رندوم آمریکایی : ترامپ اول هفته ی آینده به ایران حمله ی اتمی میکنه و انتخابات آمریکا عقب میفته.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-31T04:34:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154532_0_0b8366df.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154532_1_33e4d2ef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154532"
+      },
+      {
         "id": 154531,
         "text": "🟣\nچند تا دختر به مناسبت هالووین گریم کرده بودن که مامانشون بهشون میگه بیاین ناهار بخورین و این شاهکار خلق میشه\n🤣\n🚨\n@Baga_Tweet",
         "date": "2026-10-30T23:37:47+00:00",
@@ -14773,21 +14792,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154409"
-      },
-      {
-        "id": 154408,
-        "text": "🇮🇷\n👀\n| امیر سیاری: دشمن در ۳ جنگ تحمیلی به هدف خود نرسید و شکست خورد\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-29T13:10:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154408_0_6adeac73.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154408"
       }
     ],
     "maznet": [
@@ -16325,23 +16329,23 @@
       }
     ]
   },
-  "last_update": "2026-10-31T00:01:45.879043+00:00",
+  "last_update": "2026-10-31T04:35:02.603157+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 761,
-    "total_files": 761,
+    "total_media": 762,
+    "total_files": 762,
     "total_links": 278,
     "files_by_type": {
-      "image": 718,
+      "image": 719,
       "video": 35,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 761,
-    "existing_media_files": 760,
-    "total_size_mb": 298.56,
-    "last_calculation": "2026-10-31T00:01:45.885234+00:00"
+    "referenced_files": 762,
+    "existing_media_files": 761,
+    "total_size_mb": 298.61,
+    "last_calculation": "2026-10-31T04:35:02.607710+00:00"
   }
 }
