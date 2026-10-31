@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 154533,
+        "text": "‼️\nمقامات آمریکایی و منطقه ای:\nپیشرفت مثبتی در مذاکرات وجود دارد. مذاکرات برای دستیابی به توافق همچنان ادامه دارد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-10-31T05:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154533_0_0b8366df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154533"
+      },
+      {
         "id": 154532,
         "text": "🔹\nیک تحلیلگر رندوم آمریکایی : ترامپ اول هفته ی آینده به ایران حمله ی اتمی میکنه و انتخابات آمریکا عقب میفته.\n💢\n@Baga_News\n| areZo",
         "date": "2026-10-31T04:34:08+00:00",
@@ -14777,21 +14792,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154410"
-      },
-      {
-        "id": 154409,
-        "text": "🔴\n‼️\nستون‌های دود و آتش در منطقه",
-        "date": "2026-10-29T13:25:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154409_0_6adeac73.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154409"
       }
     ],
     "maznet": [
@@ -16329,7 +16329,7 @@
       }
     ]
   },
-  "last_update": "2026-10-31T04:35:02.603157+00:00",
+  "last_update": "2026-10-31T05:27:06.519707+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16346,6 +16346,6 @@
     "referenced_files": 762,
     "existing_media_files": 761,
     "total_size_mb": 298.61,
-    "last_calculation": "2026-10-31T04:35:02.607710+00:00"
+    "last_calculation": "2026-10-31T05:27:06.526653+00:00"
   }
 }
