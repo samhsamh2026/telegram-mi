@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 154580,
+        "text": "🔹\nایران جای مبتدیا نیست؛ ۱۸ پرومکس ۴۰ تومن ارزون‌تره از ۱۷ پرومکس\n‼️\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-31T16:50:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154580_0_3812b973.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154580_1_1f7c8e29.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154580"
+      },
+      {
+        "id": 154578,
+        "text": "⏺\nهادی چوپان برای هالووین می‌خواسته خودشو شبیه هالک هوگان کشتی کج کنه که بیشتر شبیه بربر کلش آف کلنز شده\n😂\n💢\n@Baga_News\n| Король",
+        "date": "2026-10-31T16:34:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154578_0_3812b973.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154578_1_85f18f35.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154578_2_495daf5c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154578"
+      },
+      {
         "id": 154577,
         "text": "🔵\nآخرین چیزی که دلتا فورس میبینه:\n💢\n@Baga_News\n| Король",
         "date": "2026-10-31T16:10:23+00:00",
@@ -14776,36 +14818,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154454"
-      },
-      {
-        "id": 154453,
-        "text": "🔹\nعلم الهدی: دلیل مشکلات مالی گروهی از مردم، بی حجابی اعضای خانوادشونه!\n💢\n@Baga_News\n| areZo",
-        "date": "2026-10-30T07:00:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154453_0_6adeac73.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154453"
-      },
-      {
-        "id": 154452,
-        "text": "🚨\nدقایقی پیش یک هیئت قطری وارد تهران شد\n💢\n@Baga_News\n| areZo",
-        "date": "2026-10-30T06:53:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154452_0_6adeac73.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154452"
       }
     ],
     "maznet": [
@@ -16343,23 +16355,23 @@
       }
     ]
   },
-  "last_update": "2026-10-31T16:18:32.900599+00:00",
+  "last_update": "2026-10-31T16:59:17.896793+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 767,
-    "total_files": 767,
+    "total_media": 770,
+    "total_files": 770,
     "total_links": 277,
     "files_by_type": {
-      "image": 723,
+      "image": 726,
       "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 767,
-    "existing_media_files": 766,
-    "total_size_mb": 301.03,
-    "last_calculation": "2026-10-31T16:18:32.909256+00:00"
+    "referenced_files": 770,
+    "existing_media_files": 769,
+    "total_size_mb": 301.27,
+    "last_calculation": "2026-10-31T16:59:17.905473+00:00"
   }
 }
