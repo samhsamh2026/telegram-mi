@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 154604,
+        "text": "🔹\n🚨\nشبکه ۱۳ اسرائیل:\nآمریکا منطقه را با سه ناو هواپیمابر و یک لشگر چترباز تقویت کرد‌\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-01T04:53:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154604_0_3812b973.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154604"
+      },
+      {
         "id": 154603,
         "text": "یاخداا\n😶\n🔴\nونس معاون ترامپ به مناسبت هالووین خودشو به این سر و وضع درآورده؛\n+\nخودشو دامبلدور کرده\n🤩\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-10-31T22:45:17+00:00",
@@ -14797,25 +14812,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154489"
-      },
-      {
-        "id": 154488,
-        "text": "جشن خیابانی در عبدل آباد تهران به مناسبت هالووین\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-30T17:55:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154488_0_0b8366df.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_154488_1_1fbe5a82.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154488"
       }
     ],
     "maznet": [
@@ -16353,23 +16349,23 @@
       }
     ]
   },
-  "last_update": "2026-10-31T23:38:41.397152+00:00",
+  "last_update": "2026-11-01T04:55:47.458909+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 768,
-    "total_files": 768,
+    "total_media": 767,
+    "total_files": 767,
     "total_links": 278,
     "files_by_type": {
       "image": 724,
-      "video": 36,
+      "video": 35,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 768,
-    "existing_media_files": 767,
-    "total_size_mb": 301.73,
-    "last_calculation": "2026-10-31T23:38:41.404110+00:00"
+    "referenced_files": 767,
+    "existing_media_files": 766,
+    "total_size_mb": 288.99,
+    "last_calculation": "2026-11-01T04:55:47.467838+00:00"
   }
 }
