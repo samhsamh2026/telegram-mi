@@ -12946,6 +12946,59 @@
     ],
     "bg_ae": [
       {
+        "id": 154688,
+        "text": "🔹\nبه گزارش کانال ۱۴ اسرائیل:\nمنابع کاخ سفید به\nلیبی آلون\nخبرنگار شبکه ۱۴ اسرائیل در امریکا گفتن حملات آمریکا به رژیم ایران تاکنون تنها نوعی «\nنوازش\n» بوده.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-02T09:10:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154688_0_f65db5ef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154688"
+      },
+      {
+        "id": 154687,
+        "text": "🔥\n🚨\nعراقچی:\nضامن توافقات قدرت جمهوری اسلامی است.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-02T08:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154687_0_f65db5ef.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154687_1_da8827e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154687"
+      },
+      {
+        "id": 154686,
+        "text": "🆕\n💢\n| ورود یک هواپیمای ترابری نظامی آمریکا به بندر عقبه اردن\nیک فروند هواپیمای ترابری نظامی C-17 آمریکا به عقبه در اردن رسید\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-02T08:40:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154686_0_f65db5ef.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154686_1_7b0331d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154686"
+      },
+      {
         "id": 154685,
         "text": "📌\n📰\nصداوسیما:\nتمام کشور های افریقایی با ما هستن برای شکست دادن رژیم کودک‌کش اسرائیل و امریکا.\n💢\n@Baga_News\n| areZo",
         "date": "2026-11-02T08:31:32+00:00",
@@ -14753,55 +14806,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154567"
-      },
-      {
-        "id": 154566,
-        "text": "⏺\nتو میدون شهرداری رشت طرف اومده پشت میکروفون و درخواست کرده که تو شهر اونام مثل تجریش تهران ترامپ رو زندانی کنن.\n🙂\n+\nخب شما تو رشت نتانیاهو‌رم زندانی کنید کنتور نمیندازه که\n🤷‍♀️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-10-31T13:34:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154566_0_3812b973.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_154566_1_f327a125.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154566"
-      },
-      {
-        "id": 154565,
-        "text": "⭕️\n⭕️\n🚨\nخبر بد برای استاد خوش‌چشم و بقیه تحلیلگران جنگ؛  تریاک کیلویی 500 میلیون شد\n‼️\n💢\n@Baga_News | Король",
-        "date": "2026-10-31T13:21:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154565_0_3812b973.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154565"
-      },
-      {
-        "id": 154564,
-        "text": "⭕️\n⭕️\n🚨\nخبر بد برای استاد خوش‌چشم و بقیه تحلیلگران جنگ؛\nتریاک کیلویی 500 میلیون شد\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-10-31T13:10:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154564_0_3812b973.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154564"
       }
     ],
     "maznet": [
@@ -16339,23 +16343,23 @@
       }
     ]
   },
-  "last_update": "2026-11-02T08:34:16.806785+00:00",
+  "last_update": "2026-11-02T09:17:08.359442+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 766,
-    "total_files": 766,
+    "total_media": 767,
+    "total_files": 767,
     "total_links": 277,
     "files_by_type": {
-      "image": 725,
-      "video": 33,
+      "image": 727,
+      "video": 32,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 766,
-    "existing_media_files": 765,
-    "total_size_mb": 298.15,
-    "last_calculation": "2026-11-02T08:34:16.815462+00:00"
+    "referenced_files": 767,
+    "existing_media_files": 766,
+    "total_size_mb": 293.42,
+    "last_calculation": "2026-11-02T09:17:08.368100+00:00"
   }
 }
