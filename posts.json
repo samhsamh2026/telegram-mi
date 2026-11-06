@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 154979,
+        "text": "🔴\nآیت‌الله حسین وحید خراسانی از مراجع اهل تشیع در سن ۱۰۸ سالگی دار فانی را وداع گفت.  +\nآیت الله جنتی همچنان آن د بیت\n💪\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
+        "date": "2026-11-06T00:03:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154979_0_249cb528.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_154979_1_1ca68490.mp4"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_154979_2_5efc3f3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154979"
+      },
+      {
+        "id": 154978,
+        "text": "⏺\n🇺🇸\nهگست :\nما تازه مبارزه رو شروع کردیم. مصمم‌تر و قاطع‌تر از همیشه هستیم تا کاری رو که شروع کردیم به پایان برسونیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-11-05T23:30:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_154978_0_249cb528.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_154978_1_26711924.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/154978"
+      },
+      {
         "id": 154976,
         "text": "🔴\n👀\nبابک زنجانی:\nریزش بیت‌کوین اصلاً عادی نیست؛\nمیگن شرکت ترامپ 4259 تا بیت‌کوین فروخته و تقریباً همه ذخایرش رو نقد کرده.\nشاید دارن پول‌ها رو برای افزایش احتمالی قیمت نفت و سرمایه‌گذاری تو این بازار آماده می‌کنن.\n◀️\nبه نظرم پشت این ریزش یه ماجرای بزرگ‌تره و حتی ممکنه پای جنگ هم وسط باشه!\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-11-05T23:10:10+00:00",
@@ -14714,40 +14756,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154861"
-      },
-      {
-        "id": 154860,
-        "text": "دیگه برا سرور بی کیفیت نگران نیستی چون مارو داری\n🙂\nبا بهترین و با کیفیت ترین سرور ها در خدمتتونیم\n🙂\nمولتی لوکیشن فول تانل\n🌈\n🇨🇵\n.\n🇧🇬\n.\n🇦🇱\n.\n🇫🇴\n.\n🇩🇪\n.\n🇱🇺\n.\n🇬🇧\n.\n🇧🇷\n.\n🇪🇸\n.\n🇫🇷\n.\n🇭🇷\n.\n🇮🇩\n.\n🇲🇦\n.\n🇵🇹\n.\n🇦🇺\n.\n🇧🇪\n.\nتازه نت ملی هم وصلی\n👑\nهمین الان برو تو ربات تا پشمات بریزه\n🛍",
-        "date": "2026-11-04T11:35:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154860_0_4040339d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_154860_1_360c893f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154860"
-      },
-      {
-        "id": 154859,
-        "text": "⭕️\nنماینده قم:\nدموکرات ها بدونن اگه مسیر جمهوری خواهان رو ادامه بدن به همون سرنوشت دچارشون می‌کنیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-11-04T11:20:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154859_0_8facafeb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154859"
       }
     ],
     "maznet": [
@@ -16285,23 +16293,23 @@
       }
     ]
   },
-  "last_update": "2026-11-05T23:27:41.485265+00:00",
+  "last_update": "2026-11-06T02:12:29.543696+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 756,
+    "total_files": 756,
     "total_links": 276,
     "files_by_type": {
       "image": 712,
-      "video": 34,
+      "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 308.09,
-    "last_calculation": "2026-11-05T23:27:41.492177+00:00"
+    "referenced_files": 756,
+    "existing_media_files": 755,
+    "total_size_mb": 313.41,
+    "last_calculation": "2026-11-06T02:12:29.552403+00:00"
   }
 }
