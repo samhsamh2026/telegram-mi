@@ -13286,6 +13286,21 @@
         "source": "https://t.me/bg_ae/155039"
       },
       {
+        "id": 155038,
+        "text": "🎒\nمدارس استان کرمانشاه فردا شنبه ۱۶ آبان ماه تعطیل  اعلام شد\n‼️\n💢\n@Baga_News | Король",
+        "date": "2026-11-06T18:44:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155038_0_3c3564b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155038"
+      },
+      {
         "id": 155030,
         "text": "🔴\nرئیس پلیس سابق تهران:\nخدا شاهده تو دوران من یدونه دختر بخاطر حجاب و پارتی یه شب زندان نفرستادم ولی پسرا رو میفرستادم.\nدختر و پسرایی که تو مهمونی و پارتی میگرفتم بهشون میگفتم خوب بیاین همینجا عقدتون کنم.\nدخترا میگفتن نه اقا این پسرا همزمان با ده نفر دیگه هم هستن ما یه پسر لاشی نمیخایم یه پسر اصیل میخوایم\n💢\n@Baga_News\n| Король",
         "date": "2026-11-06T17:10:23+00:00",
@@ -14767,25 +14782,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/154925"
-      },
-      {
-        "id": 154924,
-        "text": "🔴\nیه دانش‌ آموز 10 ساله به مجتبی خامنه‌ای نامه داده بود، حالا مجتبی هم برگشته در جوابش یه نامه واسش نوشته.\n👀\nحالا واکنش پسره به این نامه:\n◀️\n+ به نظرتون واگیعه یا کیکه؟\n👍\n/\n👎\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-11-05T13:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_154924_0_249cb528.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_154924_1_830de90a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/154924"
       }
     ],
     "maznet": [
@@ -16323,23 +16319,23 @@
       }
     ]
   },
-  "last_update": "2026-11-07T02:18:44.007142+00:00",
+  "last_update": "2026-11-07T05:04:25.199385+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 277,
     "files_by_type": {
       "image": 722,
-      "video": 32,
+      "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 308.24,
-    "last_calculation": "2026-11-07T02:18:44.013030+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 302.74,
+    "last_calculation": "2026-11-07T05:04:25.204780+00:00"
   }
 }
