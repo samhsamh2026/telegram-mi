@@ -12946,6 +12946,29 @@
     ],
     "bg_ae": [
       {
+        "id": 155180,
+        "text": "🔵\nثبت لحظه ورود سامانه متفاوت ال‌نینو در خورموج بوشهر\n💢\n@Baga_News\n| Король",
+        "date": "2026-11-08T13:10:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155180_0_c2fc9afb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_155180_1_0a9c10fd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_155180_2_540cc20a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155180"
+      },
+      {
         "id": 155178,
         "text": "🇮🇷\nمعروف‌ترین وانتیِ این روزهای ایران:\nپاشو بی‌عاوووووووووووووو\n😂\n😂\n😂\n💢\n@Baga_News\n| Король",
         "date": "2026-11-08T12:50:15+00:00",
@@ -14735,25 +14758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/155053"
-      },
-      {
-        "id": 155052,
-        "text": "🇺🇸\n👀\n|\nترامپ: داریم با ایران گفتگو میکنیم\n🔵\nما در حال دستیابی به نتایج بسیار خوبی با ایران هستیم\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-06T20:01:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155052_0_3c3564b4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_155052_1_b3f9ce2b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155052"
       }
     ],
     "maznet": [
@@ -16291,23 +16295,23 @@
       }
     ]
   },
-  "last_update": "2026-11-08T12:56:42.886740+00:00",
+  "last_update": "2026-11-08T13:13:40.261268+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 755,
+    "total_files": 755,
     "total_links": 277,
     "files_by_type": {
-      "image": 709,
+      "image": 710,
       "video": 37,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 312.31,
-    "last_calculation": "2026-11-08T12:56:42.895243+00:00"
+    "referenced_files": 755,
+    "existing_media_files": 754,
+    "total_size_mb": 312.33,
+    "last_calculation": "2026-11-08T13:13:40.268062+00:00"
   }
 }
