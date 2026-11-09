@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 155222,
+        "text": "🔹\nترامپ: از اونجایی که من فردی بسیار مذهبی هستم، مطمئنم که به بهشت می‌روم!\n🫪\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-09T04:32:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155222_0_c2fc9afb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_155222_1_d8bfafb3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155222"
+      },
+      {
+        "id": 155221,
+        "text": "🔻\n🇺🇸\n|\nآنتونی بلینکن، وزیر امور خارجه سابق امریکا:\nایران تا هر زمانی که بخواهد، می‌تواند کشتی‌هایی را که از تنگه هرمز عبور می‌کنند، به خطر اندازد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-09T04:16:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155221_0_c2fc9afb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_155221_1_8b24a559.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155221"
+      },
+      {
         "id": 155220,
         "text": "ما هم که اشکمون دم مشکمونه\n💔\n💢\n@Baga_News\n| Король",
         "date": "2026-11-08T20:29:01+00:00",
@@ -14708,44 +14746,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/155093"
-      },
-      {
-        "id": 155092,
-        "text": "🔴\n‌ قدیری ابیانه، سفیر سابق ایران تو مکزیک و استرالیا:\nوقتی روزه ایی و بوی کباب حس میکنی تحریک میشی دلت میخواد کباب بخوری زن هم اگه تحریک آمیز بیاد بیرون باعث تحریک همه مردا میشه\nعلم میگه تستسترون یعنی تحریک‌شدگی تو ذهن مردا 50 برابر زناست.\nاشکال نداره برای شوهرت چیز تحریک‌ آمیز بپوش تازه خیلی ثوابم داره\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-07T13:50:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155092_0_f723f945.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_155092_1_e6fe8dfb.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155092"
-      },
-      {
-        "id": 155091,
-        "text": "دنیا داره جای ترسناکی میشه!\n🔴\nآخوند شیعه، سید محمدجواد قزوینی، فردی نزدیک به عبدل السید اولین سناتور مسلمان راه یافته به سنا آمریکاست.\nاما ماجرا جایی ترسناک میشه که جنیفر لوپز، آخوند محمد قزوینی رو فالو کرده!\n😵‍💫\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-11-07T13:32:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155091_0_f723f945.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_155091_1_f2d1c022.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155091"
       }
     ],
     "maznet": [
@@ -16283,7 +16283,7 @@
       }
     ]
   },
-  "last_update": "2026-11-09T01:55:45.630769+00:00",
+  "last_update": "2026-11-09T05:08:14.565877+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16291,15 +16291,15 @@
     "total_files": 752,
     "total_links": 277,
     "files_by_type": {
-      "image": 706,
-      "video": 38,
+      "image": 705,
+      "video": 39,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 752,
     "existing_media_files": 751,
-    "total_size_mb": 310.89,
-    "last_calculation": "2026-11-09T01:55:45.639104+00:00"
+    "total_size_mb": 317.12,
+    "last_calculation": "2026-11-09T05:08:14.574343+00:00"
   }
 }
