@@ -12946,6 +12946,21 @@
     ],
     "bg_ae": [
       {
+        "id": 155369,
+        "text": "🔹\nمیرزایی؛ معاون هدفمندی یارانه های انرژی:\nاگه مردم قول بدن امسال نسبت به پارسال گاز کمتری مصرف کنن؛ هرچقدر صرفه جویی کرده باشن پولشو میریزیم حسابشون\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-11T08:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155369_0_5e7f7c32.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155369"
+      },
+      {
         "id": 155368,
         "text": "🇮🇷\n👀\n| سخنگوی سپاه: اف۳۵های آمریکا هم نتونستن به عبور نفتکش‌ها کمک کنن.",
         "date": "2026-11-11T07:33:31+00:00",
@@ -14807,25 +14822,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/155239"
-      },
-      {
-        "id": 155238,
-        "text": "🔴\n👀\nناسا اعلام کرده برای انجام یه آزمایش، به چندین نفر نیازه داره تا 60 روز کامل فقط روی تخت دراز بکشن و هیچ کاری نکنن!\nدر ازاش، 18 هزار یورو (حدودا 6 میلیارد تومن) بهشون حقوق میده.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-11-09T09:25:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155238_0_c2fc9afb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_155238_1_93c446c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155238"
       }
     ],
     "maznet": [
@@ -16363,23 +16359,23 @@
       }
     ]
   },
-  "last_update": "2026-11-11T07:49:35.327166+00:00",
+  "last_update": "2026-11-11T08:32:16.902606+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 769,
-    "total_files": 769,
+    "total_media": 768,
+    "total_files": 768,
     "total_links": 279,
     "files_by_type": {
-      "image": 731,
+      "image": 730,
       "video": 30,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 769,
-    "existing_media_files": 768,
-    "total_size_mb": 308.08,
-    "last_calculation": "2026-11-11T07:49:35.336132+00:00"
+    "referenced_files": 768,
+    "existing_media_files": 767,
+    "total_size_mb": 307.99,
+    "last_calculation": "2026-11-11T08:32:16.909528+00:00"
   }
 }
