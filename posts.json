@@ -12946,6 +12946,44 @@
     ],
     "bg_ae": [
       {
+        "id": 155501,
+        "text": "‼️\n🚨\n|\nناو هواپیمابر آمریکا در حال حاضر در فاصله حدود ۳۰۰ کیلومتری از سواحل ایران در حال حرکت است. این فاصله، آن را در محدوده برد موشک‌های کروز ایران قرار می‌دهد.\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-13T08:50:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155501_0_f4db8dde.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_155501_1_236fa8cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155501"
+      },
+      {
+        "id": 155500,
+        "text": "🔹\nدر حالی که هگست، وزیر جنگ آمریکا، برای ادای احترام به مقبره سرباز گمنام حضور یافته بود، خنده و صحبت های با صدای بلند او و همراهانش باعث شد یکی از سربازان دژبان بر سرآنها فریاد بزند\n💢\n@Baga_News | areZo",
+        "date": "2026-11-13T08:41:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155500_0_f4db8dde.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_155500_1_aaa9d4ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155500"
+      },
+      {
         "id": 155499,
         "text": "🔻\n🇺🇸\nترامپ: تو این دو سال باقی مونده، یا من میرم یا جمهوری اسلامی!\n😏\n💢\n@Baga_News\n| areZo",
         "date": "2026-11-13T08:31:41+00:00",
@@ -14746,44 +14784,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/155383"
-      },
-      {
-        "id": 155382,
-        "text": "🔴\nتمسخر بابک زنجانی توسط مشاور همتی: بُز شیرده از شاخش پیداس.\n👀\n◀️\nدلیل اصلی پایین اومدن دلار همون مذاکرات آمریکاست\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-11-11T11:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155382_0_c02c76c2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_155382_1_1093c9d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155382"
-      },
-      {
-        "id": 155381,
-        "text": "🇮🇷\nفید مارشال محسن رضایی:\n🟠\nحتی یه قطره از مواد هسته‌ای غنی‌شده از ایران خارج نمیشه به روس ها گفتیم میخوایم خودمون ازشون استفاده کنیم\n💢\n@Baga_News\n| areZo",
-        "date": "2026-11-11T11:30:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155381_0_c02c76c2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_155381_1_17110157.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155381"
       }
     ],
     "maznet": [
@@ -16321,7 +16321,7 @@
       }
     ]
   },
-  "last_update": "2026-11-13T08:42:15.556824+00:00",
+  "last_update": "2026-11-13T08:52:40.944997+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16338,6 +16338,6 @@
     "referenced_files": 763,
     "existing_media_files": 762,
     "total_size_mb": 304.4,
-    "last_calculation": "2026-11-13T08:42:15.565186+00:00"
+    "last_calculation": "2026-11-13T08:52:40.951899+00:00"
   }
 }
