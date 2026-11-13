@@ -12946,6 +12946,36 @@
     ],
     "bg_ae": [
       {
+        "id": 155488,
+        "text": "⭕️\nوزیر کشور بلژیک:\nاحتمالا ایران پشت حملات سایبری به یخچال‌های فروشگاه‌های بلژیک است\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-13T05:36:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155488_0_f4db8dde.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155488"
+      },
+      {
+        "id": 155487,
+        "text": "🚨\n🇺🇸\nترامپ: ضربه مالی بسیار سنگینی به آن‌ها وارد کرده‌ایم و نرخ تورم‌شان بیش از ۳۰۰ درصد شده است و حقوق نظامی‌ها را نمیدهند\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-13T05:14:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155487_0_f4db8dde.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155487"
+      },
+      {
         "id": 155486,
         "text": "⚪️\nپولیتیکو:\n🟠\nترامپ ونس را از مذاکرات ایران کنار گذاشت\n💢\n@Baga_News\n| Король",
         "date": "2026-11-12T21:03:23+00:00",
@@ -14746,40 +14776,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/155370"
-      },
-      {
-        "id": 155369,
-        "text": "🔹\nمیرزایی؛ معاون هدفمندی یارانه های انرژی:\nاگه مردم قول بدن امسال نسبت به پارسال گاز کمتری مصرف کنن؛ هرچقدر صرفه جویی کرده باشن پولشو میریزیم حسابشون\n💢\n@Baga_News\n| areZo",
-        "date": "2026-11-11T08:04:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155369_0_5e7f7c32.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155369"
-      },
-      {
-        "id": 155368,
-        "text": "🇮🇷\n👀\n| سخنگوی سپاه: اف۳۵های آمریکا هم نتونستن به عبور نفتکش‌ها کمک کنن.",
-        "date": "2026-11-11T07:33:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155368_0_5e7f7c32.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_155368_1_aba718ef.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155368"
       }
     ],
     "maznet": [
@@ -16317,23 +16313,23 @@
       }
     ]
   },
-  "last_update": "2026-11-13T01:26:18.398099+00:00",
+  "last_update": "2026-11-13T05:37:08.071587+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 762,
-    "total_files": 762,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 276,
     "files_by_type": {
       "image": 725,
-      "video": 29,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 762,
-    "existing_media_files": 761,
-    "total_size_mb": 296.46,
-    "last_calculation": "2026-11-13T01:26:18.403430+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 292.81,
+    "last_calculation": "2026-11-13T05:37:08.078766+00:00"
   }
 }
