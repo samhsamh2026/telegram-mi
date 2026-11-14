@@ -12946,6 +12946,25 @@
     ],
     "bg_ae": [
       {
+        "id": 155631,
+        "text": "🔴\nپیتر جرمانوس، تحلیلگر معروف لبنانی :\nدر ۷۲ ساعت آینده با رویدادی بزرگ جهان تکان خواهد خورد!\nجنگ جهانی\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-11-14T21:32:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155631_0_3f2e09c8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_155631_1_71b892d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155631"
+      },
+      {
         "id": 155630,
         "text": "🚨\n👀\nانفجار مهیب بندر کنک\n‼️\n💢\n@Baga_News | 𝓝𝓪𝓝𝓪",
         "date": "2026-11-14T20:39:05+00:00",
@@ -14785,25 +14804,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/155507"
-      },
-      {
-        "id": 155506,
-        "text": "🇺🇸\n🟠\nرئیس‌جمهور ترامپ درباره ایران:\nآنها ۷۵٬۰۰۰ معترض را کشتند — بسیار بیشتر از ۷۵٬۰۰۰ — این تا دو یا سه ماه پیش بود.\nاین یک امپراتوری شیطانی است، و ما جهنم را بر سرشان ریختیم، و آنها سلاح هسته‌ای نخواهند داشت.\nما آن را از آنها گرفتیم، و مطمئن خواهیم شد که آن را بگیریم. به همین دلیل من آنجا هستم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-11-13T09:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155506_0_f4393373.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_155506_1_1e895ca3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155506"
       }
     ],
     "maznet": [
@@ -16341,7 +16341,7 @@
       }
     ]
   },
-  "last_update": "2026-11-14T21:20:15.555577+00:00",
+  "last_update": "2026-11-14T22:05:04.939565+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16349,15 +16349,15 @@
     "total_files": 762,
     "total_links": 280,
     "files_by_type": {
-      "image": 725,
-      "video": 29,
+      "image": 726,
+      "video": 28,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 762,
     "existing_media_files": 761,
-    "total_size_mb": 294.14,
-    "last_calculation": "2026-11-14T21:20:15.561238+00:00"
+    "total_size_mb": 289.38,
+    "last_calculation": "2026-11-14T22:05:04.945397+00:00"
   }
 }
