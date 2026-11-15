@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 155705,
+        "text": "🚨\n🚨\nاین زنه که تو ۲۲ بهمن شرکت داشته و\nبدست عده ای از مردم افشا خورده و\nاسناد جنسیش پخش شده.\nبرای مشاهده ویدیو به بات مراجعه کنید.\nمشاهده ویدیو",
+        "date": "2026-11-15T22:30:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155705_0_c64dd656.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_155705_1_26c5bb4f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155705"
+      },
+      {
+        "id": 155704,
+        "text": "❗️\n💢\nوای‌نت: رئیس موساد به احتمال زیاد موفق به راضی کردن مقامات آمریکایی برای حمله به ایران  شده است .\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-15T21:04:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_155704_0_c64dd656.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/155704"
+      },
+      {
         "id": 155703,
         "text": "🔴\nسفارت آمریکا\n🇺🇸\nتو بحرین\n🇧🇭\n:\nاز تمام شهروندان آمریکایی که توی بحرین زندگی می‌کنن می‌خوایم به‌خاطر افزایش خطرات امنیتی، نهایت احتیاط رو داشته باشن و حسابی مراقب خودشون باشن.\n💢\n@Baga_News\n| Noll",
         "date": "2026-11-15T20:43:57+00:00",
@@ -14756,40 +14790,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/155583"
-      },
-      {
-        "id": 155582,
-        "text": "🔹\nآسوشیتدپرس: مقاومت ایران در مورد برنامه هسته‌ای خود، قبل از اینکه واشنگتن شرایط آتش‌بس را بپذیرد، همچنان یک مانع اصلی برای پایان دادن به جنگ است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-11-14T10:58:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155582_0_3f2e09c8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155582"
-      },
-      {
-        "id": 155581,
-        "text": "🔻\nبنزین سوپر تو اصفهان لیتری ۱۴۰ هزارتومن\n💢\n@Baga_News\n| areZo",
-        "date": "2026-11-14T10:53:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_155581_0_3f2e09c8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_155581_1_fe80da4e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/155581"
       }
     ],
     "maznet": [
@@ -16327,7 +16327,7 @@
       }
     ]
   },
-  "last_update": "2026-11-15T21:02:53.794693+00:00",
+  "last_update": "2026-11-15T22:36:19.155665+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
@@ -16335,15 +16335,15 @@
     "total_files": 760,
     "total_links": 279,
     "files_by_type": {
-      "image": 729,
-      "video": 23,
+      "image": 730,
+      "video": 22,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 266.71,
-    "last_calculation": "2026-11-15T21:02:53.800852+00:00"
+    "total_size_mb": 265.2,
+    "last_calculation": "2026-11-15T22:36:19.160355+00:00"
   }
 }
