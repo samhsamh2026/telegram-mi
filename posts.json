@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 156145,
+        "text": "⛔\nبعد اتفاق تلخی که برای سوگند صیادی افتاد مجلس میخواد طرحی بزاره که اگه پدری فرزند خودشو به قتل رسوند بالای 25 سال در حبس باشه\n‼️\nدر قوانین فعلی که برگرفته از قوانین الهی و اسلام هست پدر بین 3 تا 10 سال حبس میشه و اعدام نمیشه!\n💢\n@Baga_News\n| Король",
+        "date": "2026-11-21T15:10:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156145_0_a1f8a604.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_156145_1_d7d6aa6d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156145"
+      },
+      {
+        "id": 156144,
+        "text": "آقای پزشکیان ما هنوز داریم پول کاپشن جمع می‌کنیم، شما رسیدی به مرحله خوابیدن باهاش؟\n💢\n@Baga_News\n| Король",
+        "date": "2026-11-21T14:50:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156144_0_a1f8a604.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156144"
+      },
+      {
         "id": 156143,
         "text": "🇮🇷\n👀\n| صداوسیما:\nپاشدیم سر زده رفتیم محل‌ کار پزشکیان دیدیم با کاپشن نشسته تو اتاق تاریک...\n💢\n@Baga_News\n| Король",
         "date": "2026-11-21T14:30:29+00:00",
@@ -14654,36 +14688,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/156018"
-      },
-      {
-        "id": 156017,
-        "text": "🇮🇷\n👀\n|\nرسانه های عربی:\nگزارش ها از جابه جایی لانچر موشک های بالستیکی سپاه پاسداران در مرکز ایران خبر میدهند\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-19T17:55:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156017_0_f5438e15.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156017"
-      },
-      {
-        "id": 156012,
-        "text": "🚨\n⭕️\n⭕️\n| تهران به تمام کشور های منطقه خبر داده در صورت حمله آمریکا به نفتکش های ایرانی در حال حرکت به سمت چین، جنگ را آغاز خواهد کرد.\n💢\n@Baga_News | Король",
-        "date": "2026-11-19T17:35:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156012_0_f5438e15.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156012"
       }
     ],
     "maznet": [
@@ -16221,23 +16225,23 @@
       }
     ]
   },
-  "last_update": "2026-11-21T14:34:14.884496+00:00",
+  "last_update": "2026-11-21T15:16:41.657660+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 738,
-    "total_files": 738,
+    "total_media": 739,
+    "total_files": 739,
     "total_links": 276,
     "files_by_type": {
-      "image": 707,
+      "image": 708,
       "video": 23,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 738,
-    "existing_media_files": 737,
-    "total_size_mb": 246.06,
-    "last_calculation": "2026-11-21T14:34:14.891231+00:00"
+    "referenced_files": 739,
+    "existing_media_files": 738,
+    "total_size_mb": 246.18,
+    "last_calculation": "2026-11-21T15:16:41.664582+00:00"
   }
 }
