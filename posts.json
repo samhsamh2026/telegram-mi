@@ -12946,6 +12946,63 @@
     ],
     "bg_ae": [
       {
+        "id": 156270,
+        "text": "⚪️\nمراد ویسی: ترامپ گفت اگه توافق نشه پس‌از سال نو میلادی حمله میکنه اما احتمال داره زودتر اینکارو بکنه!\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-23T06:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156270_0_fff3f8aa.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_156270_1_e2a1f89c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156270"
+      },
+      {
+        "id": 156269,
+        "text": "⭕️\nنرمال‌ترین عوارض زندگی در ایران؛\nیه معلم عربی موقع درس دادن یکی از گفتگوهای کتاب، این شکلی همه رو سورپرایز کرد:\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-23T05:30:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156269_0_fff3f8aa.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_156269_1_7c502e70.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156269"
+      },
+      {
+        "id": 156268,
+        "text": "العربیه: بحران برق به دفتر رییس جمهور ایران رسید\n‼️\n💢\n@Baga_News\n| areZo",
+        "date": "2026-11-23T05:03:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156268_0_fff3f8aa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_156268_1_b1da61e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156268"
+      },
+      {
         "id": 156267,
         "text": "یکی از دانشجویان ورودی جدید پزشکی، همچین چیزی رو فرستاده توی گروه دانشگاه :))\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-11-23T00:31:12+00:00",
@@ -14605,59 +14662,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/156143"
-      },
-      {
-        "id": 156142,
-        "text": "🇺🇸\n👀\n|\nترامپ:\nایران حق ساخت سلاح هسته ای نداره\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-21T14:10:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156142_0_a1f8a604.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156142"
-      },
-      {
-        "id": 156141,
-        "text": "🇮🇱\n👀\n|\nبنیامین نتانیاهو، نخست‌وزیر اسرائیل:\nما در یک مقطع تاریخی سرنوشت‌ساز قرار داریم\n‼️\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-21T13:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156141_0_a1f8a604.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_156141_1_a24db739.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156141"
-      },
-      {
-        "id": 156140,
-        "text": "⚪️\nاین ویدیو رو یکی گذاشته بود نوشته بود اینم باگ عجیب GTA\nاینا ستینگ بازی رو دستکاری کردن، یه آپشن داره که خراب شدن ماشین و هواپیما رو خاموش میکنی ایناهم سوراخ ویو رو پیدا کردن هی ازین ویدیو ها میذارن\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-21T13:35:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156140_0_a1f8a604.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_156140_1_df08cda5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156140"
       }
     ],
     "maznet": [
@@ -16195,23 +16199,23 @@
       }
     ]
   },
-  "last_update": "2026-11-23T03:59:31.189809+00:00",
+  "last_update": "2026-11-23T06:20:39.387399+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 730,
-    "total_files": 730,
+    "total_media": 731,
+    "total_files": 731,
     "total_links": 277,
     "files_by_type": {
       "image": 701,
-      "video": 21,
+      "video": 22,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 730,
-    "existing_media_files": 729,
-    "total_size_mb": 256.87,
-    "last_calculation": "2026-11-23T03:59:31.196483+00:00"
+    "referenced_files": 731,
+    "existing_media_files": 730,
+    "total_size_mb": 264.03,
+    "last_calculation": "2026-11-23T06:20:39.393324+00:00"
   }
 }
