@@ -12946,6 +12946,48 @@
     ],
     "bg_ae": [
       {
+        "id": 156529,
+        "text": "⭕️\nتوییت های سامان ویلسون رپر حکومتی\n:\n💢\n@Baga_News\n| Король",
+        "date": "2026-11-26T22:02:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156529_0_f06ed521.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_156529_1_4fa6f74d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_156529_2_486c94ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156529"
+      },
+      {
+        "id": 156528,
+        "text": "پلیس هلند\n🇳🇱\nیه پرنده رو به اتهام دست داشتن توی یه سرقت بازداشت کرد! اون توی مدت بازداشت توی یه سلول بود و براش نون و آب هم گذاشته بودن و وقتی هم رسانه‌ها ماجرا رو پوشش دادن، پوشش دادن برای محافظت از هویتش روی صورتش از این نوارهای مشکی گذاشتن!\n😂\nاون در نهایت به دلیل عدم اثبات جرم آزاد می‌شه!\n💢\n@Baga_News\n| Король",
+        "date": "2026-11-26T21:22:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156528_0_f06ed521.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_156528_1_4673adcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156528"
+      },
+      {
         "id": 156527,
         "text": "🚨\n🔥\nبالاخره رسید! جشنواره بزرگ BLACK FRIDAY ایزاتا\n🔥\n🚨\n❤️\nامشب قراره یه اتفاق ویژه بیفته! فقط برای ۲۴ ساعت، یکی از جذاب‌ترین آفرهای سال رو براتون آماده کردیم.\n🎮\nپیشنهاد اول: سرویس نامحدود یک‌ماهه فقط با ۲۵ هزار تومان!\n❌\nقیمت قبلی: ۹۰,۰۰۰ تومان\n✅\nقیمت جشنواره:…",
         "date": "2026-11-26T20:30:40+00:00",
@@ -14678,44 +14720,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/156391"
-      },
-      {
-        "id": 156390,
-        "text": "تجربه کیفیت متفاوت با وایب وی پی ان\n✨\nحذف تبلیغات یوتیوب\n📹\nسرویس مخصوص گیم\n🎮\nسرویس مخصوص جمنای\n🖼\nسرعت بالا و پینگ فوق العاده\n🌎",
-        "date": "2026-11-24T21:45:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156390_0_c29873c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_156390_1_ef53f225.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156390"
-      },
-      {
-        "id": 156389,
-        "text": "🔴\n🤗\nدیجی کالا اینقدر بامعرفته که به مناسبت بلک فرایدی ps5 یک میلیارد تومنی رو فقط ۲۰۰ میلیون میفروشه :\nقیمتش تو بازار ۱۸۰ میلیونه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-11-24T20:30:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156389_0_c29873c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_156389_1_5578c2a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156389"
       }
     ],
     "maznet": [
@@ -16253,23 +16257,23 @@
       }
     ]
   },
-  "last_update": "2026-11-26T21:08:44.681109+00:00",
+  "last_update": "2026-11-27T02:08:18.098493+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 746,
-    "total_files": 746,
+    "total_media": 747,
+    "total_files": 747,
     "total_links": 276,
     "files_by_type": {
-      "image": 707,
+      "image": 708,
       "video": 31,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 292.72,
-    "last_calculation": "2026-11-26T21:08:44.689651+00:00"
+    "referenced_files": 747,
+    "existing_media_files": 746,
+    "total_size_mb": 292.67,
+    "last_calculation": "2026-11-27T02:08:18.105249+00:00"
   }
 }
