@@ -12946,6 +12946,31 @@
     ],
     "bg_ae": [
       {
+        "id": 156589,
+        "text": "اگه موهات کم‌پشت شده، کف سرت خالی شده یا از ریزش و چربی زیاد موهات خسته شدی\n🌱\nو می‌خوای برای رویش مجدد، افزایش تراکم تقویت موهات اقدام کنی ،چربی و ریزش موهات رو کنترل کنی\nبرای دریافت اطلاعات بیشتر و مشاوره رایگان درباره شرایط موهات، کلمه «مشاوره» رو به آیدی زیر بفرست.\n👇🏻\n@Darman_moo3\n@Darman_moo3\nکانال تلگرام\n👇🏻\nhttps://t.me/darmane_moo\nhttps://t.me/darmane_moo",
+        "date": "2026-11-27T20:44:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156589_0_2b5770b4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_156589_1_dc8fa942.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/darmane_moo",
+            "type": "telegram",
+            "display_text": "https://t.me/darmane_moo"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/bg_ae/156589"
+      },
+      {
         "id": 156588,
         "text": "🔴\nعبدالناصر همتی؛ رئیس بانک مرکزی :\nمردم اصلا نگران نباشن، از گرانی ها با خبر هستیم !\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-11-27T20:10:21+00:00",
@@ -14729,25 +14754,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/156436"
-      },
-      {
-        "id": 156435,
-        "text": "⭕️\nپسره رفته با دیجی پی ویلای قسطی گرفته با دخترا رفته عشق و حالا اما قسطاشو پرداخت نکرده حالا دیجی کالا رفته حکم جلب پسره رو گرفته :)))))\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-25T17:34:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156435_0_7abbae67.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_156435_1_54d49bdd.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156435"
       }
     ],
     "maznet": [
@@ -16285,23 +16291,23 @@
       }
     ]
   },
-  "last_update": "2026-11-27T20:15:27.030581+00:00",
+  "last_update": "2026-11-27T20:50:27.298122+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
     "total_media": 754,
     "total_files": 754,
-    "total_links": 276,
+    "total_links": 277,
     "files_by_type": {
-      "image": 709,
-      "video": 37,
+      "image": 710,
+      "video": 36,
       "file": 3,
       "audio": 1,
       "document": 4
     },
     "referenced_files": 754,
     "existing_media_files": 753,
-    "total_size_mb": 308.79,
-    "last_calculation": "2026-11-27T20:15:27.037429+00:00"
+    "total_size_mb": 306.38,
+    "last_calculation": "2026-11-27T20:50:27.306717+00:00"
   }
 }
