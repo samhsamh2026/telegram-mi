@@ -12946,6 +12946,40 @@
     ],
     "bg_ae": [
       {
+        "id": 156591,
+        "text": "⭕️\nیه پسره به خاطر اینکه دوست‌دخترش وزنش زیاد بوده و نشسته رو صورتش، دچار آسیب شدید چشمی شده و کور شده!\n😕\n💢\n@Baga_News\n| Король",
+        "date": "2026-11-27T21:11:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156591_0_2b5770b4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_156591_1_e150321f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156591"
+      },
+      {
+        "id": 156590,
+        "text": "فک کنم این دو ایتالیایی رو در تلافی گرون شدن ماکارونی کشتن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-11-27T20:55:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_156590_0_2b5770b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/156590"
+      },
+      {
         "id": 156589,
         "text": "اگه موهات کم‌پشت شده، کف سرت خالی شده یا از ریزش و چربی زیاد موهات خسته شدی\n🌱\nو می‌خوای برای رویش مجدد، افزایش تراکم تقویت موهات اقدام کنی ،چربی و ریزش موهات رو کنترل کنی\nبرای دریافت اطلاعات بیشتر و مشاوره رایگان درباره شرایط موهات، کلمه «مشاوره» رو به آیدی زیر بفرست.\n👇🏻\n@Darman_moo3\n@Darman_moo3\nکانال تلگرام\n👇🏻\nhttps://t.me/darmane_moo\nhttps://t.me/darmane_moo",
         "date": "2026-11-27T20:44:42+00:00",
@@ -14708,52 +14742,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/156441"
-      },
-      {
-        "id": 156440,
-        "text": "⭕️\nمعاون آموزش سازمان بسیج: جمعیت نیروهای جان‌فدا چند برابر جمعیت برخی کشورهای منطقه است.\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-25T18:10:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156440_0_7abbae67.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156440"
-      },
-      {
-        "id": 156436,
-        "text": "⭕️\nخدا رحم کرد سالم نیستی؛\nلی فرایر، بازیکن 26 ساله تیم ملی بسکتبال با ویلچر\n👨‍🦽\nبریتانیا\n🇬🇧\nو کسی که مدال نقره پارالمپیک 2024 پاریس رو داره، به موارد زیر متهم شده:\n11 مورد تجاوز جنسی\n😐\nچشم‌چرانی\nخفه‌کردن عمدی\nضرب‌وشتم\nرفتار کنترل‌گرانه تو رابطه عاطفی\nنگهداری کوکائین\nاین ورزشکار از از تمامی فعالیت‌های تیم ملی بریتانیا تعلیق شده.\n💢\n@Baga_News\n| Король",
-        "date": "2026-11-25T17:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_156436_0_7abbae67.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_156436_1_c18c8339.mp4"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_156436_2_05432277.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_156436_3_6cad630f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_156436_4_1da46d7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/156436"
       }
     ],
     "maznet": [
@@ -16291,23 +16279,23 @@
       }
     ]
   },
-  "last_update": "2026-11-27T20:50:27.298122+00:00",
+  "last_update": "2026-11-28T02:57:02.481771+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1118,
-    "total_media": 754,
-    "total_files": 754,
+    "total_media": 751,
+    "total_files": 751,
     "total_links": 277,
     "files_by_type": {
-      "image": 710,
-      "video": 36,
+      "image": 708,
+      "video": 35,
       "file": 3,
       "audio": 1,
       "document": 4
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 306.38,
-    "last_calculation": "2026-11-27T20:50:27.306717+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 303.29,
+    "last_calculation": "2026-11-28T02:57:02.490195+00:00"
   }
 }
